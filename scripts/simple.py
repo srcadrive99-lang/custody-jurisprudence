@@ -45,6 +45,23 @@ def source(e):
     if re.search('[؀-ۿ]',a): s=a+(' · '+a_date if (a_date:=e['author'].get('date','')) else '')
     else: s=j+(' · '+year(e) if year(e) else '')
     return s
+NCW={x['id']:x.get('src',{}) for x in json.load(open('/home/claude/work/new_cards.json',encoding='utf8'))}
+def fullsrc(e):
+    a=e['author']; w=e.get('work') or {}
+    parts=[]
+    for k in ('title','volume','section','page'):
+        v=(w.get(k) or '').strip()
+        if v and v not in parts: parts.append(v)
+    if not parts:
+        sw=(NCW.get(e['id'],{}).get('sw') or '').strip()
+        if sw: parts.append(sw)
+    return parts
+def bd(x):
+    x=H.escape(x)
+    return f'<bdi dir="ltr">{x}</bdi>' if not re.search('[\u0600-\u06FF]',x) else f'<bdi>{x}</bdi>'
+def mainlink(e):
+    L=e.get('links') or [{'url':u,'label':'النص في مصدره','site':'','domain':re.sub(r'^https?://([^/]+).*',r'\1',u)} for u in e.get('urls',[])]
+    return L[0] if L else None
 import os
 CSS=FONTS+'''
 *{box-sizing:border-box;margin:0;padding:0}
@@ -61,10 +78,15 @@ body{--wmo:__WMO__;--slo:__SLO__;background:#fff;font-family:'NotoArE','NotoArL'
 .tx .q{width:100%;background-color:#fff;position:relative;overflow:hidden;border:2px solid var(--a);border-radius:16px;padding:12px 16px;font-size:var(--k);line-height:1.75;color:#182228;box-shadow:0 4px 14px rgba(0,0,0,.06)}
 .tx .q.ar{font-family:'AmiriE','NotoArE',serif;font-size:calc(var(--k)*1.12);line-height:1.8}
 .sr{margin-top:8px;font-family:'CairoE',sans-serif;font-weight:700;color:var(--a);font-size:calc(var(--k)*.66);line-height:1.45}
+.sw{margin-top:1px;font-size:calc(var(--k)*.56);line-height:1.45;color:#2E3B42}
+a.lk{text-decoration:none;color:inherit}
+.lk{display:flex;align-items:center;gap:6px;min-width:0}.lk svg{width:40px;height:40px;flex:0 0 40px}.lk .lt{min-width:0;font-size:10px;line-height:1.35;color:#4A5A61}.lk .lt b{display:block;color:var(--ad);font-size:11.5px}.lk .lt small{display:block;direction:ltr;text-align:right;font-size:8.6px;color:#1F5FA8;word-break:break-all;max-width:250px}
 .id{margin-top:2px;font-size:calc(var(--k)*.62);line-height:1.45;color:#4A5A61}
 .ag{margin-top:8px;background:var(--t1);border-right:6px solid var(--a);border-radius:10px;padding:7px 12px;font-size:calc(var(--k)*.74);line-height:1.6;color:#20303A}
 .ag b{font-family:'CairoE',sans-serif;color:var(--ad)}
-.ft{margin-top:8px;display:flex;justify-content:space-between;align-items:center;gap:8px;font-family:'CairoE',sans-serif;font-size:10.5px;color:#7A868C;border-top:1px solid #E3DDD0;padding-top:5px}
+.slog{flex:0 0 auto;margin-top:5px;padding-top:4px;border-top:0.5px solid #D5DADC;text-align:center;white-space:nowrap;overflow:hidden;font-family:'NotoArL','NotoArE',sans-serif;font-weight:300;font-size:9.6px;line-height:1.6;color:#8A949A}
+.slog i{display:inline-block;width:3.5px;height:3.5px;border-radius:50%;margin:0 6px;vertical-align:middle;background:radial-gradient(circle at 35% 30%,#9aa3a8 0%,#2b2f32 45%,#0b0c0d 100%)}
+.ft{flex:0 0 auto;margin-top:8px;display:flex;justify-content:space-between;align-items:center;gap:8px;font-family:'CairoE',sans-serif;font-size:10.5px;color:#7A868C;border-top:1px solid #E3DDD0;padding-top:5px}
 .pg{display:flex;align-items:center;gap:6px;color:var(--ad);font-weight:700;font-size:12px;white-space:nowrap}.pg svg{width:34px;height:34px}.pg small{display:block;font-weight:400;font-size:8.5px;color:#4A5A61;direction:ltr}
 .tx .q .sl{position:absolute;left:10px;bottom:8px;width:70px;height:70px;opacity:var(--slo,.13);pointer-events:none}.tx .q .sl svg{width:70px!important;height:70px!important}
 .tx .q .wm{position:absolute;inset:-40px;display:flex;flex-wrap:wrap;align-content:space-around;justify-content:space-around;transform:rotate(-22deg);pointer-events:none;z-index:0}.tx .q .wm span{font-family:'CairoE',sans-serif;font-weight:700;font-size:15px;color:rgba(31,42,48,var(--wmo,.075));white-space:nowrap;padding:14px 18px}
@@ -73,17 +95,23 @@ body{--wmo:__WMO__;--slo:__SLO__;background:#fff;font-family:'NotoArE','NotoArL'
 .B .ag{display:none}.B .tx .q{font-size:calc(var(--k)*1.1)}
 '''
 CSS=CSS.replace('__WMO__',os.environ.get('WMO','.125')).replace('__SLO__',os.environ.get('SLO','.21'))
+def linkblk(e,n):
+    l=mainlink(e)
+    if not l: return f'<span>النص الكامل في البطاقة {n} من الطبعة الكاملة</span>'
+    u=l['url']; short=re.sub(r'^https?://(www\.)?','',u)
+    if len(short)>70: short=short[:67]+'…'
+    return f'<a class="lk" href="{H.escape(u)}">{_qr(u)}<span class="lt"><b>رابط المصدر: {H.escape(l.get("label") or "الرابط")}</b>{H.escape(l.get("site") or "")}<small>{H.escape(short)}</small></span></a>'
 def card(e,style):
     s=SEC[e['section']]; n=e['card_number']
     ar=e['original']['lang']=='ar'
     return f'''<div class="c {style}" data-n="{n}" style="--a:{s['acc']};--ad:{s['accd']};--t1:{s['g'][0]};--k:24px">
 <div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
-<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{(lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e))}</div></div></div>
-<div class="sr">{H.escape(source(e))}</div>{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
+<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{(lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e) and '﴿' not in arabic_text(e))}</div></div></div>
+<div class="sr">{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+" · ".join(bd(x) for x in fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
 <div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
-<div class="ft"><span>النص الكامل ومصدره ورابطه في البطاقة {n} من الطبعة الكاملة</span><span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div></div>'''
-FIT='''()=>{for(const c of document.querySelectorAll('.c')){let lo=13,hi=30;for(let i=0;i<14;i++){const m=(lo+hi)/2;c.style.setProperty('--k',m+'px');const over=c.scrollHeight>c.clientHeight+1||[...c.children].some(x=>x.scrollWidth>x.clientWidth+2);if(over)hi=m;else lo=m;}c.style.setProperty('--k',lo+'px');c.dataset.k=lo.toFixed(1);}}'''
+<div class="ft">{linkblk(e,n)}<span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div><div class="slog">لا للمظاهرات والثورات<i></i>لا لسيداو، ولا لتمييز المرأة على الرجل في الإجراءات والقرارات والقوانين<i></i>نعم لصلة الأرحام</div></div>'''
+FIT='''()=>{for(const c of document.querySelectorAll('.c')){let lo=13,hi=30;for(let i=0;i<14;i++){const m=(lo+hi)/2;c.style.setProperty('--k',m+'px');const over=c.scrollHeight>c.clientHeight+1||[...c.children].some(x=>!x.classList.contains('slog')&&x.scrollWidth>x.clientWidth+2);if(over)hi=m;else lo=m;}c.style.setProperty('--k',lo+'px');c.dataset.k=lo.toFixed(1);}}'''
 async def render(ns,style,outdir):
     E={e['card_number']:e for e in J['entries'] if e.get('card_number')}
     body=''.join(card(E[n],style) for n in ns)
@@ -93,6 +121,10 @@ async def render(ns,style,outdir):
         b=await p.chromium.launch(); pg=await b.new_page(viewport={'width':560,'height':800},device_scale_factor=2)
         await pg.goto(f'file://{outdir}/simple_{style}.html'); await pg.wait_for_timeout(1200)
         await pg.evaluate(FIT)
+        _bad=await pg.evaluate("()=>[...document.querySelectorAll('.c')].filter(c=>{const s=c.querySelector('.slog');if(!s)return true;const r=s.getBoundingClientRect(),q=c.getBoundingClientRect();return r.height<8||r.bottom>q.bottom+1}).length")
+        assert _bad==0, f'المادة 34: تذييل البطاقة غائب أو مقصوص في {_bad} بطاقة'
+        _nos=await pg.evaluate("()=>[...document.querySelectorAll('.c')].filter(c=>!c.querySelector('.sr')||!(c.querySelector('.lk')||c.textContent.includes('النص الكامل في البطاقة'))).length")
+        assert _nos==0, f'المادة 35: المصدر أو رابطه غائب في {_nos} بطاقة'
         for el in await pg.query_selector_all('.c'):
             n=await el.get_attribute('data-n'); k=await el.get_attribute('data-k')
             await el.screenshot(path=f'{outdir}/{style}_{int(n):03d}.png'); print(style,n,k)
@@ -108,6 +140,10 @@ async def render_all(style,outdir,pdf):
         b=await p.chromium.launch(); pg=await b.new_page(viewport={'width':560,'height':800},device_scale_factor=2)
         await pg.goto('file://'+hp); await pg.wait_for_timeout(2000)
         await pg.evaluate(FIT)
+        _bad=await pg.evaluate("()=>[...document.querySelectorAll('.c')].filter(c=>{const s=c.querySelector('.slog');if(!s)return true;const r=s.getBoundingClientRect(),q=c.getBoundingClientRect();return r.height<8||r.bottom>q.bottom+1}).length")
+        assert _bad==0, f'المادة 34: تذييل البطاقة غائب أو مقصوص في {_bad} بطاقة'
+        _nos=await pg.evaluate("()=>[...document.querySelectorAll('.c')].filter(c=>!c.querySelector('.sr')||!(c.querySelector('.lk')||c.textContent.includes('النص الكامل في البطاقة'))).length")
+        assert _nos==0, f'المادة 35: المصدر أو رابطه غائب في {_nos} بطاقة'
         ks=await pg.evaluate('()=>[...document.querySelectorAll(".c")].map(c=>[+c.dataset.n,+c.dataset.k])')
         json.dump(ks,open(f'{outdir}/fit_{style}.json','w'))
         os.makedirs(f'{outdir}/img_{style}',exist_ok=True)

@@ -57,6 +57,7 @@ p=para(doc,space_after=4); run(p,'ما بين معقوفين [ ] إيضاح لم
 TXT=['حول سن الحضانة والرعاية المشتركة بالمناصفة — النصوص والمصادر',f'الطبعة النصية · الإصدار {J["meta"]["version"]} · {len(cards)} بطاقة','']
 cur=None
 SEP='━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'
+SLOG='لا للمظاهرات والثورات • لا لسيداو، ولا لتمييز المرأة على الرجل في الإجراءات والقرارات والقوانين • نعم لصلة الأرحام'
 for e in cards:
     if e['section']!=cur:
         cur=e['section']
@@ -84,6 +85,7 @@ for e in cards:
         tl.append(f"🔗 {l.get('label') or 'الرابط'}: {l['url']}")
     sup=' '.join('#'+SUP[s].replace(' ','_') for s in e['supports'] if s in SUP)
     p=para(doc,space_after=2); run(p,sup+' #سن_الحضانة #حق_الطفل_في_أبويه',12,False,'5B4B9A')
+    p=para(doc,space_before=8,space_after=2); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; run(p,SLOG,11,False,'8A949A')
     # wide separator
     for k in range(2): para(doc,space_after=6)
     p=para(doc,space_after=6); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; run(p,SEP,14,False,'B9B0A0')
@@ -92,7 +94,7 @@ for e in cards:
     if tr: TXT+=['',f'الترجمة: {tr}']
     TXT+=['',f'المصدر: {src}']
     if about: TXT+=[f'عن المصدر: {about}'+(f' — درجة الدليل: {e["evidence_level"]}' if e.get('evidence_level') else '')]
-    TXT+=['',f'الاستدلال: {e["argument"]}','']+tl+[sup+' #سن_الحضانة #حق_الطفل_في_أبويه','','',SEP,'','','']
+    TXT+=['',f'الاستدلال: {e["argument"]}','']+tl+[sup+' #سن_الحضانة #حق_الطفل_في_أبويه','',SLOG,'',SEP,'','','']
 out='/home/claude/work/build/الطبعة_النصية_للبطاقات_بالروابط'
 doc.save(out+'.docx'); open(out+'.txt','w',encoding='utf-8-sig').write('\n'.join(TXT))
 print(len(cards))
