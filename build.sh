@@ -18,4 +18,8 @@ python3 gen_standing.py; python3 gen_links.py; python3 gen_fav.py; python3 gen_d
 python3 render1.py "$W/build/NUQUL_7_9_CARDS_MOBILE.html" m "$W/build/NUQUL_7_9_CARDS_MOBILE.pdf"
 python3 render1.py "$W/build/NUQUL_7_9_CARDS.html" w "$W/build/NUQUL_7_9_CARDS.pdf"
 python3 shots.py; python3 fb.py ""; python3 pack_fb.py
+mkdir -p "$W/build/simple_A" "$W/build/simple_B"
+python3 simple.py ALL A "$W/build/simple_A" "$W/build/simple_A/A.pdf"
+python3 simple.py ALL B "$W/build/simple_B" "$W/build/simple_B/B.pdf"
+python3 gen_schedule.py
 echo "Done: products in $W/build"
