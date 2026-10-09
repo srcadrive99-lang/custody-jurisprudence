@@ -129,6 +129,7 @@ for e in list(entries):
     i = e['id']
     if i in OV['retire']:
         entries.remove(e); retired_now.append({'id': i, 'reason': OV['retire'][i]}); continue
+    if i == 'A6-002': e['argument'] = 'الجواب: الواقعة في صغير لم يستغن، فتقديم الأم فيها تقديم في مباشرة الخدمة والحمل، ولا ينفي صحبة الأب ورعايته المشتركة قبل السابعة؛ ثم ينتهي هذا التقديم بالتمييز.'
     if i == 'A5-003': e['author'] = {'name': 'الجمعية البرلمانية لمجلس أوروبا — لجنة المساواة', 'date': '2015'}
     if i in OV['conf'] and e['confidence'] != 'verified': e['confidence'] = 'verified'
     o = OV['ot'].get(i)
