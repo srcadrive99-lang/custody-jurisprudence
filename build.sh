@@ -14,7 +14,7 @@ for f in "$W"/*.py; do sed -i "s#/home/claude/work#$W#g; s#/mnt/user-data/output
 cd "$W"
 python3 assemble.py
 python3 gen_data.py
-python3 gen_standing.py; python3 gen_links.py; python3 gen_fav.py
+python3 gen_standing.py; python3 gen_links.py; python3 gen_fav.py; python3 gen_docx.py
 python3 render1.py "$W/build/NUQUL_7_9_CARDS_MOBILE.html" m "$W/build/NUQUL_7_9_CARDS_MOBILE.pdf"
 python3 render1.py "$W/build/NUQUL_7_9_CARDS.html" w "$W/build/NUQUL_7_9_CARDS.pdf"
 python3 shots.py; python3 fb.py ""; python3 pack_fb.py
