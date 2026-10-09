@@ -404,6 +404,7 @@ def main():
     data=json.load(open(JSON)); META={e['id']:e for e in data['entries']}
     links_fix=json.load(open('/home/claude/work/links_fix.json')) if os.path.exists('/home/claude/work/links_fix.json') else {}
     new=json.load(open('/home/claude/work/new_cards.json')) if os.path.exists('/home/claude/work/new_cards.json') else []
+    new=[e for e in new if e['id'] not in OV['retire']]
     # base pages
     base={i:h for i,h in secs_m}
     LOGO_FLAT=re.search(r'<div class="lgw">(<svg.*?</svg>)</div>',base['A5-113'],re.S).group(1)

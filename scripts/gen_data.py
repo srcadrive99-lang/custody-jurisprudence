@@ -68,6 +68,7 @@ for e in OLD['entries']:
 
 # ---- new cards ----
 for c in NEW:
+    if c['id'] not in cards: continue  # retired
     sec = c['sec']; src = c['src']
     ot = c['ot']
     lang = lang_of(ot, c.get('jurisdiction', ''))
@@ -128,6 +129,7 @@ for e in list(entries):
     i = e['id']
     if i in OV['retire']:
         entries.remove(e); retired_now.append({'id': i, 'reason': OV['retire'][i]}); continue
+    if i == 'A5-003': e['author'] = {'name': 'الجمعية البرلمانية لمجلس أوروبا — لجنة المساواة', 'date': '2015'}
     if i in OV['conf'] and e['confidence'] != 'verified': e['confidence'] = 'verified'
     o = OV['ot'].get(i)
     if o:
@@ -164,7 +166,7 @@ entries.sort(key=lambda e: (e['card_number'] is None, e['card_number'] or 0, e['
 meta = dict(OLD['meta'])
 meta['title'] = 'حول سن الحضانة والرعاية المشتركة بالمناصفة — النصوص والمصادر'
 meta['owner'] = ''
-meta['version'] = '1.20.0'; meta['date'] = datetime.date.today().isoformat()
+meta['version'] = '1.20.1'; meta['date'] = datetime.date.today().isoformat()
 meta['legend']['supports']['shared_parenting'] = 'الرعاية المشتركة بالمناصفة'
 meta['sections'] = {k: mn_plain(SEC[k]['name']) for k in ORDER}
 meta['section_order'] = list(ORDER)
@@ -196,6 +198,9 @@ meta['changelog']['1.20.0'] = [
     'فحص الروابط كلها (416 رابطا) وإصلاح ما ظهر فيه خلل',
     'أدوات جديدة: مذكرة المناظرة، والخمسون الأقوى، ومذكرة تشريعية، وتعليقات فيسبوك وجدول النشر، ونصوص الفيديو، والطبعة الإنجليزية، ومستودع البناء',
 ]
+_seen = {r['id'] for r in retired_now}
+retired_now += [{'id': k, 'reason': v} for k, v in OV['retire'].items() if k not in _seen]
+meta['changelog']['1.20.1'] = ['استبعاد 14 بطاقة لا تصلح حجة لنا: دراسات تجعل سن الحيض أو البلوغ عند الأنثى بين 11 و13 (الدراسة المصرية، تشيلي، البرازيل، كوريا، دليل ميرك، فسيولوجيا الحيض، مارشال وتانر)، والاحتلام 13 إلى 14.6 (الصين، الهند)، واكتمال التفكير المجرد في 14-15 (بياجيه وإنهلدر)، والمشناه (12 و13)، وتحديد البلوغ بخمس عشرة (شرح النووي)، و«حتى تحيض» (بدائع الصنائع)', 'الطبعة المختصرة بنمطين وتعريف مختصر بالمصدر', 'الطبعة النصية بالروابط (وورد ونص)']
 meta['retired_ids'] = [r for r in meta.get('retired_ids', []) if r['id'] not in OV['retire']] + retired_now
 meta['id_map_1_17'] = IDMAP
 axes = OLD['axes']
