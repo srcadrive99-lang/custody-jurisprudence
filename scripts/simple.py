@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Simplified Facebook cards (1080x1350): Arabic text only, large type, no links/QR/English/footnotes."""
-import json, re, sys, asyncio, html as H
+import json, re, sys, asyncio, html as H, io, segno
 sys.path.insert(0,'/home/claude/work')
 from assemble import SEC, mn_plain
 from playwright.async_api import async_playwright
@@ -10,7 +10,16 @@ SN=J['meta']['sections']
 src=open('/home/claude/work/build/NUQUL_7_9_CARDS_MOBILE.html',encoding='utf8').read()
 FONTS=''.join(re.findall(r'@font-face\{[^}]*\}',src))
 LOGO=re.search(r'<div class="lgw">(<svg.*?</svg>)</div>',src,re.S).group(1)
+import base64
+WM_SVG=base64.b64encode(('<svg xmlns="http://www.w3.org/2000/svg" width="260" height="120"><text x="130" y="68" text-anchor="middle" transform="rotate(-24 130 60)" font-family="CairoE, Cairo, sans-serif" font-weight="700" font-size="19" fill="#1F2A30" fill-opacity="0.075">'+'نداء من أجل أطفال مصر'+'</text></svg>').encode()).decode()
 MN='<span class="mn">بالمناصفة</span>'
+PAGE='نداء من أجل أطفال مصر'; PURL='https://www.facebook.com/profile.php?id=61595080592206'
+def _qr(u):
+    b=io.BytesIO(); segno.make(u,error='m').save(b,kind='svg',xmldecl=False,svgns=True,dark='#1F2A30',light=None,border=1,scale=1)
+    t=b.getvalue().decode(); m=re.search(r'width="(\d+)" height="(\d+)"',t); return t.replace(m.group(0),f'viewBox="0 0 {m.group(1)} {m.group(2)}"',1)
+PQR=_qr(PURL)
+WM=''.join(f'<span>{PAGE}</span>' for _ in range(24))
+SEAL=None
 def mn(s): return re.sub(r'(?<![ء-ي])((?:و|ف|ب|ل|ك)?الرعاية المشتركة)(?!\s*(?:<span class="mn">)?بالمناصفة)',r'\1 '+MN,s).replace('الرعاية المشتركة بالمناصفة','الرعاية المشتركة '+MN) if 'class="mn"' not in s else s
 def arabic_text(e):
     o=e['original']; t=o['text']
@@ -25,9 +34,10 @@ def source(e):
     if re.search('[؀-ۿ]',a): s=a+(' · '+a_date if (a_date:=e['author'].get('date','')) else '')
     else: s=j+(' · '+year(e) if year(e) else '')
     return s
+import os
 CSS=FONTS+'''
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#fff;font-family:'NotoArE','NotoArL',sans-serif;direction:rtl}
+body{--wmo:__WMO__;--slo:__SLO__;background:#fff;font-family:'NotoArE','NotoArL',sans-serif;direction:rtl}
 .c{width:540px;height:675px;position:relative;overflow:hidden;background:linear-gradient(180deg,var(--t1) 0%,#fff 22%,#fff 100%);display:flex;flex-direction:column;padding:14px 18px 12px;border-top:9px solid var(--a)}
 .hd{display:flex;align-items:center;gap:10px}
 .hd svg{width:58px;height:58px;flex:0 0 58px}
@@ -37,26 +47,31 @@ body{background:#fff;font-family:'NotoArE','NotoArL',sans-serif;direction:rtl}
 .hd .no{font-family:'CairoE',sans-serif;font-weight:700;background:var(--a);color:#fff;border-radius:14px;padding:2px 12px;font-size:15px}
 .rt{font-family:'CairoE',sans-serif;font-weight:700;color:var(--ad);font-size:calc(var(--k)*1.08);line-height:1.38;margin:10px 0 8px}
 .tx{flex:1;display:flex;align-items:center}
-.tx .q{width:100%;background:#fff;border:2px solid var(--a);border-radius:16px;padding:12px 16px;font-size:var(--k);line-height:1.75;color:#182228;box-shadow:0 4px 14px rgba(0,0,0,.06)}
+.tx .q{width:100%;background-color:#fff;position:relative;overflow:hidden;border:2px solid var(--a);border-radius:16px;padding:12px 16px;font-size:var(--k);line-height:1.75;color:#182228;box-shadow:0 4px 14px rgba(0,0,0,.06)}
 .tx .q.ar{font-family:'AmiriE','NotoArE',serif;font-size:calc(var(--k)*1.12);line-height:1.8}
 .sr{margin-top:8px;font-family:'CairoE',sans-serif;font-weight:700;color:var(--a);font-size:calc(var(--k)*.66);line-height:1.45}
 .id{margin-top:2px;font-size:calc(var(--k)*.62);line-height:1.45;color:#4A5A61}
 .ag{margin-top:8px;background:var(--t1);border-right:6px solid var(--a);border-radius:10px;padding:7px 12px;font-size:calc(var(--k)*.74);line-height:1.6;color:#20303A}
 .ag b{font-family:'CairoE',sans-serif;color:var(--ad)}
-.ft{margin-top:8px;display:flex;justify-content:space-between;align-items:center;font-family:'CairoE',sans-serif;font-size:10.5px;color:#7A868C;border-top:1px solid #E3DDD0;padding-top:5px}
+.ft{margin-top:8px;display:flex;justify-content:space-between;align-items:center;gap:8px;font-family:'CairoE',sans-serif;font-size:10.5px;color:#7A868C;border-top:1px solid #E3DDD0;padding-top:5px}
+.pg{display:flex;align-items:center;gap:6px;color:var(--ad);font-weight:700;font-size:12px;white-space:nowrap}.pg svg{width:34px;height:34px}.pg small{display:block;font-weight:400;font-size:8.5px;color:#4A5A61;direction:ltr}
+.tx .q .sl{position:absolute;left:10px;bottom:8px;width:70px;height:70px;opacity:var(--slo,.13);pointer-events:none}.tx .q .sl svg{width:70px!important;height:70px!important}
+.tx .q .wm{position:absolute;inset:-40px;display:flex;flex-wrap:wrap;align-content:space-around;justify-content:space-around;transform:rotate(-22deg);pointer-events:none;z-index:0}.tx .q .wm span{font-family:'CairoE',sans-serif;font-weight:700;font-size:15px;color:rgba(31,42,48,var(--wmo,.075));white-space:nowrap;padding:14px 18px}
+.tx .q .qt{position:relative;z-index:1}
 .mn{font-family:'AmiriE','CairoE',serif;font-weight:700;color:#C40000;font-size:1.08em}
 .B .ag{display:none}.B .tx .q{font-size:calc(var(--k)*1.1)}
 '''
+CSS=CSS.replace('__WMO__',os.environ.get('WMO','.125')).replace('__SLO__',os.environ.get('SLO','.21'))
 def card(e,style):
     s=SEC[e['section']]; n=e['card_number']
     ar=e['original']['lang']=='ar'
     return f'''<div class="c {style}" data-n="{n}" style="--a:{s['acc']};--ad:{s['accd']};--t1:{s['g'][0]};--k:24px">
-<div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
+<div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
-<div class="tx"><div class="q{' ar' if ar else ''}">{('«' if quoted(e) else '')+mn(H.escape(arabic_text(e)))+('»' if quoted(e) else '')}</div></div>
+<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{('«' if quoted(e) else '')+mn(H.escape(arabic_text(e)))+('»' if quoted(e) else '')}</div></div></div>
 <div class="sr">{H.escape(source(e))}</div>{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
 <div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
-<div class="ft"><span>النص الكامل ومصدره ورابطه في البطاقة {n} من الطبعة الكاملة</span><span>صلة الأرحام</span></div></div>'''
+<div class="ft"><span>النص الكامل ومصدره ورابطه في البطاقة {n} من الطبعة الكاملة</span><span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div></div>'''
 FIT='''()=>{for(const c of document.querySelectorAll('.c')){let lo=13,hi=30;for(let i=0;i<14;i++){const m=(lo+hi)/2;c.style.setProperty('--k',m+'px');const over=c.scrollHeight>c.clientHeight+1||[...c.children].some(x=>x.scrollWidth>x.clientWidth+2);if(over)hi=m;else lo=m;}c.style.setProperty('--k',lo+'px');c.dataset.k=lo.toFixed(1);}}'''
 async def render(ns,style,outdir):
     E={e['card_number']:e for e in J['entries'] if e.get('card_number')}
