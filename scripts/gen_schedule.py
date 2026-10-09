@@ -4,9 +4,13 @@ E={int(x['card_number']):x for x in d['entries'] if x.get('card_number')}
 T='build/tools/'
 top=[r['n'] for r in json.load(open(T+'top50.json'))]
 cap={x['n']:x for x in json.load(open(T+'fb_captions.json'))}
+PNAME={1:'الطب_وعلم_النفس',2:'علوم_المجتمع_وأضرار_غياب_الأب',3:'دراسات_الرعاية_المشتركة_بالمناصفة',4:'المواثيق_والتشريعات_والقضاء',5:'مصر_والقرآن_والسنة_والفقه_الحنفي',6:'الفقه_المالكي_والشافعي_والحنبلي_والمقارن'}
 PART={'med':1,'psy':1,'soc':2,'harm':2,'study':3,'intl':4,'law':4,'court':4,'eg':5,'f1':5,'f2':5,'f3':6,'f4':6,'f5':6,'f6':6}
+def zname(lab,p):
+    ns=[n for n,e in E.items() if PART[e['section']]==p]
+    return f'صور_نمط_{lab}_الجزء_{p}_{PNAME[p]}_بطاقات_{min(ns)}-{max(ns)}.zip'
 def folder(sec): return f"{O.index(sec)+1:02d}_{S[sec].replace(':','').replace(' ','_')}"
-def img(n): s=E[n]['section']; return f"البطاقات_المختصرة/صور_نمط_أ_الجزء_{PART[s]}.zip ← {folder(s)}/بطاقة_{n:03d}.png"
+def img(n): s=E[n]['section']; return f"البطاقات_المختصرة/{zname('أ',PART[s])} ← {folder(s)}/بطاقة_{n:03d}.png"
 mahdi=[n for n in sorted(E) if E[n]['id'] in [f'A1-0{i}' for i in range(65,78)]]
 order=top+[n for n in mahdi if n not in top]
 rest={s:[n for n in sorted(E) if E[n]['section']==s and n not in order] for s in O}
