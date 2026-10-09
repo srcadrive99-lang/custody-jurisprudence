@@ -21,10 +21,21 @@ PQR=_qr(PURL)
 WM=''.join(f'<span>{PAGE}</span>' for _ in range(24))
 SEAL=None
 def mn(s): return re.sub(r'(?<![ء-ي])((?:و|ف|ب|ل|ك)?الرعاية المشتركة)(?!\s*(?:<span class="mn">)?بالمناصفة)',r'\1 '+MN,s).replace('الرعاية المشتركة بالمناصفة','الرعاية المشتركة '+MN) if 'class="mn"' not in s else s
+FIXTXT={'A5-099':'يحتاج الأطفال بعد الانفصال أن يعلموا أن كلا الوالدين يحبهم، وتقرر الجمعية أن أهمية صلة الطفل بكلا والديه ورعايتهما له معا «لا يمكن المبالغة فيها».','A5-052':'مادة تدريبية رسمية لقضاة الأسرة تعرض تقرير وارشاك 2014 ودراسة فابريشيوس 2017، وتنقل أن التحذير من مبيت الطفل عند أبيه في السنوات الثلاث الأولى لا تسنده الأدلة.','A5-032':'تمتع الوالد والطفل بصحبة أحدهما الآخر عنصر أساسي للحياة الأسرية «حتى لو انهارت العلاقة بين الوالدين».'}
+def unq(t):
+    t=t.strip()
+    m=re.fullmatch(r'«([^«»]*)»\s*([.،:؛]?)',t)
+    if m: return m.group(1).strip()
+    a,b=t.count('«'),t.count('»')
+    if a>b: t=t+'»'
+    elif b>a: t='«'+t
+    return t
 def arabic_text(e):
+    return FIXTXT.get(e['id']) or unq(_arabic_text(e))
+def _arabic_text(e):
     o=e['original']; t=o['text']
-    if re.search('[\u0600-\u06FF]',t[:40]): return t.strip('«»').replace('مضمونه: ','').replace('مضمونه:','')
-    return (e.get('translation_ar') or '').strip('«»')
+    if re.search('[\u0600-\u06FF]',t[:40]): return t.replace('مضمونه: ','').replace('مضمونه:','')
+    return (e.get('translation_ar') or '')
 def quoted(e):
     return not e['original']['text'].startswith('مضمونه')
 def year(e):
@@ -68,7 +79,7 @@ def card(e,style):
     return f'''<div class="c {style}" data-n="{n}" style="--a:{s['acc']};--ad:{s['accd']};--t1:{s['g'][0]};--k:24px">
 <div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
-<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{('«' if quoted(e) else '')+mn(H.escape(arabic_text(e)))+('»' if quoted(e) else '')}</div></div></div>
+<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{(lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e))}</div></div></div>
 <div class="sr">{H.escape(source(e))}</div>{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
 <div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
 <div class="ft"><span>النص الكامل ومصدره ورابطه في البطاقة {n} من الطبعة الكاملة</span><span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div></div>'''
