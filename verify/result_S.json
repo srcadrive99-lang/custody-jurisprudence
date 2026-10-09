@@ -1,0 +1,189 @@
+[
+ {
+  "id": "A5-001",
+  "status": "verified_verbatim",
+  "found_text": "States Parties shall respect the right of the child who is separated from one or both parents to maintain personal relations and direct contact with both parents on a regular basis, except if it is contrary to the child's best interests.",
+  "location": "Convention on the Rights of the Child (UNGA res. 44/25, 20 Nov 1989), Part I, Article 9, paragraph 3",
+  "source_url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child",
+  "url_status": "ok",
+  "proposed_ar": "تحترم الدول الأطراف حق الطفل المنفصل عن والديه أو عن أحدهما في أن يحتفظ بصورة منتظمة بعلاقات شخصية واتصال مباشر بكلا والديه، إلا إذا تعارض ذلك مع مصالح الطفل الفضلى.",
+  "double_edged": "",
+  "notes": "Exact match, word for word, on the OHCHR page. The only hedge is inside the quoted sentence itself (\"except if it is contrary to the child's best interests\"). Art. 9(1) (same article) allows separation of a child from parents when competent authorities subject to judicial review determine it necessary for the child's best interests; not undermining. The entry's translation_ar is faithful."
+ },
+ {
+  "id": "A5-002",
+  "status": "verified_verbatim",
+  "found_text": "States Parties shall use their best efforts to ensure recognition of the principle that both parents have common responsibilities for the upbringing and development of the child. Parents or, as the case may be, legal guardians, have the primary responsibility for the upbringing and development of the child. The best interests of the child will be their basic concern.",
+  "location": "Convention on the Rights of the Child, Part I, Article 18, paragraph 1 (the quoted sentence is sentence 1 of the paragraph)",
+  "source_url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child",
+  "url_status": "ok",
+  "proposed_ar": "تبذل الدول الأطراف قصارى جهدها لضمان الاعتراف بالمبدأ القائل إن كلا الوالدين يتحملان مسؤوليات مشتركة عن تربية الطفل ونموه. وتقع على عاتق الوالدين، أو الأوصياء القانونيين بحسب الحال، المسؤولية الأولى عن تربية الطفل ونموه. وتكون مصالح الطفل الفضلى موضع اهتمامهم الأساسي.",
+  "double_edged": "",
+  "notes": "Quoted sentence matches the OHCHR text exactly. found_text adds the two following sentences of the same paragraph (all supportive). \"common responsibilities\" = joint parental responsibility (الولاية المشتركة / المسؤولية المشتركة), not equal time; the entry's title «المسؤولية المشتركة للوالدين» is correct."
+ },
+ {
+  "id": "A5-005",
+  "status": "verified_gist",
+  "found_text": "Every child who is separated from one or both parents shall have the right to maintain personal relations and direct contact with both parents on a regular basis.",
+  "location": "African Charter on the Rights and Welfare of the Child (OAU Doc. CAB/LEG/24.9/49, adopted 1990, in force 29 Nov 1999), Article 19 (Parent Care and Protection), paragraph 2",
+  "source_url": "https://acerwc.africa/sites/default/files/2022-06/African%20Charter%20on%20the%20Rights%20and%20Welfare%20of%20the%20Child_ENG_5.pdf",
+  "url_status": "ok",
+  "proposed_ar": "لكل طفل منفصل عن أحد والديه أو عن كليهما الحق في أن يحتفظ بصورة منتظمة بعلاقات شخصية واتصال مباشر بكلا والديه.",
+  "double_edged": "",
+  "notes": "Gist accurate. The entry's au.int URL is the treaty landing page; the AU PDFs it links (English and Arabic) are image scans with no text layer, so the wording was confirmed from the ACERWC (AU Committee of Experts) text PDF. Note: unlike CRC art. 9(3), art. 19(2) of the African Charter has NO best-interests exception clause. Art. 19(1) (same article): \"No child shall be separated from his parents against his will, except when a judicial authority determines in accordance with the appropriate law, that such separation is in the best interest of the child.\" (not undermining). The official Arabic PDF (https://au.int/sites/default/files/treaties/36804-treaty-0014_-_AFRICAN_CHARTER_ON_THE_RIGHTS_AND_WELFARE_OF_THE_CHILD_A.pdf) could not be read (scan)."
+ },
+ {
+  "id": "A5-008",
+  "status": "verified_verbatim",
+  "found_text": "En application des deux articles précédents, la résidence de l'enfant peut être fixée en alternance au domicile de chacun des parents ou au domicile de l'un d'eux.",
+  "location": "Code civil, Livre Ier, Titre IX, Chapitre Ier, Section 3, art. 373-2-9, alinéa 1 (créé par la loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale)",
+  "source_url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE68521.pdf",
+  "url_status": "blocked",
+  "proposed_ar": "تطبيقا للمادتين السابقتين، يجوز أن تحدد إقامة الطفل بالتناوب في منزل كل من الوالدين أو في منزل أحدهما.",
+  "double_edged": "A la demande de l'un des parents ou en cas de désaccord entre eux sur le mode de résidence de l'enfant, le juge peut ordonner à titre provisoire une résidence en alternance dont il détermine la durée. Au terme de celle-ci, le juge statue définitivement sur la résidence de l'enfant en alternance au domicile de chacun des parents ou au domicile de l'un d'eux. / Lorsque la résidence de l'enfant est fixée au domicile de l'un des parents, le juge aux affaires familiales statue sur les modalités du droit de visite de l'autre parent.",
+  "notes": "The quoted words appear exactly, but the statutory sentence begins with «En application des deux articles précédents, la résidence…» (lower-case «la»); the entry drops that opening clause and capitalises «La» — recommend quoting the full sentence. The entry's HAL URL returns 'Access Denied' (blocked). Legifrance (official) refused the fetcher on three URL forms, so the clause was confirmed in an official Assemblée nationale document (government answer to written question n° 68521, JO 17 Aug 2010, p. 9134, which reproduces «la résidence de l'enfant peut être fixée en alternance au domicile de chacun des parents ou au domicile de l'un d'eux» verbatim) and the full article text on a lawyer's site (consultation.avocat.fr). Canonical official page: legifrance.gouv.fr, Code civil, art. 373-2-9 (not reachable from here). Double-edged: the article is permissive («peut»), creates no presumption, and expressly provides for residence with one parent plus visiting rights for the other; a provisional alternating residence may be ordered on request or in case of disagreement. Parliamentary attempts to make résidence alternée the default (e.g., proposition de loi n° 307 'Garde alternée', 2017) were not adopted."
+ },
+ {
+  "id": "A5-009",
+  "status": "verified_verbatim",
+  "found_text": "Il figlio minore ha il diritto di mantenere un rapporto equilibrato e continuativo con ciascuno dei genitori, di ricevere cura, educazione, istruzione e assistenza morale da entrambi e di conservare rapporti significativi con gli ascendenti e con i parenti di ciascun ramo genitoriale.",
+  "location": "Codice civile, Libro I, Titolo IX, Capo II, art. 337-ter, comma 1 (inserito dall'art. 55 del d.lgs. 28 dicembre 2013, n. 154, che riproduce con modificazioni l'ex art. 155 c.c. come sostituito dalla legge 8 febbraio 2006, n. 54)",
+  "source_url": "https://tribmin-trieste.giustizia.it/cmsresources/cms/documents/Artt._315-bis,_317-bis,_337-ter_c.c..pdf",
+  "url_status": "ok",
+  "proposed_ar": "للابن القاصر الحق في أن يحافظ على علاقة متوازنة ومستمرة مع كل من والديه، وأن يتلقى الرعاية والتربية والتعليم والمساندة المعنوية من كليهما، وأن يحتفظ بعلاقات ذات معنى مع الأجداد ومع الأقارب من كل فرع من فرعي الوالدين.",
+  "double_edged": "Per realizzare la finalità indicata dal primo comma, nei procedimenti di cui all'articolo 337-bis, il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale di essa. Valuta prioritariamente la possibilità che i figli minori restino affidati a entrambi i genitori oppure stabilisce a quale di essi i figli sono affidati, determina i tempi e le modalità della loro presenza presso ciascun genitore",
+  "notes": "Exact match on brocardi.it (entry URL, ok) and on an official Ministry of Justice court document (Tribunale di Trieste, giustizia.it). normattiva.it returned an error page for the article URL. Caveat on meaning: Italian «affidamento condiviso» is joint legal custody; comma 2 leaves the judge to fix «i tempi e le modalità della loro presenza presso ciascun genitore» (in practice a «collocamento prevalente» with one parent is common) and allows sole custody («stabilisce a quale di essi i figli sono affidati», see also art. 337-quater). So the entry's 'about' («نص الحضانة المشتركة») should not be read as equal time (بالمناصفة). The entry's date '2006/2013' is correct."
+ },
+ {
+  "id": "A5-010",
+  "status": "verified_verbatim",
+  "found_text": "Zum Wohl des Kindes gehört in der Regel der Umgang mit beiden Elternteilen. Gleiches gilt für den Umgang mit anderen Personen, zu denen das Kind Bindungen besitzt, wenn ihre Aufrechterhaltung für seine Entwicklung förderlich ist.",
+  "location": "Bürgerliches Gesetzbuch (BGB), Buch 4, Abschnitt 2, Titel 5, § 1626 Abs. 3 Satz 1 und 2 (Fassung durch das Kindschaftsrechtsreformgesetz vom 16.12.1997, in Kraft seit 1.7.1998)",
+  "source_url": "https://www.gesetze-im-internet.de/bgb/__1626.html",
+  "url_status": "blocked",
+  "proposed_ar": "من مصلحة الطفل في العادة التواصل مع كلا والديه. وينطبق الأمر نفسه على التواصل مع أشخاص آخرين تربط الطفل بهم روابط، إذا كان الحفاظ عليها نافعا لنموه.",
+  "double_edged": "",
+  "notes": "Exact match (the official page only adds superscript sentence numbers). gesetze-im-internet.de disallows the fetcher (robots), so the text was confirmed on the mirror lxgesetze.de/bgb/1626; the official URL remains the canonical link. Hedge inside the quote: «in der Regel» (as a rule). Abs. 1 and 2 (parental care defined; growing autonomy of the child) are not double-edged. The entry's empty date can be filled with '1998 (Kindschaftsrechtsreform)'."
+ },
+ {
+  "id": "A5-011",
+  "status": "verified_verbatim",
+  "found_text": "Das Kind hat das Recht auf Umgang mit jedem Elternteil; jeder Elternteil ist zum Umgang mit dem Kind verpflichtet und berechtigt.",
+  "location": "BGB § 1684 Abs. 1 (Umgang des Kindes mit den Eltern)",
+  "source_url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
+  "url_status": "blocked",
+  "proposed_ar": "للطفل الحق في التواصل مع كل من والديه؛ وكل من الوالدين ملزم بالتواصل مع الطفل ومخول به.",
+  "double_edged": "Das Familiengericht kann das Umgangsrecht oder den Vollzug früherer Entscheidungen über das Umgangsrecht einschränken oder ausschließen, soweit dies zum Wohl des Kindes erforderlich ist. (§ 1684 Abs. 4 Satz 1) / Das Familiengericht kann über den Umfang des Umgangsrechts entscheiden und seine Ausübung, auch gegenüber Dritten, näher regeln. (§ 1684 Abs. 3 Satz 1)",
+  "notes": "Exact match; confirmed on lxgesetze.de/bgb/1684 because gesetze-im-internet.de blocks the fetcher (robots). Supportive neighbour: Abs. 2 Satz 1 «Die Eltern haben alles zu unterlassen, was das Verhältnis des Kindes zum jeweils anderen Elternteil beeinträchtigt…» (loyalty / Wohlverhaltensklausel). Double-edged: Abs. 3–4 let the family court regulate, restrict or exclude contact when the child's welfare requires it. Note «Umgang» = contact/visitation, not custody; the title «حق الطفل في كل والد» is acceptable but «حق الطفل في التواصل مع كل من والديه» is more precise."
+ },
+ {
+  "id": "A5-013",
+  "status": "verified_verbatim",
+  "found_text": "Quando não houver acordo entre a mãe e o pai quanto à guarda do filho, encontrando-se ambos os genitores aptos a exercer o poder familiar, será aplicada a guarda compartilhada, salvo se um dos genitores declarar ao magistrado que não deseja a guarda do menor.",
+  "location": "Código Civil (Lei nº 10.406/2002), art. 1.584, § 2º, na redação dada pelo art. 2º da Lei nº 13.058, de 22 de dezembro de 2014",
+  "source_url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13058.htm",
+  "url_status": "ok",
+  "proposed_ar": "إذا لم يكن هناك اتفاق بين الأم والأب على حضانة الابن، وكان كلا الوالدين أهلا لممارسة السلطة الأسرية، طبقت الحضانة المشتركة، إلا إذا صرح أحد الوالدين للقاضي بأنه لا يرغب في حضانة القاصر.",
+  "double_edged": "Na guarda compartilhada, o tempo de convívio com os filhos deve ser dividido de forma equilibrada com a mãe e com o pai, sempre tendo em vista as condições fáticas e os interesses dos filhos. (art. 1.583, § 2º) / a cidade considerada base de moradia dos filhos será aquela que melhor atender aos interesses dos filhos. (art. 1.583, § 3º) / Se o juiz verificar que o filho não deve permanecer sob a guarda do pai ou da mãe, … (art. 1.584, § 5º, opening words)",
+  "notes": "Exact match on planalto.gov.br (the HTML's accented characters are mis-encoded but the words are identical). Meaning caveat: Brazilian «guarda compartilhada» is joint custody with time 'divided in a balanced way' («de forma equilibrada»), always subject to the facts and the children's interests, and with a single 'base de moradia' city; it is not a statutory 50/50 rule, so translate as «الحضانة المشتركة» / «توزيع وقت المعاشرة توزيعا متوازنا» rather than «بالمناصفة». The exception in the quoted text (a parent may opt out) and § 5º (custody to a third person) are the double-edged parts."
+ },
+ {
+  "id": "A5-014",
+  "status": "verified_verbatim",
+  "found_text": "A pedido de uno o ambos progenitores o de oficio, el juez debe otorgar, como primera alternativa, el cuidado compartido del hijo con la modalidad indistinta, excepto que no sea posible o resulte perjudicial para el hijo.",
+  "location": "Código Civil y Comercial de la Nación (Ley 26.994, vigente desde el 1 de agosto de 2015), Libro Segundo, Título VII, Capítulo 4, artículo 651 (Reglas generales)",
+  "source_url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm",
+  "url_status": "ok",
+  "proposed_ar": "بطلب من أحد الوالدين أو كليهما أو من تلقاء نفسه، يجب على القاضي أن يقرر، خيارا أول، الرعاية المشتركة للابن بالصورة غير المتمايزة [أي أن يقيم الابن إقامة رئيسية عند أحد الوالدين مع اشتراكهما في القرارات وتوزيع مهام الرعاية بالتساوي]، إلا إذا تعذر ذلك أو كان ضارا بالابن.",
+  "double_edged": "ARTICULO 650.- Modalidades del cuidado personal compartido. El cuidado personal compartido puede ser alternado o indistinto. En el cuidado alternado, el hijo pasa períodos de tiempo con cada uno de los progenitores, según la organización y posibilidades de la familia. En el indistinto, el hijo reside de manera principal en el domicilio de uno de los progenitores, pero ambos comparten las decisiones y se distribuyen de modo equitativo las labores atinentes a su cuidado.",
+  "notes": "Wording of art. 651 confirmed verbatim (leyfacil.com.ar reproduction; the official infoleg / argentina.gob.ar pages hold the full code but the fetcher only reads their first ~100k characters, i.e. up to art. ~180; a Procuración General de Buenos Aires opinion, cijur.mpba.gov.ar C-123064, and Cámara Civil Sala K, 30-12-2024, cite the same rule). IMPORTANT MISMATCH IN THE ENTRY'S TRANSLATION/TITLE: the 'first alternative' the judge must order is the «modalidad indistinta», which art. 650 defines as the child residing PRINCIPALLY with one parent while both share decisions and divide care tasks equitably; it is NOT equal time. Equal/alternating time is the «modalidad alternada», which is not the default. So «الرعاية المشتركة بالمناصفة … في صورتها المتداخلة» and the title «الرعاية المشتركة بالمناصفة خيار أول» overstate the law; recommend «الرعاية المشتركة (بصورتها غير المتمايزة) خيار أول». Art. 653 (not retrieved) governs the exceptional sole-care case."
+ },
+ {
+  "id": "A5-017",
+  "status": "verified_gist",
+  "found_text": "令和６年５月１７日、民法等の一部を改正する法律（令和６年法律第３３号）が成立しました（同月２４日公布）。 / この法律は、令和８年４月１日に施行されます / 協議離婚の際は、父母の協議により父母双方又は一方を親権者と指定することができる。",
+  "location": "Segments 1–2: 法務省民事局 page «民法等の一部を改正する法律（父母の離婚後等の子の養育に関する見直し）について〔令和８年４月１日施行〕» (opening paragraph). Segment 3: 法務省 «改正の概要» PDF (https://www.moj.go.jp/content/001452583.pdf), section on post-divorce parental authority, citing 民法819条等",
+  "source_url": "https://www.moj.go.jp/MINJI/minji07_00357.html",
+  "url_status": "ok",
+  "proposed_ar": "في 17 مايو 2024 أقر [البرلمان الياباني] قانون تعديل القانون المدني وقوانين أخرى (القانون رقم 33 لسنة 2024)، ونشر في 24 من الشهر نفسه. / ويدخل هذا القانون حيز التنفيذ في 1 أبريل 2026. / عند الطلاق بالتراضي يجوز للوالدين، باتفاقهما، تعيين كليهما أو أحدهما صاحب الولاية [على الأبناء].",
+  "double_edged": "父母双方を親権者とすることで子の利益を害する場合には単独親権としなければならない。 (改正の概要, 法務省) — and, in the MOJ English overview '2024 Family Law Reform in Japan', p. 3: \"The family court must grant sole parental responsibility in the following situations:\" \"When there is a risk of child abuse\" / \"When joint parental responsibility is impractical due to the risk of domestic violence, etc.\"",
+  "notes": "Gist confirmed on official MOJ pages: Act No. 33 of 2024 passed the Diet on 17 May 2024, promulgated 24 May 2024, in force 1 April 2026; the MOJ English overview (p. 3) confirms the previous rule that \"only one parent could be designated as having parental responsibility after divorce\". The statutory text itself (amended Civil Code art. 819) is in the MOJ PDFs https://www.moj.go.jp/content/001419097.pdf (law) and 001419098.pdf (新旧対照条文), which the fetcher could not open (permission not granted) — the quoted sentences are from MOJ explanatory pages, not the article. Terminology: 親権 = parental authority (legal custody) → «الولاية المشتركة» as in the entry's title; it is not shared physical custody/equal time. The entry's note «رابط بحث مؤقت» can be removed: the MOJ URL is the direct official page."
+ },
+ {
+  "id": "A5-018",
+  "status": "verified_gist",
+  "found_text": "حضانة الأبناء حق مشترك ومتساو للأب والأم بعد وقوع الطلاق / الأصل في حضانة الأبناء هو اشتراك الأب والأم معاً في مسؤولية تربية الأبناء بعد وقوع الطلاق، ما لم يطلب أحدهما التنازل كتابة أمام المحكمة عن حقه في الحضانة أو تقديم طلب للمحكمة بعزل الطرف الآخر من الحضانة المشتركة وإسقاط حقه في الحضانة",
+  "location": "قانون رقم (14) لسنة 2021 في شأن الأحوال الشخصية للأجانب غير المسلمين في إمارة أبوظبي (صادر في 7 نوفمبر 2021)، المادة (9) «الحضانة المشتركة»، الفقرتان (1) و(2) — الجريدة الرسمية لحكومة أبوظبي، العدد 11، 15 نوفمبر 2021",
+  "source_url": "https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf",
+  "url_status": "ok",
+  "proposed_ar": "",
+  "double_edged": "المادة (10): للمحكمة السلطة التقديرية لتقرير ما تراه مناسبا لمصلحة المحضون، وذلك بناءً على طلب أي من الأبوين بعد وقوع الطلاق. / المادة (16) فقرة (4): يتساوى المرأة والرجل في الحق في حضانة الطفل بشكل مشترك حتى بلوغه سن الـ (16) عاماً، وبعدها يكون للطفل حرية الاختيار.",
+  "notes": "Gist confirmed from the official Abu Dhabi Gazette PDF hosted on u.ae. Correct the work title: the law is «في شأن الأحوال الشخصية للأجانب غير المسلمين في إمارة أبوظبي» (not «المدنية»), Law No. 14 of 2021, issued 7 Nov 2021, published 15 Nov 2021 (entry date '2021/2022' acceptable; the Abu Dhabi non-Muslim family court opened in Dec 2021). Double-edged: (1) joint custody can be lost by written waiver or by a court request to remove the other parent (art. 9(2) lists grounds such as incapacity or failure to perform custody duties); (2) art. 10 gives the court full discretion on a parent's request; (3) art. 16(4) fixes joint custody until age 16 and then free choice of the child — this cuts against the corpus thesis that childhood/custody ends at puberty rather than 15/16. The law speaks of shared responsibility for upbringing, not of equal time. The entry's note «رابط بحث مؤقت» can be removed. Unverified lead: Federal Decree-Law No. 41 of 2022 (civil personal status, federal) has a similar joint-custody article."
+ },
+ {
+  "id": "A5-036",
+  "status": "corrected",
+  "found_text": "Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van artikel 251b, eerste lid, of een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.",
+  "location": "Burgerlijk Wetboek Boek 1, Titel 14, Afdeling 1, artikel 247, lid 4 (ingevoerd bij de Wet bevordering voortgezet ouderschap en zorgvuldige scheiding, Stb. 2008, 500, in werking 1 maart 2009; the references to art. 251b were added later)",
+  "source_url": "https://wetten.overheid.nl/BWBR0002656/",
+  "url_status": "ok",
+  "proposed_ar": "الطفل الذي يمارس والداه الولاية عليه معا يحتفظ، بعد حل الزواج بغير الوفاة أو بعد الانفصال الجسدي، أو بعد حل الشراكة المسجلة بغير الوفاة، أو بعد انتهاء المعاشرة إذا كان الوالدان يمارسان الولاية معا بموجب المادة 251b الفقرة 1 أو سجل قيد بالمعنى الوارد في المادة 252 الفقرة 1، بالحق في رعاية وتربية متكافئتين من كلا الوالدين.",
+  "double_edged": "Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, de ontbinding van het geregistreerd partnerschap anders dan door de dood, of het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van artikel 251b, eerste lid, of een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan. (art. 1:247 lid 5)",
+  "notes": "The entry's sentence «Het kind heeft na scheiding van zijn ouders recht op een gelijkwaardige verdeling van de verzorging en opvoeding door beide ouders» is NOT the statutory wording (it is a paraphrase; the law does not use «verdeling»). The real text is lid 4 above (the entry cites 'lid 3'; lid 3 reads: «Het ouderlijk gezag omvat mede de verplichting van de ouder om de ontwikkeling van de banden van zijn kind met de andere ouder te bevorderen.» — also supportive). The official wetten.overheid.nl page holds the full Boek 1 but the fetcher only reads its first part (up to art. 26a); the wording was confirmed on the mirror omgevingsweb.nl (Boek 1, Titel 14, Afdeling 1, artikel 247). Meaning caveat: «gelijkwaardig» = equivalent/equal in worth; Dutch legislative history and Hoge Raad case law (2010) read it as not requiring a 50/50 division of care time, and lid 5 allows deviation for practical impediments. So the entry's «توزيع متكافئ للرعاية» should become «رعاية وتربية متكافئتين» and the title «توزيع متكافئ للرعاية» should be softened."
+ },
+ {
+  "id": "A5-037",
+  "status": "verified_verbatim",
+  "found_text": "Lorsque l'autorité parentale est exercée conjointement, le juge examine, selon le bien de l'enfant, la possibilité de la garde alternée, si le père, la mère ou l'enfant la demande.",
+  "location": "Code civil suisse (RS 210), art. 298, al. 2ter (introduit par la modification du 20 mars 2015 «Entretien de l'enfant», en vigueur depuis le 1er janvier 2017); parallel rule for unmarried parents in art. 298b, al. 3ter",
+  "source_url": "https://www.droit-bilingue.ch/rs/lex/1907/00/19070042-a298-fr-en.html",
+  "url_status": "ok",
+  "proposed_ar": "عندما تمارس ولاية الوالدين [على الطفل] بصورة مشتركة، ينظر القاضي، وفق مصلحة الطفل، في إمكان الحضانة المتناوبة إذا طلبها الأب أو الأم أو الطفل.",
+  "double_edged": "Conseil fédéral, rapport «Garde alternée» du 8 décembre 2017: \"Sans faire de la garde alternée le modèle de base\" ; \"Un parent ne peut donc pas déduire du principe de l'autorité parentale conjointe le droit de pouvoir\" [exercer la garde alternée] ; \"on ne décidera d'une garde alternée (ou partagée) que si celle-ci est la meilleure solution\". Conseil fédéral, rapport du 24 avril 2024 (postulat 21.4141): \"Sans pour autant prescrire la garde alternée comme modèle standard\" ; \"il n'y a donc actuellement pas lieu de légiférer sur la garde alternée\".",
+  "notes": "Exact match (only typographic apostrophes differ) on droit-bilingue.ch, a bilingual mirror of the RS text; the official fedlex page (entry URL) is JavaScript-only and its PDF is too long for the fetcher (cut at art. 99), so it could not be read directly. Supportive neighbour: al. 2bis «…le juge tient compte du droit de l'enfant d'entretenir régulièrement des relations personnelles avec ses deux parents.» Double-edged: the article only obliges the judge to EXAMINE alternating custody, and only on request — no presumption; two Federal Council reports (2017, 2024) state that garde alternée is not the standard model. A parliamentary initiative 21.449 (Kamerzin) to favour garde alternée was in consultation in 2025 (Univ. Geneva position paper, 15 Oct 2025)."
+ },
+ {
+  "id": "A5-038",
+  "status": "verified_verbatim",
+  "found_text": "Excepcionalmente, aun cuando no se den los supuestos del apartado cinco de este artículo, el Juez, a instancia de una de las partes, con informe del Ministerio Fiscal, podrá acordar la guarda y custodia compartida fundamentándola en que solo de esta forma se protege adecuadamente el interés superior del menor.",
+  "location": "Código Civil, Libro I, Título IV, Capítulo IX, artículo 92, apartado 8 (redacción de la Ley 15/2005, de 8 de julio; la palabra «favorable» fue declarada inconstitucional y nula por la STC 185/2012, de 17 de octubre, BOE 14-11-2012)",
+  "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#a92",
+  "url_status": "ok",
+  "proposed_ar": "استثناء، وحتى إن لم تتحقق الحالات المنصوص عليها في الفقرة الخامسة من هذه المادة، يجوز للقاضي، بطلب من أحد الطرفين وبعد تقرير من النيابة العامة، أن يقضي بالحضانة المشتركة مسببا ذلك بأن هذه الطريقة وحدها هي التي تحمي المصلحة الفضلى للقاصر حماية كافية.",
+  "double_edged": "No procederá la guarda conjunta cuando cualquiera de los progenitores esté incurso en un proceso penal iniciado por intentar atentar contra la vida, la integridad física, la libertad, la integridad moral o la libertad e indemnidad sexual del otro cónyuge o de los hijos que convivan con ambos. Tampoco procederá cuando el juez advierta, de las alegaciones de las partes y las pruebas practicadas, la existencia de indicios fundados de violencia doméstica o de género. (art. 92.7, redacción Ley 8/2021 / Ley 17/2021 / Ley 16/2022)",
+  "notes": "Text confirmed (current consolidated wording, 'vigente', on iberley.es which mirrors BOE with its modification notes; the BOE page itself is served in parts and the fetcher only reached art. 46). Differences: the entry abbreviates with an ellipsis («el Juez… podrá»), omitting «a instancia de una de las partes, con informe del Ministerio Fiscal,»; and writes «sólo» where the consolidated text has «solo» (orthographic). Double-edged: 92.8 is framed as EXCEPTIONAL («Excepcionalmente») when the parents do not both request it, and 92.7 bars joint custody in cases of criminal proceedings for violence or well-founded indications of domestic/gender violence; 92.5 makes joint custody the rule only when both parents ask (convenio regulador). The entry's 'about' (Supreme Court made shared custody the normal regime, e.g., STS 257/2013) is case law, not statute, and was not verified here."
+ },
+ {
+  "id": "A5-039",
+  "status": "verified_gist",
+  "found_text": "Quando corresponder ao superior interesse da criança e ponderadas todas as circunstâncias relevantes, o tribunal pode determinar a residência alternada do filho com cada um dos progenitores, independentemente de mútuo acordo nesse sentido e sem prejuízo da fixação da prestação de alimentos.",
+  "location": "Código Civil português, art. 1906.º, n.º 6 (redação da Lei n.º 65/2020, de 4 de novembro, Diário da República 1.ª série, em vigor desde 1 de dezembro de 2020)",
+  "source_url": "https://trc.pt/?p=47158",
+  "url_status": "unknown",
+  "proposed_ar": "عندما يوافق ذلك مصلحة الطفل الفضلى، وبعد الموازنة بين جميع الظروف ذات الصلة، يجوز للمحكمة أن تقرر الإقامة المتناوبة للابن عند كل من والديه، بصرف النظر عن وجود اتفاق متبادل بذلك، ودون إخلال بتحديد نفقة [الطفل].",
+  "double_edged": "Quando corresponder ao superior interesse da criança e ponderadas todas as circunstâncias relevantes, o tribunal pode determinar …",
+  "notes": "Gist accurate; exact wording confirmed verbatim on the official site of the Tribunal da Relação de Coimbra (Acórdão de 04-06-2024, Apelação n.º 791/23.0T8CVL-D.C1, sumário V) and paraphrased in a law-firm alert (MLGTS, Nov 2020: law of 4 Nov 2020, in force 1 Dec 2020; former n.os 6–7 renumbered 7–8; new n.º 9 on hearing the child). The entry's pgdlisboa.pt URL (whole Código Civil) could not be opened (permission not granted in time), hence 'unknown'; the per-article PGDL link would be lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis (not verified). Double-edged: the provision is discretionary («pode») and conditioned on the child's best interests after weighing all circumstances — no presumption of alternating residence."
+ },
+ {
+  "id": "A5-040",
+  "status": "verified_gist",
+  "found_text": "(iv)(a) In an action concerning an original child custody determination in a divorce or paternity matter, there is a rebuttable presumption that joint custody is in the best interest of the child. (b) The presumption that joint custody is in the best interest of the child may be rebutted: (1) If the court finds by clear and convincing evidence that joint custody is not in the best interest of the child; — and § 9-13-101(a)(5): \"joint custody\" means the approximate and reasonable equal division of time with the child by both parents individually as agreed to by the parents or as ordered by the court.",
+  "location": "Act 604 of 2021 (Senate Bill 18, approved 7 April 2021), Section 1, amending Ark. Code Ann. § 9-13-101(a)(1)(A) by adding subdivision (iv)(a)–(b) (Act PDF p. 1, lines 23–36, p. 2 lines 1–2); definition of joint custody in pre-existing § 9-13-101(a)(5)",
+  "source_url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2021R%2FPublic%2F&file=604.pdf&ddBienniumSession=2021%2F2021R",
+  "url_status": "ok",
+  "proposed_ar": "(iv)(a) في الدعوى المتعلقة بتقرير حضانة الطفل لأول مرة في قضية طلاق أو نسب، يوجد افتراض قابل للدحض بأن الحضانة المشتركة في مصلحة الطفل الفضلى. (b) يجوز دحض افتراض أن الحضانة المشتركة في مصلحة الطفل الفضلى: (1) إذا وجدت المحكمة بدليل واضح ومقنع أن الحضانة المشتركة ليست في مصلحة الطفل الفضلى؛ — وتعني «الحضانة المشتركة» [في هذه المادة] تقسيم الوقت مع الطفل تقسيما متساويا تقريبا ومعقولا بين الوالدين كل على حدة، بحسب اتفاق الوالدين أو بحسب ما تأمر به المحكمة.",
+  "double_edged": "(2) If the parties have reached an agreement on all issues related to custody of the child; (3) If one (1) of the parties does not request sole, primary, or joint custody; or (4) If a rebuttable presumption described in subsection (c) or subsection (d) of this section is established by the evidence. — § 9-13-101(c)(2): There is a rebuttable presumption that it is not in the best interest of the child to be placed in the custody of an abusive parent",
+  "notes": "Gist largely accurate and confirmed on the official arkleg PDF of Act 604 (SB18, approved 4/7/21; no emergency clause, so it took effect on the general effective date for 2021 regular-session acts, late July 2021). The definition of joint custody as approximate equal time (so «بالمناصفة» is justified here) was confirmed on womenslaw.org's reproduction of § 9-13-101(a)(5). Correction needed to the gist: the 'clear and convincing evidence' standard applies only to rebuttal ground (1); the presumption is ALSO rebutted by the parties' agreement, by a party not requesting sole/primary/joint custody, or by the domestic-abuse (subsection (c)) or sex-offender (subsection (d)) presumptions — so «لا ينقض إلا بدليل واضح ومقنع» should read «لا ينقض بسبب مصلحة الطفل إلا بدليل واضح ومقنع، وينقض أيضا باتفاق الطرفين أو بعدم طلب أحدهما الحضانة أو بثبوت افتراض العنف الأسري»."
+ },
+ {
+  "id": "A5-103",
+  "status": "verified_verbatim",
+  "found_text": "A prática de ato de alienação parental fere direito fundamental da criança ou do adolescente de convivência familiar saudável, prejudica a realização de afeto nas relações com genitor e com o grupo familiar, constitui abuso moral contra a criança ou o adolescente e descumprimento dos deveres inerentes à autoridade parental ou decorrentes de tutela ou guarda.",
+  "location": "Lei nº 12.318, de 26 de agosto de 2010 (alienação parental), art. 3º",
+  "source_url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
+  "url_status": "ok",
+  "proposed_ar": "ممارسة فعل من أفعال تنفير الطفل من أحد والديه تنتهك حقا أساسيا للطفل أو المراهق في معاشرة أسرية سليمة، وتضر بتحقق المودة في علاقاته بوالده [المنفر منه] وبمجموعته الأسرية، وتشكل إساءة معنوية للطفل أو المراهق وإخلالا بالواجبات الملازمة لسلطة الوالدين أو الناشئة عن الوصاية أو الحضانة.",
+  "double_edged": "",
+  "notes": "Exact match on planalto.gov.br (found_text gives the full article; the entry quotes its opening clause with an ellipsis). The page states that its text does not replace the version published in the DOU and its accented characters are mis-encoded in the HTML, but the words are identical. Supportive neighbours: art. 2º (definition of alienação parental as interference in the child's psychological formation to make the child repudiate a parent or harm bonds with that parent); art. 6º, V (the judge may order a change to guarda compartilhada or its reversal); art. 7º («A atribuição ou alteração da guarda dar-se-á por preferência ao genitor que viabiliza a efetiva convivência da criança ou adolescente com o outro genitor nas hipóteses em que seja inviável a guarda compartilhada.»). No undermining passage found. Note: a 2024–2025 bill to repeal this law was debated in Brazil (not verified here)."
+ }
+]

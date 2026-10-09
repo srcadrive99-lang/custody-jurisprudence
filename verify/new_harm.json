@@ -1,0 +1,252 @@
+[
+  {
+    "key": "comanor-phillips-2002-father-presence-delinquency",
+    "category": "harm",
+    "author": "Comanor WS, Phillips L",
+    "year": 2002,
+    "title_latin": "The Impact of Income and Family Structure on Delinquency",
+    "where": "Journal of Applied Economics 5(2): 209–232",
+    "jurisdiction": "الولايات المتحدة — المسح الوطني الممتد للشباب (NLSY)",
+    "quote": "Using data from the National Longitudinal Survey of Youth, we estimate the impact of family income and various dimensions of family structure on a youth's contact with the criminal justice system between the ages of 14 and 22. From this analysis, we conclude that the single most important factor affecting these measures of delinquency is the presence of his father in the home. All other factors, including family income, are much less important.",
+    "quote_ar": "باستعمال بيانات المسح الوطني الأمريكي الممتد للشباب، نقدر أثر دخل الأسرة وأبعاد مختلفة من بنية الأسرة في احتكاك الشاب بنظام العدالة الجنائية بين سن 14 و22. ونخلص من هذا التحليل إلى أن العامل الأهم على الإطلاق المؤثر في مقاييس الجنوح هذه هو وجود أبيه [الشاب] في البيت. أما العوامل الأخرى كلها، ومنها دخل الأسرة، فأقل أهمية بكثير.",
+    "location": "Abstract",
+    "url": "https://doi.org/10.1080/15140326.2002.12040577",
+    "url2": "https://api.openalex.org/works/doi:10.1080/15140326.2002.12040577",
+    "about": "ويليام كومانور ولاد فيليبس أستاذا الاقتصاد بجامعة كاليفورنيا في سانتا باربرا، في مجلة الاقتصاد التطبيقي المحكمة التي تصدرها جامعة سيما الأرجنتينية وتنشرها دار تايلور وفرانسيس. تنبيه: صفحة الناشر محجوبة في هذه الجلسة، والنص مأخوذ حرفيا من ملخص الناشر المودع في قاعدة OpenAlex.",
+    "level": "دراسة محكمة على مسح وطني ممتد",
+    "argument": "تقطع الدراسة بأن وجود الأب في البيت هو العامل الأول في وقاية الفتى من الجنوح والوقوع في يد العدالة الجنائية، وأن الدخل أقل أثرا بكثير؛ فحرمان الولد من أبيه ضرر لا يعوضه المال ولا النفقة.",
+    "double_edged": ""
+  },
+  {
+    "key": "antecol-bedard-2007-years-with-father",
+    "category": "harm",
+    "author": "Antecol H, Bedard K",
+    "year": 2007,
+    "title_latin": "Does single parenthood increase the probability of teenage promiscuity, substance use, and crime?",
+    "where": "Journal of Population Economics 20(1): 55–71",
+    "jurisdiction": "الولايات المتحدة — المسح الوطني الممتد للشباب وملحق الشباب البالغين (NLSY)",
+    "quote": "There is longstanding evidence that youths raised by single parents are more likely to perform poorly in school and partake in “deviant” behaviors such as smoking, sex, substance use, and crime. … Using the National Longitudinal Survey of Youth and its Young Adult Supplement, we find that an additional 5 years with the biological father decreases the probability of smoking, drinking, engaging in sexual activity, marijuana use, and conviction by approximately 5.3, 1.2, 3.4, 2.2 and 0.3 percentage points, respectively.",
+    "quote_ar": "ثمة أدلة قديمة على أن اليافعين الذين يربيهم والد واحد أكثر عرضة لضعف الأداء المدرسي وللسلوك «المنحرف» كالتدخين والجنس وتعاطي المواد والجريمة. ... وباستعمال المسح الوطني الممتد للشباب وملحقه الخاص بالشباب البالغين نجد أن كل 5 سنوات إضافية يقضيها الولد مع أبيه البيولوجي تخفض احتمال التدخين وشرب الخمر وممارسة الجنس وتعاطي الماريجوانا والإدانة الجنائية بنحو 5.3 و1.2 و3.4 و2.2 و0.3 نقطة مئوية على الترتيب.",
+    "location": "Abstract",
+    "url": "https://link.springer.com/article/10.1007/s00148-005-0019-x",
+    "url2": "https://doi.org/10.1007/s00148-005-0019-x",
+    "about": "هيذر أنتيكول أستاذة الاقتصاد بكلية كليرمونت ماكينا وكيلي بيدار أستاذة الاقتصاد بجامعة كاليفورنيا في سانتا باربرا، في مجلة اقتصاد السكان وهي من أبرز المجلات المحكمة في بابها (دار شبرينغر). قرئ الملخص كاملا على صفحة الناشر؛ وسجل OpenAlex لهذه الورقة تعذر قراءته بسبب تقييد الطلبات.",
+    "level": "دراسة محكمة على مسح وطني ممتد",
+    "argument": "تبين الدراسة أن طول مدة إقامة الولد مع أبيه يخفض التدخين والخمر والجنس المبكر والمخدرات والإدانة الجنائية خفضا مقيسا بالأرقام؛ فكل سنة يحرم فيها الولد من أبيه خسارة محسوبة في سلوكه ومستقبله.",
+    "double_edged": ""
+  },
+  {
+    "key": "bramlett-blumberg-2007-nsch-family-structure-health",
+    "category": "harm",
+    "author": "Bramlett MD, Blumberg SJ",
+    "year": 2007,
+    "title_latin": "Family Structure And Children's Physical And Mental Health",
+    "where": "Health Affairs 26(2): 549–558",
+    "jurisdiction": "الولايات المتحدة — المسح الوطني لصحة الأطفال 2003، المركز الوطني للإحصاءات الصحية (CDC)",
+    "quote": "Children in step, single-mother, or grandparent-only families had poorer health than children living with two biological parents. Adjusting for demographic differences reduced observed disparities, although children living in single-mother or grandparent-only families still had poorer health than children living with two biological parents. Adjusted estimates showed that children in single-father families generally did as well as (for mental health) or better than (for physical health) children living with two biological parents.",
+    "quote_ar": "كان الأطفال في أسر زوج الأم أو الأم وحدها أو الجدين وحدهما أسوأ صحة من الأطفال الذين يعيشون مع والديهم البيولوجيين معا. وقلل تعديل الفروق السكانية من الفوارق الملحوظة، لكن الأطفال الذين يعيشون مع الأم وحدها أو مع الجدين وحدهما ظلوا أسوأ صحة من الأطفال الذين يعيشون مع والديهم البيولوجيين معا. وبينت التقديرات المعدلة أن الأطفال في أسر الأب وحده كانوا عموما بمثل حال أطفال الوالدين البيولوجيين معا (في الصحة النفسية) أو أحسن منهم (في الصحة الجسدية).",
+    "location": "Abstract",
+    "url": "https://doi.org/10.1377/hlthaff.26.2.549",
+    "url2": "https://api.openalex.org/works/doi:10.1377/hlthaff.26.2.549",
+    "about": "المؤلفان باحثان في المركز الوطني للإحصاءات الصحية التابع لمراكز مكافحة الأمراض الأمريكية (CDC)، والبيانات من المسح الوطني الرسمي لصحة الأطفال؛ والمجلة من أرفع المجلات المحكمة في السياسة الصحية. تنبيه: صفحة الناشر محجوبة في هذه الجلسة، والملخص مأخوذ كاملا من نص الناشر المودع في قاعدة OpenAlex.",
+    "level": "دراسة محكمة على مسح وطني رسمي",
+    "argument": "بيانات رسمية أمريكية تبين أن أطفال الأم المنفردة أسوأ صحة حتى بعد تعديل الفروق، بينما أطفال الأب المنفرد بمثل حال أطفال الأسرة المجتمعة أو أحسن؛ فلا مسوغ لافتراض أن بقاء الطفل مع أمه وحدها أصلح له من انتقاله إلى أبيه.",
+    "double_edged": ""
+  },
+  {
+    "key": "makikyro-1998-finland-1966-psychiatric-single-parent",
+    "category": "harm",
+    "author": "Mäkikyrö T, Sauvola A, Moring J, Veijola JM, Nieminen PA, Järvelin MR, Isohanni MK",
+    "year": 1998,
+    "title_latin": "Hospital-Treated Psychiatric Disorders in Adults with a Single-Parent and Two-Parent Family Background: A 28-Year Follow-up of the 1966 Northern Finland Birth Cohort",
+    "where": "Family Process 37(3): 335–344",
+    "jurisdiction": "فنلندا — مواليد شمال فنلندا 1966 وسجلات المستشفيات الوطنية",
+    "quote": "… the family type (two-parent and 4 different single-parent types, mainly divorced) during childhood up to 14 years of age and adult hospital-treated psychiatric disorders … Northern Finland 1966 Birth Cohort (N = 11,017). … 3.1% in two-parent families and 5.4% in single-parent families (p < .001). … The adjusted odds ratios (OR) for personality disorders were highest among individuals without a father before the age of 14 years (OR 4.8), or at birth only (OR 4.0), or with a history of parental divorce (OR 2.8).",
+    "quote_ar": "... نوع الأسرة (والدان معا، و4 أنواع من أسر الوالد الواحد، أكثرها بسبب الطلاق) في الطفولة حتى سن 14 وبين الاضطرابات النفسية المعالجة في المستشفى في الكبر ... مواليد شمال فنلندا سنة 1966 (العدد 11017). ... 3.1% في أسر الوالدين معا و5.4% في أسر الوالد الواحد (p < .001). ... وكانت نسب الخطر المعدلة (OR) لاضطرابات الشخصية أعلى ما تكون عند من عاشوا بلا أب قبل سن 14 (4.8)، أو بلا أب عند الولادة فقط (4.0)، أو عند من طلق والداهم (2.8).",
+    "location": "Abstract",
+    "url": "https://doi.org/10.1111/j.1545-5300.1998.00335.x",
+    "url2": "https://api.openalex.org/works/doi:10.1111/j.1545-5300.1998.00335.x",
+    "about": "فريق جامعة أولو الفنلندية على أشهر مجموعة مواليد فنلندية (شمال فنلندا 1966) المربوطة بسجلات المستشفيات الوطنية، في مجلة محكمة متخصصة في دراسات الأسرة (دار وايلي). تنبيه: صفحة الناشر محجوبة في هذه الجلسة، والنص من ملخص الناشر المودع في OpenAlex. يذكر الملخص أيضا أن أسرة الوالد الواحد لم ترتبط بالفصام أو غيره من الذهان، وأن الخلاصة أن «تركيبا من أسرة الوالد الواحد وعوامل الخطر النفسية الاجتماعية و/أو الوراثية» قد يؤثر في نشوء هذه الاضطرابات.",
+    "level": "دراسة سجلات وطنية",
+    "argument": "من عاش بلا أب في طفولته حتى 14 كان الأكثر عرضة لاضطرابات الشخصية في الكبر (نحو 5 أضعاف)، وكان المرض النفسي المعالج في المستشفى عند أبناء الوالد الواحد أكثر بنحو 75% منه عند أبناء الوالدين معا، في متابعة 11017 مولودا 28 سنة.",
+    "double_edged": ""
+  },
+  {
+    "key": "sauvola-2001-finland-1966-mortality-single-parent",
+    "category": "harm",
+    "author": "Sauvola A (كما في سجل OpenAlex؛ المقال المطبوع له مؤلفون مشاركون من فريق أولو لم يتحقق منهم في هذه الجلسة)",
+    "year": 2001,
+    "title_latin": "Mortality of young adults in relation to single-parent family background. A prospective study of the Northern Finland 1966 birth cohort",
+    "where": "European Journal of Public Health 11(3): 284–286",
+    "jurisdiction": "فنلندا — مواليد شمال فنلندا 1966 وسجل الوفيات الوطني",
+    "quote": "… the Northern Finland 1966 birth cohort which is linked with the national death register. … the general mortality risk for males with a single-parent family background was significantly increased compared with males from a two-parent family background (odds ratio 1.8 and 95% confidence interval: 1.1-2.9). The risk of committing suicide was significantly increased among young adult males with a single-parent family background (OR 2.5 and 95% CI: 1.1-5.8). … more preventative mental health support for children and adolescents living in broken homes.",
+    "quote_ar": "... مواليد شمال فنلندا 1966 المربوطون بسجل الوفيات الوطني. ... كان خطر الوفاة العام عند الذكور من خلفية أسرة الوالد الواحد أعلى بدلالة إحصائية منه عند الذكور من خلفية أسرة الوالدين معا (نسبة الخطر 1.8، وفاصل الثقة 95%: 1.1-2.9). وكان خطر الانتحار أعلى بدلالة إحصائية عند الشباب الذكور من خلفية أسرة الوالد الواحد (نسبة الخطر 2.5، وفاصل الثقة 95%: 1.1-5.8). ... [تدعو النتيجة إلى] مزيد من الدعم النفسي الوقائي للأطفال والمراهقين الذين يعيشون في بيوت مفككة.",
+    "location": "Abstract (Background, Results, Conclusion)",
+    "url": "https://doi.org/10.1093/eurpub/11.3.284",
+    "url2": "https://api.openalex.org/works/doi:10.1093/eurpub/11.3.284",
+    "about": "آنو ساوفولا وفريق مجموعة مواليد شمال فنلندا 1966 بجامعة أولو، في المجلة الأوروبية للصحة العامة المحكمة (دار جامعة أكسفورد)، بمتابعة 11017 مولودا من 16 إلى 28 سنة بعد ضبط التشخيص النفسي والطبقة الاجتماعية للوالدين. تنبيه: سجل OpenAlex لا يذكر إلا المؤلفة الأولى، وصفحة الناشر وملف PDF محجوبان في هذه الجلسة.",
+    "level": "دراسة سجلات وطنية",
+    "argument": "سجلات وطنية تبين أن الفتى الذي نشأ في أسرة والد واحد يموت شابا بنسبة أعلى (1.8 ضعفا) وينتحر بنسبة أعلى (2.5 ضعفا)؛ فتفكك البيت وحرمان الولد من أحد والديه خطر على حياته لا على نفسيته فحسب.",
+    "double_edged": ""
+  },
+  {
+    "key": "lee-mclanahan-2015-fragile-families-transitions",
+    "category": "harm",
+    "author": "Lee D, McLanahan S",
+    "year": 2015,
+    "title_latin": "Family Structure Transitions and Child Development: Instability, Selection, and Population Heterogeneity",
+    "where": "American Sociological Review 80(4): 738–763",
+    "jurisdiction": "الولايات المتحدة — دراسة الأسر الهشة ورفاه الطفل (جامعة برينستون)",
+    "quote": "… we use longitudinal data from the Fragile Families and Child Wellbeing Study … Our results indicate that family instability has a causal effect on children's development, but the effect depends on the type of change, the outcome assessed, and the population examined. Generally speaking, transitions out of a two-parent family are more negative for children's development than transitions into a two-parent family. The effect of family instability is more pronounced for children's socioemotional development than for their cognitive achievement.",
+    "quote_ar": "... نستعمل بيانات المتابعة الممتدة من دراسة الأسر الهشة ورفاه الطفل ... وتشير نتائجنا إلى أن عدم استقرار الأسرة له أثر سببي في نمو الأطفال، لكن الأثر يتوقف على نوع التغير والنتيجة المقيسة والفئة المدروسة. وعلى العموم فإن خروج [الطفل] من أسرة الوالدين معا أشد سلبا على نمو الأطفال من الدخول في أسرة والدين معا. وأثر عدم استقرار الأسرة أوضح في النمو الاجتماعي والعاطفي للأطفال منه في تحصيلهم المعرفي.",
+    "location": "Abstract",
+    "url": "https://journals.sagepub.com/doi/10.1177/0003122415592129",
+    "url2": "https://api.openalex.org/works/doi:10.1177/0003122415592129",
+    "about": "دوهون لي (جامعة نيويورك) وسارة ماكلاناهان (جامعة برينستون، مؤسسة دراسة الأسر الهشة)، في أرفع مجلة في علم الاجتماع الأمريكي، على بيانات دراسة الأسر الهشة الممتدة لمواليد 20 مدينة أمريكية كبرى. قرئ الملخص على صفحة الناشر وفي OpenAlex.",
+    "level": "دراسة محكمة على بيانات متابعة ممتدة",
+    "argument": "تثبت الدراسة أثرا سببيا لا مجرد ارتباط: خروج الطفل من أسرة الوالدين معا (وهو في هذه البيانات غياب الأب عن البيت غالبا) يضر بنموه الاجتماعي والعاطفي خاصة، وأشد مما ينفعه دخول والد جديد إلى البيت.",
+    "double_edged": ""
+  },
+  {
+    "key": "carlson-2006-father-involvement-mediates-absence",
+    "category": "harm",
+    "author": "Carlson MJ",
+    "year": 2006,
+    "title_latin": "Family Structure, Father Involvement, and Adolescent Behavioral Outcomes",
+    "where": "Journal of Marriage and Family 68(1): 137–154",
+    "jurisdiction": "الولايات المتحدة — المسح الوطني الممتد للشباب 1979",
+    "quote": "Research has shown that living away from one's biological father is associated with a greater risk of adverse child and adolescent outcomes … the 1979 National Longitudinal Survey of Youth (N = 2,733) … Differences in father involvement are shown to account for a sizeable fraction of the variance in outcomes by family structure. Father involvement does not affect boys and girls differently but is more beneficial when the father lives with the adolescent.",
+    "quote_ar": "أثبتت البحوث أن العيش بعيدا عن الأب البيولوجي يرتبط بخطر أكبر لسوء مآل الطفل والمراهق ... المسح الوطني الممتد للشباب 1979 (العدد 2733) ... وتبين أن الفروق في انخراط الأب تفسر جزءا كبيرا من تباين النتائج بحسب بنية الأسرة. ولا يختلف أثر انخراط الأب بين الأولاد والبنات، لكنه أنفع حين يعيش الأب مع المراهق.",
+    "location": "Abstract",
+    "url": "https://doi.org/10.1111/j.1741-3737.2006.00239.x",
+    "url2": "https://api.crossref.org/works/10.1111/j.1741-3737.2006.00239.x",
+    "about": "مارشا كارلسون أستاذة علم الاجتماع (جامعة ويسكونسن، وكانت بجامعة كولومبيا ومن فريق دراسة الأسر الهشة)، في مجلة الزواج والأسرة وهي أرفع مجلة محكمة في دراسات الأسرة. قرئ الملخص كاملا في نص الناشر المودع في CrossRef وفي OpenAlex.",
+    "level": "دراسة محكمة على مسح وطني ممتد",
+    "argument": "تبين أن ضرر غياب الأب يفسره نقص صلة الأب بولده، وأن انخراط الأب أنفع ما يكون حين يسكن الولد معه؛ وهذا عين ما تقتضيه الرعاية المشتركة بالمناصفة وانتقال الولد إلى أبيه بعد التمييز.",
+    "double_edged": ""
+  },
+  {
+    "key": "flouri-buchanan-2002-father-involvement-police",
+    "category": "harm",
+    "author": "Flouri E, Buchanan A",
+    "year": 2002,
+    "title_latin": "Father Involvement in Childhood and Trouble With the Police in Adolescence: Findings From the 1958 British Cohort",
+    "where": "Journal of Interpersonal Violence 17(6): 689–701",
+    "jurisdiction": "المملكة المتحدة — دراسة مواليد بريطانيا 1958 (NCDS)",
+    "quote": "This longitudinal study investigated the role of early father involvement (at age 7) in juvenile delinquency controlling for the effect of mother involvement at age 7 and other risk and protective factors. … Uniquely for boys, IQ and father involvement were negatively related to trouble with the police. Trouble with the police in adolescence was also related with non-intact family structure in childhood in girls, and with parental criminality in boys",
+    "quote_ar": "بحثت هذه الدراسة الممتدة دور انخراط الأب المبكر (في سن 7) في جنوح الأحداث مع ضبط أثر انخراط الأم في سن 7 وغيره من عوامل الخطر والحماية. ... وعند الأولاد خاصة كان الذكاء وانخراط الأب مرتبطين عكسيا بالوقوع في مشكلات مع الشرطة. وارتبط الوقوع في مشكلات مع الشرطة في المراهقة أيضا بتفكك بنية الأسرة في الطفولة عند البنات، وبإجرام الوالدين عند الأولاد",
+    "location": "Abstract",
+    "url": "https://journals.sagepub.com/doi/10.1177/0886260502017006006",
+    "url2": "https://api.openalex.org/works/doi:10.1177/0886260502017006006",
+    "about": "إيريني فلوري وآن بوكانان من جامعة أكسفورد، على بيانات المتابعة الوطنية لمواليد بريطانيا في أسبوع واحد من سنة 1958، في مجلة محكمة من دار سيج. قرئ الملخص على صفحة الناشر وفي OpenAlex.",
+    "level": "دراسة متابعة وطنية ممتدة",
+    "argument": "انخراط الأب في ابنه وهو في السابعة يقيه من الوقوع في يد الشرطة في السادسة عشرة مستقلا عن أثر الأم، وتفكك الأسرة في الطفولة يزيد وقوع البنات في مشكلات الشرطة؛ فالسابعة تحديدا سن يحتاج فيها الولد أباه.",
+    "double_edged": ""
+  },
+  {
+    "key": "webster-2014-meta-analysis-father-absence-menarche",
+    "category": "harm",
+    "author": "Webster GD, Graber JA, Gesselman AN, Crosier BS, Orozco Schember T",
+    "year": 2014,
+    "title_latin": "A Life History Theory of Father Absence and Menarche: A Meta-Analysis",
+    "where": "Evolutionary Psychology 12(2): 273–294",
+    "jurisdiction": "دولي — تحليل جامع لـ33 دراسة",
+    "quote": "Is the absence of biological fathers related to their daughters' earlier age at menarche? … we conducted a random-effects meta-analysis of correlations … on father absence and daughter menarcheal age (k = 33; N = 70,403). The weighted mean correlation was .14, 95% CI [.09, .19] … showed no evidence of publication bias … Our findings support one aspect of the life history model and provide groundwork for subsequent examination of other pathways in the model.",
+    "quote_ar": "هل يرتبط غياب الأب البيولوجي بتبكير سن الحيض الأول عند بناته؟ ... أجرينا تحليلا جامعا للدراسات ... على غياب الأب وسن الحيض الأول عند البنت (33 دراسة؛ 70403 مشاركة). وكان متوسط الارتباط الموزون 0.14، بفاصل ثقة 95% [0.09، 0.19] ... ولم يظهر دليل على تحيز النشر ... وتدعم نتائجنا جانبا من نموذج تاريخ الحياة وتمهد لفحص مسارات أخرى في النموذج.",
+    "location": "Abstract",
+    "url": "https://journals.sagepub.com/doi/10.1177/147470491401200202",
+    "url2": "https://api.openalex.org/works/doi:10.1177/147470491401200202",
+    "about": "غريغوري وبستر وجوليا غرابر وزملاؤهما من جامعة فلوريدا، في مجلة محكمة مفتوحة من دار سيج، جمعوا 33 دراسة على أكثر من 70 ألف فتاة. قرئ الملخص على صفحة الناشر وفي OpenAlex. (نتيجة الدراسة بيولوجية: تبكير البلوغ، وليست حكما صريحا بالضرر، فتوظف مع بطاقات التبكير والمخاطر لا وحدها).",
+    "level": "تحليل جامع للدراسات",
+    "argument": "غياب الأب يغير مسار نمو البنت الجسدي فيبكر حيضها، وهو أثر ثابت عبر 33 دراسة؛ أي أن حرمانها من أبيها يترك أثره حتى في جسدها، والتبكير مقترن في البحوث بمخاطر صحية ونفسية.",
+    "double_edged": ""
+  },
+  {
+    "key": "east-jackson-obrien-2006-review-father-absence",
+    "category": "harm",
+    "author": "East L, Jackson D, O'Brien L",
+    "year": 2006,
+    "title_latin": "Father absence and adolescent development: a review of the literature",
+    "where": "Journal of Child Health Care 10(4): 283–295",
+    "jurisdiction": "أستراليا — مراجعة علمية للأدبيات",
+    "quote": "Rapid social change has seen increasing numbers of woman-headed singleparent families, meaning that more and more children are growing up without a father resident in the home. … Findings from the literature point to the importance of father presence in children's lives and suggest that father absence has ramifications for children and adolescents. … with the view of developing strategies to ameliorate the impact of father absence on children and adolescents.",
+    "quote_ar": "أدى التغير الاجتماعي السريع إلى تزايد أعداد أسر الوالد الواحد التي ترأسها نساء، أي أن مزيدا من الأطفال ينشؤون بلا أب مقيم في البيت. ... وتشير نتائج الأدبيات إلى أهمية وجود الأب في حياة الأطفال وإلى أن لغيابه عواقب على الأطفال والمراهقين. ... بقصد وضع استراتيجيات تخفف أثر غياب الأب على الأطفال والمراهقين.",
+    "location": "Abstract",
+    "url": "https://journals.sagepub.com/doi/10.1177/1367493506067869",
+    "url2": "https://api.openalex.org/works/doi:10.1177/1367493506067869",
+    "about": "ليا إيست وديبرا جاكسون ولويز أوبراين من جامعة غرب سيدني (التمريض وصحة الطفل)، في مجلة محكمة لرعاية صحة الطفل (دار سيج). قرئ الملخص كاملا على صفحة الناشر وفي OpenAlex. ملخصها عام الصياغة، فهي بطاقة تكميلية لا رئيسية.",
+    "level": "مراجعة علمية محكمة",
+    "argument": "مراجعة للأدبيات تقرر أن حضور الأب مهم في حياة الأطفال وأن لغيابه عواقب على الأطفال والمراهقين تستدعي استراتيجيات للحد منها.",
+    "double_edged": ""
+  },
+  {
+    "key": "_rejected",
+    "items": [
+      {
+        "source": "Culpin I, Heron J, Araya R, Melotti R, Joinson C (2013) Father absence and depressive symptoms in adolescence: findings from a UK cohort. Psychological Medicine 43(12): 2615–2626. https://doi.org/10.1017/S0033291713000603",
+        "why": "ذات حدين: تقرر أن غياب الأب في الطفولة المبكرة (0-5) يرفع الاكتئاب في سن 14، لكنها تنفي الارتباط لغياب الأب في الطفولة الوسطى (5-10)، وهو ما يمكن أن يحتج به الخصم ضد أهمية الأب بعد سن التمييز.",
+        "text": "no evidence for an association between father absence in middle childhood and depressive symptoms at 14 years"
+      },
+      {
+        "source": "Mitchell C, McLanahan S, Schneper L, Garfinkel I, Brooks-Gunn J, Notterman D (2017) Father Loss and Child Telomere Length. Pediatrics 140(2): e20163245. https://doi.org/10.1542/peds.2016-3245",
+        "why": "ذات حدين: النتيجة الرئيسية قوية (قصر التيلوميرات 14% عند فقد الأب، و6% عند الانفصال/الطلاق)، لكن الملخص ينص على أن تغير الدخل يفسر 95% من أثر الانفصال/الطلاق، فيحتج به الخصم بأن الضرر ضرر فقر لا ضرر غياب أب.",
+        "text": "Paternal death has the largest association (16%), followed by incarceration (10%), and separation and/or divorce (6%). Changes in income partially mediate these associations (95% mediation for separation and/or divorce, 30% for incarceration, and 25% for death)."
+      },
+      {
+        "source": "Markowitz AJ, Ryan RM (2016) Father Absence and Adolescent Depression and Delinquency: A Comparison of Siblings Approach. Journal of Marriage and Family 78(5): 1300–1314. https://doi.org/10.1111/jomf.12343",
+        "why": "ذات حدين: تثبت أن رحيل الأب في الطفولة المتأخرة يزيد الجنوح، لكنها تنفي أثره في الاكتئاب وتنفي أي ارتباط لرحيل الأب في الطفولة المبكرة بمآل المراهق.",
+        "text": "father departure in later childhood is associated with increased adolescent delinquency but not depressive symptoms, whereas early childhood father departure was not associated with adolescent outcomes."
+      },
+      {
+        "source": "Boothroyd LG, Cross C (2017) Father absence and gendered traits in sons and daughters. PLoS ONE 12(7): e0179954. https://doi.org/10.1371/journal.pone.0179954",
+        "why": "ليست دراسة ضرر: نتائجها ضعيفة أو منفية (ارتباط ضعيف عند النساء، ولا ارتباط بالذكورة ولا بسن الحيض).",
+        "text": "was weakly associated with father absence in women … was not associated with father absence … but there was no link with age of menarche in either country."
+      },
+      {
+        "source": "Huurre T, Junkkari H, Aro H (2006) Long-term psychosocial effects of parental divorce: a follow-up study from adolescence to adulthood. European Archives of Psychiatry and Clinical Neuroscience 256(4): 256–263. https://link.springer.com/article/10.1007/s00406-006-0641-y",
+        "why": "ذات حدين: المشكلات النفسية أكثر عند بنات المطلقين فقط، والملخص ينص على أن الفروق لم توجد عند الذكور.",
+        "text": "Females from divorced compared to non–divorced families reported more psychological problems … These differences were not found among males"
+      },
+      {
+        "source": "Gravseth HM, Mehlum L, Bjerkedal T, Kristensen P (2010) Suicide in young Norwegians in a life course perspective: population-based cohort study. Journal of Epidemiology & Community Health 64(5): 407–412. https://doi.org/10.1136/jech.2008.083485",
+        "why": "سجلات نرويجية وطنية (610359 شخصا) لكن الملخص لا يذكر غياب الأب صراحة، بل «عدم استقرار الحالة الزوجية للأم في الطفولة» ضمن عوامل الانتحار؛ غير كافية كبطاقة عن غياب الأب.",
+        "text": "instability of maternal marital status during childhood"
+      },
+      {
+        "source": "Christoffersen MN, Poulsen HD, Nielsen A (2003) Attempted suicide among young people: risk factors in a prospective register based study of Danish children born in 1966. Acta Psychiatrica Scandinavica 108(5): 350–358. https://doi.org/10.1034/j.1600-0447.2003.00165.x",
+        "why": "سجلات دنماركية، لكن الملخص لا يحوي أي نتيجة عن تفكك الأسرة أو غياب الأب (يذكر «family dissolution» ضمن المتغيرات فقط).",
+        "text": "(لا نص نتيجة عن غياب الأب في الملخص)"
+      },
+      {
+        "source": "Fergusson DM, Horwood LJ, Lynskey MT (1994) Parental Separation, Adolescent Psychopathology, and Problem Behaviors. JAACAP 33(8): 1122–1133. https://doi.org/10.1097/00004583-199410000-00008",
+        "why": "لم يتحقق: لا ملخص في سجل OpenAlex، وصفحة PubMed محجوبة بفحص الروبوت.",
+        "text": ""
+      },
+      {
+        "source": "Pougnet E, Serbin LA, Stack DM, Schwartzman AE (2011) Fathers' influence on children's cognitive and behavioural functioning: A longitudinal study of Canadian families. Canadian Journal of Behavioural Science 43(3): 173–182. https://doi.org/10.1037/a0023948",
+        "why": "تحقق جزئي فقط: قرئت شذرات حرفية من ملخص OpenAlex (وجود الأب في الطفولة الوسطى تنبأ بقلة المشكلات النفسية الداخلية في البنات فقط؛ وضبط الأب الإيجابي تنبأ بارتفاع ذكاء الأداء)، لكن صفحة الناشر (APA PsycNet) محجوبة وتعذر إعادة فتح سجل OpenAlex بسبب تقييد الطلبات، فلم يتأكد ترابط الجمل. يستحسن إعادة التحقق قبل اعتماده كبطاقة؛ وفيه قيد «for girls only».",
+        "text": "The results indicated that for girls only … fathers' presence in middle childhood predicted fewer internalizing problems in preadolescence … fathers' positive parental control predicted higher Performance IQ over six years later"
+      },
+      {
+        "source": "McLanahan S, Tach L, Schneider D (2013) The causal effects of father absence — Annual Review of Sociology 39: 399–427",
+        "why": "مكررة: موجودة في الموسوعة (البطاقة 128، A5-065).",
+        "text": ""
+      },
+      {
+        "source": "Weitoft GR, Hjern A, Haglund B, Rosén M (2003) Mortality, severe morbidity, and injury in children living with single parents in Sweden — Lancet 361: 289–295",
+        "why": "مكررة: موجودة في الموسوعة (البطاقة 129، A5-105).",
+        "text": ""
+      },
+      {
+        "source": "Harper CC, McLanahan SS (2004) Father absence and youth incarceration — Journal of Research on Adolescence 14(3): 369–397",
+        "why": "مكررة: موجودة في الموسوعة (البطاقة 130، A5-106).",
+        "text": ""
+      },
+      {
+        "source": "Sigle-Rushton W, McLanahan S (2004) Father absence and child well-being: a critical review — in The Future of the Family (Russell Sage)",
+        "why": "لم يفحص: فصل كتاب لا صفحة متاحة له في هذه الجلسة، ومحرك البحث غير متاح.",
+        "text": ""
+      }
+    ]
+  }
+]

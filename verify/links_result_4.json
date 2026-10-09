@@ -1,0 +1,610 @@
+[
+  {
+    "id": "A2-004",
+    "url": "https://shamela.ws/book/10706",
+    "status": "ok",
+    "landed_title": "كتاب القانون في الطب - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Book-level link (no page): Ibn Sina, al-Qanun fi al-Tibb (ed. al-Dannawi) - matches the author in the entry title. Shamela TOC is collapsed (only 3 volume headings), so the specific passage on handing the boy to the mu'addib was not located; verified at book level only."
+  },
+  {
+    "id": "A1-034",
+    "url": "https://shamela.ws/book/11820/378",
+    "status": "ok",
+    "landed_title": "ج2 - ص284 - كتاب الهداية في شرح بداية المبتدي - باب الولد من أحق به - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Passage found on this page: 'ووجهه أنه إذا استغنى يحتاج إلى التأدب والتخلق بآداب الرجال ... والأب أقدر على التأديب والتثقيف'."
+  },
+  {
+    "id": "A1-008",
+    "url": "https://shamela.ws/book/11820/378",
+    "status": "ok",
+    "landed_title": "ج2 - ص284 - كتاب الهداية في شرح بداية المبتدي - باب الولد من أحق به - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Passage found on this page: 'وعن محمد أنها تدفع إلى الأب إذا بلغت حد الشهوة لتحقق الحاجة إلى الصيانة'. (Same URL as A1-034.)"
+  },
+  {
+    "id": "A1-036",
+    "url": "https://shamela.ws/book/16968/2022",
+    "status": "ok",
+    "landed_title": "ج5 - ص49 - كتاب المختصر الفقهي لابن عرفة - كتاب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page opens with the definition of custody quoting al-Baji: 'الحضانة: ... حفظ الولد في مبيته ومؤنة طعامه ولباسه ومضجعه وتنظيف جسمه' - matches 'حد الحضانة'."
+  },
+  {
+    "id": "A1-037",
+    "url": "https://shamela.ws/book/16968/2022",
+    "status": "ok",
+    "landed_title": "ج5 - ص49 - كتاب المختصر الفقهي لابن عرفة - كتاب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'لأنهم خلق ضعيف يفتقر لكافل يربيه حتى يقوم بنفسه' (Ibn Rushd / al-Mutiti). (Same URL as A1-036.)"
+  },
+  {
+    "id": "A1-017",
+    "url": "https://shamela.ws/book/11355/185",
+    "status": "ok",
+    "landed_title": "ص139 - كتاب مختصر خليل - الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'وحضانة الذكر: للبلوغ ... وللأب: تعاهده وأدبه وبعثه للمكتب' - matches the father's right of supervision and discipline."
+  },
+  {
+    "id": "A4-019",
+    "url": "https://shamela.ws/book/16968/2022",
+    "status": "ok",
+    "landed_title": "ج5 - ص49 - كتاب المختصر الفقهي لابن عرفة - كتاب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'إذا كان الابن في حضانة أمه لم يمنع من الاختلاف لأبيه' (al-Baji, transmitted by Ibn Habib from Ibn al-Majishun). Wording is slightly different from the card title (لا يمنع ... إلى أبيه) but same ruling. (Same URL as A1-036.)"
+  },
+  {
+    "id": "A4-052",
+    "url": "https://shamela.ws/book/149697/5006",
+    "status": "ok",
+    "landed_title": "ج7 - ص758 - كتاب لوامع الدرر في هتك استار المختصر - فصل في الكلام على السببين الموجبين للنفقة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'وللأب تعاهده؛ يعني أن للأب وغيره من الأولياء أن يتعاهد المحضون الكائن عند أمه ذكرا أو أنثى'."
+  },
+  {
+    "id": "A4-053",
+    "url": "https://shamela.ws/book/30174/1008",
+    "status": "ok",
+    "landed_title": "ج2 - ص463 - كتاب موهوب الجليل في شرح مختصر خليل - الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'بل تسقط حضانتها لما يلحق أبا الطفل من الضرر في تعاهد ولده' (Ibn Shablun's view; Ibn al-Hajj is reported to differ)."
+  },
+  {
+    "id": "A1-050",
+    "url": "https://shamela.ws/book/765/217",
+    "status": "ok",
+    "landed_title": "ص233 - كتاب أدب الدنيا والدين - الباب الخامس أدب النفس - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page opens 'والتأديب يلزم من وجهين: أحدهما ما لزم الوالد لولده في صغره' - matches (displayed page number is 233; URL index 217)."
+  },
+  {
+    "id": "A1-055",
+    "url": "https://shamela.ws/book/151180/3",
+    "status": "ok",
+    "landed_title": "ص2 - كتاب تذكرة السامع والمتكلم في أدب العالم والمتعلم - مقدمة المصنف - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Preface page contains fathers addressing sons: 'وقال حبيب بن الشهيد لابنه: يا بني اصحب الفقهاء والعلماء وتعلم منهم وخذ من أدبهم' and 'وقال بعضهم لابنه: يا بني لأن تتعلم بابا من الأدب ...' - matches 'الأب يوجه ابنه إلى العلم والأدب'."
+  },
+  {
+    "id": "A1-055",
+    "url": "https://shamela.ws/book/151180",
+    "status": "ok",
+    "landed_title": "كتاب تذكرة السامع والمتكلم في أدب العالم والمتعلم - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Book landing page (Badr al-Din Ibn Jama'a) - correct book. Its description/TOC do not mention the father passage; that passage is on the deep link https://shamela.ws/book/151180/3 (preface, p.2)."
+  },
+  {
+    "id": "A4-029",
+    "url": "https://shamela.ws/book/7589/196",
+    "status": "ok",
+    "landed_title": "ص211 - كتاب التنبيه في الفقه الشافعي - باب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'وإذا بلغ الصبي سبع سنين وهو يعقل خير بين الأبوين'."
+  },
+  {
+    "id": "A4-049",
+    "url": "https://shamela.ws/book/963/1287",
+    "status": "redirect",
+    "landed_title": "ج4 - ص118 - كتاب إعانة الطالبين على حل ألفاظ فتح المعين - باب النكاح - المكتبة الشاملة",
+    "new_url": "https://shamela.ws/book/963/1286",
+    "note": "Off-by-one deep link. Linked page (ج4 ص118) is in the same custody section but has NO 'عقوق' / 'قطع الرحم' / 'زيارة' text. The cited sentence 'فلا يمنعه من زيارة أمه لئلا يكون ساعيا في العقوق وقطع الرحم' is on the previous page ج4 ص117 = /book/963/1286 (verified). Next page /1288 (ص119) is about slaves' maintenance."
+  },
+  {
+    "id": "A1-038",
+    "url": "https://shamela.ws/book/7360/1786",
+    "status": "ok",
+    "landed_title": "ج4 - ص160 - كتاب الإقناع في فقه الإمام أحمد بن حنبل - فصل وإذا بلغ الغلام سبع سنين - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'والجارية إذا بلغت سبع سنين فأكثر فعند أبيها إلى البلوغ'."
+  },
+  {
+    "id": "A1-040",
+    "url": "https://shamela.ws/book/21731/1137",
+    "status": "ok",
+    "landed_title": "ج3 - ص247 - كتاب الكافي في فقه الإمام أحمد - باب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page states a girl who reaches seven stays with her father without choice because he is better placed to protect her."
+  },
+  {
+    "id": "A1-043",
+    "url": "https://shamela.ws/book/1679/629",
+    "status": "ok",
+    "landed_title": "ص630 - كتاب الروض المربع شرح زاد المستقنع ط المؤيد والرسالة - فصل في تخيير الولد بين أبويه إذا بلغ سبع سنين - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'وأبو الأنثى أحق بها بعد أن تستكمل السبع'."
+  },
+  {
+    "id": "A4-039",
+    "url": "https://shamela.ws/book/21731/1137",
+    "status": "ok",
+    "landed_title": "ج3 - ص247 - كتاب الكافي في فقه الإمام أحمد - باب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page states that if the child chooses the mother he stays with her at night and the father takes him by day for schooling/trade. (Same URL as A1-040.)"
+  },
+  {
+    "id": "A4-040",
+    "url": "https://shamela.ws/book/21731/1137",
+    "status": "ok",
+    "landed_title": "ج3 - ص247 - كتاب الكافي في فقه الإمام أحمد - باب الحضانة - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page states the child is not barred from visiting a sick parent. (Same URL as A1-040.)"
+  },
+  {
+    "id": "A4-050",
+    "url": "https://shamela.ws/book/1679/629",
+    "status": "ok",
+    "landed_title": "ص630 - كتاب الروض المربع شرح زاد المستقنع ط المؤيد والرسالة - فصل في تخيير الولد بين أبويه إذا بلغ سبع سنين - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page contains 'ولا يقر محضون بيد من لا يصونه ويصلحه'. (Same URL as A1-043.)"
+  },
+  {
+    "id": "A4-051",
+    "url": "https://shamela.ws/book/7360/1786",
+    "status": "ok",
+    "landed_title": "ج4 - ص160 - كتاب الإقناع في فقه الإمام أحمد بن حنبل - فصل وإذا بلغ الغلام سبع سنين - المكتبة الشاملة",
+    "new_url": "",
+    "note": "Page quotes Ibn Aqil: the choice is valid only 'مع السلامة من فساد'; a choice made to enable corruption is not acted upon. (Same URL as A1-038.)"
+  },
+  {
+    "id": "A5-141",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-104491",
+    "status": "ok",
+    "landed_title": "CASE OF GLUHAKOVIĆ v. CROATIA (Application no. 21188/09), First Section, 12 April 2011",
+    "new_url": "",
+    "note": "Matches the 2011 entry on time passing and the non-resident father. HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-142",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-96020",
+    "status": "ok",
+    "landed_title": "CASE OF ZAUNEGGER v. GERMANY (Application no. 22028/04), Fifth Section, 3 December 2009",
+    "new_url": "",
+    "note": "Matches the 2009 entry (custody to the mother alone without judicial review = discrimination). HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-143",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-103234",
+    "status": "ok",
+    "landed_title": "CASE OF SPORER v. AUSTRIA (Application no. 35637/03), First Section, 3 February 2011",
+    "new_url": "",
+    "note": "Matches the 2011 joint-custody entry. HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-144",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-57911",
+    "status": "ok",
+    "landed_title": "CASE OF HOKKANEN v. FINLAND (Application no. 19823/92), Chamber, 23 September 1994",
+    "new_url": "",
+    "note": "Matches the 1994 entry (non-enforcement of father's access). HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-145",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-60163",
+    "status": "ok",
+    "landed_title": "CASE OF KUTZNER v. GERMANY (Application no. 46544/99), 26 February 2002",
+    "new_url": "",
+    "note": "Matches the 2002 entry. HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-186",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-58763",
+    "status": "ok",
+    "landed_title": "CASE OF ELSHOLZ v. GERMANY (Application no. 25735/94), Grand Chamber, 13 July 2000",
+    "new_url": "",
+    "note": "Matches the 2000 Grand Chamber entry (five-year-old's refusal / psychological expert). HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-187",
+    "url": "https://hudoc.echr.coe.int/fre?i=001-173368",
+    "status": "ok",
+    "landed_title": "AFFAIRE IMPROTA c. ITALIE (Requête no 66396/14), Première section, 4 mai 2017",
+    "new_url": "",
+    "note": "French original; matches the 2017 entry. HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-187",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-173581",
+    "status": "check",
+    "landed_title": "",
+    "new_url": "",
+    "note": "Could not verify. HUDOC page is a JavaScript SPA (WebFetch returns only the generic shell), and the document conversion endpoints return '[binary data]' for this id (also for a deliberately non-existent id 001-999999), so existence of translation item 001-173581 is unconfirmed. The French original 001-173368 (Improta v. Italy) is verified; 001-173581 is plausibly its English translation but needs a manual look in a browser."
+  },
+  {
+    "id": "A5-188",
+    "url": "https://hudoc.echr.coe.int/fre?i=001-107718",
+    "status": "ok",
+    "landed_title": "AFFAIRE CENGİZ KILIÇ c. TURQUIE (Requête no 16192/06), Deuxième section, 6 décembre 2011",
+    "new_url": "",
+    "note": "French original; matches the 2011 'against Turkey' entry. HUDOC SPA shell loads (generic 'HUDOC - European Court of Human Rights' title); case identity confirmed through the HUDOC conversion endpoint /app/conversion/docx/html/body?library=ECHR&id=<itemid>."
+  },
+  {
+    "id": "A5-188",
+    "url": "https://hudoc.echr.coe.int/eng?i=001-107719",
+    "status": "check",
+    "landed_title": "",
+    "new_url": "",
+    "note": "Could not verify. HUDOC SPA shell only; conversion endpoints return '[binary data]' (also for non-existent ids), so translation item 001-107719 is unconfirmed. Its id is consecutive to the verified French original 001-107718 (Cengiz Kilic v. Turkey), so it is very likely the English translation, but needs a manual look in a browser."
+  },
+  {
+    "id": "A2-036",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16042325&format=json&resultType=core",
+    "status": "blocked_exists",
+    "landed_title": "Assessment of Pubertal Development in Egyptian Girls (via OpenAlex pmid:16042325; Hosny et al., J Pediatr Endocrinol Metab 2005)",
+    "new_url": "",
+    "note": "Europe PMC fetch was rejected by the WebFetch proxy with HTTP 429 (rate limited; told not to re-fetch). PMID confirmed via OpenAlex: title matches the entry (pubertal timing/menarche in an Egyptian sample). The same Europe PMC REST URL pattern returned normally for PMID 31445142, so the link itself is very likely fine."
+  },
+  {
+    "id": "A2-039",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31445142&format=json&resultType=core",
+    "status": "ok",
+    "landed_title": "Age at Pubertal Development in a Hispanic-Latina Female Population: Should the Definitions Be Revisited? (J Pediatr Adolesc Gynecol 2019; Pereira A et al.)",
+    "new_url": "",
+    "note": "Europe PMC JSON returned the record (PMID 31445142). Abstract: 549 Chilean girls (Growth and Obesity Chilean Cohort) followed from age 6; breast stages, pubic hair, menarche timing - consistent with 'sequence of pubertal signs in Chilean girls'. Title wording differs from the card title."
+  },
+  {
+    "id": "A5-132",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23908462&format=json&resultType=core",
+    "status": "blocked_exists",
+    "landed_title": "Social determinants of mental health: a Finnish nationwide follow-up study on mental disorders (via OpenAlex pmid:23908462; Paananen R et al., J Epidemiol Community Health 2013)",
+    "new_url": "",
+    "note": "Europe PMC fetch was rejected by the WebFetch proxy with HTTP 429 (rate limited; told not to re-fetch). PMID confirmed via OpenAlex; abstract (OpenAlex) describes the 1987 Finnish Birth Cohort (N=59,476) and reports parental divorce associated with mental disorders (OR 1.33) - consistent with the card, though the paper's title does not contain the word divorce."
+  },
+  {
+    "id": "A5-182",
+    "url": "https://www.courtlistener.com/opinion/6353892/people-ex-rel-watts-v-watts/",
+    "status": "ok",
+    "landed_title": "People ex rel. Watts v. Watts (N.Y. Fam. Ct., Kooper J.) - page heading shown as '020lead'",
+    "new_url": "",
+    "note": "CourtListener page is the Family Court opinion awarding custody to the father and rejecting the tender-years presumption as outdated sex stereotyping (Fourteenth Amendment / DRL 70, 240). Year not printed on the page but cites 1972-73 authorities, consistent with 1973."
+  },
+  {
+    "id": "A5-183",
+    "url": "https://www.courtlistener.com/opinion/2268645/commonwealth-ex-rel-spriggs-v-carson/",
+    "status": "ok",
+    "landed_title": "Commonwealth ex rel. Spriggs v. Carson (Pa. Supreme Court) - page heading shown as '010combined'",
+    "new_url": "",
+    "note": "Opinion discusses and criticises the tender-years doctrine as resting on stereotyped sex roles and offending sex equality (Pa. equal rights provision). Date not printed on page; cites a 1976 case, consistent with 1977."
+  },
+  {
+    "id": "A5-184",
+    "url": "https://www.courtlistener.com/opinion/1499406/bazemore-v-davis/",
+    "status": "ok",
+    "landed_title": "Bazemore v. Davis, 394 A.2d 1377 (D.C. 1978) (en banc)",
+    "new_url": "",
+    "note": "Opinion rejects a maternal tender-years presumption; contains the 'magic formulas have no place in decisions designed to salvage human values' passage. (Page is 110,948 chars; first 100,000 read.)"
+  },
+  {
+    "id": "A2-050",
+    "url": "https://eric.ed.gov/?id=EJ685646",
+    "status": "ok",
+    "landed_title": "Fathers and Mothers at Play With Their 2- and 3-Year-Olds: Contributions to Language and Cognitive Development (Tamis-LeMonda, Shannon, Cabrera, Lamb; Child Development 75(6), 2004)",
+    "new_url": "",
+    "note": "ERIC record matches the entry."
+  },
+  {
+    "id": "A2-051",
+    "url": "https://eric.ed.gov/?id=EJ695672",
+    "status": "ok",
+    "landed_title": "Early Father's and Mother's Involvement and Child's Later Educational Outcomes (Flouri & Buchanan; Br J Educ Psychol 74(2), 2004)",
+    "new_url": "",
+    "note": "ERIC record matches the entry (father involvement at age 7 predicts attainment by age 20)."
+  },
+  {
+    "id": "A5-013",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13058.htm",
+    "status": "ok",
+    "landed_title": "L13058 - Lei nº 13.058, de 22 de dezembro de 2014 (guarda compartilhada)",
+    "new_url": "",
+    "note": "Official Planalto text; amends Civil Code arts. 1.583, 1.584, 1.585, 1.634 on shared custody."
+  },
+  {
+    "id": "A5-103",
+    "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
+    "status": "ok",
+    "landed_title": "L12318 - Lei nº 12.318, de 26 de agosto de 2010 (alienação parental)",
+    "new_url": "",
+    "note": "Official Planalto text (loaded despite http:// scheme). Ementa: 'Dispõe sobre a alienação parental e altera o art. 236 da Lei nº 8.069'."
+  },
+  {
+    "id": "A2-042",
+    "url": "https://www.luriechildrens.org/en/specialties-conditions/pediatric-occupational-therapy/developmental-milestones/self-care-skills/",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch refused: PROVENANCE_REQUIRED ('URL not in provenance set'), same result on retry. Liveness NOT tested and WebSearch budget was exhausted, so existence not confirmed. Needs checking from a session where the URL is in a user message, or with a browser."
+  },
+  {
+    "id": "A2-016",
+    "url": "https://www.who.int/health-topics/adolescent-health",
+    "status": "ok",
+    "landed_title": "Adolescent health (WHO health topic page)",
+    "new_url": "",
+    "note": "Live WHO page; defines adolescence as 'ages 10 to 19' (phase between childhood and adulthood). It does not literally say 'childhood ends at 10', and does not give the 10-24 youth range - the card's wording is an inference from the 10-19 definition."
+  },
+  {
+    "id": "A2-040",
+    "url": "https://m.jkms.kr/search.php?code=0063JKMS&id=10.3346%2Fjkms.2020.35.e406&vmode=FULL&where=aview",
+    "status": "blocked_exists",
+    "landed_title": "Trend of Menarcheal Age among Korean Girls (via Crossref DOI 10.3346/jkms.2020.35.e406; Seo MY et al., J Korean Med Sci 2020)",
+    "new_url": "https://doi.org/10.3346/jkms.2020.35.e406",
+    "note": "m.jkms.kr link itself was refused by WebFetch (PROVENANCE_REQUIRED, also on retry), so the link was not loaded. The DOI embedded in the URL resolves in Crossref to the matching article. Suggest the DOI link as a safer replacement (DOI resolution itself not fetched)."
+  },
+  {
+    "id": "A5-136",
+    "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-and-Divorce-001.aspx",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch refused: PROVENANCE_REQUIRED, same result on retry. Liveness NOT tested; WebSearch budget exhausted so existence not confirmed. (URL pattern is AACAP Facts for Families guide, 'Children and Divorce' - plausible but unverified.)"
+  },
+  {
+    "id": "A2-065",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.1105403108",
+    "status": "blocked_exists",
+    "landed_title": "Longitudinal evidence that fatherhood decreases testosterone in human males (via OpenAlex doi:10.1073/pnas.1105403108; Gettler et al., PNAS 2011)",
+    "new_url": "",
+    "note": "pnas.org fetch returned a target-side CLIENT_ERROR twice (likely bot protection), so the page was not loaded. DOI confirmed via OpenAlex and the title matches the entry; the DOI link https://doi.org/10.1073/pnas.1105403108 is an equivalent target."
+  },
+  {
+    "id": "A5-114",
+    "url": "https://repositorio.ispa.pt/bitstreams/4af28ec7-f774-43ce-b5a0-a9b48f6630da/download",
+    "status": "blocked",
+    "landed_title": "Making sure you're not a bot! (Anubis proof-of-work interstitial)",
+    "new_url": "",
+    "note": "Repository bitstream is behind an Anubis bot challenge; document not retrievable by WebFetch. Existence of the PDF unconfirmed (WebSearch budget exhausted)."
+  },
+  {
+    "id": "A2-048",
+    "url": "https://spiral.imperial.ac.uk/bitstreams/2e1a884a-be05-43fd-96e4-02fba6b2cd67/download",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch returned a target-side CLIENT_ERROR on two attempts (Imperial Spiral bitstream download); content not retrievable. Existence unconfirmed (an OpenAlex title search for Sethna 2017 was rate-limited, HTTP 429, and was not retried)."
+  },
+  {
+    "id": "A2-054",
+    "url": "https://www.em-consulte.com/article/352611/early-father-involvement-moderates-biobehavioral-s",
+    "status": "ok",
+    "landed_title": "Early Father Involvement Moderates Biobehavioral Susceptibility to Mental Health Problems in Middle Childhood - EM consulte (Boyce et al., JAACAP 45(12), 2006)",
+    "new_url": "",
+    "note": "Abstract page (full text paywalled) matches the entry: low early father involvement + reactivity predicts symptoms at age 9 (measured at age 7)."
+  },
+  {
+    "id": "A2-058",
+    "url": "https://jaapl.org/content/41/1/98",
+    "status": "ok",
+    "landed_title": "Parental Alienation, DSM-5, and ICD-11: Response to Critics | JAAPL (Bernet & Baker; 41(1):98-104, March 2013)",
+    "new_url": "",
+    "note": "Matches the entry."
+  },
+  {
+    "id": "A2-028",
+    "url": "https://edisciplinas.usp.br/pluginfile.php/5064006/mod_label/intro/Bogin_Smith_1996_Evolution%20of%20the%20human%20life%20cycle.pdf",
+    "status": "dead",
+    "landed_title": "Moodle USP: e-Disciplinas (site landing/login page, not the PDF)",
+    "new_url": "",
+    "note": "Anonymous fetch of the Moodle pluginfile.php URL lands on the e-Disciplinas (USP Moodle) home/login page instead of the PDF, i.e. the file needs a Moodle login. The paper itself is Bogin & Smith 1996, 'Evolution of the human life cycle', Am J Hum Biol 8:703-716 - a public copy/DOI should replace this URL (a Crossref DOI lookup was rate-limited, HTTP 429, and not retried)."
+  },
+  {
+    "id": "A5-096",
+    "url": "https://policycommons.net/artifacts/1230188/the-effects-of-father-involvement",
+    "status": "ok",
+    "landed_title": "The Effects of Father Involvement: An Updated Research Summary of the Evidence (Allen & Daly, Univ. of Guelph, May 2007)",
+    "new_url": "",
+    "note": "Policy Commons record matches the entry."
+  },
+  {
+    "id": "A4-061",
+    "url": "https://www.scb.se/en/finding-statistics/statistics-by-subject-area/population-and-living-conditions/living-conditions/children-and-their-families/pong/statistical-news/children-and-their-families-residence-and-support-of-children-with-parents-living-apart",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "Cannot be fetched: the URL is 256 characters and the WebFetch proxy rejects it ('url exceeds the maximum fetchable length', HTTP 403), also without 'www.' (252 chars). A fetch of the parent SCB page was refused as PROVENANCE_REQUIRED. Liveness unverified."
+  },
+  {
+    "id": "A4-067",
+    "url": "https://www.cbs.nl/nl-nl/longread/statistische-trends/2020/meerderheid-gescheiden-ouders-blijft-bij-elkaar-in-de-buurt/1-inleiding",
+    "status": "ok",
+    "landed_title": "1. Inleiding | CBS - 'Meerderheid gescheiden ouders blijft bij elkaar in de buurt' (Statistische Trends, 30 June 2020)",
+    "new_url": "",
+    "note": "Live. Page says 'ruim een kwart van de gescheiden ouders' chooses co-parenting (27% of parents separating in 2010) and 'Bij het merendeel van deze stellen (80 procent) was deze regeling ook twee jaar later nog de dagelijkse praktijk'. Note: the 80% refers to those who chose co-parenting, not to all divorced parents."
+  },
+  {
+    "id": "A5-106",
+    "url": "https://ojp.gov/ncjrs/virtual-library/abstracts/father-absence-and-youth-incarceration",
+    "status": "ok",
+    "landed_title": "Father Absence and Youth Incarceration | Office of Justice Programs (NCJRS abstract; Harper & McLanahan, J Res Adolesc 14(3):369-397, 2004)",
+    "new_url": "",
+    "note": "Matches the entry."
+  },
+  {
+    "id": "A5-131",
+    "url": "https://www.sfu.ac.at/en/news/new-publication-long-term-effects-of-parental-divorce-on-mental-health/",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch refused: PROVENANCE_REQUIRED, same result on retry. Liveness NOT tested; WebSearch budget exhausted so existence not confirmed."
+  },
+  {
+    "id": "A5-020",
+    "url": "https://medicalresearch.com/joint-physical-custody-better-for-childrens-psychological-health/",
+    "status": "ok",
+    "landed_title": "MedicalResearch.com | Joint Physical Custody Better For Children's Psychological Health",
+    "new_url": "",
+    "note": "Q&A with Malin Bergstrom (Karolinska Institutet) on 3- and 5-year-olds in equal shared parenting (Acta Paediatrica, 2017). Page does not say 'Swedish' explicitly but the investigators are Swedish."
+  },
+  {
+    "id": "A5-044",
+    "url": "https://mdsoar.org/handle/11603/5660",
+    "status": "ok",
+    "landed_title": "A Meta-analysis of Parental Satisfaction, Adjustment, and Conflict in Joint Custody and Sole Custody Following Divorce (Bauserman, 2012; MD-SOAR, Stevenson Univ.)",
+    "new_url": "",
+    "note": "Matches the entry (meta-analysis; conflict and relitigation outcomes)."
+  },
+  {
+    "id": "A5-119",
+    "url": "https://www.jstor.org/stable/j.ctt32b7wj",
+    "status": "blocked",
+    "landed_title": "Client Challenge (JSTOR bot-check page)",
+    "new_url": "",
+    "note": "JSTOR serves a 'Client Challenge' page to the fetcher. Crossref lookups for DOI 10.2307/j.ctt32b7wj failed twice (CLIENT_ERROR) and an OpenAlex DOI lookup also failed, so existence of the stable id is unconfirmed (WebSearch budget exhausted)."
+  },
+  {
+    "id": "A5-122",
+    "url": "https://piecestudy.org/wp-content/uploads/2023/09/PIECE-Final-Report-1.pdf",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch refused: PROVENANCE_REQUIRED, same result on retry. Liveness NOT tested; WebSearch budget exhausted so existence not confirmed."
+  },
+  {
+    "id": "A5-173",
+    "url": "https://fad.lu/wp-content/uploads/2020/08/equal-parenting-time-the-case-for-a-legal-presumption_695.pdf",
+    "status": "ok",
+    "landed_title": "Equal Parenting Time: The Case for a Legal Presumption (William V. Fabricius; Oxford Handbook of Children and the Law, 2020)",
+    "new_url": "",
+    "note": "PDF loads and matches the entry."
+  },
+  {
+    "id": "A5-176",
+    "url": "https://www.un.org/en/global-issues/youth",
+    "status": "ok",
+    "landed_title": "Youth | United Nations",
+    "new_url": "",
+    "note": "UN page states youth = persons aged 15-24 for statistical purposes, endorsed by General Assembly resolution 36/28 (1981) - matches."
+  },
+  {
+    "id": "A5-015",
+    "url": "https://en.wikipedia.org/wiki/Kentucky_House_Bill_528",
+    "status": "ok",
+    "landed_title": "Kentucky House Bill 528 (Wikipedia)",
+    "new_url": "",
+    "note": "2018 law creating a rebuttable presumption of joint custody / equal parenting time - matches."
+  },
+  {
+    "id": "A5-035",
+    "url": "https://justice.gc.ca/eng/fl-df/cfl-mdf/dace-clde/div72.html",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch returned ROBOTS_DISALLOWED for justice.gc.ca (not retried). Existence unconfirmed (WebSearch budget exhausted). URL path (/fl-df/cfl-mdf/dace-clde/) suggests the Justice Canada 'Divorce Act changes explained' pages, but that is unverified."
+  },
+  {
+    "id": "A5-098",
+    "url": "https://delhihighcourt.nic.in/files/reports/257.pdf",
+    "status": "ok",
+    "landed_title": "Reforms in Guardianship and Custody Laws in India (Law Commission of India, Report No. 257, May 2015)",
+    "new_url": "",
+    "note": "Full report PDF loads; recommends equal guardianship status for mothers and fathers and joint custody 'in suitable circumstances' (not as a presumption)."
+  },
+  {
+    "id": "A5-017",
+    "url": "https://www.moj.go.jp/MINJI/minji07_00357.html",
+    "status": "ok",
+    "landed_title": "法務省：民法等の一部を改正する法律（父母の離婚後等の子の養育に関する見直し）について〔令和８年４月１日施行〕",
+    "new_url": "",
+    "note": "Official Ministry of Justice page on the 2024 amendment (Act No. 33 of 2024, in force 1 April 2026). The page speaks of revised 親権・監護 rules and does not itself use the term 共同親権."
+  },
+  {
+    "id": "A5-038",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+    "status": "ok",
+    "landed_title": "BOE-A-1889-4763 Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil",
+    "new_url": "",
+    "note": "Consolidated Spanish Civil Code (BOE). Art. 92 is listed in the index; the fetched body stopped at Art. 46, so the guarda-conjunta text itself was not read."
+  },
+  {
+    "id": "A5-152",
+    "url": "https://code.wvlegislature.gov/48-9-102A/",
+    "status": "ok",
+    "landed_title": "West Virginia Code §48-9-102a",
+    "new_url": "",
+    "note": "Official text: rebuttable presumption (preponderance) that equal custodial allocation is in the child's best interest."
+  },
+  {
+    "id": "A5-156",
+    "url": "https://www.ius.uzh.ch/dam/jcr:00000000-573e-dcae-0000-00004dd0afc8/Act303.pdf",
+    "status": "ok",
+    "landed_title": "Islamic Family Law (Federal Territories) Act 1984 (Act 303), reprint incorporating amendments up to 1 January 2006",
+    "new_url": "",
+    "note": "Hosted on ius.uzh.ch. s.84(1): hadhanah right ends at 7 (boy) / 9 (girl), extendable by the court to 9 / 11; s.84(2) passes to the father - matches. (Page is 117,526 chars; first 100,000 read.)"
+  },
+  {
+    "id": "A5-165",
+    "url": "https://acf.gov/ofa/policy-guidance/acf-acf-im-18-01-integrating-approaches-prioritize-and-enhance-father",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch returned a target-side CLIENT_ERROR on two attempts for acf.gov. Liveness unverified. Note the slug ends '...-and-enhance-father' (possibly a truncated slug) - worth a manual check in a browser."
+  },
+  {
+    "id": "A5-031",
+    "url": "https://ks.echr.coe.int/documents/d/echr-ks/contact-rights",
+    "status": "ok",
+    "landed_title": "Key Theme - Rights of the child: Contact rights (ECHR-KS, last updated 28/02/2026)",
+    "new_url": "",
+    "note": "Official ECHR Knowledge Sharing summary of Art. 8 parent-child contact case-law - matches."
+  },
+  {
+    "id": "A5-052",
+    "url": "https://www.courtswv.gov/sites/default/pubfilesmnt/2023-06/ImpactSeparationFamily%20BondSAAR.pdf",
+    "status": "ok",
+    "landed_title": "IMPACT OF SEPARATION ON FAMILY BONDS (Saar & Nelson; West Virginia family court training PDF)",
+    "new_url": "",
+    "note": "PDF loads; discusses attachment and overnight schedules for children of separated parents - matches."
+  },
+  {
+    "id": "A5-148",
+    "url": "https://www.sitios.scjn.gob.mx/derecho-familiar/sites/default/files/jurisprudencias/2021-04/6.%20Resp%201251000.pdf",
+    "status": "ok",
+    "landed_title": "Superior Tribunal de Justiça - REsp 1.251.000/MG (2011/0084897-5), Relatório e Voto, Min. Nancy Andrighi",
+    "new_url": "",
+    "note": "Copy hosted on the Mexican SCJN family-law site; contains 'a guarda compartilhada é o ideal a ser buscado' and holds consensus is not a strict prerequisite. Page shows the rapporteur's report and vote."
+  },
+  {
+    "id": "A1-049",
+    "url": "https://sites.dlib.nyu.edu/viewer/books/aub_aco001343/display?lang=ar",
+    "status": "ok",
+    "landed_title": "مختصر شرح الأحكام الشرعية في الأحوال الشخصية - محمد زيد الأبياني (Egypt, 1330 AH / 1912) - NYU Arabic Collections Online (from AUB)",
+    "new_url": "",
+    "note": "Catalogue/viewer record for al-Abyani's personal-status text - matches the author/work in the entry. Passage on 7/9 not checked inside the PDF."
+  },
+  {
+    "id": "A1-035",
+    "url": "https://islamweb.net/ar/library/content/29/2269/",
+    "status": "ok",
+    "landed_title": "إسلام ويب - البحر الرائق شرح كنز الدقائق - باب الحضانة - الجزء رقم 4",
+    "new_url": "",
+    "note": "Page contains the fatwa on seven following al-Khassaf: 'لأن الأب مأمور بأن يأمره بالصلاة إذا بلغها' (card phrase 'مأمور بأمره بالصلاة' is a paraphrase)."
+  },
+  {
+    "id": "A4-024",
+    "url": "https://books.islam-db.com/book/شرح_الزرقاني_علي_مختصر_خليل_وحاشيه_البناني/2024",
+    "status": "blocked",
+    "landed_title": "",
+    "new_url": "",
+    "note": "WebFetch refused: PROVENANCE_REQUIRED, same result on retry. Liveness NOT tested; WebSearch budget exhausted so existence not confirmed."
+  }
+]

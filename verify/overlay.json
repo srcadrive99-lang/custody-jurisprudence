@@ -1,0 +1,875 @@
+{
+ "ot": {
+  "A2-009": {
+   "text": "School age, like all other age levels, opens with a critical or turning-point period; this was described in the literature as the crisis at age seven before the other age levels were described. It was noted that in making the transition from preschool to school age, the child changes abruptly and becomes more difficult with respect to rearing than he was previously. This is a kind of transitional stage—he is no longer a preschooler and not yet a school child.",
+   "ltr": true,
+   "tt": "«يفتتح سن المدرسة، كسائر المراحل العمرية، بفترة حرجة أو فترة انعطاف؛ وقد وصفت في الأدبيات باسم أزمة السابعة قبل أن توصف المراحل العمرية الأخرى. ولوحظ أن الطفل عند انتقاله من سن ما قبل المدرسة إلى سن المدرسة يتغير فجأة ويصير أصعب في التربية مما كان قبل ذلك. وهذه مرحلة انتقالية من نوع ما: فهو لم يعد طفل ما قبل المدرسة ولم يصر بعد تلميذا.»",
+   "lang": "en"
+  },
+  "A2-026": {
+   "text": "En premier lieu, il s'est trouvé que le stade de développement, débutant vers 11-12 ans et sans cesse retrouvé au cours de nos études antérieures, ne constituait pas simplement un niveau d'achèvement par rapport au stade de 7 à 11 ans (stade d'élaboration des opérations concrètes de la pensée de l'enfant), mais représentait par ailleurs une période de formation aboutissant à un palier d'équilibre vers 14-15 ans.",
+   "ltr": true,
+   "tt": "«أولا: تبين أن مرحلة النمو التي تبدأ نحو 11-12 سنة، والتي وجدناها باستمرار في دراساتنا السابقة، ليست مجرد مستوى اكتمال بالنسبة إلى مرحلة 7 إلى 11 سنة (مرحلة بناء العمليات المحسوسة في تفكير الطفل)، بل تمثل أيضا فترة تكوين تنتهي إلى مستوى من التوازن نحو 14-15 سنة.»",
+   "lang": "en"
+  },
+  "A2-031": {
+   "text": "Conventionally, \"adolescence\" has meant the stage of development that begins with puberty and ends with the economic and social independence of the young person from his or her parents. As I will explain, by that definition, ten to twenty-five isn't far off the mark today. [...] In this book, I use the term \"adolescence\" to refer to the period from ten until twenty-five.",
+   "ltr": true,
+   "tt": "«جرى العرف على أن «المراهقة» هي مرحلة النمو التي تبدأ بالبلوغ وتنتهي باستقلال الشاب اقتصاديا واجتماعيا عن والديه. وكما سأبين، فإن المدى من العاشرة إلى الخامسة والعشرين ليس بعيدا عن الصواب اليوم بهذا التعريف. [...] وفي هذا الكتاب أستعمل لفظ «المراهقة» للدلالة على الفترة من سن 10 إلى سن 25.»",
+   "lang": "en"
+  },
+  "A5-069": {
+   "text": "The most parsimonious explanation of the research findings suggests that a child needs to have the presence of a person to whom he is attached but it is irrelevant whether or not this person is his mother. [...] If it is bond formation which is important (rather than mother-child bond formation), it is in a child's interest to encourage attachment to several people, not just one, so that if one person is away another is present.",
+   "ltr": true,
+   "tt": "«إن أبسط تفسير لنتائج البحوث يدل على أن الطفل يحتاج إلى وجود شخص يتعلق به، لكن لا يهم أن يكون هذا الشخص أمه أو غيرها. [...] وإذا كان المهم هو تكوين الرابطة (لا تكوين رابطة الأم بالطفل خاصة)، فمن مصلحة الطفل أن يشجع على التعلق بعدة أشخاص لا بشخص واحد، حتى إذا غاب أحدهم وجد الآخر.»",
+   "lang": "en"
+  },
+  "A5-097": {
+   "text": "This first ever State of the World's Fathers report brings together key international research findings along with program and policy examples related to men's participation in caregiving [...] Involved fatherhood helps children thrive. As men take on more caregiving, research increasingly confirms that fathers' involvement affects children in much the same ways that mothers' involvement does. [...] Men's participation as fathers and as caregivers also matters tremendously for women's lives.",
+   "ltr": true,
+   "tt": "«يجمع هذا التقرير الأول من نوعه عن حالة آباء العالم أهم نتائج البحوث الدولية مع أمثلة من البرامج والسياسات المتعلقة بمشاركة الرجال في الرعاية [...] إن الأبوة المشاركة تعين الأطفال على الازدهار. ومع تزايد ما يتولاه الرجال من رعاية، تؤكد البحوث أكثر فأكثر أن مشاركة الآباء تؤثر في الأطفال بالطرق نفسها تقريبا التي تؤثر بها مشاركة الأمهات. [...] ومشاركة الرجال كآباء وكمقدمي رعاية مهمة جدا أيضا لحياة النساء.»",
+   "lang": "en"
+  },
+  "A1-004": {
+   "text": "خيرني علي رضي الله عنه بين أمي وعمي، ثم قال لأخ لي أصغر مني: وهذا أيضا لو قد بلغ مبلغ هذا لخيرته. قال الشافعي: قال إبراهيم عن يونس عن عمارة عن علي رضي الله عنه مثله، وقال في الحديث: وكنت ابن سبع أو ثمان سنين",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-009": {
+   "text": "(والحاضنة) أما، أو غيرها (أحق به) أي بالغلام حتى يستغني عن النساء وقدر بسبع وبه يفتى لأنه الغالب ولو اختلفا في سنه، فإن أكل وشرب ولبس واستنجى وحده دفع إليه ولو جبرا وإلا لا … (وغيرهما أحق بها حتى تشتهى) وقدر بتسع وبه يفتى (وعن محمد أن الحكم في الأم والجدة كذلك) وبه يفتى لكثرة الفساد زيلعي.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-011": {
+   "text": "وأما وقت الحضانة التي من قبل النساء فالأم والجدتان أحق بالغلام حتى يستغني عنهن فيأكل وحده ويشرب وحده ويلبس وحده كذا ذكر في ظاهر الرواية وذكر أبو داود بن رشيد عن محمد ويتوضأ وحده يريد به الاستنجاء أي ويستنجي وحده ولم يقدر في ذلك تقديرا وذكر الخصاف سبع سنين أو ثمان سنين أو نحو ذلك.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-010": {
+   "text": "(وعن محمد أن الحكم في الأم والجدة كذلك) وبه يفتى لكثرة الفساد زيلعي. || (قوله: وبه يفتى) قال في البحر بعد نقل تصحيحه: والحاصل أن الفتوى على خلاف ظاهر الرواية. || بل في محرمات المنح: بنت تسع فصاعدا مشتهاة اتفاقا سائحاني.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-006": {
+   "text": "فالأم أحق بالولد أن يكون عندها حتى يستغني عنها، فإن كان غلاما فحتى يأكل وحده ويشرب وحده ويلبس وحده … فأما الغلام إذا استغنى فقد احتاج إلى تعلم أعمال الرجال والأب على ذلك أقدر واحتاج إلى من يثقفه ويؤدبه والأب هو الذي يقوى على ذلك",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A4-007": {
+   "text": "ويؤيده ما في التتارخانية: الولد متى كان عند أحد الأبوين لا يمنع الآخر عن النظر إليه وعن تعهده. اه.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-015": {
+   "text": "والمميز إن افترق أبواه كان عند من اختار منهما فإن كان في أحدهما جنون أو كفر أو رق أو فسق أو نكحت فالحق للآخر",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-024": {
+   "text": "فمال إلى أحد الأبوين، دل على أنه أرفق به، وأشفق عليه، فقدم بذلك وقيدناه بالسبع؛ لأنها أول حال أمر الشرع فيها بمخاطبته بالأمر بالصلاة؛ ولأن الأم قدمت في حال الصغر، لحاجته إلى حمله، ومباشرة خدمته لأنها أعرف بذلك، وأقوم به، فإذا استغنى عن ذلك، تساوى والداه، لقربهما منه، فرجح باختياره.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A4-005": {
+   "text": "وإن كان الغلام عند الأم بعد السبع، لاختياره لها، كان عندها ليلا، ويأخذه الأب نهارا ليسلمه في مكتب، أو في صناعة؛ لأن القصد حظ الغلام وحظه فيما ذكرناه وإن كان عند الأب، كان عنده ليلا ونهارا، ولا يمنع من زيارة أمه؛ لأن منعه من ذلك إغراء بالعقوق، وقطيعة للرحم",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A1-025": {
+   "text": "وأكثر الأولاد إنما جاء فسادهم من قبل الآباء وإهمالهم لهم وترك تعليمهم فرائض الدين وسننه فأضاعوهم صغارا فلم ينتفعوا بأنفسهم ولم ينفعوا آباءهم كبارا",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A2-005": {
+   "text": "ومهما بلغ سن التمييز فينبغي أن لا يسامح في ترك الطهارة والصلاة ويؤمر بالصوم في بعض أيام رمضان ويجنب لبس الديباج والحرير والذهب ويعلم كل ما يحتاج إليه من حدود الشرع",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A3-001": {
+   "text": "الصبي يدعى طفلا حين يسقط من بطن أمه إلى أن يحتلم.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A3-005": {
+   "text": "واصطلاحا: هو وصف يلحق بالإنسان منذ مولده إلى بلوغه الحلم",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A3-002": {
+   "text": "فإذا سقطت رواضعه فهو مثغور عن أبي زيد. فإذا نبتت أسنانه بعد السقوط فهو مثغر بالثاء والتاء عن أبي عمرو. فإذا كاد يجاوز العشر السنين أو جاوزها فهو مترعرع وناشئ. فإذا كاد يبلغ الحلم أو بلغه فهو يافع ومراهق.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A4-006": {
+   "text": "قال: ومما ينبغي أن يعلم أن الشارع ليس عنه نص عام في تقديم أحد الأبوين مطلقا، ولا تخيير الولد بين الأبوين مطلقا، والعلماء متفقون على أنه لا يتعين أحدهما مطلقا، بل لا يقدم ذو العدوان والتفريط على البر العادل المحسن، والله أعلم.",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A2-004": {
+   "text": "وإذا أتى عليه من أحواله ست سنين فيجب أن يقدم إلى المؤدب والمعلم ويدرج أيضا في ذلك ولا يحكم عليه بملازمة الكتاب كرة واحدة",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A2-010": {
+   "text": "Data were analyzed for 17 077 girls, of whom 9.6% were African-American and 90.4% white. […] The mean ages of onset of breast development for African-American and white girls were 8.87 years (SD, 1.93) and 9.96 years (SD, 1.82), respectively; and for pubic hair development, 8.78 years (SD, 2.00) and 10.51 years (SD, 1.67), respectively.",
+   "ltr": true,
+   "tt": "«حللت البيانات ل 17077 فتاة، منهن 9.6% أمريكيات من أصل إفريقي و90.4% بيض. [...] وكان متوسط سن بدء نمو الثدي عند الفتيات الأمريكيات من أصل إفريقي والبيض 8.87 سنة (انحراف معياري 1.93) و9.96 سنة (انحراف معياري 1.82) على الترتيب؛ وبدء نمو شعر العانة 8.78 سنة (انحراف معياري 2.00) و10.51 سنة (انحراف معياري 1.67) على الترتيب.»",
+   "lang": "en"
+  },
+  "A2-011": {
+   "text": "Median age at onset of breast stage 2 was 8.8, 9.3, 9.7, and 9.7 years for African American, Hispanic, white non-Hispanic, and Asian participants, respectively. Girls with greater BMI reached breast stage 2 at younger ages.",
+   "ltr": true,
+   "tt": "«كان الوسيط [القيمة الوسطى] لسن بدء المرحلة الثانية من نمو الثدي 8.8 و9.3 و9.7 و9.7 سنة عند المشاركات الأمريكيات من أصل إفريقي، ومن أصل إسباني، والبيض غير الإسبانيات، والآسيويات على الترتيب. وبلغت الفتيات ذوات مؤشر كتلة الجسم الأعلى المرحلة الثانية من نمو الثدي في سن أصغر.»",
+   "lang": "en"
+  },
+  "A2-012": {
+   "text": "Onset of puberty, defined as mean estimated age at attainment of glandular breast tissue (Tanner breast stage 2+), occurred significantly earlier in the 2006 cohort (estimated mean age: 9.86 years) when compared with the 1991 cohort (estimated mean age: 10.88 years). The difference remained significant after adjustment for BMI.",
+   "ltr": true,
+   "tt": "«بدء البلوغ، المعرف بمتوسط السن المقدر لظهور نسيج الثدي الغدي (المرحلة الثانية فأعلى من مراحل تانر للثدي)، حدث أبكر بفارق واضح في مجموعة 2006 (متوسط السن المقدر: 9.86 سنة) مقارنة بمجموعة 1991 (متوسط السن المقدر: 10.88 سنة). وبقي الفارق قائما بعد مراعاة مؤشر كتلة الجسم.»",
+   "lang": "en"
+  },
+  "A2-013": {
+   "text": "Overall, the age at thelarche decreased 0.24 years (95% CI, −0.44 to −0.04) (almost 3 months) per decade from 1977 to 2013 (P = .02). […] The age at thelarche has decreased a mean of almost 3 months per decade from 1977 to 2013.",
+   "ltr": true,
+   "tt": "«إجمالا، انخفض سن بدء نمو الثدي بمقدار 0.24 سنة (فاصل الثقة 95%: من −0.44 إلى −0.04) (أي نحو 3 أشهر) في كل عقد من 1977 إلى 2013. [...] انخفض سن بدء نمو الثدي بمتوسط نحو 3 أشهر في كل عقد من 1977 إلى 2013.»",
+   "lang": "en"
+  },
+  "A2-022": {
+   "text": "The first sign of puberty (i.e. either breast or pubic hair development) appeared between the ages of 8·5 years and 13 years in 95% of girls, and the breasts reached the mature stage between 11·8 and 18·9 years.",
+   "ltr": true,
+   "tt": "«ظهرت أول علامة من علامات البلوغ (أي نمو الثدي أو شعر العانة) بين سن 8.5 سنة و13 سنة عند 95% من الفتيات، وبلغ الثدي مرحلة النضج بين 11.8 و18.9 سنة.»",
+   "lang": "en"
+  },
+  "A2-025": {
+   "text": "A majority of the panelists agreed that data are sufficient to suggest a trend toward an earlier breast development onset and menarche in girls but not for other female pubertal markers.",
+   "ltr": true,
+   "tt": "«اتفق أكثر أعضاء اللجنة على أن البيانات كافية لترجيح اتجاه نحو تبكير بدء نمو الثدي وسن الحيض الأول عند الفتيات، لا في غيرهما من علامات البلوغ عند الإناث.»",
+   "lang": "en"
+  },
+  "A2-015": {
+   "text": "Earlier puberty has accelerated the onset of adolescence in nearly all populations, while understanding of continued growth has lifted its endpoint age well into the 20s.",
+   "ltr": true,
+   "tt": "«عجل تبكير البلوغ بداية المراهقة في جميع المجتمعات تقريبا، في حين رفع فهم استمرار النمو سن نهايتها إلى ما بعد العشرين بكثير.»",
+   "lang": "en"
+  },
+  "A5-061": {
+   "text": "The twentieth century has been characterized by four important social trends that have fundamentally changed the social cultural context in which children develop: women's increased labor force participation, increased absence of nonresidential fathers in the lives of their children, increased involvement of fathers in intact families, and increased cultural diversity in the U.S.",
+   "ltr": true,
+   "tt": "«اتسم القرن العشرون بأربعة اتجاهات اجتماعية مهمة غيرت تغييرا جوهريا السياق الاجتماعي والثقافي الذي ينمو فيه الأطفال: ازدياد مشاركة النساء في سوق العمل، وازدياد غياب الآباء غير المقيمين عن حياة أبنائهم، وازدياد مشاركة الآباء في الأسر المتماسكة، وازدياد التنوع الثقافي في الولايات المتحدة.»",
+   "lang": "en"
+  },
+  "A5-062": {
+   "text": "Based on this research, it is argued that traditional visiting patterns and guidelines are, for the majority of children, outdated, unnecessarily rigid, restrictive, and fail in both the short and long term to address their best interests.",
+   "ltr": true,
+   "tt": "«بناء على هذه البحوث، يذهب المقال إلى أن أنماط الزيارة التقليدية وقواعدها الإرشادية، بالنسبة لأكثر الأطفال، قد عفا عليها الزمن، وأنها جامدة ومقيدة بلا داع، وتخفق في المدى القريب والبعيد في تحقيق مصلحتهم الفضلى.»",
+   "lang": "en"
+  },
+  "A5-063": {
+   "text": "This can be avoided by developing parenting plans that continue to ensure that children have regular interaction with both parents in a broad array of contexts. Overnight periods provide opportunities for many important interactions.",
+   "ltr": true,
+   "tt": "«ويمكن تجنب ذلك [تضرر الطفل بانقطاع صلته بأحد والديه] بوضع خطط رعاية تضمن استمرار تفاعل الأطفال تفاعلا منتظما مع كلا الوالدين في طائفة واسعة من السياقات. وتتيح فترات المبيت فرصا لكثير من التفاعلات المهمة.»",
+   "lang": "en"
+  },
+  "A5-070": {
+   "text": "Infants showed no preference for either parent in the display of attachment behaviors, though both parents were consistently differentiated from a relatively unfamiliar investigator on these measures. This indicates that infants were clearly attached to both parents from the beginning of attachment relations.",
+   "ltr": true,
+   "tt": "«لم يبد الرضع تفضيلا لأي من الوالدين في إظهار سلوكيات التعلق، مع أنهم ميزوا كلا الوالدين على الدوام من باحث غير مألوف نسبيا في هذه المقاييس. وهذا يدل على أن الرضع كانوا متعلقين بوضوح بكلا الوالدين منذ بداية علاقات التعلق.»",
+   "lang": "en"
+  },
+  "A5-072": {
+   "text": "Dimensions of adolescents' attachment representations were predicted by fathers' play sensitivity only. The results confirmed our main assumption that fathers' play sensitivity is a better predictor of the child's long-term attachment representation than the early infant–father security of attachment.",
+   "ltr": true,
+   "tt": "«لم يتنبأ بأبعاد تصور التعلق عند المراهقين إلا حساسية الأب في اللعب [اللعب الحساس المتحدي]. وأكدت النتائج فرضيتنا الرئيسية بأن حساسية الأب في اللعب أفضل في التنبؤ بتصور الطفل للتعلق على المدى البعيد من أمان تعلق الرضيع بأبيه في سنواته الأولى.»",
+   "lang": "en"
+  },
+  "A5-073": {
+   "text": "The comparison of mother-child and father-child interactions suggests that fathers play a particularly important role in the development of children's openness to the world. Men seem to have a tendency to excite, surprise, and momentarily destabilize children; they also tend to encourage children to take risks, while at the same time ensuring the latter's safety and security, thus permitting children to learn to be braver in unfamiliar situations, as well as to stand up for themselves.",
+   "ltr": true,
+   "tt": "«توحي المقارنة بين تفاعلات الأم مع الطفل وتفاعلات الأب مع الطفل بأن للآباء دورا مهما على نحو خاص في تنمية انفتاح الأطفال على العالم. ويبدو أن الرجال يميلون إلى إثارة الأطفال ومفاجأتهم وزعزعة توازنهم لحظيا؛ كما يميلون إلى تشجيعهم على المخاطرة مع ضمان سلامتهم وأمنهم في الوقت نفسه، مما يتيح للأطفال أن يتعلموا الجرأة في المواقف غير المألوفة، وأن يدافعوا عن أنفسهم.»",
+   "lang": "en"
+  },
+  "A5-074": {
+   "text": "Father involvement at age 7 protected against psychological maladjustment in adolescents from non-intact families, and father involvement at age 16 protected against psychological distress in adult women.",
+   "ltr": true,
+   "tt": "«كان انخراط الأب في سن 7 سنوات واقيا من الاضطراب النفسي عند المراهقين من الأسر غير المتماسكة، وكان انخراط الأب في سن 16 سنة واقيا من الضيق النفسي عند النساء البالغات.»",
+   "lang": "en"
+  },
+  "A5-075": {
+   "text": "Much of this evidence suggests that the influence of father love on offspring's development is as great as and occasionally greater than the influence of mother love. Some studies conclude that father love is the sole significant predictor of specific outcomes after controlling for the influence of mother love.",
+   "ltr": true,
+   "tt": "«يوحي كثير من هذه الأدلة بأن أثر محبة الأب في نمو الأبناء يساوي أثر محبة الأم، ويزيد عليه أحيانا. وتخلص بعض الدراسات إلى أن محبة الأب هي العامل الوحيد ذو الدلالة في التنبؤ بنتائج معينة بعد مراعاة أثر محبة الأم.»",
+   "lang": "en"
+  },
+  "A5-081": {
+   "text": "Many studies have shown that adjustment is largely affected by differences in the quality of parenting and parent–child relationships, the quality of the relationships between the parents and the richness of the economic and social resources available to the family; more recent research signals the importance of congenital differences as well.",
+   "ltr": true,
+   "tt": "«أظهرت دراسات كثيرة أن توافق الطفل يتأثر إلى حد كبير بالفروق في جودة الرعاية وجودة علاقة الوالدين بالطفل، وبجودة العلاقة بين الوالدين، وبوفرة الموارد الاقتصادية والاجتماعية المتاحة للأسرة؛ وتشير بحوث أحدث إلى أهمية الفروق الخلقية [الموروثة] أيضا.»",
+   "lang": "en"
+  },
+  "A5-087": {
+   "text": "Consistent with attachment theory, the evidence suggests that children benefit when parenting plans allow them to maintain meaningful and positive relationships with both of their parents.",
+   "ltr": true,
+   "tt": "«واتساقا مع نظرية التعلق، تشير الأدلة إلى أن الأطفال ينتفعون حين تتيح لهم خطط الرعاية الحفاظ على علاقات ذات معنى وإيجابية مع كلا والديهم.»",
+   "lang": "en"
+  },
+  "A5-095": {
+   "text": "Results revealed that non-residential fathers (n = 225) were less supportive and controlling than fathers in joint custody (n = 138) and married fathers (n = 224). Nevertheless, having a supportive father was beneficial to children's self-esteem in each family structure. We conclude that, even after a divorce, fathers have the capacity to enhance children's self-esteem and we suggest that future research should investigate this capacity.",
+   "ltr": true,
+   "tt": "«كشفت النتائج أن الآباء غير المقيمين مع أبنائهم (225 أبا) كانوا أقل دعما ومتابعة من الآباء في الحضانة المشتركة (138 أبا) ومن الآباء المتزوجين (224 أبا). ومع ذلك كان وجود أب داعم نافعا لتقدير الأبناء لأنفسهم في كل أنواع الأسر. ونخلص إلى أن الآباء، حتى بعد الطلاق، قادرون على رفع تقدير أبنائهم لأنفسهم، ونقترح أن تبحث الدراسات المقبلة هذه القدرة.»",
+   "lang": "en"
+  },
+  "A5-104": {
+   "text": "He shows that children growing up with two continuously married parents are less likely to experience a wide range of cognitive, emotional, and social problems, not only during childhood but also in adulthood. [...] He shows that compared with other children, those who grow up in stable, two-parent families have a higher standard of living, receive more effective parenting, experience more cooperative co-parenting, are emotionally closer to both parents, and are subjected to fewer stressful events and circumstances.",
+   "ltr": true,
+   "tt": "«يبين [أماتو] أن الأطفال الذين ينشؤون مع والدين مستمرين في زواجهما أقل عرضة لطائفة واسعة من المشكلات الذهنية والعاطفية والاجتماعية، لا في الطفولة فحسب بل في الرشد أيضا. [...] ويبين أن الأطفال الذين ينشؤون في أسر مستقرة ذات والدين، مقارنة بغيرهم، يتمتعون بمستوى معيشة أعلى، ويتلقون تربية أكثر فاعلية، ويعيشون تعاونا أكبر بين والديهم، وهم أقرب عاطفيا إلى كلا الوالدين، ويتعرضون لأحداث وظروف ضاغطة أقل.»",
+   "lang": "en"
+  },
+  "A5-109": {
+   "text": "A qualitative retrospective study was conducted on 38 adults who experienced parental alienation as a child. [...] Results revealed seven major areas of impact: (1) low self-esteem, (2) depression, (3) drug/alcohol abuse, (4) lack of trust, (5) alienation from own children, (6) divorce, and (7) other.",
+   "ltr": true,
+   "tt": "«أجريت دراسة وصفية استرجاعية على 38 بالغا عانوا في طفولتهم من التنفير من أحد الوالدين. [...] وكشفت النتائج عن سبعة مجالات رئيسية للأثر: (1) تدني تقدير الذات، (2) الاكتئاب، (3) تعاطي المخدرات أو الكحول، (4) انعدام الثقة، (5) الانفصال عن أبنائهم هم، (6) الطلاق، (7) آثار أخرى.»",
+   "lang": "en"
+  },
+  "A5-110": {
+   "text": "The impact of father absence on early sexual activity and teenage pregnancy was investigated in longitudinal studies in the United States (N = 242) and New Zealand (N = 520), in which community samples of girls were followed prospectively from early in life (5 years) to approximately age 18. Greater exposure to father absence was strongly associated with elevated risk for early sexual activity and adolescent pregnancy.",
+   "ltr": true,
+   "tt": "«درس أثر غياب الأب في النشاط الجنسي المبكر والحمل في سن المراهقة في دراستي متابعة في الولايات المتحدة (242 بنتا) ونيوزيلندا (520 بنتا)، تتبعت فيهما عينات من البنات من سن 5 سنوات إلى نحو 18 سنة. وكان التعرض الأكبر لغياب الأب مرتبطا ارتباطا قويا بارتفاع خطر النشاط الجنسي المبكر والحمل في المراهقة.»",
+   "lang": "en"
+  },
+  "A5-022": {
+   "text": "Children in joint physical or legal custody were better adjusted than children in sole-custody settings, but no different from those in intact families. More positive adjustment of joint-custody children held for separate comparisons of general adjustment, family relationships, self-esteem, emotional and behavioral adjustment, and divorce-specific adjustment. Joint-custody parents reported less current and past conflict than sole-custody parents, but this did not explain the better adjustment of joint-custody children.",
+   "ltr": true,
+   "tt": "«كان الأطفال في الحضانة المشتركة، البدنية أو القانونية، أحسن توافقا من الأطفال في الحضانة المنفردة، ولم يختلفوا عن أطفال الأسر المتماسكة. وثبت التوافق الأفضل لأطفال الحضانة المشتركة في مقارنات منفصلة للتوافق العام، والعلاقات الأسرية، وتقدير الذات، والتوافق العاطفي والسلوكي، والتوافق الخاص بالطلاق. وأبلغ والدو الحضانة المشتركة عن نزاع حالي وسابق أقل من والدي الحضانة المنفردة، لكن ذلك لم يفسر التوافق الأفضل لأطفال الحضانة المشتركة.»",
+   "lang": "en"
+  },
+  "A5-024": {
+   "text": "In the 60 studies published in English in academic journals or in government reports, 34 studies found that JPC children had better outcomes on all of the measures of behavioral, emotional, physical, and academic well-being and relationships with parents and grandparents. [...] In sum, independent of family income or parental conflict, JPC is generally linked to better outcomes for children.",
+   "ltr": true,
+   "tt": "«في الدراسات الستين المنشورة بالإنجليزية في المجلات العلمية أو التقارير الحكومية، وجدت 34 دراسة أن أطفال الإقامة المشتركة كانت نتائجهم أفضل في جميع مقاييس السلامة السلوكية والعاطفية والبدنية والدراسية وفي علاقاتهم بالوالدين والأجداد. [...] وخلاصة القول: بصرف النظر عن دخل الأسرة أو النزاع بين الوالدين، ترتبط الإقامة المشتركة عموما بنتائج أفضل للأطفال.»",
+   "lang": "en"
+  },
+  "A5-046": {
+   "text": "The more time children lived with their fathers after divorce, the better their current relationships were with their fathers, independent of parent conflict. [...] There was no interaction between exposure to parent conflict and time with father; thus, more time with father was beneficial in both high- and low-conflict families, and more exposure to parent conflict was detrimental at both high and low levels of time with father.",
+   "ltr": true,
+   "tt": "«كلما زاد الوقت الذي عاشه الأبناء مع آبائهم بعد الطلاق كانت علاقتهم الحالية بآبائهم أفضل، بصرف النظر عن النزاع بين الوالدين. [...] ولم يكن هناك تفاعل بين التعرض لنزاع الوالدين والوقت مع الأب؛ أي أن زيادة الوقت مع الأب كانت نافعة في الأسر الشديدة النزاع والقليلة النزاع على السواء، وأن زيادة التعرض لنزاع الوالدين كانت ضارة سواء قل الوقت مع الأب أو كثر.»",
+   "lang": "en"
+  },
+  "A5-047": {
+   "text": "Impaired communication with both mother and father was significantly less likely in joint physical custody than in other non-intact families. Impaired communication with mother was equally prevalent in intact families and joint physical custody families, while impaired communication with father was in fact less prevalent in joint physical custody than in intact families.",
+   "ltr": true,
+   "tt": "«كان ضعف التواصل مع الأم والأب معا أقل احتمالا بدرجة ملحوظة في الإقامة المشتركة منه في الأسر الأخرى غير المتماسكة. وكان ضعف التواصل مع الأم متساوي الشيوع في الأسر المتماسكة وأسر الإقامة المشتركة، بينما كان ضعف التواصل مع الأب أقل شيوعا في الواقع في الإقامة المشتركة منه في الأسر المتماسكة.»",
+   "lang": "en"
+  },
+  "A5-048": {
+   "text": "On the basis of this comprehensive review we conclude that JPC probably does cause benefits to children on average, and that social scientists can now provisionally recommend rebuttably presumptive JPC to policymakers.",
+   "ltr": true,
+   "tt": "«على أساس هذه المراجعة الشاملة نخلص إلى أن الإقامة المشتركة تسبب على الأرجح منافع للأطفال في المتوسط، وأن علماء الاجتماع يستطيعون الآن أن يوصوا صناع السياسات، توصية أولية، بجعل الإقامة المشتركة أصلا مفترضا قابلا لإثبات العكس».",
+   "lang": "en"
+  },
+  "A5-056": {
+   "text": "We ask whether children in shared physical custody settings are more likely to report high levels of stress compared to children living in sole custody. [...] The results show that children sharing residence equally have lower likelihood of experiencing high levels of stress. The results can be interpreted as evidence for a positive effect of continuing everyday-like parental relationships after a family dissolution.",
+   "ltr": true,
+   "tt": "«نسأل: هل الأطفال في الحضانة المشتركة أكثر احتمالا للإبلاغ عن مستويات عالية من الضغط النفسي مقارنة بالأطفال الذين يعيشون في حضانة أحد الوالدين؟ [...] وتبين النتائج أن الأطفال الذين يتقاسمون الإقامة بالتساوي بين الوالدين أقل احتمالا لأن يعانوا مستويات عالية من الضغط النفسي. ويمكن تفسير النتائج على أنها دليل على أثر إيجابي لاستمرار علاقة يومية طبيعية بالوالدين بعد تفكك الأسرة.»",
+   "lang": "en"
+  },
+  "A5-064": {
+   "text": "Recent research does not support the idea that conflict—including high legal conflict—should rule out joint physical custody as the arrangement that best serves children's interests. [...] Conflict and poor coparenting are not linked to worse outcomes for children in joint physical custody than in sole physical custody. The quality of the parent–child relationship is a better predictor than conflict of children's outcomes, with the exception of the most extreme forms of conflict to which some children are exposed.",
+   "ltr": true,
+   "tt": "«لا تؤيد البحوث الحديثة فكرة أن النزاع، بما فيه النزاع القضائي الشديد، ينبغي أن يستبعد الإقامة المشتركة بوصفها الترتيب الذي يخدم مصالح الأطفال على أفضل وجه. [...] والنزاع وسوء تعاون الوالدين لا يرتبطان بنتائج أسوأ للأطفال في الإقامة المشتركة منها في الحضانة المنفردة. وجودة علاقة الطفل بوالديه أقدر على التنبؤ بنتائج الأطفال من النزاع، باستثناء أشد صور النزاع التي يتعرض لها بعض الأطفال.»",
+   "lang": "en"
+  },
+  "A5-078": {
+   "text": "Students endorsed living arrangements that gave them equal time with their fathers, they had better outcomes when they had such arrangements and when their parents supported their time with the other parent, they experienced disagreement between mothers and fathers over living arrangements, and they gave evidence of their fathers' continuing commitment to them into their young adult years.",
+   "ltr": true,
+   "tt": "«أيد الطلاب ترتيبات الإقامة التي تعطيهم وقتا متساويا مع آبائهم، وكانت نتائجهم أفضل حين كانت لهم مثل هذه الترتيبات وحين دعم والداهم وقتهم مع الطرف الآخر، وعاشوا خلافا بين الأمهات والآباء حول ترتيبات الإقامة، وقدموا ما يدل على استمرار التزام آبائهم بهم إلى سنوات شبابهم.»",
+   "lang": "en"
+  },
+  "A5-080": {
+   "text": "In the Netherlands between 1998 and 2008, joint physical custody after divorce (when children actually have shared residences) has increased from 5% to 16%. [...] The main conclusion is that, on average, the effects of joint physical custody for children, mothers, and especially for fathers, are slightly positive.",
+   "ltr": true,
+   "tt": "«في هولندا بين 1998 و2008 ارتفعت نسبة الإقامة المشتركة بعد الطلاق (حين يقيم الأطفال فعلا في بيتي الوالدين) من 5% إلى 16%. [...] والخلاصة الرئيسية أن آثار الإقامة المشتركة في الأطفال والأمهات، وفي الآباء خاصة، إيجابية طفيفة في المتوسط.»",
+   "lang": "en"
+  },
+  "A5-083": {
+   "text": "No coherent theory or research confirms speculations that fathers' overnight care poses greater risks to their young children than daytime care, or that overnights are contraindicated if opposed by the mother. Theory, research, and practical considerations support the benefits of overnights.",
+   "ltr": true,
+   "tt": "«لا توجد نظرية متماسكة ولا بحث يؤكد الظنون القائلة بأن رعاية الأب لصغاره ليلا تحمل مخاطر أكبر من رعايتهم نهارا، أو أن المبيت ممنوع إذا عارضته الأم. والنظرية والبحث والاعتبارات العملية تؤيد منافع المبيت.»",
+   "lang": "en"
+  },
+  "A5-085": {
+   "text": "Children in JPC report better well-being and mental health than children who live mostly or only with 1 parent. No Swedish studies have found children's health to be worse in JPC than in sole parental care from child age of 3 years and beyond.",
+   "ltr": true,
+   "tt": "«يبلغ الأطفال في الحضانة المشتركة عن رفاه وصحة نفسية أفضل من الأطفال الذين يعيشون في الغالب أو كليا مع أحد الوالدين. ولم تجد أي دراسة سويدية أن صحة الأطفال في الحضانة المشتركة أسوأ منها في رعاية أحد الوالدين وحده من سن 3 سنوات فما فوق.»",
+   "lang": "en"
+  },
+  "A5-005": {
+   "text": "Every child who is separated from one or both parents shall have the right to maintain personal relations and direct contact with both parents on a regular basis.",
+   "ltr": true,
+   "tt": "«لكل طفل منفصل عن أحد والديه أو عن كليهما الحق في أن يحتفظ بصورة منتظمة بعلاقات شخصية واتصال مباشر بكلا والديه.»",
+   "lang": "en"
+  },
+  "A5-018": {
+   "text": "حضانة الأبناء حق مشترك ومتساو للأب والأم بعد وقوع الطلاق / الأصل في حضانة الأبناء هو اشتراك الأب والأم معا في مسؤولية تربية الأبناء بعد وقوع الطلاق، ما لم يطلب أحدهما التنازل كتابة أمام المحكمة عن حقه في الحضانة أو تقديم طلب للمحكمة بعزل الطرف الآخر من الحضانة المشتركة وإسقاط حقه في الحضانة",
+   "ltr": false,
+   "tt": "",
+   "lang": "ar"
+  },
+  "A5-036": {
+   "text": "Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van artikel 251b, eerste lid, of een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.",
+   "ltr": true,
+   "tt": "«الطفل الذي يمارس والداه الولاية عليه معا يحتفظ، بعد حل الزواج بغير الوفاة أو بعد الانفصال الجسدي، أو بعد حل الشراكة المسجلة بغير الوفاة، أو بعد انتهاء المعاشرة إذا كان الوالدان يمارسان الولاية معا بموجب المادة 251b الفقرة 1 أو سجل قيد بالمعنى الوارد في المادة 252 الفقرة 1، بالحق في رعاية وتربية متكافئتين من كلا الوالدين.»",
+   "lang": "nl"
+  },
+  "A5-039": {
+   "text": "Quando corresponder ao superior interesse da criança e ponderadas todas as circunstâncias relevantes, o tribunal pode determinar a residência alternada do filho com cada um dos progenitores, independentemente de mútuo acordo nesse sentido e sem prejuízo da fixação da prestação de alimentos.",
+   "ltr": true,
+   "tt": "«عندما يوافق ذلك مصلحة الطفل الفضلى، وبعد الموازنة بين جميع الظروف ذات الصلة، يجوز للمحكمة أن تقرر الإقامة المتناوبة للابن عند كل من والديه، بصرف النظر عن وجود اتفاق متبادل بذلك، ودون إخلال بتحديد نفقة [الطفل].»",
+   "lang": "pt"
+  },
+  "A5-040": {
+   "text": "(iv)(a) In an action concerning an original child custody determination in a divorce or paternity matter, there is a rebuttable presumption that joint custody is in the best interest of the child. (b) The presumption that joint custody is in the best interest of the child may be rebutted: (1) If the court finds by clear and convincing evidence that joint custody is not in the best interest of the child; — and § 9-13-101(a)(5): \"joint custody\" means the approximate and reasonable equal division of time with the child by both parents individually as agreed to by the parents or as ordered by the court.",
+   "ltr": true,
+   "tt": "«(iv)(a) في الدعوى المتعلقة بتقرير حضانة الطفل لأول مرة في قضية طلاق أو نسب، يوجد افتراض قابل للدحض بأن الحضانة المشتركة في مصلحة الطفل الفضلى. (b) يجوز دحض افتراض أن الحضانة المشتركة في مصلحة الطفل الفضلى: (1) إذا وجدت المحكمة بدليل واضح ومقنع أن الحضانة المشتركة ليست في مصلحة الطفل الفضلى؛ — وتعني «الحضانة المشتركة» [في هذه المادة] تقسيم الوقت مع الطفل تقسيما متساويا تقريبا ومعقولا بين الوالدين كل على حدة، بحسب اتفاق الوالدين أو بحسب ما تأمر به المحكمة.»",
+   "lang": "en"
+  }
+ },
+ "links": {
+  "A1-001": {
+   "url": "https://sunnah.com/abudawud:495",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A1-002": {
+   "url": "https://sunnah.com/tirmidhi:407",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A1-004": {
+   "url": "https://shamela.ws/book/7861/18022",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-003": {
+   "url": "https://sunnah.com/nasai:3496",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A1-005": {
+   "url": "https://shamela.ws/book/84/3398",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-023": {
+   "url": "https://sunnah.com/bukhari:893",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A3-007": {
+   "url": "https://sunnah.com/abudawud:4403",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A3-008": {
+   "url": "https://shamela.ws/book/1711/2822",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A4-003": {
+   "url": "https://sunnah.com/bukhari:5984",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A4-004": {
+   "url": "https://sunnah.com/muslim:2555",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A4-012": {
+   "url": "https://sunnah.com/bukhari:2067",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A4-056": {
+   "url": "https://sunnah.com/abudawud:1692",
+   "label": "النص في مصدره",
+   "site": "موقع السنة",
+   "domain": "sunnah.com"
+  },
+  "A1-007": {
+   "url": "https://shamela.ws/book/11820/378",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-009": {
+   "url": "https://shamela.ws/book/21613/1848",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-011": {
+   "url": "https://shamela.ws/book/8183/952",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-010": {
+   "url": "https://shamela.ws/book/21613/1849",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-012": {
+   "url": "https://shamela.ws/book/11820/921",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-006": {
+   "url": "https://shamela.ws/book/5423/1119",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A4-007": {
+   "url": "https://shamela.ws/book/21613/1853",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-046": {
+   "url": "https://archive.org/details/Resalh_Mofasalh",
+   "label": "النص في مصدره",
+   "site": "أرشيف الإنترنت",
+   "domain": "archive.org"
+  },
+  "A1-016": {
+   "url": "https://shamela.ws/book/11444/2394",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-015": {
+   "url": "https://shamela.ws/book/12096/297",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A4-008": {
+   "url": "https://shamela.ws/book/12096/297",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A4-009": {
+   "url": "https://shamela.ws/book/11444/2395",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-013": {
+   "url": "https://shamela.ws/book/2977/175",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-014": {
+   "url": "https://shamela.ws/book/8463/3617",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-024": {
+   "url": "https://shamela.ws/book/8463/3616",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A4-005": {
+   "url": "https://shamela.ws/book/8463/3618",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-027": {
+   "url": "https://shamela.ws/book/21713/2312",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-044": {
+   "url": "https://shamela.ws/book/9472/818",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-045": {
+   "url": "https://shamela.ws/book/6266/227",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-025": {
+   "url": "https://shamela.ws/book/6266/227",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A2-005": {
+   "url": "https://shamela.ws/book/9472/819",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A3-001": {
+   "url": "https://shamela.ws/book/1687/5580",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A3-005": {
+   "url": "https://shamela.ws/book/11430/16645",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A3-002": {
+   "url": "https://shamela.ws/book/11235/64",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A4-006": {
+   "url": "https://shamela.ws/book/21713/2313",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "A1-030": {
+   "url": "https://shamela.ws/book/432/684",
+   "label": "نص المادة 391 في فتوى رسمية",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  }
+ },
+ "retire": {
+  "A5-051": "المطابقة: فريق رابطة محاكم الأسرة رفض صراحة افتراض قانوني لتوزيع محدد للوقت بين الوالدين، فهو حجة على الرعاية المشتركة بالمناصفة.",
+  "A5-050": "المطابقة: ملخص المراجعة يقرر أن مخاطر الإقامة المشتركة ومنافعها «لم تتضح بعد».",
+  "A5-086": "المطابقة: الباحث يخلص إلى أن الإقامة المشتركة لا تنفع إلا حين يكون النزاع بين الوالدين منخفضا.",
+  "A5-049": "المطابقة: التحليل وجد أن تكرار التواصل مع الأب غير المقيم لا يرتبط بنتائج الأطفال.",
+  "A5-092": "المطابقة: المراهقون في الإقامة المشتركة كانوا كأقرانهم في أسر الأم المنفردة لا أحسن منهم.",
+  "A5-094": "المطابقة: الملخص يجعل حال أطفال الإقامة المشتركة «مماثلا» لا أحسن، وقد يسوء مع النزاع.",
+  "A5-084": "المطابقة: في مقدمة الكتاب أن الأدلة لا تكفي بعد لتقرير نفع الإقامة المشتركة على الحضانة المنفردة.",
+  "A5-096": "المطابقة: التقرير يقدم الجودة على الكم ويقرر أن زيادة انخراط الأب ليست الأفضل في كل حال.",
+  "A5-093": "المطابقة: الملخص يذكر أن أولاد أسر الآباء المنفردين أظهروا قدرا مقلقا من السلوك المعادي للمجتمع، ويستثني التحصيل الدراسي من نتائج الإقامة المشتركة.",
+  "A5-016": "فحص الروابط: تقرير المجلس القضائي لولاية كانساس 2018 أوصى برفض مشروعات قوانين المناصفة في وقت الرعاية، فهو حجة علينا."
+ },
+ "titles": {
+  "A2-005": "الغزالي — لا يسامح الصبي في ترك الطهارة والصلاة إذا بلغ سن التمييز",
+  "A5-014": "القانون الأرجنتيني — الحضانة المشتركة خيار أول يلزم به القاضي",
+  "A5-087": "مايكل لامب 2018 — الأطفال ينتفعون حين تحفظ خطط الرعاية صلتهم بالوالدين معا",
+  "A5-083": "وارشاك 2018 — مراجعة القيود العامة على مبيت الصغار عند آبائهم",
+  "A5-085": "فرانسون وهيرن وبيرغستروم 2018 — حصيلة البحوث في الرعاية المشتركة بعد الانفصال",
+  "A5-088": "برافر ولامب 2018 — آراء الخبراء في الرعاية المشتركة بعد الانفصال",
+  "A4-007": "رد المحتار عن التتارخانية — لا يمنع أحد الأبوين من النظر إلى ولده وتعهده",
+  "A5-036": "القانون الهولندي — حق الطفل في رعاية وتربية متكافئتين من الوالدين بعد الانفصال",
+  "A5-003": "الجمعية البرلمانية لمجلس أوروبا 2015 — المسؤولية الوالدية المشتركة في مصلحة الطفل غالبا",
+  "A5-028": "مجلس أوروبا 2015 — أن يتيح قانون الأسرة الإقامة المتناوبة بعد الانفصال"
+ },
+ "conf": {
+  "A2-014": "verified",
+  "A2-006": "verified",
+  "A2-009": "verified",
+  "A2-017": "verified",
+  "A2-026": "verified",
+  "A2-031": "verified",
+  "A5-060": "verified",
+  "A5-068": "verified",
+  "A5-069": "verified",
+  "A5-076": "verified",
+  "A5-077": "verified",
+  "A5-082": "verified",
+  "A5-066": "verified",
+  "A5-096": "verified",
+  "A5-097": "verified",
+  "A5-067": "verified",
+  "A5-084": "verified",
+  "A1-001": "verified",
+  "A1-002": "verified",
+  "A1-004": "verified",
+  "A1-003": "verified",
+  "A1-005": "verified",
+  "A1-023": "verified",
+  "A3-007": "verified",
+  "A3-008": "verified",
+  "A4-003": "verified",
+  "A4-004": "verified",
+  "A4-012": "verified",
+  "A4-056": "verified",
+  "A1-007": "verified",
+  "A1-009": "verified",
+  "A1-011": "verified",
+  "A1-010": "verified",
+  "A1-012": "verified",
+  "A1-006": "verified",
+  "A4-007": "verified",
+  "A1-016": "verified",
+  "A1-015": "verified",
+  "A4-008": "verified",
+  "A4-009": "verified",
+  "A1-013": "verified",
+  "A1-014": "verified",
+  "A1-024": "verified",
+  "A4-005": "verified",
+  "A1-027": "verified",
+  "A1-044": "verified",
+  "A1-045": "verified",
+  "A1-025": "verified",
+  "A2-005": "verified",
+  "A3-001": "verified",
+  "A3-005": "verified",
+  "A3-002": "verified",
+  "A4-006": "verified",
+  "A2-004": "verified",
+  "A2-010": "verified",
+  "A2-011": "verified",
+  "A2-012": "verified",
+  "A2-013": "verified",
+  "A2-022": "verified",
+  "A2-025": "verified",
+  "A2-015": "verified",
+  "A2-008": "verified",
+  "A5-061": "verified",
+  "A5-062": "verified",
+  "A5-063": "verified",
+  "A5-070": "verified",
+  "A5-072": "verified",
+  "A5-073": "verified",
+  "A5-074": "verified",
+  "A5-075": "verified",
+  "A5-081": "verified",
+  "A5-087": "verified",
+  "A5-092": "verified",
+  "A5-095": "verified",
+  "A5-094": "verified",
+  "A5-104": "verified",
+  "A5-109": "verified",
+  "A5-110": "verified",
+  "A5-022": "verified",
+  "A5-024": "verified",
+  "A5-026": "verified",
+  "A5-046": "verified",
+  "A5-047": "verified",
+  "A5-048": "verified",
+  "A5-049": "verified",
+  "A5-050": "verified",
+  "A5-051": "verified",
+  "A5-056": "verified",
+  "A5-064": "verified",
+  "A5-078": "verified",
+  "A5-079": "verified",
+  "A5-080": "verified",
+  "A5-083": "verified",
+  "A5-085": "verified",
+  "A5-086": "verified",
+  "A5-088": "verified",
+  "A5-093": "verified",
+  "A5-001": "verified",
+  "A5-002": "verified",
+  "A5-005": "verified",
+  "A5-008": "verified",
+  "A5-009": "verified",
+  "A5-010": "verified",
+  "A5-011": "verified",
+  "A5-013": "verified",
+  "A5-014": "verified",
+  "A5-017": "verified",
+  "A5-018": "verified",
+  "A5-036": "verified",
+  "A5-037": "verified",
+  "A5-038": "verified",
+  "A5-039": "verified",
+  "A5-040": "verified",
+  "A5-103": "verified",
+  "A1-030": "verified"
+ },
+ "notes": {
+  "A2-014": "MedlinePlus Medical Encyclopedia (U.S. National Library of Medicine), article 001168 'Precocious puberty', definition section (reviewed 7/1/2025). Its reference list names the Nelson chapter as source: Garibaldi LR, Chemaitilly W. Disorders of pubertal development. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds. Nelson Textbook of Pediatrics. 22nd ed. Philadelphia, PA: Elsevier; 2025: chap 600. — NEEDS ATTENTION. Nelson's own sentence could not be reached: ScienceDirect (chapter abstracts), Google Books and the archive.org full-text search endpoints are all blocked for this fetcher; the Elsevier product page (entry URL) loads and confirms the 22nd edition (Kliegman & St. Geme, copyright 2025, published April 2024, ISBN 9780323883054) but carries no chapter text. The gist (before 8 in girls, before 9 in boys) is supported by the NIH MedlinePlus page, which explicitly cites the Nelson c",
+  "A2-006": "Publisher's description (University of Chicago Press, The John D. and Catherine T. MacArthur Foundation Series on Mental Health and Development, 1996), reproduced on the bookseller page; corroborated by the book's own ch. 5 (Pierre Mounoud, 'A Recursive Transformation of Central Cognitive Mechanisms: The Shift from Partial to Whole Representations'), p. 85: 'The numerous transitions observed in the behavior of children between 5 and 7 years of age testify, from my point of view, to a general transformation of the central cognitive mechanisms.' — Open Library (entry URL) loads and shows the book (U. Chicago Press 1996) with a description beginning 'the years from five to seven have returned to prominence in developmental psychology'; press.uchicago.edu itself was unreachable. The full description also says the researchers 'consider how development is influenced by changes in neurobiologic",
+  "A2-009": "The Collected Works of L. S. Vygotsky, Vol. 5: Child Psychology (ed. R. W. Rieber; New York: Plenum/Springer, 1998), chapter 'The Crisis at Age Seven', pp. 289-296, opening paragraph (shown as the chapter abstract on the Springer page). 'The Problem of Age' is a different chapter of the same volume (pp. 187-205). — Entry's work/section should be corrected: the 'crisis at age seven' material is the chapter 'The Crisis at Age Seven' (lecture of 1933/34), Collected Works vol. 5, pp. 289-296, not 'The Problem of Age'. The point about the child losing childish spontaneity/naivete (Russian: utrata detskoi neposredstvennosti) is in the full chapter text, which is paywalled on Springer (the marxists.org copy required a permission prompt), so it is not verified verbatim. The Springer page lists the volume editor Rieber as chapter 'author' (metadata quirk). A newer translation exists: 'The Crisis ",
+  "A2-017": "Childhood and Society (New York: W. W. Norton, 1950), ch. 7 'Eight Stages of Man', section 4 'Industry vs. Inferiority', pp. 226-227 (1950 pagination) — as quoted (with the ellipsis) in Karen VanderVen, 'Is It Still Industry? Towards a New Look at Erikson's Relevance to School Age Youth', Journal of Child and Youth Care Work (2015). — The book itself (archive.org lending copies childhoodsociety00erik_0 etc.) could not be searched; the quotation is taken from a peer-reviewed article that quotes Erikson 1950 with page numbers. Erikson gives NO numerical age for stage 4 in this text: he speaks of the 'oncoming latency period' and 'school life'. The 'about 6 (to 12)' range comes from secondary textbooks (e.g. a Lumen Learning table: 'Industry and inferiority | Age 6-12'). Suggest rewording the gist: stage 4 begins with school entry / the latency period (commonly dated about 6), without attri",
+  "A2-026": "B. Inhelder & J. Piaget, De la logique de l'enfant à la logique de l'adolescent (Paris: PUF, 1955) — the French original of the 1958 English edition — Avant-propos, pp. 1-4, first paragraph. See also ch. XVIII 'La pensée de l'adolescent', p. 297 ('la pensée formelle qui se constitue à partir de 11-12 ans'), p. 298 ('atteignant son palier d'équilibre vers 14-15 ans') and p. 302 ('l'adolescent se distingue avant tout de l'enfant par une réflexion qui dépasse le présent'). — The English translation (Basic Books 1958, trans. Parsons & Milgram) exists only as archive.org lending copies (growthoflogicalt00inhe etc.) and could not be searched; the French original is published chapter by chapter by the Fondation Jean Piaget (University of Geneva): foreword at .../piaget1955LEL_01, ch. XVIII at .../piaget1955LEL_22. The gist is accurate (11-12 onset, 14-15 equilibrium; adolescent vs child thinkin",
+  "A2-031": "Age of Opportunity: Lessons from the New Science of Adolescence (Boston: Houghton Mifflin Harcourt, 2014), Introduction — book excerpt published by WBUR 'Here & Now', 1 Dec 2014. — NEEDS ATTENTION on one number. Verified from the book's Introduction: adolescence begins with puberty; Steinberg dates it today from about 10 to 25. The claim that puberty is arriving earlier is in ch. 3 'The Longest Decade' (not reachable; lending copy only) and is stated by Steinberg in interviews: 'The age of puberty keeps dropping' (Psychology Today, Sept 2014) and 'Adolescence has been stretched at both ends because of the early onset of puberty' (Chicago Tribune via APS, Oct 2014). But the entry's phrase 'many girls enter adolescence before 11' is not found; in the same interview he puts the average onset in US girls at 11-12. Suggest: 'adolescence begins with puberty, and because puberty now starts earl",
+  "A5-060": "Michael E. Lamb (University of Cambridge), lecture slides 'The Role of the Father in Child Development: With Focus on The Early Years', Bühler Fest-Symposium, University of Vienna, 2013 — the editor's own summary of the book's findings. In the 5th edition the corresponding chapters are ch. 1, Lamb, 'How Do Fathers Influence Children's Development? Let Me Count the Ways' (pp. 1-26) and ch. 4, Lamb & Lewis, 'The Development and Significance of Father-Child Relationships in Two-Parent Families' (pp. 94-153). — NEEDS ATTENTION. The book's own text was not reached: Wiley's pages are blocked/unreachable, there is no open-access chapter, and the archive.org copy is lending-only. The publisher's description (via the Wiley e-bookshelf listing) only confirms scope: 'The definitive book on when, why, and how fathers matter to their children and families' and 'brings together contributions from inte",
+  "A5-068": "Surviving the Breakup: How Children and Parents Cope with Divorce (New York: Basic Books, 1980), p. 310 — as quoted in Carol S. Bruch, 'Parenting At and After Divorce: A Search for New Models', Michigan Law Review 79(4), 1981, pp. 708-727 (book review). The review also quotes p. 257 ('Lacking both daily contact and direct authority to intervene, their role was circumscribed') and reports that the six-to-eight-year-olds 'longed for their fathers' regardless of pre-separation closeness. — Book text could not be searched (archive.org lending copies survivingbreakup00wall / survivingbreakup0000wall). Publisher's description (Hachette/Basic Books): 'Based on the Children of Divorce Project, a landmark study of sixty families during the first five years after divorce'. The entry's exact wording ('intense longing for the absent father', 'few visits do not meet their need') was not located verba",
+  "A5-069": "Maternal Deprivation Reassessed (Harmondsworth: Penguin, 1972), p. 49 (two sentences on the same page, not consecutive). See also p. 17: 'in nearly a third of cases the main attachment was to the father' (citing Schaffer & Emerson 1964) and p. 52: 'disruption or distortion of the bonding process (not necessarily with the mother)'. — Verbatim, from a full-text (OCR) copy of the 1972 Penguin edition hosted on gwern.net; archive.org holds lending copies (maternaldeprivat0000unse_i4p7 = 1972; maternaldeprivat00rutt = 1981 2nd ed.). The gist is accurate. Also p. 17: 'Although there was usually one particularly strong attachment, the majority of the children showed multiple attachments of varying intensity.' and p. 47: 'separation per se is not the key factor, but that some distortion or disruption of the bonding process is crucial'.",
+  "A5-076": "Publisher's description on the Penguin Random House page for the Broadway Books paperback (2001) of Fatherneed: Why Father Care Is as Essential as Mother Care for Your Child (first published New York: Free Press, 2000). — Book text not reached (archive.org lending copy fatherneedwhyfat00prue; Simon & Schuster page unreachable). The subtitle itself carries the core claim ('as Essential as Mother Care'); the description supports 'different, important from infancy'. The 'play/challenge' detail appears only as paraphrase in a review (Humanum Review: fathers 'rough-and-tumble', 'adventure with Dad'). Blurb on the same page by Judith Wallerstein: 'A warm and glowing message for parents about how fathers and children need each other from the child's infancy well into adulthood.'",
+  "A5-077": "Publisher's synopsis (Harvard University Press, The Developing Child series, 1996), as reproduced on Blackwell's product page and on Open Library. — hup.harvard.edu was unreachable from this fetcher; the book text (archive.org lending copy fatherhood0000park) was not searched. The synopsis supports the gist (fathers not restricted to a secondary role; paternal behaviour differs and affects children); the specific 'play style' wording is not in the synopsis. Synopsis also: 'Fathers have become partners in parenthood, wielding a more direct influence on their children's development.'",
+  "A5-082": "Publisher's description (Auburn House / Greenwood, 1993; e-book ISBN 978-0-313-03618-7), as reproduced on the e-book vendor page. — The current rights-holder page (Bloomsbury) is blocked for this fetcher; archive.org holds lending copies (fathersfamiliesp0000bill). The description supports the first half of the gist (cognitive, moral, social influence) and alludes to father absence ('or the absence thereof'); Biller's detailed evidence on harm from father absence is mainly in his earlier 'Paternal Deprivation' (1974).",
+  "A5-066": "Jacket text of Mothers and Others (Cambridge, MA: Belknap Press of Harvard University Press, 2009), as reproduced on the Open Library record (marked '--Jacket'). — hup.harvard.edu unreachable from this fetcher; book text (archive.org lending copy mothersothersevo0000hrdy) not searched. The jacket text supports the gist; Hrdy's technical term 'cooperative breeding' is not in the jacket wording. Minor: the entry's jurisdiction says Harvard, but Hrdy is professor emerita at UC Davis (Harvard is the publisher).",
+  "A5-096": "Sarah Allen & Kerry Daly, The Effects of Father Involvement: An Updated Research Summary of the Evidence (Centre for Families, Work & Well-Being / FIRA-CURA, University of Guelph, May 2007), Introduction, p. 1. — Verbatim, exact match confirmed in the original University of Guelph PDF (mirror copy) and in the FII-ON reprint (https://static1.squarespace.com/static/5f31005d60d8203846b53362/t/5f3ddd82d2a19e5420e487aa/1597889968240/The-Effects-of-Father-Involvement.pdf). Entry URL (Policy Commons) loads but shows only partial extracted text marked 'Premium'; the original fira.ca domain now belongs to an unrelated company. Section openers: Cognitive Development (p. 2) 'Infants of highly involved fathers, as measured by amount of interaction, including higher levels of play and caregiving activities, are more cognitively competent at 6 months and score higher on the Bayley Scales of Infant Dev",
+  "A5-097": "State of the World's Fathers: A MenCare Advocacy Publication (Washington, DC: Promundo, Rutgers, Save the Children, Sonke Gender Justice and the MenEngage Alliance, 2015), Executive Summary, pp. 15-16. — Verbatim from the open PDF (entry URL works). Also p. 16: 'Involved fatherhood makes men happier and healthier' / 'Men who are involved in meaningful ways with their children report this relationship to be one of their most important sources of well-being and happiness.' Recommendations (pp. 21-22): 'Create national and international action plans to promote involved, non-violent fatherhood'; 'Institute and implement equal, paid, and non-transferrable parental leave policies in both public and private sectors'. Caveat in the same summary (not undermining the thesis): men's caregiving 'nowhere does it equal that of women'. Add MenEngage Alliance to the publishers.",
+  "A5-067": "Publisher's description, University of Michigan Press book page for Intimate Fathers: The Nature and Context of Aka Pygmy Paternal Infant Care (Ann Arbor, 1991; ISBN 9780472082032). — Book text (archive.org lending copy intimatefathersn0000hewl) not searched. Corroborated in Hewlett's own words in a 1992 chapter: 'Aka fathers provide more direct infant care than fathers in any other known society' (B. S. Hewlett, 'Husband-Wife Reciprocity and the Father-Infant Relationship among Aka Pygmies', in Father-Child Relations: Cultural and Biosocial Contexts, Aldine de Gruyter, 1992, p. 96; PDF at https://anthro.vancouver.wsu.edu/documents/76/fa-infants_08__h2ftttj.pdf). The press description also says Aka fathers 'actively cuddle, soothe, and gently care for their babies while mothers hunt'.",
+  "A5-084": "Laura Bernardi & Dimitri Mortelmans, 'Introduction: Advances in Research on Shared Physical Custody by Interdisciplinary Approaches', in Shared Physical Custody: Interdisciplinary Insights in Child Custody Arrangements (Cham: Springer, 2021, open access, European Studies of Population), ch. 1, Sect. 1.2. — Verbatim from the open-access chapter (entry URL = book page, works, 'full access to this open access Book'). Same section also: 'Despite the selection effect, income differences turn out to be more limited than expected and even when controlling for education or income, SPC is systematically more beneficial than sole custody.' Sect. 1.1: SPC 'has been on the rise in most Western regions in the last two decades' but 'remains mostly a minority arrangement, ranging from 12% in the UK to 40%' (Belgium, Quebec). Note: 'shared physical custody' in this book is not necessarily equal time, so",
+  "A1-001": "سنن أبي داود، كتاب الصلاة، باب متى يؤمر الغلام بالصلاة، رقم 495 (ترقيم الكتاب: 2/105)؛ من حديث عمرو بن شعيب عن أبيه عن جده — لا رابط أصلي في البطاقة. اللفظ مطابق لنص سنن أبي داود 495 كما في الموسوعة الحديثية (الدرر: نص طبعة الأرناؤوط ونص صحيح أبي داود للألباني: «وهم أبناء عشر» بلا «سنين»)، وكذا في رياض الصالحين 301 نقلا عن أبي داود. نسخة sunnah.com الرقمية تزيد «سنين» بعد «عشر» («وهم أبناء عشر سنين») وهو اختلاف طبعات لا يغير المعنى. الدرجة: الألباني: حسن صحيح؛ الأرناؤوط: إسناده حسن؛ النووي: إسناده حسن.",
+  "A1-002": "جامع الترمذي، أبواب الصلاة، باب ما جاء متى يؤمر الصبي بالصلاة، رقم 407 (ترقيم الكتاب: 2/260)؛ من حديث سبرة بن معبد الجهني — لا رابط أصلي في البطاقة. مطابق حرفيا. قال الترمذي: حديث حسن صحيح؛ دار السلام: حسن.",
+  "A1-004": "السنن الكبرى للبيهقي (ط دار الكتب العلمية) 8/6، كتاب النفقات، باب الأبوين إذا افترقا وهما في قرية واحدة فالأم أحق بولدها ما لم تتزوج وكانوا صغارا فإذا بلغ أحدهم سبع أو ثمان سنين وهو يعقل خير بين أبيه وأمه وكان عند أيهما اختار، رقم 15761 (من طريق الربيع عن الشافعي عن ابن عيينة عن يونس بن عبد الله الجرمي عن عمارة الجرمي). ويروى في مصنف عبد الرزاق (ط التأصيل) 7/117 رقم 13493 (= 12609 في الطبعة القديمة) بسياق أطول بلا ذكر السن — لا رابط أصلي في البطاقة. المضمون صحيح وموجود بنصه عند البيهقي عن الشافعي. تنبيه مهم على الدرجة: الألباني في إرواء الغليل (رقم 2195، 7/251) ضعف رواية الشافعي/البيهقي هذه لأن عمارة الجرمي لم يوثق (الأرناؤوط: لم يوثق؛ ابن أبي حاتم ذكره بلا جرح؛ ابن حبان في الثقات 5/241)، وعد زيادة «وكنت ابن سبع أو ثمان سنين» واهية جدا لأنها من طريق إبراهيم (ابن أبي يحيى، متروك) كما يظهر من نص البيهقي نفسه: «قال الشافعي: قال إبراهيم ... وقال في الحديث: وكنت ابن سبع أو ثمان سنين»؛ بينما ص",
+  "A1-003": "اللفظ الحرفي للبطاقة في سنن النسائي، كتاب الطلاق، باب إسلام أحد الزوجين وتخيير الولد، رقم 3496 (ترقيم الكتاب 27/108)؛ الألباني ودار السلام: صحيح. أما سنن أبي داود 2277 (كتاب الطلاق، باب من أحق بالولد؛ الألباني: صحيح) فلفظه بلا «يا غلام»: «هذا أبوك وهذه أمك فخذ بيد أيهما شئت»؛ وجامع الترمذي 1357 (أبواب الأحكام، باب ما جاء في تخيير الغلام بين أبويه إذا افترقا؛ الترمذي: حسن صحيح) لفظه: «أن النبي صلى الله عليه وسلم خير غلاما بين أبيه وأمه» — لا رابط أصلي في البطاقة. البطاقة تنسب اللفظ لأبي داود 2277 والترمذي 1357 وليس فيهما «يا غلام»؛ اللفظ الحرفي عند النسائي 3496 والحاكم 7234 وصحيح الجامع 7959، فتصحح الإحالة إلى النسائي أو يحذف «يا غلام» ليطابق أبا داود. من حديث أبي هريرة عن أبي ميمونة سليم. فائدة قوية للأطروحة في تعليق الترمذي عقب 1357 (ينبغي إضافتها): «والعمل على هذا عند بعض أهل العلم من أصحاب النبي صلى الله عليه وسلم وغيرهم، قالوا: يخير الغلام بين أبويه إذا وقعت بينهما المنازعة في الولد،",
+  "A1-005": "مصنف عبد الرزاق (ط التأصيل الثانية) 7/116، كتاب الطلاق، باب أي الأبوين أحق بالولد؟ رقم 13489. وبإسناد صححه الألباني: مصنف ابن أبي شيبة، كتاب الطلاق، ما قالوا في الرجل يطلق امرأته ولها ولد صغير، رقم 19456 (ط عوامة) = 20244 (ط الشثري): «حدثنا ابن عيينة عن يزيد بن يزيد بن جابر عن إسماعيل بن عبيد الله عن عبد الرحمن بن غنم قال: شهدت عمر خير صبيا بين أبيه وأمه». وعند البيهقي 8/6 رقم 15762 معلقا: «وروى الشافعي في القديم ... عن عبد الرحمن بن غنم أن عمر بن الخطاب رضي الله عنه خير غلاما بين أبيه وأمه». وسنن سعيد بن منصور رقم 2277 بنحوه (بحسب تخريج الدرر/الإرواء، لم أعاينه) — لا رابط أصلي في البطاقة. المضمون ثابت. الدرجة: الألباني في إرواء الغليل 2194 (7/251): إسناده صحيح (لرواية ابن أبي شيبة/سعيد بن منصور عن عبد الرحمن بن غنم). وذكره ابن قدامة في المغني 8/240: «فروي عن عمر أنه خير غلاما بين أبيه وأمه، رواه سعيد». رواية عبد الرزاق 13489 من قول عبد الله بن عبيد بن عمير (تابعي). الترقيم في طبعة التأص",
+  "A1-023": "صحيح البخاري، كتاب الجمعة، باب الجمعة في القرى والمدن، رقم 893 (ترقيم الكتاب 11/18)؛ من حديث ابن عمر. وصحيح مسلم، كتاب الإمارة، باب فضيلة الإمام العادل وعقوبة الجائر، رقم 1829 (33/24) بلفظ: «ألا كلكم راع وكلكم مسئول عن رعيته ... والرجل راع على أهل بيته وهو مسئول عنهم» — لا رابط أصلي في البطاقة. اللفظ المثبت مطابق حرفيا للبخاري 893؛ لفظ مسلم 1829 يختلف في جملة الرجل («راع على أهل بيته وهو مسئول عنهم»)، فيحسن نسبة اللفظ إلى البخاري أو التنبيه على أن لفظ مسلم بنحوه.",
+  "A3-007": "سنن أبي داود، كتاب الحدود، باب في المجنون يسرق أو يصيب حدا، رقم 4403 (ترقيم الكتاب 40/53)؛ من حديث علي بن أبي طالب مرفوعا؛ الألباني: صحيح — لا رابط أصلي في البطاقة. مطابق حرفيا. يُنتبه إلى أن رواية عائشة في الباب نفسه (أبو داود 4398) بلفظ «وعن الصبي حتى يكبر»؛ لفظ البطاقة «حتى يحتلم» هو لفظ رواية علي 4403.",
+  "A3-008": "المنهاج شرح صحيح مسلم بن الحجاج للنووي (ط دار إحياء التراث العربي، بيروت، الثانية 1392) 13/12، كتاب الإمارة، باب بيان سن البلوغ، شرح حديث ابن عمر: عرضت على النبي صلى الله عليه وسلم يوم أحد وأنا ابن أربع عشرة سنة — لا رابط أصلي في البطاقة. مطابق حرفيا؛ المحذوف في البطاقة بين الجملتين هو: «وهو مذهب الشافعي والأوزاعي وابن وهب وأحمد وغيرهم». يُنتبه إلى أن النص يثبت الخمس عشرة حدا أعلى للبلوغ بالسن عند الشافعي وأحمد ومن معهم (لا سنا لانتهاء الطفولة عند جميع المذاهب)، وبعده في الصفحة أحكام استحقاق سهم الغنيمة والقتل؛ ولم أتحقق في هذا الموضع من نص خلاف مالك وأبي حنيفة في السن.",
+  "A4-003": "صحيح البخاري، كتاب الأدب، باب إثم القاطع، رقم 5984 (ترقيم الكتاب 78/15)، من حديث جبير بن مطعم؛ وصحيح مسلم، كتاب البر والصلة والآداب، باب صلة الرحم وتحريم قطيعتها، رقم 2556 (45/20) وفيه: «قال سفيان: يعني قاطع رحم» — لا رابط أصلي في البطاقة. مطابق حرفيا في الصحيحين.",
+  "A4-004": "صحيح مسلم، كتاب البر والصلة والآداب، باب صلة الرحم وتحريم قطيعتها، رقم 2555 (ترقيم الكتاب 45/19)، من حديث عائشة — لا رابط أصلي في البطاقة. مطابق حرفيا.",
+  "A4-012": "صحيح البخاري، كتاب البيوع، باب من أحب البسط في الرزق، رقم 2067 (ترقيم الكتاب 34/20)، من حديث أنس بن مالك. أما البخاري 5986 (كتاب الأدب، باب من بسط له في الرزق بصلة الرحم) فلفظه: «من أحب أن يبسط له في رزقه وينسأ له في أثره فليصل رحمه»؛ والبخاري 5985 من حديث أبي هريرة: «من سره أن يبسط له في رزقه وأن ينسأ له في أثره فليصل رحمه»؛ ومسلم 2557: «من سره أن يبسط عليه رزقه أو ينسأ في أثره فليصل رحمه» (2557a) و«من أحب أن يبسط له في رزقه وينسأ له في أثره فليصل رحمه» (2557b) — لا رابط أصلي في البطاقة. لفظ البطاقة صحيح حرفيا لكنه لفظ البخاري 2067 لا 5986 ولا مسلم 2557 المذكورين في البطاقة (لفظهما مختلف كما أثبت في الموضع)؛ تصحح الإحالة إلى: البخاري 2067 (ومسلم 2557 بنحوه). تحقق اللفظ من الموسوعة الحديثية (الدرر) وموقع surahquran؛ نسخة sunnah.com الرقمية للحديث 2067 تسقط «في» قبل «رزقه».",
+  "A4-056": "سنن أبي داود، كتاب الزكاة، باب في صلة الرحم، رقم 1692 (ترقيم الكتاب 9/137)، من حديث عبد الله بن عمرو؛ الألباني: حسن — لا رابط أصلي في البطاقة. مطابق حرفيا.",
+  "A1-007": "الهداية في شرح بداية المبتدي للمرغيناني (ط دار إحياء التراث العربي، بيروت، 1425/2004، اعتناء طلال يوسف) 2/284، كتاب الطلاق، باب الولد من أحق به — لا رابط أصلي في البطاقة. مطابق حرفيا (البطاقة تسقط «رحمه الله» بعد «الخصاف» وهو حذف مقبول). عنوان الباب في هذه الطبعة «باب الولد من أحق به» كما في البطاقة. نسخة الشاملة فيها تصحيف «أخلاقم» والصواب «أخلاقهم». الوجه الآخر مهم: نص الهداية يجعل حد السبع للغلام فقط، والبنت عند الأم حتى الحيض.",
+  "A1-009": "الدر المختار مع رد المحتار (ط الحلبي/دار الفكر)، ج3 ص566–567، باب الحضانة — العبارتان المشهورتان ثابتتان بلفظهما في الدر المختار (ج3 ص566). تنبيه مهم: «وقدر بتسع وبه يفتى» واردة في المتن عن غير الأم والجدة (وغيرهما أحق بها حتى تشتهى)؛ أما الأم والجدة ففي ظاهر الرواية «حتى تحيض»، ثم قال: (وعن محمد أن الحكم في الأم والجدة كذلك) وبه يفتى لكثرة الفساد (ج3 ص567، الصفحة التالية 1849). فالمضمون صحيح على المفتى به لكن يحسن صياغته بهذا التفصيل. الرمز … يفصل بين موضعين متتاليين في الصفحتين 566 و567. الحصكفي (الدر) ت 1088هـ. لا يوجد رابط أصلي في البطاقة (url_status غير معروف).",
+  "A1-011": "بدائع الصنائع في ترتيب الشرائع (ط دار الكتب العلمية)، ج4 ص42، كتاب الحضانة، فصل في وقت الحضانة — المضمون مطابق: لم يقدر الاستغناء في ظاهر الرواية، وذكر الخصاف سبعا أو ثمانيا «أو نحو ذلك». في الصفحة نفسها تعليل الكاساني: «وَلِأَنَّ الْغُلَامَ إذَا اسْتَغْنَى يَحْتَاجُ إلَى التَّأْدِيبِ وَالتَّخَلُّقِ بِأَخْلَاقِ الرِّجَالِ» (وهي العبارة المنسوبة خطأ إلى المبسوط في البطاقة A1-006). الصفحة التالية (ج4 ص43) تعلل بقاء الجارية عند الأم إلى البلوغ «لحاجتها إلى تعلم آداب النساء والتخلق بأخلاقهن وخدمة البيت».",
+  "A1-010": "رد المحتار على الدر المختار (ط الحلبي/دار الفكر)، ج3 ص567، باب الحضانة (المتن والشرح)؛ وقبله ج3 ص566: (قَوْلُهُ: فِي ظَاهِرِ الرِّوَايَةِ) مُقَابِلُهُ رِوَايَةُ مُحَمَّدٍ الْآتِيَةُ — المضمون صحيح: الفتوى على رواية محمد (الجارية عند الأم والجدة حتى تشتهى، وقدر بتسع) خلافا لظاهر الرواية (حتى تحيض). لكن التعليل بلفظ الكتاب «لِكَثْرَةِ الْفَسَادِ» (عن الزيلعي) لا «لفساد الزمان» حرفيا؛ وعبارة «وبه يفتى» في الدر (الحصكفي) وأقرها ابن عابدين ناقلا عن البحر الرائق. يقترح تعديل المضمون إلى: «الفتوى على رواية محمد في الجارية: تدفع إلى الأب إذا بلغت حد الشهوة وقدر بتسع، لكثرة الفساد». الفاصل || يفصل بين مواضع متتابعة في الصفحة نفسها.",
+  "A1-012": "الهداية في شرح بداية المبتدي (ط دار إحياء التراث العربي، بيروت)، ج3 ص281، كتاب الحجر، فصل في حد البلوغ — النص مطابق حرفيا (الزيادة [أي للبلوغ] تفسيرية من المحرر وهي صحيحة). الفصل نفسه يذكر أن البلوغ بالسن عند عدم العلامات: 18 للغلام و17 للجارية عند أبي حنيفة، و15 عند الصاحبين (وهو رواية عن أبي حنيفة وقول الشافعي كما تذكر الصفحة) — وهذا هو مصدر «سن 15» الذي تناقشه الأطروحة، فينبغي الانتباه له عند الاستشهاد.",
+  "A1-006": "المبسوط للسرخسي (ط دار المعرفة، بيروت)، ج5 ص207 (الجملة الأولى) وص208 (التعليل)، كتاب النكاح، باب حكم الولد عند افتراق الزوجين — المضمون صحيح، لكن: (1) اسم الباب في المبسوط «باب حكم الولد عند افتراق الزوجين» لا «باب الولد من أحق به»؛ (2) عبارة «التأدب والتخلق بأخلاق الرجال» ليست لفظ السرخسي بل لفظ الكاساني في بدائع الصنائع ج4 ص42 («يَحْتَاجُ إلَى التَّأْدِيبِ وَالتَّخَلُّقِ بِأَخْلَاقِ الرِّجَالِ»)؛ لفظ السرخسي: «تَعَلُّمِ أَعْمَالِ الرِّجَالِ … مَنْ يُثَقِّفَهُ وَيُؤَدِّبَهُ»؛ (3) السرخسي يذكر أيضا في السياق نفسه قياسا كان يقتضي أن «يكون الأب أحق بهما» إذا استغنيا، ثم ترك القياس في الجارية (ص207). الصفحة 208 على الرابط https://shamela.ws/book/5423/1120. في ص208 تعليل بألفاظ قاسية عن صحبة النساء (فربما يجيء مخنثا) قد لا يحسن الاستشهاد بها.",
+  "A4-007": "رد المحتار على الدر المختار (ط الحلبي/دار الفكر)، ج3 ص571، باب الحضانة — حاشية ابن عابدين عند قول الدر: «وَفِي الْحَاوِي: لَهُ إخْرَاجُهُ إلَى مَكَان يُمْكِنُهَا أَنْ تُبْصِرَ وَلَدَهَا كُلَّ يَوْمٍ كَمَا فِي جَانِبِهَا فَلْيُحْفَظْ» — النسبة تحتاج تصحيحا: العبارة في حاشية ابن عابدين (رد المحتار) نقلا عن الفتاوى التتارخانية، لا في متن الدر المختار للحصكفي؛ ولفظها «لَا يُمْنَعُ الْآخَرُ عَنْ النَّظَرِ إلَيْهِ وَعَنْ تَعَهُّدِهِ» لا «رؤيته وتعاهده». يقترح عنوان البطاقة: «رد المحتار (عن التتارخانية) — لا يمنع أحد الأبوين عن النظر إلى ولده وتعهده». ويؤيد المعنى قول الدر نفسه عن الحاوي: له إخراجه إلى مكان يمكنها أن تبصر ولدها كل يوم.",
+  "A1-046": "الرسالة المفصلة لأحوال المتعلمين وأحكام المعلمين والمتعلمين، الجزء الأول (جواب السؤال: هل تعليم الولد القرآن واجب على أبيه أو على غيره)، نسخة archive.org (Resalh_Mofasalh) صفحات المسح 94 و96 = أوراق المخطوط [27-ب] إلى [29-ب] — الكتاب غير موجود على الشاملة ولا إسلام ويب؛ وُجد نص الرسالة في مسح archive.org (طبعة بدراسة فرنسية، الأرجح تحقيق أحمد خالد، تونس 1986) عبر خاصية البحث داخل النص، والنص أعلاه منقول من OCR مع تصويب أخطاء التعرف الظاهرة (ما بين [ ] استكمال محتمل)، فيلزم مقابلته على المطبوع قبل الاعتماد الحرفي. المضمون يحتاج تعديلا: (1) القابسي يصرح أن ما قدمه في تعليم الولد القرآن «على وجه الترغيب»، والواجب على الأب هو النفقة وتعليم الصلاة والوضوء وما يقرأ فيها من القرآن، وما زاد فإحسان؛ لكنه يقول إنه لا يمتنع منه والد يجد إليه سبيلا إلا لشح نفسه، ولا يتركه تهاونا إلا والد جاف؛ (2) أجرة المعلم من مال الولد إن كان له مال، لا على الأب مطلقا؛ (3) صيغة «دفعه إلى المكتب» في الأصل: «وليُدخل",
+  "A1-016": "مغني المحتاج إلى معرفة معاني ألفاظ المنهاج (ط دار الكتب العلمية 1415هـ)، ج5 ص198، كتاب النفقات، فصل في حقيقة الحضانة وصفات الحاضن والمحضون (شرح قول المنهاج: والمميز إن افترق أبواه) — المضمون مطابق للفظ «وَسِنُّ التَّمْيِيزِ غَالِبًا سَبْعُ سِنِينَ أَوْ ثَمَانٍ تَقْرِيبًا». لكن الشربيني يتم الجملة بأن مدار الحكم على التمييز نفسه لا على السن — وهذا يضعف الاحتجاج به على سن محددة، فيحسن إثبات الجملة كاملة. اسم الفصل في البطاقة «فصل الحضانة» يقابله في الكتاب «فصل في حقيقة الحضانة وصفات الحاضن والمحضون».",
+  "A1-015": "منهاج الطالبين وعمدة المفتين (ط دار الفكر 1425هـ)، ص267، كتاب النفقات، فصل [الحضانة]؛ وهو متن مغني المحتاج ج5 ص198: «وَالْمُمَيِّزُ إنْ افْتَرَقَ أَبَوَاهُ كَانَ عِنْدَ مَنْ اخْتَارَ مِنْهُمَا» — المضمون هو لفظ النووي نفسه حرفيا (يمكن تحويل البطاقة إلى اقتباس حرفي). الشربيني يعلل: «وَلِأَنَّ الْقَصْدَ بِالْكَفَالَةِ الْحِفْظُ لِلْوَلَدِ، وَالْمُمَيِّزُ أَعْرَفُ بِحَظِّهِ فَيُرْجَعُ إلَيْهِ». حقل notes في البطاقة (شرط التخيير بين أبوين صحبهما الصغير) تعليق من المحرر لا من النووي، فيحسن تمييزه.",
+  "A4-008": "منهاج الطالبين (ط دار الفكر 1425هـ)، ص267، كتاب النفقات؛ ومتن مغني المحتاج ج5 ص199–200: «وَإِنْ اخْتَارَهَا ذَكَرٌ فَعِنْدَهَا لَيْلًا، وَعِنْدَ الْأَبِ نَهَارًا، وَيُؤَدِّبُهُ وَيُسَلِّمُهُ لِمَكْتَبٍ أَوْ حِرْفَةٍ» — اللفظان المقتبسان ثابتان بلفظهما؛ الرمز … في البطاقة يحذف ما بينهما (منع الأنثى من الخروج للزيارة، تحديد الزيارة مرة في أيام، أحكام المرض). نسخة الشاملة من المنهاج تطبع «لكتب» (تصحيف لـ«لمكتب» كما في متن مغني المحتاج ج5 ص200 https://shamela.ws/book/11444/2396)، وفي مغني المحتاج «ويؤدبه» بالواو. الجانب المزدوج: النص يحدد زيارة الأم «مرة في أيام» ويجعل الأنثى المختارة لأمها عند الأم ليلا ونهارا ويزورها الأب على العادة — وهذا توزيع غير متساوٍ للوقت.",
+  "A4-009": "منهاج الطالبين (ط دار الفكر 1425هـ)، ص267؛ ومغني المحتاج ج5 ص199 (متن: «وَلَا يَمْنَعُهَا دُخُولًا عَلَيْهِمَا زَائِرَةً، وَالزِّيَارَةُ مَرَّةً فِي أَيَّامٍ» مع الشرح) — المضمون صحيح: الأنثى إذا اختارت الأب تُمنع هي من الخروج لزيارة أمها، ولا تُمنع الأم من الدخول عليها زائرة. لفظ المتن في هذه الطبعات «عليهما» (أي الذكر والأنثى)، و«عليها» في بعض النسخ كما نبه الشربيني. تعليل الشربيني «لأن في ذلك قطعا للرحم» يخدم محور صلة الرحم؛ لكن القيد «الزيارة مرة في أيام» و«لا تطيل المكث» يقيد التواصل.",
+  "A1-013": "متن الخرقي (ط دار الصحابة للتراث 1413هـ)، ص122، باب من أحق بكفالة الطفل؛ والمغني لابن قدامة (ط مكتبة القاهرة) ج8 ص239 (مسألة 6538) وص241 (مسألة 6542) — الاقتباس مطابق للفظ الخرقي كما أثبته ابن قدامة في المغني (https://shamela.ws/book/8463/3615 و https://shamela.ws/book/8463/3617). طبعة دار الصحابة للمتن المفرد تقرأ «فإذا» بدل «وإذا» و«فكان مع اختيار منهما» (تصحيف ظاهر لـ«مع من اختار منهما»). اسم الباب في البطاقة «باب الحضانة» والصواب «باب من أحق بكفالة الطفل». الجملتان متتاليتان في المتن (لا حذف بينهما). المغني ج8 ص239 يقيد التخيير بالتنازع: «خُيِّرَ بَيْنَ أَبَوَيْهِ، إذَا تَنَازَعَا فِيهِ».",
+  "A1-014": "المغني لابن قدامة (ط مكتبة القاهرة 1388هـ)، ج8 ص241، كتاب النفقات، باب من أحق بكفالة الطفل، مسألة 6542 (وإذا بلغت الجارية سبع سنين فالأب أحق بها) — المضمون مطابق؛ لفظ الكتاب «وَالْأَبُ أَوْلَى بِذَلِكَ» لا «أولى بحفظها»، و«أَعْلَمُ بِالْكَفَاءَةِ» لا «بالكفء». اسم الباب الصحيح «باب من أحق بكفالة الطفل» (ضمن كتاب النفقات). التعليل يتضمن الاستدلال بزواج النبي صلى الله عليه وسلم بعائشة وهي ابنة سبع — ينبغي الانتباه إلى حساسيته في سياق الاستشهاد المعاصر. الصفحة التالية (ج8 ص242، https://shamela.ws/book/8463/3618) تضيف أن الجارية تكون عند الأب ليلا ونهارا «لأن تأديبها وتخريجها في جوف البيت».",
+  "A1-024": "المغني لابن قدامة، ط. مكتبة القاهرة، ج 8 ص 240، كتاب النفقات، باب من أحق بكفالة الطفل، مسألة: وإذا بلغ الغلام سبع سنين خير بين أبويه (المسألة تبدأ ج 8 ص 239) — المضمون مطابق للمصدر؛ العبارة الأصلية: «وقيدناه بالسبع؛ لأنها أول حال أمر الشرع فيها بمخاطبته بالأمر بالصلاة». يضاف نص قوي للأطروحة في الصفحة نفسها: «فإذا استغنى عن ذلك تساوى والداه». في ج 8 ص 240 أيضا حجة المخالف: «ولأنه دون البلوغ فلم يخير كمن دون السبع» ويرد عليها ابن قدامة بالحديث وآثار الصحابة. لا رابط في البطاقة أصلا (url_status = unknown لذلك). يقترح إكمال حقل work: volume 8، page 240، edition مكتبة القاهرة.",
+  "A4-005": "المغني لابن قدامة، ط. مكتبة القاهرة، ج 8 ص 242، كتاب النفقات، باب من أحق بكفالة الطفل، فصل (6543): إذا كانت الجارية عند الأم أو عند الأب — المضمون صحيح مع فرق لفظي: البطاقة تقول «ليعلمه ويؤدبه» والمصدر يقول «ليسلمه في مكتب أو في صناعة». ترتيب المصدر: حكم من اختار الأم أولا ثم من اختار الأب. المصدر يعلل منع الزيارة بأنه «إغراء بالعقوق وقطيعة للرحم» وهو نص مفيد لمحور صلة الرحم. تنبيه: نص حقل notes في البطاقة («والتخيير لا يكون إلا بين أبوين صحبهما الصغير جميعا ... فوقع التخيير عبثا») غير موجود في المغني ج 8 ص 239-242 ولم أعثر عليه حرفيا في أي مصدر بالبحث؛ يعامل على أنه تعليق من المعد لا نقلا، أو يطلب مصدره. يقترح إكمال work: volume 8، page 242.",
+  "A1-027": "زاد المعاد في هدي خير العباد، ط. مؤسسة الرسالة (الإصدار الثاني المنقح 1417هـ/1996م، تحقيق شعيب وعبد القادر الأرناؤوط)، ج 5 ص 424، فصل اختلاف الفقهاء في التخيير بين الأبوين، فقرة: اختلاف الفقهاء في تعيين أحد الأبوين لمقام البنت عنده — المضمون صحيح؛ الصياغة الأصلية: «فإنما نقدمه إذا حصلت به مصلحة الولد ... ولا التفات إلى قرعة ولا اختيار الصبي في هذه الحالة فإنه ضعيف العقل يؤثر البطالة واللعب فإذا اختار من يساعده على ذلك لم يلتفت إلى اختياره». السياق المباشر هو حضانة البنت لكن القاعدة مصوغة بلفظ «الولد» و«الصبي». الحكاية المذكورة في notes ثابتة في الصفحة نفسها بلفظ «للكتاب» و«الفقيه يضربني» (لا «المعلم»). وبعدها ص 424-425: «قَالَ شَيْخُنَا: وَإِذَا تَرَكَ أَحَدُ الْأَبَوَيْنِ تَعْلِيمَ الصَّبِيِّ، وَأَمْرَهُ الَّذِي أَوْجَبَهُ اللَّهُ عَلَيْهِ، فَهُوَ عَاصٍ، وَلَا وِلَايَةَ لَهُ عَلَيْهِ». طبعة ثانية على الشاملة (ط عطاءات العلم): https://shamela.ws/book/197. يقترح إكمال work: volume 5، page",
+  "A1-044": "إحياء علوم الدين، ط. دار المعرفة بيروت، ج 3 ص 72، ربع المهلكات، كتاب رياضة النفس وتهذيب الأخلاق ومعالجة أمراض القلب، بيان الطريق في رياضة الصبيان في أول نشوئهم ووجه تأديبهم وتحسين أخلاقهم — النص مطابق كلمة بكلمة لما في البطاقة، مع فرق وحيد: نص الشاملة (ط. دار المعرفة) فيه «والصبيان أمانة عند والديه» وهو خطأ طباعي ظاهر لأن الضمائر بعده مفردة (وقلبه ... وهو قابل)؛ الطبعات المتداولة وويكي مصدر والنقول الكثيرة كلها «والصبي أمانة عند والديه» كما في البطاقة. يسبقه في المصدر: «اعلم أن الطريق في رياضة الصبيان من أهم الأمور وأوكدها». يقترح إكمال work: volume 3، page 72، edition دار المعرفة.",
+  "A1-045": "تحفة المودود بأحكام المولود، تحقيق عبد القادر الأرناؤوط (مكتبة دار البيان، دمشق 1391هـ/1971م)، ص 229، الباب الخامس عشر في وجوب تأديب الأولاد وتعليمهم والعدل بينهم — مطابق حرفيا. تصحيح لازم في حقل work.section: الباب هو «الباب الخامس عشر» لا «السادس عشر» في طبعتي الشاملة كلتيهما (الأرناؤوط، وعطاءات العلم: https://shamela.ws/book/229/377)؛ الباب السادس عشر عنوانه «فصول نافعة في تربية الأطفال تحمد عواقبها عند الكبر». يسبق النص في المصدر: «فوصية الله للآباء بأولادهم سابقة على وصية الأولاد بآبائهم، قال الله تعالى {ولا تقتلوا أولادكم خشية إملاق}». موسوعة الآداب الشرعية في الدرر السنية تحيل إلى ص 229 أيضا: https://dorar.net/aadab/5560",
+  "A1-025": "تحفة المودود بأحكام المولود، تحقيق عبد القادر الأرناؤوط، ص 229، الباب الخامس عشر في وجوب تأديب الأولاد وتعليمهم والعدل بينهم (الجملة التالية مباشرة لجملة البطاقة A1-045) — المضمون مطابق للمصدر حرفيا تقريبا، فيمكن تحويل البطاقة إلى اقتباس حرفي بالنص المثبت أعلاه. تصحيح section: «الباب الخامس عشر» لا السادس عشر. يليه في المصدر: «كما عاتب بعضهم ولده على العقوق فقال: يا أبت إنك عققتني صغيرا فعققتك كبيرا، وأضعتني وليدا فأضعتك شيخا». الطبعة الثانية: https://shamela.ws/book/229/377",
+  "A2-005": "إحياء علوم الدين، ط. دار المعرفة بيروت، ج 3 ص 73-74 (الجملة تبدأ آخر ص 73 وتتم أول ص 74)، كتاب رياضة النفس وتهذيب الأخلاق، بيان الطريق في رياضة الصبيان في أول نشوئهم — المضمون في البطاقة يقول «إذا بلغ الصبي سبع سنين» والمصدر يقول «ومهما بلغ سن التمييز»؛ لا ذكر لسبع سنين في هذا البيان كله (الموضع الوحيد لكلمة «سبع» في ص 74 هو قول قائل «وأنا ابن ست سنين أو سبع سنين» في سياق آخر). يجب تعديل المضمون والعنوان إلى «من سن التمييز»، ويمكن للمعد أن يضيف من عنده أن الفقهاء يقدرون التمييز بسبع، لكن لا ينسب ذلك للغزالي هنا. تتمة الصفحة: https://shamela.ws/book/9472/820",
+  "A3-001": "لسان العرب لابن منظور، ط. دار صادر بيروت، الطبعة الثالثة 1414هـ، ج 11 ص 402، حرف اللام، فصل الطاء المهملة، مادة «طفل» (المادة تبدأ آخر ص 401)، الجملة منسوبة في المصدر إلى أبي الهيثم — المضمون مطابق للمصدر حرفيا تقريبا (يمكن تحويله إلى اقتباس حرفي: «أبو الهيثم: الصبي يدعى طفلا حين يسقط من بطن أمه إلى أن يحتلم»). في المادة نفسها أيضا: «والطفل الصغير من أولاد الناس والدواب» و«والطفل: المولود». بداية المادة: https://shamela.ws/book/1687/5579. يقترح إكمال work: volume 11، page 402، edition دار صادر.",
+  "A3-005": "الموسوعة الفقهية الكويتية، وزارة الأوقاف والشئون الإسلامية، ج 27 ص 20، مادة «صغر»، التعريف (الفقرة 1). ومادة «طفل» ج 28 ص 356 مجرد إحالة: «طفل: انظر: صغر» — المضمون صحيح مع فرق لفظي يسير: المصدر «منذ مولده إلى بلوغه الحلم» والبطاقة «منذ ولادته إلى بلوغه». التعريف اللغوي قبله: «الصغر في اللغة: مأخوذ من صغر صغرا: قل حجمه أو سنه فهو صغير والجمع صغار». وفي الصفحة نفسها تقسيم الصغر إلى مرحلتين: عدم التمييز «تبدأ هذه المرحلة منذ الولادة إلى التمييز» ثم مرحلة التمييز، وتعريف التمييز: «هو أن يصير للصغير وعي وإدراك يفهم به الخطاب إجمالا». النص يدعم محور «الطفولة تنتهي بالبلوغ» لكنه لا يحدد التمييز بسبع (انظر double_edged). تصحيح section: التعريف في مادة «صغر» وحدها. يقترح إكمال work: volume 27، page 20.",
+  "A3-002": "فقه اللغة وسر العربية للثعالبي، تحقيق عبد الرزاق المهدي، دار إحياء التراث العربي 1422هـ/2002م، ص 78 (الفصل يبدأ ص 77)، الباب الرابع عشر في أسنان الناس والدواب وتنقل الأحوال بهما، الفصل الأول في ترتيب سن الغلام — فرقان مع البطاقة: (1) المصدر يذكر اسم المفعول/الفاعل «مثغور» و«مثغر» لا الفعلين «ثغر» و«اثغر» (الفعلان في لسان العرب مادة ثغر لا هنا)؛ (2) الأهم: عبارة «وهو أوان السابعة تقريبا» ليست في المصدر إطلاقا؛ الثعالبي لا يذكر أي سن لمرحلة الإثغار، والسنان الوحيدان المذكوران بعدها هما «العشر السنين» و«الحلم». يجب أن تنسب عبارة السابعة إلى المعد (ملاحظة طبية/لغوية) لا إلى الثعالبي. يدعم الربط بين الإثغار وانتهاء الحضانة نص المغني ج 8 ص 239: «ومالك يقول: الأم أحق به حتى يثغر» (https://shamela.ws/book/8463/3615). بداية الفصل: https://shamela.ws/book/11235/63. يقترح إكمال work: page 78.",
+  "A4-006": "زاد المعاد في هدي خير العباد، ط. مؤسسة الرسالة (الإصدار الثاني 1417هـ/1996م)، ج 5 ص 425، فصل اختلاف الفقهاء في التخيير بين الأبوين، فقرة: مذهب من قال ببطلان التخيير؛ القائل هو شيخ الإسلام ابن تيمية (الكلام معطوف على «قال شيخنا» قبله) — المضمون مطابق؛ الصياغة الأصلية: «أن الشارع ليس عنه نص عام في تقديم أحد الأبوين مطلقا ... بل لا يقدم ذو العدوان والتفريط على البر العادل المحسن». نسبة القول لابن تيمية بواسطة ابن القيم صحيحة. الصفحة السابقة (ص 424-425) فيها: «وإذا ترك أحد الأبوين تعليم الصبي وأمره الذي أوجبه الله عليه فهو عاص ولا ولاية له عليه، بل كل من لم يقم بالواجب في ولايته فلا ولاية له». الطبعة الثانية على الشاملة: https://shamela.ws/book/197. يقترح إكمال work: volume 5، page 425، edition الرسالة.",
+  "A2-004": "القانون في الطب، الكتاب الأول، الفن الثالث (في حفظ الصحة)، التعليم الأول، الفصل الرابع «تدبير الأطفال» — ج1 ص220 في طبعة محمد أمين الضناوي (3 مجلدات) = صفحة 210 في نسخة الشاملة — النص موجود لكن بفارقين لفظيين: المطبوع «وإذا أتى عليه من أحواله ست سنين» لا «فإذا أتى على الصبي» (كلمة الصبي مذكورة في الجملة السابقة: «وقد يعرض للصبي سحج في الفخذ...»)؛ باقي الجملة مطابق. تتمة النص: «ويدرج أيضا في ذلك ولا يحكم عليه بملازمة الكتاب كرة واحدة» (التدرج في الإلحاق بالمعلم)، ثم: «ويكون هذا هو النهج في تدبيرهم إلى أن يوافوا الرابع عشر من سنيهم» (تدبير الصبيان يمتد إلى 14 سنة). فهرس الشاملة الجانبي يعنون الصفحة خطأ «الفصل العاشر أبوال النساء والرجال»، والعنوان في متن الصفحة «الفصل الرابع تدبير الأطفال»، والصفحة التالية (ص221) تبدأ بـ«التعليم الثاني: التدبير المشترك للبالغين»، وهو ما يؤكد أن الموضع في التعليم الأول. يحتمل أن صيغة «فإذا أتى على الصبي» من طبعة أخرى (بولاق)، ولم أتحقق منها.",
+  "A2-010": "Abstract, Results — Pediatrics 1997;99(4):505–512 (doi 10.1542/peds.99.4.505, PMID 9093289) — أرقام المضمون مطابقة (17 077 فتاة؛ 9.96 للبيض؛ 8.87 للسود). دراسة مقطعية في عيادات أطباء الأطفال (225 طبيبا)، الفتيات من 3 إلى 12 سنة؛ متوسط سن الحيض الأول 12.16 (السود) و12.88 (البيض). صفحة PubMed تعرض فحص reCAPTCHA للجالب الآلي (الرابط صحيح للبشر؛ رقم PMID مؤكد من OpenAlex)؛ نص الملخص أُخذ من سجل OpenAlex وتم التحقق من الجملتين كلمة كلمة في سجل CrossRef (ملخص الناشر AAP).",
+  "A2-011": "Abstract, Results — Pediatrics 2013;132(6):1019–1027 (doi 10.1542/peds.2012-3773, PMID 24190685, PMC3838525) — المضمون صحيح في الأرقام (8.8 إلى 9.7) لكن المصدر يقول «median» (الوسيط) لا «متوسط»؛ يستحسن تعديل الكلمة. دراسة متابعة لأكثر من 1200 فتاة (6–8 سنوات عند الدخول) من 2004 إلى 2011 في 3 مناطق أمريكية. الجملتان متحقق منهما كلمة كلمة في سجل CrossRef؛ صفحة PubMed محجوبة بفحص reCAPTCHA أمام الجالب الآلي.",
+  "A2-012": "Abstract, Results — Pediatrics 2009;123(5):e932–e939 (doi 10.1542/peds.2008-2491, PMID 19403485) — الأرقام مطابقة للمضمون (10.88 سنة في 1991 إلى 9.86 سنة في 2006). الفتيات 2095 (5.6–20 سنة): 1100 في 1991–1993 و995 في 2006–2008؛ سن الحيض الأول تغير قليلا (13.42 إلى 13.13). الجملة متحقق منها كلمة كلمة في سجل CrossRef؛ PubMed محجوب بفحص reCAPTCHA أمام الجالب الآلي.",
+  "A2-013": "Abstract, Results and Conclusions and Relevance — JAMA Pediatr. 2020;174(4):e195881 (doi 10.1001/jamapediatrics.2019.5881, PMID 32040143) — المضمون مطابق (نحو 3 أشهر كل عقد، 1977–2013). مراجعة منهجية وتحليل جامع: 3602 دراسة فُحصت، 30 منها مؤهلة. الجمل متحقق منها كلمة كلمة على صفحة JAMA Pediatrics (المقال كامل النص مفتوح)؛ PubMed محجوب بفحص reCAPTCHA أمام الجالب الآلي.",
+  "A2-022": "Summary, p. 303; mean age at breast stage 2 (B2) = 11·15 years (SD 1·10, SE 0·10) in Table I, p. 294 — Arch Dis Child 1969;44(235):291–303 (doi 10.1136/adc.44.235.291, PMID 5785179, PMC2020314) — المضمون مدعوم: متوسط سن المرحلة الثانية للثدي 11.15 سنة (الجدول الأول ص294، والخلاصة تقول إن الانحرافات المعيارية لكل المراحل نحو سنة)؛ لكن أول النطاق الطبيعي (95%) في المصدر 8.5 سنة لا «نحو 9»، فيستحسن تعديل المضمون إلى «من نحو 8.5 سنة». متوسط سن الحيض الأول 13.47 (انحراف معياري 1.02). النص مأخوذ من ملف PDF على موقع BMJ (نسخة ممسوحة ضوئيا، الأرقام فيها بنقطة وسطية ·)؛ صفحات PubMed وPMC محجوبة بفحص reCAPTCHA أمام الجالب الآلي؛ لا يوجد ملخص في سجل PubMed/OpenAlex.",
+  "A2-025": "Abstract — Pediatrics 2008;121(Suppl 3):S172–S191 (doi 10.1542/peds.2007-1813D, PMID 18245511) — المضمون مدعوم مع تحفظ في الصياغة: اللجنة (أغلبيتها) رأت أن البيانات «كافية لترجيح اتجاه» (sufficient to suggest a trend) نحو التبكير في بدء نمو الثدي وسن الحيض الأول فقط، للفترة 1940–1994؛ وأقلية رأت البيانات غير كافية؛ وشبه إجماع على أن بيانات الأولاد غير كافية للحكم. يستحسن صياغة المضمون بـ«أن البيانات كافية لترجيح اتجاه نحو تبكير...». الجملة متحقق منها كلمة كلمة على سجل Penn State Pure (ملخص الناشر)؛ PubMed محجوب بفحص reCAPTCHA أمام الجالب الآلي.",
+  "A2-015": "Summary (abstract) — Lancet Child Adolesc Health 2018;2(3):223–228 (doi 10.1016/S2352-4642(18)30022-1, PMID 30169257) — المضمون مطابق للجملة الأولى من الخلاصة. المقال (Viewpoint) يدعو إلى تعريف المراهقة بـ10–24 سنة بدل 10–19، أي يمد نهاية المراهقة إلى 24 (لا يمس بداية التمييز)؛ وضعته في double_edged لأن خصما قد يستعمله لتوسيع «مرحلة الحماية». رابط doi.org رفضه الوكيل (429) وموقع لانسيت يحجب الجالب الآلي؛ بيانات المقال مؤكدة من CrossRef (المجلد 2، العدد 3، ص223–228) والنص مأخوذ من مستودع جامعة أديلايد.",
+  "A2-007": "Advances in Child Development and Behavior, vol. 2 (1965), pp. 187–220 (bibliographic data confirmed via CrossRef and OpenAlex) — تأكدت بيانات النشر (Sheldon H. White, Evidence for a hierarchical arrangement of learning processes, Advances in Child Development and Behavior vol. 2, 1965, pp. 187–220) من CrossRef وOpenAlex، لكن نص الفصل غير متاح: ScienceDirect يمنع الجالب الآلي، ولا ملخص في سجلات CrossRef/OpenAlex، ونسخة المجلد على أرشيف الإنترنت (https://archive.org/details/advancesinchildd0000unse_m6i8) مقيدة الاستعارة ولا يمكن البحث داخلها آليا. المضمون (أن هذا البحث أصل مفهوم «تحول الخامسة إلى السابعة») تدعمه مصادر ثانوية فقط (مثلا iresearchnet: «Developmental psychologist Sheldon White introduced the term five-to-seven shift in 1965»). يحتاج إلى تحقق يدوي من النص لاستخراج جملة حرفية.",
+  "A2-008": " — handled separately",
+  "A5-059": "Monographs of the Society for Research in Child Development 1964;29(3):1–77 (doi 10.2307/1165727, PMID 14151332; citation confirmed via OpenAlex) — لا يوجد ملخص للدراسة في سجلات PubMed/OpenAlex/CrossRef (سجل OpenAlex يحوي بيانات الاستشهاد فقط)، وصفحة JSTOR ونسخة Scribd محجوبتان أمام الجالب الآلي، وصفحة PubMed تعرض فحص reCAPTCHA. المضمون موافق للرواية المعروفة للدراسة (60 رضيعا في غلاسكو؛ تعدد التعلق عند 18 شهرا؛ الأب من المتعلق بهم؛ قوة التعلق تتبع الاستجابة لا مقدار الرعاية) لكن لم أحصل على نص حرفي من المونوغراف نفسه. يحتاج تحققا يدويا (JSTOR) لاستخراج جملة حرفية.",
+  "A5-061": "Abstract — Child Development 2000;71(1):127–136 (doi 10.1111/1467-8624.00126, PMID 10836566) — الملخص يدعم الشطر الأول من المضمون (ازدياد مشاركة الآباء في الأسر المتماسكة، وازدياد غياب الآباء غير المقيمين). أما الشطر الثاني («مشاركتهم تسهم في نمو الطفل إسهاما مستقلا عن إسهام الأم») فليس في الملخص؛ قد يكون في متن المقال لكن لم أستطع الوصول إليه (Wiley يحجب الجالب الآلي). يستحسن حذف هذه الجملة من المضمون أو إسنادها إلى مصدر آخر. نص الملخص من سجل OpenAlex؛ PubMed محجوب بفحص reCAPTCHA.",
+  "A5-062": "Abstract — Family Process 2007;46(1):35–52 (doi 10.1111/j.1545-5300.2006.00190.x, PMID 17375727) — الملخص يقول إن المقال يعرض «آراء الأطفال في ترتيبات إقامتهم» ويخلص إلى أن أنماط الزيارة التقليدية «مقيدة» وتخفق في تحقيق مصلحة أكثر الأطفال، لكنه لا يذكر صراحة أن أكثر الأطفال يرغبون في صلة أوسع بآبائهم أو يشكون قلة الوقت معهم؛ هذه التفاصيل في متن المقال (غير متاح: Wiley يحجب الجالب الآلي). يستحسن إعادة صياغة المضمون على ما في الملخص أو التحقق من المتن يدويا. نص الملخص من سجل OpenAlex؛ PubMed محجوب بفحص reCAPTCHA.",
+  "A5-063": "Abstract — Family Court Review 2001;39(4):365–371 (doi 10.1111/j.174-1617.2001.tb00618.x) — المضمون مطابق. «ذلك» في الجملة يعود إلى الجملة السابقة في الملخص: «When parents separate, children often experience distress, and their adjustment is adversely affected when the relationship with one of their parents is severed». الجملة الموضوعة في double_edged تقر بأن أكثر الرضع يكوّنون علاقة تفضيلية بمن يتولى القسط الأكبر من الرعاية. الملخص مستخرج من سجل OpenAlex (صفحة Wiley محجوبة أمام الجالب الآلي؛ رقم DOI مؤكد).",
+  "A5-070": "Abstract — Child Development 1977;48(1):167–181 (doi 10.2307/1128896) — المضمون مطابق: 20 رضيعا لوحظوا في بيوتهم مع الأم والأب في أعمار 7 و8 و12 و13 شهرا. الملخص يذكر أيضا أن الأمهات حملن الرضع غالبا للرعاية والآباء للعب، وأن الرضع استجابوا للعب الأب بإيجابية أكبر. الملخص مستخرج من سجل OpenAlex (صفحة JSTOR تعرض «Client Challenge» أمام الجالب الآلي؛ رقم DOI مؤكد في CrossRef).",
+  "A5-071": "Child Development 1981;52(3):932–940 (doi 10.2307/1129097; citation confirmed via CrossRef and OpenAlex) — تأكدت بيانات النشر (Main M, Weston DR, The quality of the toddler's relationship to mother and to father: related to conflict behavior and the readiness to establish new relationships, Child Development 52(3):932–940, 1981)، لكن لا ملخص في سجلات CrossRef/OpenAlex، وJSTOR يحجب الجالب الآلي، وEurope PMC وSemantic Scholar رفضا الطلب. المضمون موافق للنتائج المعروفة للدراسة (استقلال تعلق الطفل بأمه عن تعلقه بأبيه؛ والآمن مع كليهما أحسن استعدادا لعلاقة جديدة من الآمن مع أحدهما) لكن لم أحصل على نص حرفي. يحتاج تحققا يدويا من الملخص على JSTOR أو PubMed.",
+  "A5-072": "Abstract — Social Development 2002;11(3):301–337 (doi 10.1111/1467-9507.00202) — المضمون مطابق: دراسة متابعة 16 سنة على 44 أسرة؛ قياس حساسية الأب في اللعب الحساس المتحدي (SCIP) في سن الطفولة المبكرة، والتعلق في أعمار 6 و10 و16. الملخص يذكر أن تعلق الرضيع بأمه تنبأ أيضا بتصور التعلق في سن 10 (لا يقدح في المضمون). الملخص مستخرج من سجل OpenAlex (Wiley يحجب الجالب الآلي؛ رقم DOI مؤكد).",
+  "A5-073": "Abstract — Human Development 2004;47(4):193–219 (doi 10.1159/000078723) — الجملتان متحقق منهما كلمة كلمة على صفحة الناشر Karger (رابط doi.org يحول إليها بحالة 302). المضمون مطابق إلا جملته الأخيرة («وهي حاجة تشتد كلما خرج الطفل إلى المجتمع») فليست في الملخص؛ الملخص يقول «الانفتاح على العالم» ويذكر أن علاقة التنشيط تنمو أساسا باللعب البدني، وأن اللعب الخشن مع الأب يشجع الطاعة ومهارات المنافسة. يستحسن حذف الجملة الأخيرة أو تخفيفها.",
+  "A5-074": "Abstract — Journal of Adolescence 2003;26(1):63–78 (doi 10.1016/S0140-1971(02)00116-1, PMID 12550822) — المضمون صحيح في جملته لكنه يعمم: الأثر عند الرشد (سن 33) وُجد عند النساء البالغات تحديدا، والأثر في المراهقة (سن 16) وُجد عند أبناء الأسر غير المتماسكة؛ فيستحسن إضافة «عند النساء» (أو «خاصة عند البنات»). العينة 8441 من أفراد الدراسة الوطنية لنمو الطفل (مواليد 1958) مع ضبط انخراط الأم. الملخص يضيف أن أثر انخراط الأب لم يختلف باختلاف مستوى انخراط الأم. الملخص من سجل OpenAlex؛ PubMed محجوب بفحص reCAPTCHA.",
+  "A5-075": "Abstract — Review of General Psychology 2001;5(4):382–405 (doi 10.1037/1089-2680.5.4.382) — المضمون مطابق. المقال مراجعة لست فئات من الدراسات. الملخص مستخرج من سجل OpenAlex (رقم DOI مؤكد)؛ لم أفتح صفحة الناشر (APA PsycNet/SAGE) لذا حالة الرابط الأصلي «unknown».",
+  "A5-081": "Abstract — Applied Developmental Science 2012;16(2):98–111 (doi 10.1080/10888691.2012.667344) — المضمون مدعوم في عناصره الثلاثة (جودة العلاقة، صلة الوالدين، الموارد). أما «لا على كون من يرعاه أما أو أبا» فالملخص لا يذكر جنس الراعي صراحة، لكنه يقول إن أبعاد بنية الأسرة (الطلاق، الأبوة المنفردة، التوجه الجنسي للوالدين، وصلة القرابة البيولوجية) «of little or no predictive importance once the process variables are taken into account, because the same factors explain child adjustment regardless of family structure». الملخص من سجل OpenAlex (Taylor & Francis يحجب الجالب الآلي؛ DOI مؤكد).",
+  "A5-087": "Abstract — Journal of Child Custody 2018;15(1):16–25 (doi 10.1080/15379418.2018.1425105) — الملخص لا يذكر المناصفة ولا يقول إن الرعاية المشتركة «لا تضر» الصغار؛ بل يقول إن الكاتب فحص الدراسات الخمس الأكثر استشهادا وبين ما تدل عليه وما لا تدل عليه، وأن الأدلة توحي بأن الأطفال ينتفعون من خطط رعاية تحفظ صلتهم بكلا الوالدين. بحسب قاعدة المدونة لا يصح هنا تعبير «الرعاية المشتركة بالمناصفة»؛ يقترح: «الرعاية المشتركة التي تحفظ صلة الصغار بكلا الوالدين». كذلك عنوان البطاقة بالإنجليزية خلافا لسائر البطاقات. الملخص من سجل OpenAlex (Taylor & Francis يحجب الجالب الآلي؛ DOI مؤكد).",
+  "A5-092": "Abstract, Results — Soc Psychiatry Psychiatr Epidemiol 2007;42(8):656–663 (doi 10.1007/s00127-007-0210-3, PMID 17522746) — الشطر الأول من المضمون صحيح (مراهقو الإقامة المشتركة بلا خطر زائد مقارنة بأسر الوالدين معا، عدا السكر). الشطر الثاني («أحسن حالا من مراهقي الأسر أحادية الوالد») صحيح فقط مقارنة بأسر الأب الوحيد؛ أما مقارنة بأسر الأم الوحيدة فلم توجد فروق. يستحسن إعادة الصياغة: «قريبين من مراهقي الأسر المتماسكة، وأحسن حالا من مراهقي أسر الأب الوحيد، ولم يختلفوا عن مراهقي أسر الأم الوحيدة». العينة 15428 طالبا في الصف التاسع في مقاطعة ستوكهولم (استجابة 83.4%). النص من صفحة Springer؛ PubMed محجوب بفحص reCAPTCHA.",
+  "A5-095": "Abstract (sentences 7-9), Journal of Youth and Adolescence 41(12):1643-1656 (2012), doi:10.1007/s10964-012-9783-6 — Verified on the Springer page (PubMed is bot-checked). Sample: 587 children aged 10-18 and their parents (Flanders, Belgium). The abstract ties self-esteem to the father's SUPPORT only; the gist's «ولا سيما الدعم والمتابعة» should be narrowed to support (control is reported only as lower among non-residential fathers). The second clause of the gist (involvement higher in joint custody) is supported: fathers in joint custody were more supportive and controlling than non-residential fathers.",
+  "A5-094": "Abstract (last three sentences), Journal of Family Studies 19(2):139-158 (2013), doi:10.5172/jfs.2013.19.2.139; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.5172/jfs.2013.19.2.139) — The gist's «مساويا أو أحسن» overstates: the abstract says wellbeing is SIMILAR (not better) and explicitly warns that joint physical custody can become negative under parental conflict, poor parent-child relationship, or a new partner in the household. Data: LAGO project, 1,570 children of divorced parents (Flanders). Suggest rewording to «مماثلا» and keeping the caveat, or dropping the entry. Publisher page (doi.org -> tandfonline) could not be fetched.",
+  "A5-104": "Summary (journal abstract), The Future of Children 15(2):75-96 (Fall 2005), doi:10.1353/foc.2005.0012; body sentence: \"Interviews with children reveal that losing contact with fathers is one of the most painful outcomes of divorce.\" — Full text reproduced on cyc-net.org (official: Project MUSE / Princeton-Brookings, doi:10.1353/foc.2005.0012; PubMed 16158731 bot-checked). The gist's attribution of the gap to «موارد الأب وصلته» is not the article's framing: it attributes the differences to the resources of the stable two-parent family (income, parenting, co-parenting, closeness to BOTH parents, fewer stressors); the father-specific line in the body is only «losing contact with fathers is one of the most painful outcomes of divorce». Suggest softening the gist; the article also stresses that the effects of divorce are modest.",
+  "A5-109": "Abstract (sentences 1 and 5), American Journal of Family Therapy 33(4):289-302 (2005), doi:10.1080/01926180590962129; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/01926180590962129) — Gist accurate. Small retrospective qualitative sample (38 adults, one-hour semi-structured interviews), which limits generalization. Note: the 'Baker.pdf' on bhekisisa.org that search engines return is a different 2005 Baker article (Cultic Studies Review 4(1)), not this one. Publisher (T&F) blocked.",
+  "A5-110": "Abstract (sentences 1-2), Child Development 74(3):801-821 (2003), doi:10.1111/1467-8624.00569 (full text also in PMC: PMC2764264) — Abstract verified on the Duke Scholars record (PubMed/PMC bot-checked). The gist's «كان الأثر أشد كلما بكر غياب الأب» is from the body, not the abstract; the authors' Duke press release (https://today.duke.edu/2003/06/dodge605.html) states pregnancy rates were «seven to eight times higher among early father-absent girls» but «only two to three times higher among later father-absent girls, than among father-present girls» (early = father left before age 6). The abstract also says the risk was not (US) or only partly (NZ) explained by other disadvantages.",
+  "A5-022": "Abstract (sentences 2-4), Journal of Family Psychology 16(1):91-102 (2002), doi:10.1037/0893-3200.16.1.91; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1037/0893-3200.16.1.91) — Gist accurate. Meta-analysis of 33 studies. Caution: it pools joint PHYSICAL and joint LEGAL custody («joint physical or legal custody»), so it is not purely about equal-time arrangements, and the author hedges («in some cases»). PubMed and APA PsycNet blocked (robots); verified via OpenAlex.",
+  "A5-024": "Abstract, Journal of Child Custody 15(1):35-54 (2018), doi:10.1080/15379418.2017.1422414; abstract reproduced on p. 1 of Linda Nielsen's written testimony to the Kansas Senate Judiciary Committee on SB 257 (30 January 2018) — Gist accurate. Narrative review of 60 studies; in Nielsen's reviews JPC means at least 35% of time with each parent (not necessarily equal). Income sentence: «In the 25 studies that considered family income, JPC children had better outcomes on all measures in 18 studies, equal to better outcomes in 4 studies, equal outcomes in 1 study, and worse outcomes on one measure but equal or better outcomes on other measures in 2 studies.» Publisher (T&F) blocked; verified from the author's own testimony reproducing the abstract.",
+  "A5-026": "Family and Conciliation Courts Review 38(3):297-311 (2000), p. 304, as quoted verbatim in Ludolph PS, \"The Special Issue on Attachment: Overreaching Theory and Data\", Family Court Review 50(3):486-495 (2012), pp. 489-490. Abstract (via OpenAlex): \"Research on attachment processes, separation from attachment figures, and the roles of mothers and fathers in promoting psychosocial adjustment are reviewed in this article. It concludes with a discussion of the implications for young children's parenting schedules.\" — Wiley page blocked; the article's own abstract (OpenAlex) is generic and does not state the gist. The supporting sentence (p. 304) is a SECONDARY quotation taken from Ludolph 2012 (University of Michigan repository copy), so it should be checked against the original if a copy is obtained. The claim that infants attach to both parents at the same age could not be verified verbatim",
+  "A5-046": "Abstract, Journal of Family Psychology 21(2):195-205 (2007), doi:10.1037/0893-3200.21.2.195; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1037/0893-3200.21.2.195) — Sample: 266 university students whose parents divorced before they were 16. The gist's clause «دون أن يضر ذلك علاقتهم بأمهاتهم» is NOT in the abstract (may be in the body; unverified). PubMed and APA blocked; abstract reconstructed from the OpenAlex inverted index.",
+  "A5-047": "Abstract (last two sentences), Journal of Comparative Family Studies 42(6):871-890 (2011), doi:10.3138/jcfs.42.6.871; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.3138/jcfs.42.6.871) — Gist accurate (HBSC survey, 36 countries; JPC here = children who «spend about half their time in two homes», i.e. near-equal time, so «الرعاية المشتركة بالمناصفة» is also acceptable). Prevalence was low: «0-4% spend about half their time in two homes». Publisher (UTP) and doi.org could not be fetched; the Icelandic repository record (rafhladan.is/handle/10802/25033) confirms the citation but has restricted full text.",
+  "A5-048": "Abstract (sentences 2 and 5), Journal of Divorce & Remarriage 59(5):452-468 (2018), doi:10.1080/10502556.2018.1454203; author manuscript in DigitalCommons@University of Nebraska-Lincoln — Gist accurate; note the hedged wording («probably», «provisionally», «rebuttably presumptive»). PDF: https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1904&context=psychfacpub. Publisher (T&F) blocked.",
+  "A5-049": "Abstract, Journal of Marriage and the Family 61(3):557-573 (1999), doi:10.2307/353560 (63 studies); text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.2307/353560) — Gist accurate (quality of fathering, not mere visiting, predicts outcomes). Double-edged for a pure «more time» argument: the meta-analysis found visitation FREQUENCY unrelated to outcomes (it concerns visiting, not shared residence). First sentence of abstract: «We employed meta-analytic methods to pool information from 63 studies dealing with nonresident fathers and children's well-being» (last word inferred from position gap). doi.org redirects to JSTOR (not fetchable by bot); verified via OpenAlex.",
+  "A5-050": "Abstract (sentences 5-8), Family Process 58(2):353-369 (2019; online 2018), doi:10.1111/famp.12372; 40 studies 2007-2018; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1111/famp.12372) — Gist partly accurate: the abstract says JPC «can have positive effects», but its reservations are about heterogeneity and self-selection (not specifically «high conflict» as the gist says), and it concludes that risks and benefits «are not clear yet». JPC defined here as at least 25-50% of time with each parent. PubMed and Wiley blocked; verified via OpenAlex.",
+  "A5-051": "Abstract (paragraph 1 sentence 3; paragraph 2 sentences 9-10), Family Court Review 52(2):152-174 (2014), doi:10.1111/fcre.12078; pre-publication copy at Hofstra Law Scholarly Commons. Report consensus point 10 (p. 168): \"Children's best interests are furthered by parenting plans that provide for continuing and shared parenting relationships\" — The gist misstates the Think Tank's conclusion. The AFCC Think Tank (32 experts) agreed that children benefit from continuing and shared parenting RELATIONSHIPS and a majority supported a presumption of joint DECISION-MAKING, but it explicitly rejected statutory presumptions of specific shared-parenting TIME allocations (equal time) and said one size never fits all. For an equal-time thesis this entry is double-edged; if kept, reword to: agreement on continuing involvement of both parents, no presumption of equal time. Full report: https://www.afcc",
+  "A5-056": "Abstract (sentences 2, 5-6), Journal of Divorce & Remarriage 58(5):371-392 (2017), doi:10.1080/10502556.2017.1325648; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/10502556.2017.1325648) — Gist accurate; «sharing residence equally» justifies «الرعاية المشتركة بالمناصفة». Swedish ULF survey data 2001-2003 combined with registers (807 children per the Population Europe summary); models controlled for interparental conflict, parent-child relationship quality and parents' income. Publisher (T&F) blocked; verified via OpenAlex (one word, «conflict», missing from the index in the control-variables sentence).",
+  "A5-064": "Abstract (sentences 5, 7-8), Psychology, Public Policy, and Law 23(2):211-231 (2017), doi:10.1037/law0000109; abstract reproduced in full on Palo Alto University's 'Translating Research into Practice' blog — JPC here = children living at least 35% of the time with each parent. The abstract says conflict is not linked to WORSE outcomes in JPC than in sole custody; it does not say JPC children are better off under conflict, so the gist's «أحسن حالا في الغالب حتى مع نزاع» should be softened to «ليسوا أسوأ حالا». APA PsycNet blocked (robots); OpenAlex and CrossRef carry no abstract; verified from the PAU blog which reproduces the abstract under an 'Abstract' heading.",
+  "A5-078": "Abstract (sentence 2), Family Relations 52(4):385-396 (2003), doi:10.1111/j.1741-3729.2003.00385.x; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1111/j.1741-3729.2003.00385.x) — Gist accurate: college students (Arizona State) whose parents had divorced endorsed EQUAL time with fathers; the «wished more time with fathers» clause is from the body, not the abstract. Final abstract sentence: «These findings consistently contradict the recent, influential public policy recommendations of Judith Wallerstein.» Wiley blocked; OpenAlex reconstruction (word at position 68 confirmed as «such»).",
+  "A5-079": "Abstract (sentence 1), American Journal of Family Therapy 40(1):33-55 (2012), doi:10.1080/01926187.2011.575344; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/01926187.2011.575344) — The abstract is generic; the specific benefits in the gist come from the body. Kruk's own summary (Psychology Today, April 2012, which states the 16 arguments are from this article) lists among them: «Shared parenting preserves children's relationships with both parents» (#1), «Shared parenting decreases parental conflict and prevents family violence» (#3), «Shared parenting decreases parental focus on 'mathematizing time' and reduces litigation» (#8), «Shared parenting reduces the risk and incidence of parental alienation» (#11) — https://www.psychologytoday.com/us/blog/co-parenting-after-divorce/201204/sixteen-arguments-in-support-co-parenting . Article body not accessib",
+  "A5-080": "Abstract (sentences 2 and 4), Journal of Divorce & Remarriage 51(1):65-82 (2010; online December 2009), doi:10.1080/10502550903423362; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/10502550903423362) — Gist acceptable but the abstract's wording is «slightly positive» on average — convey «إيجابية طفيفة». Comparison groups: mother-custody with low vs high father contact, co-parenting (JPC) families, father families. CrossRef dates the article 2009 (print volume 51(1) is 2010). The Utrecht University record found by search is the 2008 conference version without abstract. Publisher (T&F) blocked; verified via OpenAlex.",
+  "A5-083": "Abstract (sentences 3-4), Journal of Divorce & Remarriage 59(4):282-323 (2018), doi:10.1080/10502556.2018.1454193; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/10502556.2018.1454193); same wording in the author's summary at warshak.com — Gist accurate for the first part; the clause «دون إضرار بصلته بأمه» is not in the abstract (unverified in the body). Review article with 141 references (per https://warshak.com/key-peer-reviewed-articles/). Publisher (T&F) blocked.",
+  "A5-085": "Abstract (sentences 4-5), Journal of Divorce & Remarriage 59(5):349-358 (2018), doi:10.1080/10502556.2018.1454198; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/10502556.2018.1454198) — Gist accurate. JPC defined in the abstract as «children living alternatively and about equally with both parents», so «الرعاية المشتركة بالمناصفة» fits. Evidence is stated for ages 3 and above only. Publisher (T&F) blocked; verified via OpenAlex.",
+  "A5-086": "Abstract, 'Results' paragraph, Journal of Family Research 33(3):613-636 (2021), doi:10.20377/jfr-621; FAMOD study 2019, 1,087 post-separation families — Open access; verified on the journal site (PDF: https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/621/602). The gist («لم يكن أسوأ حالا ... حتى مع وجود نزاع») is literally true (never worse than sole custody), but the author's own conclusion is cautionary: JPC is «only beneficial ... when interparental conflict is low». Decide whether to keep.",
+  "A5-088": "Abstract, Journal of Divorce & Remarriage 59(5):372-387 (2018), doi:10.1080/10502556.2018.1454195; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/10502556.2018.1454195) — The abstract only lists the seven themes; the gist's «أكثرهم يرون ... نافعة ... مع استثناء حالات العنف» comes from the body, which was not accessible (T&F blocked). The Child & Family Blog summary of the article (October 2018, https://childandfamilyblog.com/shared-parenting-after-divorce/) states in its own words: «Most, but not all, of the panellists believed that the evidence supports making shared parenting a legal presumption» and that «the only form the experts agreed should preclude shared parenting is coercive, controlling violence» — consistent with the gist but not the article's wording. Remaining themes: high conflict / failure to agree / parental alienation as possible bars",
+  "A5-093": "Abstract, Journal of Divorce & Remarriage 44(3/4):99-124 (2006), doi:10.1300/J087v44n03_07; sample «2550 students in grades 7-9» (Bergen, Norway) — Verified on the Informa Healthcare mirror of the publisher page (tandfonline blocked). The gist's direct comparison («أحسن توافقا من ... الأم وحدها أو ... الأب وحده») is an inference: the abstract compares each structure with non-divorced families (JPC = no higher risk except school achievement; single-mother/stepfather = moderately increased risk; single-father = alarmingly high antisocial behavior and substance use). The «[...]» marks a conjunction not captured verbatim. Note the school-achievement exception.",
+  "A5-001": "Convention on the Rights of the Child (UNGA res. 44/25, 20 Nov 1989), Part I, Article 9, paragraph 3 — Exact match, word for word, on the OHCHR page. The only hedge is inside the quoted sentence itself (\"except if it is contrary to the child's best interests\"). Art. 9(1) (same article) allows separation of a child from parents when competent authorities subject to judicial review determine it necessary for the child's best interests; not undermining. The entry's translation_ar is faithful.",
+  "A5-002": "Convention on the Rights of the Child, Part I, Article 18, paragraph 1 (the quoted sentence is sentence 1 of the paragraph) — Quoted sentence matches the OHCHR text exactly. found_text adds the two following sentences of the same paragraph (all supportive). \"common responsibilities\" = joint parental responsibility (الولاية المشتركة / المسؤولية المشتركة), not equal time; the entry's title «المسؤولية المشتركة للوالدين» is correct.",
+  "A5-005": "African Charter on the Rights and Welfare of the Child (OAU Doc. CAB/LEG/24.9/49, adopted 1990, in force 29 Nov 1999), Article 19 (Parent Care and Protection), paragraph 2 — Gist accurate. The entry's au.int URL is the treaty landing page; the AU PDFs it links (English and Arabic) are image scans with no text layer, so the wording was confirmed from the ACERWC (AU Committee of Experts) text PDF. Note: unlike CRC art. 9(3), art. 19(2) of the African Charter has NO best-interests exception clause. Art. 19(1) (same article): \"No child shall be separated from his parents against his will, except when a judicial authority determines in accordance with the appropriate law, that such separation is in the best interest of the child.\" (not undermining). The official Arabic PDF (https://au.int/sites/default/files/treaties/36804-treaty-0014_-_AFRICAN_CHARTER_ON_THE_RIGHTS_AND_WELFARE_OF_THE_CHILD_A",
+  "A5-008": "Code civil, Livre Ier, Titre IX, Chapitre Ier, Section 3, art. 373-2-9, alinéa 1 (créé par la loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale) — The quoted words appear exactly, but the statutory sentence begins with «En application des deux articles précédents, la résidence…» (lower-case «la»); the entry drops that opening clause and capitalises «La» — recommend quoting the full sentence. The entry's HAL URL returns 'Access Denied' (blocked). Legifrance (official) refused the fetcher on three URL forms, so the clause was confirmed in an official Assemblée nationale document (government answer to written question n° 68521, JO 17 Aug 2010, p. 9134, which reproduces «la résidence de l'enfant peut être fixée en alternance au domicile de chacun des parents ou au domicile de l'un d'eux» verbatim) and the full article text on a lawyer's site (consultation.avocat.fr). Canonical o",
+  "A5-009": "Codice civile, Libro I, Titolo IX, Capo II, art. 337-ter, comma 1 (inserito dall'art. 55 del d.lgs. 28 dicembre 2013, n. 154, che riproduce con modificazioni l'ex art. 155 c.c. come sostituito dalla legge 8 febbraio 2006, n. 54) — Exact match on brocardi.it (entry URL, ok) and on an official Ministry of Justice court document (Tribunale di Trieste, giustizia.it). normattiva.it returned an error page for the article URL. Caveat on meaning: Italian «affidamento condiviso» is joint legal custody; comma 2 leaves the judge to fix «i tempi e le modalità della loro presenza presso ciascun genitore» (in practice a «collocamento prevalente» with one parent is common) and allows sole custody («stabilisce a quale di essi i figli sono affidati», see also art. 337-quater). So the entry's 'about' («نص الحضانة المشتركة») should not be read as equal time (بالمناصفة). The entry's date '2006/2013' is corr",
+  "A5-010": "Bürgerliches Gesetzbuch (BGB), Buch 4, Abschnitt 2, Titel 5, § 1626 Abs. 3 Satz 1 und 2 (Fassung durch das Kindschaftsrechtsreformgesetz vom 16.12.1997, in Kraft seit 1.7.1998) — Exact match (the official page only adds superscript sentence numbers). gesetze-im-internet.de disallows the fetcher (robots), so the text was confirmed on the mirror lxgesetze.de/bgb/1626; the official URL remains the canonical link. Hedge inside the quote: «in der Regel» (as a rule). Abs. 1 and 2 (parental care defined; growing autonomy of the child) are not double-edged. The entry's empty date can be filled with '1998 (Kindschaftsrechtsreform)'.",
+  "A5-011": "BGB § 1684 Abs. 1 (Umgang des Kindes mit den Eltern) — Exact match; confirmed on lxgesetze.de/bgb/1684 because gesetze-im-internet.de blocks the fetcher (robots). Supportive neighbour: Abs. 2 Satz 1 «Die Eltern haben alles zu unterlassen, was das Verhältnis des Kindes zum jeweils anderen Elternteil beeinträchtigt…» (loyalty / Wohlverhaltensklausel). Double-edged: Abs. 3–4 let the family court regulate, restrict or exclude contact when the child's welfare requires it. Note «Umgang» = contact/visitation, not custody; the title «حق الطفل في كل والد» is acceptable but «حق الطفل في التواصل مع كل من والديه» is more precise.",
+  "A5-013": "Código Civil (Lei nº 10.406/2002), art. 1.584, § 2º, na redação dada pelo art. 2º da Lei nº 13.058, de 22 de dezembro de 2014 — Exact match on planalto.gov.br (the HTML's accented characters are mis-encoded but the words are identical). Meaning caveat: Brazilian «guarda compartilhada» is joint custody with time 'divided in a balanced way' («de forma equilibrada»), always subject to the facts and the children's interests, and with a single 'base de moradia' city; it is not a statutory 50/50 rule, so translate as «الحضانة المشتركة» / «توزيع وقت المعاشرة توزيعا متوازنا» rather than «بالمناصفة». The exception in the quoted text (a parent may opt out) and § 5º (custody to a third person) are the double-edged parts.",
+  "A5-014": "Código Civil y Comercial de la Nación (Ley 26.994, vigente desde el 1 de agosto de 2015), Libro Segundo, Título VII, Capítulo 4, artículo 651 (Reglas generales) — Wording of art. 651 confirmed verbatim (leyfacil.com.ar reproduction; the official infoleg / argentina.gob.ar pages hold the full code but the fetcher only reads their first ~100k characters, i.e. up to art. ~180; a Procuración General de Buenos Aires opinion, cijur.mpba.gov.ar C-123064, and Cámara Civil Sala K, 30-12-2024, cite the same rule). IMPORTANT MISMATCH IN THE ENTRY'S TRANSLATION/TITLE: the 'first alternative' the judge must order is the «modalidad indistinta», which art. 650 defines as the child residing PRINCIPALLY with one parent while both share decisions and divide care tasks equitably; it is NOT equal time. Equal/alternating time is the «modalidad alternada», which is not the default. So «الرعاية المشتركة بالمنا",
+  "A5-017": "Segments 1–2: 法務省民事局 page «民法等の一部を改正する法律（父母の離婚後等の子の養育に関する見直し）について〔令和８年４月１日施行〕» (opening paragraph). Segment 3: 法務省 «改正の概要» PDF (https://www.moj.go.jp/content/001452583.pdf), section on post-divorce parental authority, citing 民法819条等 — Gist confirmed on official MOJ pages: Act No. 33 of 2024 passed the Diet on 17 May 2024, promulgated 24 May 2024, in force 1 April 2026; the MOJ English overview (p. 3) confirms the previous rule that \"only one parent could be designated as having parental responsibility after divorce\". The statutory text itself (amended Civil Code art. 819) is in the MOJ PDFs https://www.moj.go.jp/content/001419097.pdf (law) and 001419098.pdf (新旧対照条文), which the fetcher could not open (permission not granted) — the quoted sentences are from MOJ explanatory pages, not the article. Terminology: 親権 = parental authority (legal custody) → «الولاية المشتركة» as in the entry's ti",
+  "A5-018": "قانون رقم (14) لسنة 2021 في شأن الأحوال الشخصية للأجانب غير المسلمين في إمارة أبوظبي (صادر في 7 نوفمبر 2021)، المادة (9) «الحضانة المشتركة»، الفقرتان (1) و(2) — الجريدة الرسمية لحكومة أبوظبي، العدد 11، 15 نوفمبر 2021 — Gist confirmed from the official Abu Dhabi Gazette PDF hosted on u.ae. Correct the work title: the law is «في شأن الأحوال الشخصية للأجانب غير المسلمين في إمارة أبوظبي» (not «المدنية»), Law No. 14 of 2021, issued 7 Nov 2021, published 15 Nov 2021 (entry date '2021/2022' acceptable; the Abu Dhabi non-Muslim family court opened in Dec 2021). Double-edged: (1) joint custody can be lost by written waiver or by a court request to remove the other parent (art. 9(2) lists grounds such as incapacity or failure to perform custody duties); (2) art. 10 gives the court full discretion on a parent's request; (3) art. 16(4) fixes joint custody until age 16 and then free choice of the chi",
+  "A5-036": "Burgerlijk Wetboek Boek 1, Titel 14, Afdeling 1, artikel 247, lid 4 (ingevoerd bij de Wet bevordering voortgezet ouderschap en zorgvuldige scheiding, Stb. 2008, 500, in werking 1 maart 2009; the references to art. 251b were added later) — The entry's sentence «Het kind heeft na scheiding van zijn ouders recht op een gelijkwaardige verdeling van de verzorging en opvoeding door beide ouders» is NOT the statutory wording (it is a paraphrase; the law does not use «verdeling»). The real text is lid 4 above (the entry cites 'lid 3'; lid 3 reads: «Het ouderlijk gezag omvat mede de verplichting van de ouder om de ontwikkeling van de banden van zijn kind met de andere ouder te bevorderen.» — also supportive). The official wetten.overheid.nl page holds the full Boek 1 but the fetcher only reads its first part (up to art. 26a); the wording was confirmed on the mirror omgevingsweb.nl (Boek 1, Titel ",
+  "A5-037": "Code civil suisse (RS 210), art. 298, al. 2ter (introduit par la modification du 20 mars 2015 «Entretien de l'enfant», en vigueur depuis le 1er janvier 2017); parallel rule for unmarried parents in art. 298b, al. 3ter — Exact match (only typographic apostrophes differ) on droit-bilingue.ch, a bilingual mirror of the RS text; the official fedlex page (entry URL) is JavaScript-only and its PDF is too long for the fetcher (cut at art. 99), so it could not be read directly. Supportive neighbour: al. 2bis «…le juge tient compte du droit de l'enfant d'entretenir régulièrement des relations personnelles avec ses deux parents.» Double-edged: the article only obliges the judge to EXAMINE alternating custody, and only on request — no presumption; two Federal Council reports (2017, 2024) state that garde alternée is not the standard model. A parliamentary initiative 21.449 (Kamerzin) to favour gard",
+  "A5-038": "Código Civil, Libro I, Título IV, Capítulo IX, artículo 92, apartado 8 (redacción de la Ley 15/2005, de 8 de julio; la palabra «favorable» fue declarada inconstitucional y nula por la STC 185/2012, de 17 de octubre, BOE 14-11-2012) — Text confirmed (current consolidated wording, 'vigente', on iberley.es which mirrors BOE with its modification notes; the BOE page itself is served in parts and the fetcher only reached art. 46). Differences: the entry abbreviates with an ellipsis («el Juez… podrá»), omitting «a instancia de una de las partes, con informe del Ministerio Fiscal,»; and writes «sólo» where the consolidated text has «solo» (orthographic). Double-edged: 92.8 is framed as EXCEPTIONAL («Excepcionalmente») when the parents do not both request it, and 92.7 bars joint custody in cases of criminal proceedings for violence or well-founded indications of domestic/gender violence; 92.5 ma",
+  "A5-039": "Código Civil português, art. 1906.º, n.º 6 (redação da Lei n.º 65/2020, de 4 de novembro, Diário da República 1.ª série, em vigor desde 1 de dezembro de 2020) — Gist accurate; exact wording confirmed verbatim on the official site of the Tribunal da Relação de Coimbra (Acórdão de 04-06-2024, Apelação n.º 791/23.0T8CVL-D.C1, sumário V) and paraphrased in a law-firm alert (MLGTS, Nov 2020: law of 4 Nov 2020, in force 1 Dec 2020; former n.os 6–7 renumbered 7–8; new n.º 9 on hearing the child). The entry's pgdlisboa.pt URL (whole Código Civil) could not be opened (permission not granted in time), hence 'unknown'; the per-article PGDL link would be lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis (not verified). Double-edged: the provision is discretionary («pode») and conditioned on the child's best interests after weighing all circumstances — no presumption of alternating res",
+  "A5-040": "Act 604 of 2021 (Senate Bill 18, approved 7 April 2021), Section 1, amending Ark. Code Ann. § 9-13-101(a)(1)(A) by adding subdivision (iv)(a)–(b) (Act PDF p. 1, lines 23–36, p. 2 lines 1–2); definition of joint custody in pre-existing § 9-13-101(a)(5) — Gist largely accurate and confirmed on the official arkleg PDF of Act 604 (SB18, approved 4/7/21; no emergency clause, so it took effect on the general effective date for 2021 regular-session acts, late July 2021). The definition of joint custody as approximate equal time (so «بالمناصفة» is justified here) was confirmed on womenslaw.org's reproduction of § 9-13-101(a)(5). Correction needed to the gist: the 'clear and convincing evidence' standard applies only to rebuttal ground (1); the presumption is ALSO rebutted by the parties' agreement, by a party not requesting sole/primary/joint custody, or by the domestic-abuse (subsection (c)) or",
+  "A5-103": "Lei nº 12.318, de 26 de agosto de 2010 (alienação parental), art. 3º — Exact match on planalto.gov.br (found_text gives the full article; the entry quotes its opening clause with an ellipsis). The page states that its text does not replace the version published in the DOU and its accented characters are mis-encoded in the HTML, but the words are identical. Supportive neighbours: art. 2º (definition of alienação parental as interference in the child's psychological formation to make the child repudiate a parent or harm bonds with that parent); art. 6º, V (the judge may order a change to guarda compartilhada or its reversal); art. 7º («A atribuição ou alteração da guarda dar-se-á por preferência ao genitor que viabiliza a efetiva convivência da criança ou adolescente com o outro genitor nas hipóteses em que seja inviável a guarda compartilhada.»). No undermining passage found. Note: a 2024"
+ },
+ "url_sub": {
+  "https://doi.org/10.1300/J087v16n03_11": {
+   "url": "https://doi.org/10.1300/J087v16n03_03",
+   "label": "صفحة الدراسة",
+   "site": "مجلة الطلاق والزواج من جديد",
+   "domain": "doi.org"
+  },
+  "https://journals.sagepub.com/doi/10.1177/20539517211069299": {
+   "url": "https://doi.org/10.1371/journal.pone.0162339",
+   "label": "الدراسة كاملة",
+   "site": "مجلة بلوس ون",
+   "domain": "doi.org"
+  },
+  "https://edisciplinas.usp.br/pluginfile.php/5064006/mod_label/intro/Bogin_Smith_1996_Evolution%20of%20the%20human%20life%20cycle.pdf": {
+   "url": "https://doi.org/10.1002/(SICI)1520-6300(1996)8:6%3C703::AID-AJHB2%3E3.0.CO;2-U",
+   "label": "صفحة الدراسة",
+   "site": "المجلة الأمريكية لبيولوجيا الإنسان",
+   "domain": "doi.org"
+  },
+  "https://shamela.ws/book/963/1287": {
+   "url": "https://shamela.ws/book/963/1286",
+   "label": "النص في مصدره",
+   "site": "المكتبة الشاملة",
+   "domain": "shamela.ws"
+  },
+  "https://www.bailii.org/ew/cases/EWCA/Civ/2011/521.html": {
+   "url": "https://caselaw.nationalarchives.gov.uk/ewca/civ/2011/521",
+   "label": "نص الحكم",
+   "site": "الأرشيف الوطني البريطاني",
+   "domain": "caselaw.nationalarchives.gov.uk"
+  }
+ }
+}

@@ -1,0 +1,738 @@
+[
+ {
+  "id": "A1-041",
+  "url": "https://www.islamweb.net/ar/library/content/12/1588/",
+  "status": "ok",
+  "landed_title": "إسلام ويب - بدائع الصنائع في ترتيب الشرائع - كتاب الحضانة - فصل في وقت الحضانة - الجزء رقم4",
+  "new_url": "",
+  "note": "Kasani, Bada'i' al-Sana'i', Kitab al-Hadana, fasl on the timing of custody (boy once independent needs discipline; girl stays with mother until puberty/desire). Same URL as A1-039."
+ },
+ {
+  "id": "A1-039",
+  "url": "https://www.islamweb.net/ar/library/content/12/1588/",
+  "status": "ok",
+  "landed_title": "إسلام ويب - بدائع الصنائع في ترتيب الشرائع - كتاب الحضانة - فصل في وقت الحضانة - الجزء رقم4",
+  "new_url": "",
+  "note": "Same page as A1-041 (Kasani, fasl fi waqt al-hadana): girl kept with mother until puberty, then needs protection. Matches card."
+ },
+ {
+  "id": "A4-013",
+  "url": "https://www.islamweb.net/ar/library/content/27/2964/باب-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - رد المحتار على الدر المختار - باب الحضانة- الجزء رقم3",
+  "new_url": "",
+  "note": "Radd al-Muhtar (Ibn Abidin), Bab al-Hadana, vol. 3 (p.570 shown). Card attributes the passage to Ibn Abidin relaying al-Tatarkhaniyya; 'التتارخانية' is in the page keywords. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-014",
+  "url": "https://www.islamweb.net/ar/library/content/27/2964/باب-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - رد المحتار على الدر المختار - باب الحضانة- الجزء رقم3",
+  "new_url": "",
+  "note": "Radd al-Muhtar, Bab al-Hadana; page summary covers a parent's right to see the child daily. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-015",
+  "url": "https://www.islamweb.net/ar/library/content/18/2362/باب-الولد-عند-من-يكون-في-الفرقة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - المبسوط - كتاب الطلاق - باب الولد عند من يكون في الفرقة - الجزء رقم6",
+  "new_url": "",
+  "note": "Sarakhsi, al-Mabsut. Fetcher saw the sentence 'لما فيه من الإضرار بالزوج بقطع ولده عنه' on the page: matches the card."
+ },
+ {
+  "id": "A4-016",
+  "url": "https://www.islamweb.net/ar/library/content/29/2278/باب-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - البحر الرائق شرح كنز الدقائق - باب الحضانة- الجزء رقم4",
+  "new_url": "",
+  "note": "Ibn Nujaym, al-Bahr al-Ra'iq, Bab al-Hadana (pp.187-188). Fetcher saw 'ما لم تقطعه من أبيه إذا أراد أن يبصر ولده كل يوم': matches the card."
+ },
+ {
+  "id": "A4-017",
+  "url": "https://www.islamweb.net/ar/library/content/29/2278/باب-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - البحر الرائق شرح كنز الدقائق - باب الحضانة- الجزء رقم4",
+  "new_url": "",
+  "note": "Same page. Fetcher saw 'يتمكن الأب من مطالعة ولده والرجوع إليه في نهاره', attributed in the text to شرح النقاية: matches the card."
+ },
+ {
+  "id": "A4-018",
+  "url": "https://www.islamweb.net/ar/library/content/30/2321/ما-جاء-في-حضانة-الأم",
+  "status": "ok",
+  "landed_title": "Islamweb - Al-Mudawwana - ما جاء في حضانة الأم - Part 2 (title as reported by the fetcher)",
+  "new_url": "",
+  "note": "Mudawwana, 'ما جاء في حضانة الأم'. Page summary: father may discipline the boy by day / child returns to the mother at night; the exact words 'يؤدبه بالنهار ويبيت عند أمه' were not seen verbatim. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-020",
+  "url": "https://www.islamweb.net/ar/library/content/19/2957/مسألة-إذا-عتقت-الأمة-على-أن-تركت-حضانة-ولدها",
+  "status": "ok",
+  "landed_title": "إسلام ويب - مواهب الجليل في شرح مختصر خليل - باب المرأة إذا مكنت من نفسها فإنه يجب لها النفقة - فصل النفقة الواجبة بالملك - مسألة إذا عتقت الأمة على أن تركت حضانة ولدها- الجزء رقم4",
+  "new_url": "",
+  "note": "Hattab, Mawahib al-Jalil, vol. 4 p.215. Fetcher saw 'وللأب تعاهد ولده عند أمه وأدبه وبعثه للمكتب': matches the card."
+ },
+ {
+  "id": "A4-021",
+  "url": "https://www.islamweb.net/ar/library/content/19/2957/مسألة-إذا-عتقت-الأمة-على-أن-تركت-حضانة-ولدها",
+  "status": "ok",
+  "landed_title": "إسلام ويب - مواهب الجليل في شرح مختصر خليل - باب المرأة إذا مكنت من نفسها فإنه يجب لها النفقة - فصل النفقة الواجبة بالملك - مسألة إذا عتقت الأمة على أن تركت حضانة ولدها- الجزء رقم4",
+  "new_url": "",
+  "note": "Same page. Fetcher saw 'أن الأب له القيام بجميع أمور ولده' (attributed to أبو الحسن الصغير): matches the card."
+ },
+ {
+  "id": "A4-022",
+  "url": "https://www.islamweb.net/ar/library/content/93/3075/قصة-المخنث-الذي-كان-عند-أم-سلمة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الاستذكار الجامع لمذاهب فقهاء الأمصار - كتاب الوصية - باب ما جاء في المؤنث من الرجال - قصة المخنث الذي كان عند أم سلمة - الجزء رقم23",
+  "new_url": "",
+  "note": "Right book (Ibn Abd al-Barr, al-Istidhkar, vol. 23) but islamweb's heading is mislabelled ('قصة المخنث الذي كان عند أم سلمة' under Kitab al-Wasiyya); the page meta-description/keywords describe the custody discussion (Umar and his son Asim, Abu Bakr; Malik, al-Shafi'i, Ahmad; moving the child). Neighbour page 93/3074 carries the same label with custody content; 93/3076 is unrelated (defects in goods). Body text not exposed, exact sentence unverified."
+ },
+ {
+  "id": "A4-023",
+  "url": "https://www.islamweb.net/ar/library/content/93/3075/قصة-المخنث-الذي-كان-عند-أم-سلمة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الاستذكار الجامع لمذاهب فقهاء الأمصار - كتاب الوصية - باب ما جاء في المؤنث من الرجال - قصة المخنث الذي كان عند أم سلمة - الجزء رقم23",
+  "new_url": "",
+  "note": "Right book (Ibn Abd al-Barr, al-Istidhkar, vol. 23) but islamweb's heading is mislabelled ('قصة المخنث الذي كان عند أم سلمة' under Kitab al-Wasiyya); the page meta-description/keywords describe the custody discussion (Umar and his son Asim, Abu Bakr; Malik, al-Shafi'i, Ahmad; moving the child). Neighbour page 93/3074 carries the same label with custody content; 93/3076 is unrelated (defects in goods). Body text not exposed, exact sentence unverified."
+ },
+ {
+  "id": "A4-025",
+  "url": "https://www.islamweb.net/ar/library/content/24/3550/فصل-نفقة-الرقيق-والدابة-والقريب-وخادمه-والحضانة-وما-يتعلق-بها",
+  "status": "ok",
+  "landed_title": "إسلام ويب - منح الجليل شرح مختصر خليل - (كتاب النفقة) - فصل نفقة الرقيق والدابة والقريب وخادمه والحضانة وما يتعلق بها - الجزء رقم4",
+  "new_url": "",
+  "note": "Ulaysh, Minah al-Jalil, vol. 4, section covering maintenance of relatives and hadana. Page summary mentions education of the ward. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-026",
+  "url": "https://www.islamweb.net/ar/library/content/48/832/قوله-تعالى-والوالدات-يرضعن-أولادهن-حولين-كاملين",
+  "status": "ok",
+  "landed_title": "إسلام ويب - تفسير القرطبي - سورة البقرة - قوله تعالى والوالدات يرضعن أولادهن حولين كاملين - الجزء رقم3",
+  "new_url": "",
+  "note": "Qurtubi on 2:233 (keywords include 'حضانة الأطفال'). Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A1-032",
+  "url": "https://www.islamweb.net/ar/library/content/94/6581/باب-أي-الوالدين-أحق-بالولد-من-كتب-عدة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الحاوي الكبير في فقه مذهب الإمام الشافعي - كتاب النفقات - باب أي الوالدين أحق بالولد من كتب عدة - الجزء رقم 11",
+  "new_url": "",
+  "note": "Mawardi, al-Hawi al-Kabir. Page summary: custody to age seven with the mother, upkeep (kafala) obligatory on the father: matches the card. Body text not exposed to the fetcher."
+ },
+ {
+  "id": "A4-027",
+  "url": "https://www.islamweb.net/ar/library/content/31/2599/باب-أي-الوالدين-أحق-بالولد",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الأم - أبواب متفرقة في النكاح والطلاق وغيرهم - كتاب النفقات - باب أي الوالدين أحق بالولد - الجزء رقم5",
+  "new_url": "",
+  "note": "Shafi'i, al-Umm, Bab ayy al-walidayn ahaqq bi'l-walad (summary: when children are given the choice between parents). Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-028",
+  "url": "https://www.islamweb.net/ar/library/content/31/2599/باب-أي-الوالدين-أحق-بالولد",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الأم - أبواب متفرقة في النكاح والطلاق وغيرهم - كتاب النفقات - باب أي الوالدين أحق بالولد - الجزء رقم5",
+  "new_url": "",
+  "note": "Same page as A4-027. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-031",
+  "url": "https://www.islamweb.net/ar/library/content/95/1706/فصل-الأم-أحق-بالحضانة-من-الأب-في-حق-من-لا-تمييز-له-أصلا",
+  "status": "ok",
+  "landed_title": "إسلام ويب - روضة الطالبين وعمدة المفتين - كتاب النفقات - الباب الخامس في نفقة الحضانة - فصل الأم أحق بالحضانة من الأب في حق من لا تمييز له أصلا",
+  "new_url": "",
+  "note": "Nawawi, Rawdat al-Talibin (vol. 9). Summary mentions the father's duty to teach/discipline, visitation and the choice at discernment. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-032",
+  "url": "https://www.islamweb.net/ar/library/content/95/1706/فصل-الأم-أحق-بالحضانة-من-الأب-في-حق-من-لا-تمييز-له-أصلا",
+  "status": "ok",
+  "landed_title": "إسلام ويب - روضة الطالبين وعمدة المفتين - كتاب النفقات - الباب الخامس في نفقة الحضانة - فصل الأم أحق بالحضانة من الأب في حق من لا تمييز له أصلا",
+  "new_url": "",
+  "note": "Same page as A4-031. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-033",
+  "url": "https://www.islamweb.net/ar/library/content/25/7388/فصل-في-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - نهاية المحتاج إلى شرح المنهاج - كتاب النفقات وما يذكر معها - فصل في الحضانة - الجزء رقم 7",
+  "new_url": "",
+  "note": "Ramli, Nihayat al-Muhtaj, fasl fi'l-hadana (vol. 7). Page summary concerns the woman's going out / neighbours' houses / visits, consistent with the girl-and-father passage. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-034",
+  "url": "https://www.islamweb.net/ar/library/content/25/7388/فصل-في-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - نهاية المحتاج إلى شرح المنهاج - كتاب النفقات وما يذكر معها - فصل في الحضانة - الجزء رقم 7",
+  "new_url": "",
+  "note": "Same page as A4-033. Ibn al-Salah is not among the visible keywords (Rawd, Mawardi, Mutawalli, Hashiyat al-Maghribi), so the Ibn al-Salah fatwa could sit on a neighbouring page; unverified. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-035",
+  "url": "https://www.islamweb.net/ar/library/content/20/8775/فصل-في-الحضانة-وهل-انتهائها-في-الصغير-بالبلوغ-أم-بالتمييز",
+  "status": "ok",
+  "landed_title": "إسلام ويب - تحفة المحتاج في شرح المنهاج - كتاب النفقات في النكاح والقرابة والملك - فصل في الحضانة وهل انتهائها في الصغير بالبلوغ أم بالتمييز- الجزء رقم8",
+  "new_url": "",
+  "note": "Ibn Hajar al-Haytami, Tuhfat al-Muhtaj, vol. 8 (card's work includes the Ibn Qasim and Sharwani glosses). Summary: choice between parents, mutual visits, father's duty to educate. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-036",
+  "url": "https://www.islamweb.net/ar/library/content/20/8775/فصل-في-الحضانة-وهل-انتهائها-في-الصغير-بالبلوغ-أم-بالتمييز",
+  "status": "ok",
+  "landed_title": "إسلام ويب - تحفة المحتاج في شرح المنهاج - كتاب النفقات في النكاح والقرابة والملك - فصل في الحضانة وهل انتهائها في الصغير بالبلوغ أم بالتمييز- الجزء رقم8",
+  "new_url": "",
+  "note": "Same page; Hashiyat Ibn Qasim al-Abbadi is printed with Tuhfat al-Muhtaj. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-037",
+  "url": "https://www.islamweb.net/ar/library/content/20/8775/فصل-في-الحضانة-وهل-انتهائها-في-الصغير-بالبلوغ-أم-بالتمييز",
+  "status": "ok",
+  "landed_title": "إسلام ويب - تحفة المحتاج في شرح المنهاج - كتاب النفقات في النكاح والقرابة والملك - فصل في الحضانة وهل انتهائها في الصغير بالبلوغ أم بالتمييز- الجزء رقم8",
+  "new_url": "",
+  "note": "Same page; card says Khatib al-Sharbini (Mughni al-Muhtaj) is relayed in Sharwani's gloss on the Tuhfa, so the Tuhfa URL is the intended one. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A1-051",
+  "url": "https://www.islamweb.net/ar/library/content/43/169/%D9%81%D8%B5%D9%84-%D9%81%D9%8A-%D8%A8%D8%B1-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%88%D8%B7%D8%A7%D8%B9%D8%AA%D9%87%D9%85%D8%A7-%D9%88%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1-%D9%88%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D9%8A-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D8%B5%D9%8A%D8%A9",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الآداب الشرعية والمنح المرعية - فصل في بر الوالدين وطاعتهما وولي الأمر والزوج والسيد في غير معصية - الجزء رقم 1",
+  "new_url": "",
+  "note": "Original URL is a long percent-encoded Arabic slug that the fetcher refuses (HTTP 403 'url exceeds the maximum fetchable length'); verified with the same page's short form https://www.islamweb.net/ar/library/content/43/169/ (islamweb ignores the slug). Ibn Muflih; summary says parents must teach their children the obligations, the Sunna and useful trades; the word 'معا' not verifiable (body not exposed)."
+ },
+ {
+  "id": "A1-051",
+  "url": "https://www.islamweb.net/ar/library/bookinfo.php?bk_no=43",
+  "status": "ok",
+  "landed_title": "معلومات الكتاب - الآداب الشرعية والمنح المرعية (ابن مفلح، عالم الكتب)",
+  "new_url": "",
+  "note": "Islamweb book-info page for al-Adab al-Shar'iyya wa'l-Minah al-Mar'iyya (Ibn Muflih, Alam al-Kutub): correct book-level link."
+ },
+ {
+  "id": "A1-052",
+  "url": "https://www.islamweb.net/ar/library/content/43/194/%D9%81%D8%B5%D9%84-%D9%81%D9%8A-%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D9%88%D9%85%D8%A7-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A8%D9%87-%D9%85%D9%86%D9%87-%D9%88%D9%85%D8%A7-%D9%87%D9%88-%D9%81%D8%B1%D9%8A%D8%B6%D8%A9-%D9%85%D9%86%D9%87-%D9%88%D9%81%D8%B6%D9%84-%D8%A3%D9%87%D9%84%D9%87",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الآداب الشرعية والمنح المرعية - فصل في طلب العلم وما يبدأ به منه وما هو فريضة منه وفضل أهله - الجزء رقم2",
+  "new_url": "",
+  "note": "Original URL is a long percent-encoded Arabic slug that the fetcher refuses (HTTP 403 'url exceeds the maximum fetchable length'); verified with the same page's short form https://www.islamweb.net/ar/library/content/43/194/ (islamweb ignores the slug). Ibn Muflih, fasl on seeking knowledge and what to begin with; summary says children are best started with the Qur'an. Exact sentence unverified."
+ },
+ {
+  "id": "A1-052",
+  "url": "https://www.islamweb.net/ar/library/bookinfo.php?bk_no=43",
+  "status": "ok",
+  "landed_title": "معلومات الكتاب - الآداب الشرعية والمنح المرعية (ابن مفلح، عالم الكتب)",
+  "new_url": "",
+  "note": "Book-info page for al-Adab al-Shar'iyya (Ibn Muflih): correct book-level link."
+ },
+ {
+  "id": "A4-038",
+  "url": "https://www.islamweb.net/ar/library/content/15/5688/فصل-أي-الأبوين-أحق-بحضانة-الطفل-إذا-أراد-أحدهما-السفر",
+  "status": "ok",
+  "landed_title": "إسلام ويب - المغني - فصل أي الأبوين أحق بحضانة الطفل إذا أراد أحدهما السفر (ابن قدامة، الجزء 8)",
+  "new_url": "",
+  "note": "Fetcher saw 'لأن البعد الذي يمنعه من رؤيته، يمنعه من تأديبه، وتعليمه، ومراعاة حاله': matches the card."
+ },
+ {
+  "id": "A4-043",
+  "url": "https://www.islamweb.net/ar/library/content/26/4803/باب-الحضانة",
+  "status": "ok",
+  "landed_title": "إسلام ويب - الإنصاف - كتاب النفقات - باب الحضانة - الجزء رقم9",
+  "new_url": "",
+  "note": "Mardawi, al-Insaf, vol. 9 p.428. Fetcher saw Ibn al-Qayyim's 'إن أراد المنتقل مضارة الآخر، وانتزاع الولد: لم يجب إليه': matches the card."
+ },
+ {
+  "id": "A4-045",
+  "url": "https://www.islamweb.net/ar/library/content/16/8139/?idfrom=&idto=&start=",
+  "status": "ok",
+  "landed_title": "إسلام ويب - كشاف القناع عن متن الإقناع - باب الحضانة - فصل وإذا بلغ الغلام سبع سنين واتفق أبواه أن يكون عند أحدهما - الجزء 5",
+  "new_url": "",
+  "note": "Bahuti, Kashshaf al-Qina'. The section describes: boy of seven choosing the father (visits to the mother not barred; mother nurses him if ill) or the mother (with the father by day for trade, writing, discipline). The generalising sentence in the card was not seen verbatim."
+ },
+ {
+  "id": "A4-046",
+  "url": "https://www.islamweb.net/ar/library/content/22/5855/مسألة-مطلقة-لها-ولد-وتزوجت-وكفلته-جدته-وغيبوه-سبع-سنين-هل-له-نفقة",
+  "status": "ok",
+  "landed_title": "مسألة مطلقة لها ولد وتزوجت وكفلته جدته وغيبوه سبع سنين هل له نفقة - مجموع فتاوى ابن تيمية (الجزء 34)",
+  "new_url": "",
+  "note": "Ibn Taymiyya, Majmu' al-Fatawa, vol. 34, Bab al-Nafaqat; fatwa on a boy of about seven hidden from his parents for seven years. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-047",
+  "url": "https://www.islamweb.net/ar/library/content/22/5869/فصل-في-حضانة-الصغير-المميز",
+  "status": "ok",
+  "landed_title": "إسلام ويب - مجموع فتاوى ابن تيمية - الفقه - باب الحضانة - فصل في حضانة الصغير المميز - الجزء رقم34",
+  "new_url": "",
+  "note": "Ibn Taymiyya, Majmu' al-Fatawa, fasl fi hadanat al-saghir al-mumayyiz (vol. 34); summary covers Ahmad's school and the child's choice. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A4-048",
+  "url": "https://www.islamweb.net/ar/library/content/22/5869/فصل-في-حضانة-الصغير-المميز",
+  "status": "ok",
+  "landed_title": "إسلام ويب - مجموع فتاوى ابن تيمية - الفقه - باب الحضانة - فصل في حضانة الصغير المميز - الجزء رقم34",
+  "new_url": "",
+  "note": "Same page as A4-047. Page body text is not exposed to the fetcher (only title + meta-description/keywords), so the exact sentence could not be verified; book, chapter and section match the card."
+ },
+ {
+  "id": "A5-058",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1651-2227.2007.00572.x/abstract",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Fathers' involvement and children's developmental outcomes: a systematic review of longitudinal studies (Sarkadi et al., Acta Paediatrica, online Dec 2007, issue 2008)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1111/j.1651-2227.2007.00572.x) and the title matches the card."
+ },
+ {
+  "id": "A2-045",
+  "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1098-2302(199605)29:4%3C315::AID-DEV2%3E3.0.CO;2-T",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Development of an aspect of executive control: Development of the abilities to remember what I said and to 'Do as I say, not as I do' (Diamond & Taylor, Developmental Psychobiology, 1996)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref and OpenAlex and the title matches the card."
+ },
+ {
+  "id": "A5-115",
+  "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cdep.12275",
+  "status": "blocked_exists",
+  "landed_title": "[OpenAlex] Fathers Are Parents, Too! Widening the Lens on Parenting for Children's Development (Cabrera et al., Child Development Perspectives, 2018)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via OpenAlex (10.1111/cdep.12275; Crossref call errored) and the title matches the card."
+ },
+ {
+  "id": "A5-118",
+  "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9780470713228",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Fathering and Child Outcomes (Flouri, Wiley, 2005; print ISBN 9780470861677, e-ISBN 9780470713228)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1002/9780470713228) and the title matches the card."
+ },
+ {
+  "id": "A2-048",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/imhj.21642",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Father-child interactions at 3 months and 24 months: contributions to children's cognitive development at 24 months (Sethna et al., Infant Mental Health Journal, 2017)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1002/imhj.21642) and the title matches the card."
+ },
+ {
+  "id": "A2-049",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1002/imhj.10041",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Infant-mother and infant-father synchrony: The coregulation of positive arousal (Feldman, Infant Mental Health Journal, 2003)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1002/imhj.10041) and the title matches the card."
+ },
+ {
+  "id": "A2-050",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2004.00818.x",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Fathers and Mothers at Play With Their 2- and 3-Year-Olds: Contributions to Language and Cognitive Development (Tamis-LeMonda et al., Child Development, 2004)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1111/j.1467-8624.2004.00818.x) and the title matches the card."
+ },
+ {
+  "id": "A2-055",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2006.00274.x",
+  "status": "blocked_exists",
+  "landed_title": "[OpenAlex] Nonresident Fathers' Contributions to Adolescent Well-Being (King & Sobolewski, Journal of Marriage and Family, 2006)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via OpenAlex (10.1111/j.1741-3737.2006.00274.x; Crossref call errored) and the title matches the card."
+ },
+ {
+  "id": "A5-121",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/jomf.12532",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] A Matter of Time: Father Involvement and Child Cognitive Outcomes (Cano, Perales & Baxter, Journal of Marriage and Family; online 2018, issue Feb 2019)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1111/jomf.12532) and the title matches the card."
+ },
+ {
+  "id": "A5-123",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1111/jomf.12666",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Father Involvement and Socioeconomic Disparities in Child Academic Outcomes (Miller et al., Journal of Marriage and Family, 2020)",
+  "new_url": "",
+  "note": "Wiley page refused the fetcher (CLIENT_ERROR, bot block); not retried. DOI confirmed via Crossref (10.1111/jomf.12666) and the title matches the card."
+ },
+ {
+  "id": "A1-042",
+  "url": "https://www.islamicbook.ws/asol/hanafi/alanait-shrh-alhdait-016.html",
+  "status": "ok",
+  "landed_title": "كتاب : العناية شرح الهداية - المؤلف : محمد بن محمد البابرتي (part 016)",
+  "new_url": "",
+  "note": "Page is alive and is the right book/part, but the fetcher exposes only the first ~45,000 characters of this (much larger) part and cuts it mid-word, so the cited custody passage could not be seen. Visible portion = li'an then 'innin. Part 017 starts at the Nafaqa chapter ('فصل وعلى الرجل أن ينفق على أبويه'), so, going by the Hidaya's chapter order, the Hadana chapter should lie in the unseen remainder of part 016: passage plausible, unverified."
+ },
+ {
+  "id": "A4-041",
+  "url": "https://www.islamicbook.ws/asol/hanbali/almbda-shrh-almqna-019.html",
+  "status": "ok",
+  "landed_title": "كتاب : المبدع شرح المقنع 19 - المؤلف : إبراهيم بن محمد بن عبد الله بن محمد ابن مفلح",
+  "new_url": "",
+  "note": "Page is alive and is the right book/part, but the fetcher exposes only the first ~45,000 characters of this (much larger) part and cuts it mid-word, so the cited custody passage could not be seen. Visible portion = li'an, nasab, 'iddah. Part 020 appears to open in the tail of the custody chapter (girl: 'وهي أحق بالسهر والصيانة لأنها مخدرة') just before Kitab al-Jinayat, so Hadana probably straddles the end of 019 and the start of 020: passage plausible, unverified."
+ },
+ {
+  "id": "A4-042",
+  "url": "https://www.islamicbook.ws/asol/hanbali/mnar-alsbil-004.html",
+  "status": "ok",
+  "landed_title": "كتاب : منار السبيل في شرح الدليل 4 - المؤلف : ابن ضويان",
+  "new_url": "",
+  "note": "Page is alive and is the right book/part, but the fetcher exposes only the first ~45,000 characters of this (much larger) part and cuts it mid-word, so the cited custody passage could not be seen. Visible portion = prohibited marriages to Kitab al-Sadaq. Part 005 opens at the Hudud (باب حد الزنى), so part 004 probably spans the middle of the book including Nafaqat/Hadana; parts 006 and 007 return fetch errors (probably absent): passage plausible, unverified."
+ },
+ {
+  "id": "A4-044",
+  "url": "https://www.islamicbook.ws/asol/hanbali/alinsaf-023.html",
+  "status": "ok",
+  "landed_title": "كتاب : الإنصاف في معرفة الراجح من الخلاف على مذهب الإمام أحمد بن حنبل (part 023)",
+  "new_url": "",
+  "note": "Page is alive and is the right book/part, but the fetcher exposes only the first ~45,000 characters of this (much larger) part and cuts it mid-word, so the cited custody passage could not be seen. Visible portion = Rida' and the start of Kitab al-Nafaqat (45,435 characters in total as served); part 024 begins at Diyat al-A'da', so Bab al-Hadana should lie in the unseen remainder of part 023: passage plausible, unverified. (A verified Insaf Bab al-Hadana page exists at islamweb 26/4803, see A4-043.)"
+ },
+ {
+  "id": "A5-162",
+  "url": "https://www.sefaria.org/Pirkei_Avot.5.21?lang=bi",
+  "status": "ok",
+  "landed_title": "Pirkei Avot 5:21 | Sefaria Library",
+  "new_url": "",
+  "note": "Sefaria API text: 'At five years of age the study of Scripture; at ten the study of Mishnah; ...' and thirteen = subject to the commandments: matches the card."
+ },
+ {
+  "id": "A5-163",
+  "url": "https://www.sefaria.org/Bava_Batra.21a.4?lang=bi",
+  "status": "ok",
+  "landed_title": "Bava Batra 21a:4 | Sefaria Library",
+  "new_url": "",
+  "note": "Sefaria API segment (Rav Yehoshua ben Gamla's decree): 'they would bring the children in to learn at the age of six and at the age of seven' (מכניסין אותן כבן שש כבן שבע): matches the card."
+ },
+ {
+  "id": "A5-164",
+  "url": "https://www.sefaria.org/Mishnah_Niddah.5.6?lang=bi",
+  "status": "ok",
+  "landed_title": "Mishnah Niddah 5:6 | Sefaria Library",
+  "new_url": "",
+  "note": "Sefaria API text: girl of 12 years and a day / boy of 13 years and a day with two pubic hairs: vows stand without examination; examined through the 12th/13th year: matches the card."
+ },
+ {
+  "id": "A2-044",
+  "url": "https://devcogneuro.com/Publications/day-nightpaper1994.pdf",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] The relationship between cognition and action: performance of children 3 1/2-7 years old on a Stroop-like day-night test (Gerstadt, Hong & Diamond, Cognition, 1994)",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (the tool only fetches URLs/domains it has seen; devcogneuro.com not accepted). PDF itself not loaded. Work confirmed to exist via Crossref (DOI 10.1016/0010-0277(94)90068-X; publisher landing https://linkinghub.elsevier.com/retrieve/pii/001002779490068X). An OpenAlex lookup for this DOI returned HTTP 429 and was not retried.. Recommend adding the DOI link as a fallback."
+ },
+ {
+  "id": "A2-045",
+  "url": "https://devcogneuro.com/Publications/Diamond_%26_Taylor_1996_Development_of_an_aspect.pdf",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref/OpenAlex] Development of an aspect of executive control: Development of the abilities to remember what I said and to 'Do as I say, not as I do' (Diamond & Taylor, Developmental Psychobiology, 1996)",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (the tool only fetches URLs/domains it has seen; devcogneuro.com not accepted). PDF itself not loaded. Work confirmed to exist via Crossref and OpenAlex (DOI 10.1002/(SICI)1098-2302(199605)29:4<315::AID-DEV2>3.0.CO;2-T; OpenAlex lists no open-access PDF location). Recommend adding the DOI link as a fallback."
+ },
+ {
+  "id": "A5-010",
+  "url": "https://www.gesetze-im-internet.de/bgb/__1626.html",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch returned ROBOTS_DISALLOWED for gesetze-im-internet.de; not retried and not worked around. WebSearch budget was exhausted, so existence was not independently confirmed. The URL follows the official permalink pattern for BGB section 1626 (Elterliche Sorge, Grundsaetze). Needs a manual open."
+ },
+ {
+  "id": "A5-011",
+  "url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch returned ROBOTS_DISALLOWED for gesetze-im-internet.de; not retried and not worked around. WebSearch budget was exhausted, so existence was not independently confirmed. The URL follows the official permalink pattern for BGB section 1684 (Umgang des Kindes mit den Eltern). Needs a manual open."
+ },
+ {
+  "id": "A1-054",
+  "url": "https://ibn-katheer.com/Book/detBooks/6/79/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%85-%D9%81%D9%8A-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (ibn-katheer.com not accepted by the fetcher); page not loaded, and WebSearch budget was exhausted so the book page could not be confirmed another way. Needs a manual open (or approval of the domain for WebFetch). Intended: al-Zarnuji, Ta'lim al-Muta'allim."
+ },
+ {
+  "id": "A1-050",
+  "url": "https://ibn-katheer.com/Book/detBooks/12/21/%D8%A3%D8%AF%D8%A8-%D8%A7%D9%84%D8%AF%D9%86%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (ibn-katheer.com not accepted by the fetcher); page not loaded, and WebSearch budget was exhausted so the book page could not be confirmed another way. Needs a manual open (or approval of the domain for WebFetch). Intended: al-Mawardi, Adab al-Dunya wa'l-Din."
+ },
+ {
+  "id": "A2-014",
+  "url": "https://www.us.elsevierhealth.com/nelson-textbook-of-pediatrics-2-volume-set-9780323883054.html",
+  "status": "ok",
+  "landed_title": "Nelson Textbook of Pediatrics, 2-Volume Set - 9780323883054",
+  "new_url": "",
+  "note": "Elsevier product page, 22nd edition (Kliegman, St. Geme). Book-level page; matches the card."
+ },
+ {
+  "id": "A2-037",
+  "url": "https://www.scielo.br/j/aem/a/c8rz7FV6hBzRjSqfNYfgkcR/?lang=en",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Puberty in a sample of Brazilian schoolgirls: timing and anthropometric characteristics (Feibelmann et al., Archives of Endocrinology and Metabolism, 2015; DOI 10.1590/2359-3997000000021)",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED for www.scielo.br. Article confirmed via Crossref, whose registered URL is the old-style http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2359-39972015000200105&lng=en&tlng=en; the card's new-style opaque URL (.../c8rz7FV6hBzRjSqfNYfgkcR/) was not loaded. Suggest adding the DOI link as a fallback."
+ },
+ {
+  "id": "A5-100",
+  "url": "https://consumer.healthday.com/pediatrics-15/divorce-news-204/pediatricians-can-play-a-role-in-helping-children-of-divorce-717190.html",
+  "status": "ok",
+  "landed_title": "Pediatricians Can Play a Role in Helping Children of Divorce (HealthDay)",
+  "new_url": "",
+  "note": "HealthDay news story on the Nov 2016 AAP clinical report (Cohen, Weitzman et al., Pediatrics); says pediatricians 'should try to maintain positive relationships with both parents'. Secondary source, not the AAP report itself."
+ },
+ {
+  "id": "A2-065",
+  "url": "https://scholars.duke.edu/publication/1259079",
+  "status": "ok",
+  "landed_title": "Scholars@Duke publication: Longitudinal evidence that fatherhood decreases testosterone in human males.",
+  "new_url": "",
+  "note": "Gettler, McDade, Feranil, Kuzawa, PNAS 2011: matches the card."
+ },
+ {
+  "id": "A2-008",
+  "url": "https://archive.org/details/originsofintelli00piag",
+  "status": "ok",
+  "landed_title": "The origins of intelligence in children; : Piaget, Jean, 1896- : Free Download, Borrow, and Streaming : Internet Archive",
+  "new_url": "",
+  "note": "Archive.org record (International Universities Press, New York, 1963; card says IUP 1952). Catalog metadata only. Content caution: this book treats the sensorimotor period (birth to ~2 years); the card's gist 'concrete operations begin around seven' is not what this book is known for (cf. Piaget's Psychology of Intelligence), so the source attribution deserves a check."
+ },
+ {
+  "id": "A5-118",
+  "url": "https://catalogimages.wiley.com/images/db/pdf/0470861681.01.pdf",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED for catalogimages.wiley.com; PDF not loaded. The file name encodes ISBN-10 0470861681, while Crossref lists Flouri's 'Fathering and Child Outcomes' with print ISBN 9780470861677 (= 0470861673) and e-ISBN 9780470713228; 0470861681 is not listed (could be the paperback ISBN) - unverified."
+ },
+ {
+  "id": "A2-053",
+  "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02405/full",
+  "status": "ok",
+  "landed_title": "Frontiers | Father Involvement and Cognitive Development in Early and Middle Childhood: A Systematic Review",
+  "new_url": "",
+  "note": "Rolle et al., Frontiers in Psychology 10 (2019), published 25 Oct 2019: matches the card."
+ },
+ {
+  "id": "A2-057",
+  "url": "https://bhekisisa.org/wp-content/uploads/2023/07/The-Alienated-Child-kelly-johnson.pdf",
+  "status": "ok",
+  "landed_title": "THE ALIENATED CHILD: A Reformulation of Parental Alienation Syndrome",
+  "new_url": "",
+  "note": "Full-text PDF of Kelly & Johnston, Family Court Review 39(3), July 2001, pp.249-266: matches the card."
+ },
+ {
+  "id": "A2-027",
+  "url": "https://deepblue.lib.umich.edu/items/589f9ed8-a5a1-438d-b3d6-8ac5a735472b",
+  "status": "ok",
+  "landed_title": "Evolutionary hypotheses for human childhood",
+  "new_url": "",
+  "note": "Bogin, American Journal of Physical Anthropology 104(S25):63-89 (1997); University of Michigan Deep Blue record with abstract: matches the card."
+ },
+ {
+  "id": "A5-127",
+  "url": "https://publications.aap.org/pediatrics/article/138/4/e20161357/52343/Paternal-Stimulation-and-Early-Child-Development",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Paternal Stimulation and Early Child Development in Low- and Middle-Income Countries (Jeong et al., Pediatrics, 2016; e20161357)",
+  "new_url": "",
+  "note": "AAP page refused the fetcher (CLIENT_ERROR); not retried. DOI 10.1542/peds.2016-1357 confirmed via Crossref and the title matches the card."
+ },
+ {
+  "id": "A4-057",
+  "url": "https://hraf.yale.edu/documents/722",
+  "status": "ok",
+  "landed_title": "Age of assignment of roles and responsibilities to children",
+  "new_url": "",
+  "note": "Rogoff, Sellers, Pirrotta, Fox & White, Human Development 18:353-369 (1975); HRAF record. Page says 16 of 27 variables point to responsibility being assigned most often between ages 5 and 7."
+ },
+ {
+  "id": "A4-065",
+  "url": "https://news.asu.edu/content/studies-public-favors-equal-custody-children-divorce",
+  "status": "ok",
+  "landed_title": "Studies: Public favors equal custody for children of divorce | ASU News",
+  "new_url": "",
+  "note": "2011 ASU press story on the Braver et al. studies (Psychology, Public Policy, and Law): matches the card."
+ },
+ {
+  "id": "A5-105",
+  "url": "https://anhoriga.se/Artiklar-och-rapporter/2003/mortality-severe-morbidity-and-injury-in-children-living-with-single-parents-in-sweden-a-population-based-study",
+  "status": "ok",
+  "landed_title": "Mortality, severe morbidity, and injury in children living with single parents in Sweden: a population-based study",
+  "new_url": "",
+  "note": "Bibliographic record of the Lancet 2003;361:289-295 article (first author Ringback-Weitoft): matches the card."
+ },
+ {
+  "id": "A5-129",
+  "url": "https://pure.au.dk/ws/files/179343194/Experience_of_child_parent_separation_and_later_risk_of_violent_criminality_VOR18.pdf",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] Experience of Child-Parent Separation and Later Risk of Violent Criminality (Mok et al., American Journal of Preventive Medicine, 2018; DOI 10.1016/j.amepre.2018.04.008)",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED for pure.au.dk; PDF (file name 'VOR18') not loaded. Work confirmed via Crossref."
+ },
+ {
+  "id": "A5-019",
+  "url": "https://jech.bmj.com/content/69/8/769",
+  "status": "ok",
+  "landed_title": "Fifty moves a year: is there an association between joint physical custody and psychosomatic problems in children?",
+  "new_url": "",
+  "note": "Bergstrom et al., JECH 2015;69(8):769 (page does not print journal/year in the fetched text; URL pattern jech.bmj.com/content/69/8/769 matches): matches the card."
+ },
+ {
+  "id": "A5-043",
+  "url": "https://www.sciencedaily.com/releases/2017/02/170202090823.htm",
+  "status": "ok",
+  "landed_title": "Overnights at dad's home benefit divorced mothers, fathers and their babies | ScienceDaily",
+  "new_url": "",
+  "note": "ScienceDaily story (2 Feb 2017) on Fabricius & Suh, Psychology, Public Policy, and Law 2017: matches the card."
+ },
+ {
+  "id": "A5-119",
+  "url": "https://api.pageplace.de/preview/DT0400.9780773590090_A23657912/preview-9780773590090_A23657912.pdf",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] The Equal Parent Presumption: Social Justice in the Legal Determination of Parenting after Divorce (Kruk, McGill-Queen's University Press, 2013)",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED for api.pageplace.de; preview PDF not loaded. The file name contains the book's e-ISBN 9780773590090, which Crossref (DOI 10.1515/9780773590090) assigns to Kruk's book."
+ },
+ {
+  "id": "A5-121",
+  "url": "https://library.parenthelp.eu/wp-content/uploads/2017/05/A-Matter-of-Time_Father-Involvement-and-Child-Cognitive-Outcomes.pdf",
+  "status": "blocked_exists",
+  "landed_title": "[Crossref] A Matter of Time: Father Involvement and Child Cognitive Outcomes (Cano, Perales & Baxter, Journal of Marriage and Family)",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED for library.parenthelp.eu; PDF not loaded. Work confirmed via Crossref (10.1111/jomf.12532); OpenAlex lists no open-access copy location for it."
+ },
+ {
+  "id": "A5-134",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288112",
+  "status": "ok",
+  "landed_title": "Systematic review and theoretical comparison of children's outcomes in post-separation living arrangements | PLOS One",
+  "new_url": "",
+  "note": "Vowels et al., PLOS ONE 18(6), 30 Jun 2023; 39 studies: matches the card."
+ },
+ {
+  "id": "A5-175",
+  "url": "https://data.unicef.org/topic/adolescents/overview/",
+  "status": "ok",
+  "landed_title": "Adolescents Statistics - UNICEF DATA",
+  "new_url": "",
+  "note": "Page states 'Defined by the United Nations as those between the ages of 10 and 19': matches the card."
+ },
+ {
+  "id": "A5-007",
+  "url": "https://www.dekamer.be/FLWB/Pdf/51/1673/51K1673019.pdf",
+  "status": "ok",
+  "landed_title": "Projet de loi tendant a privilegier l'hebergement egalitaire de l'enfant dont les parents sont separes et reglementant l'execution forcee en matiere d'hebergement d'enfant (DOC 51 1673/019, 24 March 2006)",
+  "new_url": "",
+  "note": "Belgian Chamber document: the bill text as adopted in committee (new art. 374 Civil Code: court first considers equal accommodation). A parliamentary document, not the Moniteur belge enacted text."
+ },
+ {
+  "id": "A5-034",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/d-3.4/section-16.html",
+  "status": "ok",
+  "landed_title": "Divorce Act (R.S.C., 1985, c. 3 (2nd Supp.))",
+  "new_url": "",
+  "note": "Justice Laws page; best-interests section includes subsection (6) 'a child should have as much time with each spouse as is consistent with the best interests of the child': matches the card."
+ },
+ {
+  "id": "A5-055",
+  "url": "https://azleg.gov/legtext/57leg/1r/bills/hb2296h.htm",
+  "status": "ok",
+  "landed_title": "HB2296 - 571R - H Ver.",
+  "new_url": "",
+  "note": "Arizona 57th Legislature, 1st Regular Session (2025) bill text amending ARS 25-403, 25-403.01, 25-403.02, 25-411; contains 'frequent, meaningful and continuing contact' language. It is a bill version, not the codified Arizona Revised Statutes the card names."
+ },
+ {
+  "id": "A5-014",
+  "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm",
+  "status": "ok",
+  "landed_title": "InfoLEG - Ministerio de Economia y Finanzas Publicas - Argentina (Ley 26.994, Codigo Civil y Comercial de la Nacion)",
+  "new_url": "",
+  "note": "Correct law (Ley 26.994). Fetcher saw only the first part of the text (up to about art. 180), so arts. 650-651 on shared personal care were not seen; the index places Responsabilidad parental at arts. 638-704."
+ },
+ {
+  "id": "A5-037",
+  "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr",
+  "status": "blocked",
+  "landed_title": "Fedlex",
+  "new_url": "",
+  "note": "Fedlex is a JavaScript app; the fetcher received only the 'JavaScript required' notice (no article text), so neither the page nor the Code civil content could be confirmed. The ELI path cc/24/233_245_233 is the pattern used for the Swiss Civil Code, but this could not be verified here. Needs a manual open."
+ },
+ {
+  "id": "A5-151",
+  "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/Sections/0061.13.html",
+  "status": "ok",
+  "landed_title": "Statutes & Constitution :View Statutes : Online Sunshine",
+  "new_url": "",
+  "note": "Florida Statutes s.61.13 (page currently displays the 2026 edition). Subsection (2)(c)1: 'rebuttable presumption that equal time-sharing of a minor child is in the best interests' of the child: matches the card (card cites the 2023 amendment)."
+ },
+ {
+  "id": "A5-155",
+  "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=3020.",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch returned CLIENT_ERROR twice (original attempt and one retry); leginfo.legislature.ca.gov did not serve the fetcher. Existence not independently confirmed (WebSearch budget exhausted). The URL follows leginfo's section-display pattern for Family Code section 3020 (with trailing period). Needs a manual open."
+ },
+ {
+  "id": "A5-161",
+  "url": "https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf",
+  "status": "ok",
+  "landed_title": "The Bharatiya Nyaya Sanhita, 2023.",
+  "new_url": "",
+  "note": "Official MHA PDF of Act No. 45 of 2023; fetcher confirmed section 20: 'Nothing is an offence which is done by a child under seven years of age': matches the card."
+ },
+ {
+  "id": "A5-012",
+  "url": "https://www.iberley.es/jurisprudencia/guarda-custodia-compartida-interes-menores-sentencia-civil-n-257-2013-ts-sala-civil-sec-1-rec-2525-2011-29-04-2013-11970411",
+  "status": "ok",
+  "landed_title": "Guarda y custodia compartida. Interes de los menores. Sentencia Civil N 257/2013, TS, Sala de lo Civil, Sec. 1, Rec 2525/2011, 29-04-2013 - Iberley",
+  "new_url": "",
+  "note": "Iberley record of STS 257/2013 (29 Apr 2013, rec. 2525/2011); page says shared custody is 'normal e incluso deseable': matches the card."
+ },
+ {
+  "id": "A5-033",
+  "url": "https://cora.ucc.ie/bitstreams/cf6d89a2-f27b-4f29-a1b9-0499d9dea3f9/download",
+  "status": "check",
+  "landed_title": "",
+  "new_url": "",
+  "note": "URL answers but the fetcher reports the PDF as empty / without machine-readable text on two attempts (probably a scanned or image-only file), so its identity cannot be confirmed as an ECtHR Article 8 contact-case-law document. Needs a manual open."
+ },
+ {
+  "id": "A5-147",
+  "url": "https://order.law/library/courts/supreme-court/2020/jan/scin010280832019-5mmu5/yashita-sahu-vs-the-state-of-rajasthan",
+  "status": "ok",
+  "landed_title": "Yashita Sahu vs. the State of Rajasthan | Supreme Court | Order.law",
+  "new_url": "",
+  "note": "Judgment of 20 Jan 2020 (2020 INSC 58). Para 19-20: a child 'has a human right to have the love and affection of both the parents': matches the card."
+ },
+ {
+  "id": "A5-185",
+  "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/07/rs20100721_1bvr042009.html",
+  "status": "ok",
+  "landed_title": "Bundesverfassungsgericht - Entscheidung finden -",
+  "new_url": "",
+  "note": "Beschluss vom 21 Juli 2010, 1 BvR 420/09 (unmarried fathers and joint custody; ss.1626a(1) no.1 and 1672(1) BGB unconstitutional). First attempt returned SERVER_ERROR; the single retry succeeded."
+ },
+ {
+  "id": "A1-029",
+  "url": "https://alberonsy.com/?p=3258",
+  "status": "ok",
+  "landed_title": "قانون رقم 12 لسنة 1996 بإصدار قانون الطفل - Alber Onsy - المستشار ألبير أنسي",
+  "new_url": "",
+  "note": "Lawyer's website reproducing the full Child Law (up to the 10 Dec 2023 amendment; Law 126/2008 not named on the page). Article 1: the State guarantees 'as a minimum' the child rights in the CRC: matches the card. Unofficial host."
+ },
+ {
+  "id": "A1-053",
+  "url": "https://downloads.hindawi.org/books/40635716.pdf#page=305",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED for downloads.hindawi.org; PDF (anchor #page=305) not loaded and WebSearch budget exhausted, so not confirmed another way. Note: the TSV of existing cards lists a different URL for this card (safahat.org/books/40635716/...). Needs a manual open."
+ },
+ {
+  "id": "A1-048",
+  "url": "https://www.alukah.net/hosnihamama/8/107788/%d9%81%d8%b6%d9%84-%d9%83%d9%81%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d9%8a%d8%aa%d8%a7%d9%85/",
+  "status": "ok",
+  "landed_title": "فضل كفالة الأيتام (Alukah)",
+  "new_url": "",
+  "note": "Article by Dr. Amin bin Abdullah al-Shuqawi quoting Ibn Taymiyya: 'اليتيم في الآدميين من فقد أباه؛ لأن أباه هو الذي يهذبه، ويرزقه، وينصره': matches the card."
+ }
+]

@@ -1,0 +1,392 @@
+{
+ "A2-004": {
+  "url": "https://shamela.ws/book/10706",
+  "label": "الكتاب في مصدره",
+  "site": "المكتبة الشاملة",
+  "domain": "shamela.ws"
+ },
+ "A2-010": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/9093289/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A2-011": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24190685/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A2-012": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19403485/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A2-013": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32040143/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A2-022": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/5785179/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A2-025": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18245511/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A2-014": {
+  "url": "https://www.us.elsevierhealth.com/nelson-textbook-of-pediatrics-2-volume-set-9780323883054.html",
+  "label": "صفحة الكتاب",
+  "site": "دار إلزفير",
+  "domain": "www.us.elsevierhealth.com"
+ },
+ "A2-006": {
+  "url": "https://openlibrary.org/works/OL18961824W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A2-007": {
+  "url": "https://doi.org/10.1016/s0065-2407(08)60483-8",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "ساينس دايركت",
+  "domain": "doi.org"
+ },
+ "A2-008": {
+  "url": "https://archive.org/details/originsofintelli00piag",
+  "label": "الكتاب في مصدره",
+  "site": "أرشيف الإنترنت",
+  "domain": "archive.org"
+ },
+ "A2-009": {
+  "url": "https://link.springer.com/book/10.1007/978-1-4615-5401-1",
+  "label": "صفحة الكتاب",
+  "site": "دار سبرينغر",
+  "domain": "link.springer.com"
+ },
+ "A2-017": {
+  "url": "https://openlibrary.org/works/OL1194364W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A2-026": {
+  "url": "https://openlibrary.org/works/OL18366014W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A2-031": {
+  "url": "https://openlibrary.org/works/OL21102030W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-059": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/14151332/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-060": {
+  "url": "https://openlibrary.org/works/OL18346510W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-061": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10836566/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-062": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17375727/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-063": {
+  "url": "https://doi.org/10.1111/j.174-1617.2001.tb00618.x",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مكتبة وايلي العلمية",
+  "domain": "doi.org"
+ },
+ "A5-068": {
+  "url": "https://openlibrary.org/works/OL3244770W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-069": {
+  "url": "https://openlibrary.org/works/OL1950807W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-070": {
+  "url": "https://doi.org/10.2307/1128896",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "JSTOR",
+  "domain": "doi.org"
+ },
+ "A5-071": {
+  "url": "https://doi.org/10.2307/1129097",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "JSTOR",
+  "domain": "doi.org"
+ },
+ "A5-072": {
+  "url": "https://doi.org/10.1111/1467-9507.00202",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مكتبة وايلي العلمية",
+  "domain": "doi.org"
+ },
+ "A5-073": {
+  "url": "https://doi.org/10.1159/000078723",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار كارغر",
+  "domain": "doi.org"
+ },
+ "A5-074": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12550822/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-075": {
+  "url": "https://doi.org/10.1037/1089-2680.5.4.382",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "APA PsycNet",
+  "domain": "doi.org"
+ },
+ "A5-076": {
+  "url": "https://openlibrary.org/works/OL86374W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-077": {
+  "url": "https://openlibrary.org/works/OL1962315W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-081": {
+  "url": "https://doi.org/10.1080/10888691.2012.667344",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-082": {
+  "url": "https://openlibrary.org/works/OL3949182W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-087": {
+  "url": "https://doi.org/10.1080/15379418.2018.1425105",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-092": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17522746/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-095": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22739936/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-066": {
+  "url": "https://openlibrary.org/works/OL18805358W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-094": {
+  "url": "https://doi.org/10.5172/jfs.2013.19.2.139",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "صفحة الناشر",
+  "domain": "doi.org"
+ },
+ "A5-096": {
+  "url": "https://policycommons.net/artifacts/1230188/the-effects-of-father-involvement",
+  "label": "سجل التقرير",
+  "site": "قاعدة Policy Commons",
+  "domain": "policycommons.net"
+ },
+ "A5-097": {
+  "url": "https://www.equimundo.org/wp-content/uploads/2015/06/State-of-the-Worlds-Fathers-Full-Report-2015.pdf",
+  "label": "نص التقرير",
+  "site": "منظمة إيكيموندو",
+  "domain": "www.equimundo.org"
+ },
+ "A5-104": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16158731/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-067": {
+  "url": "https://openlibrary.org/works/OL4480763W",
+  "label": "صفحة الكتاب",
+  "site": "مكتبة Open Library",
+  "domain": "openlibrary.org"
+ },
+ "A5-109": {
+  "url": "https://doi.org/10.1080/01926180590962129",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-110": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12795391/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-022": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11915414/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-024": {
+  "url": "https://doi.org/10.1080/15379418.2017.1422414",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-026": {
+  "url": "https://doi.org/10.1111/j.174-1617.2000.tb00577.x",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مكتبة وايلي العلمية",
+  "domain": "doi.org"
+ },
+ "A5-046": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17605542/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-047": {
+  "url": "https://doi.org/10.3138/jcfs.42.6.871",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مطبعة جامعة تورنتو",
+  "domain": "doi.org"
+ },
+ "A5-048": {
+  "url": "https://doi.org/10.1080/10502556.2018.1454203",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-049": {
+  "url": "https://doi.org/10.2307/353560",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "JSTOR",
+  "domain": "doi.org"
+ },
+ "A5-050": {
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29963700/",
+  "label": "ملخص الدراسة",
+  "site": "PubMed",
+  "domain": "pubmed.ncbi.nlm.nih.gov"
+ },
+ "A5-051": {
+  "url": "https://doi.org/10.1111/fcre.12078",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مكتبة وايلي العلمية",
+  "domain": "doi.org"
+ },
+ "A5-056": {
+  "url": "https://doi.org/10.1080/10502556.2017.1325648",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-064": {
+  "url": "https://doi.org/10.1037/law0000109",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "APA PsycNet",
+  "domain": "doi.org"
+ },
+ "A5-078": {
+  "url": "https://doi.org/10.1111/j.1741-3729.2003.00385.x",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مكتبة وايلي العلمية",
+  "domain": "doi.org"
+ },
+ "A5-079": {
+  "url": "https://doi.org/10.1080/01926187.2011.575344",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-080": {
+  "url": "https://doi.org/10.1080/10502550903423362",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-083": {
+  "url": "https://doi.org/10.1080/10502556.2018.1454193",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-084": {
+  "url": "https://link.springer.com/book/10.1007/978-3-030-68479-2",
+  "label": "الكتاب كاملا (مفتوح الإتاحة)",
+  "site": "دار سبرينغر",
+  "domain": "link.springer.com"
+ },
+ "A5-085": {
+  "url": "https://doi.org/10.1080/10502556.2018.1454198",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-086": {
+  "url": "https://doi.org/10.20377/jfr-621",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "مجلة بحوث الأسرة",
+  "domain": "doi.org"
+ },
+ "A5-088": {
+  "url": "https://doi.org/10.1080/10502556.2018.1454195",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-093": {
+  "url": "https://doi.org/10.1300/J087v44n03_07",
+  "label": "صفحة الدراسة لدى الناشر",
+  "site": "دار تايلور وفرانسيس",
+  "domain": "doi.org"
+ },
+ "A5-017": {
+  "url": "https://www.moj.go.jp/MINJI/minji07_00357.html",
+  "label": "الصفحة الرسمية للقانون",
+  "site": "وزارة العدل اليابانية",
+  "domain": "www.moj.go.jp"
+ },
+ "A5-018": {
+  "url": "https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf",
+  "label": "النص الرسمي في الجريدة الرسمية",
+  "site": "البوابة الرسمية لحكومة الإمارات",
+  "domain": "u.ae"
+ }
+}

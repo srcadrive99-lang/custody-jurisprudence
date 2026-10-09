@@ -1,0 +1,1002 @@
+[
+ {
+  "id": "A2-036",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16042325/",
+  "status": "ok",
+  "landed_title": "Assessment of Pubertal Development in Egyptian Girls (2005)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-039",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31445142/",
+  "status": "ok",
+  "landed_title": "Age at Pubertal Development in a Hispanic-Latina Female Population: Should the Definitions Be Revisited? (2019)",
+  "new_url": "",
+  "note": "OpenAlex pmid match. Card authors (Pereira, Corvalan, Merino, Leiva, Mericq 2019) are the Chilean team, so \"Chile\" in the card title is consistent even though the paper title says Hispanic-Latina."
+ },
+ {
+  "id": "A2-010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/9093289/",
+  "status": "ok",
+  "landed_title": "Secondary Sexual Characteristics and Menses in Young Girls Seen in Office Practice: A Study from the Pediatric Research in Office Settings Network (1997)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24190685/",
+  "status": "ok",
+  "landed_title": "Onset of Breast Development in a Longitudinal Cohort (2013)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-012",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19403485/",
+  "status": "ok",
+  "landed_title": "Recent Decline in Age at Breast Development: The Copenhagen Puberty Study (2009)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32040143/",
+  "status": "ok",
+  "landed_title": "Worldwide Secular Trends in Age at Pubertal Onset Assessed by Breast Development Among Girls (2020)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-022",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/5785179/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; proxy said not to refetch; WebSearch budget exhausted so existence not independently confirmed. Needs re-verification (Marshall & Tanner 1969 puberty in girls - PMID plausible)."
+ },
+ {
+  "id": "A2-025",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18245511/",
+  "status": "ok",
+  "landed_title": "Examination of US Puberty-Timing Data from 1940 to 1994 for Secular Trends: Panel Findings (2008)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-034",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29261991/",
+  "status": "ok",
+  "landed_title": "Physiology, Menarche (StatPearls; Lacroix, Gondal, Shumway, Langaker; updated 11 Mar 2023)",
+  "new_url": "",
+  "note": "OpenAlex has no record for this PMID (StatPearls chapters are usually not indexed), but the live NCBI Bookshelf page NBK470216 (same entry, fetched OK) displays \"PMID: 29261991\" and the same title/authors as the card, so the PMID is correct."
+ },
+ {
+  "id": "A2-041",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36541131/",
+  "status": "ok",
+  "landed_title": "Secular trend and urban-rural disparity for age at spermarche among Chinese Han boys from 1995 to 2019 (2022)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-046",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/7955782/",
+  "status": "ok",
+  "landed_title": "WeeFIM (1994)",
+  "new_url": "",
+  "note": "OpenAlex pmid match; WeeFIM normative sample paper, Clin Pediatr 1994"
+ },
+ {
+  "id": "A2-061",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16585280/",
+  "status": "ok",
+  "landed_title": "Fathers and the Well-Child Visit (2006)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-062",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29653255/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A2-063",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/7860458/",
+  "status": "ok",
+  "landed_title": "Father Involvement and Cognitive/Behavioral Outcomes of Preterm Infants (1995)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-064",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20359699/",
+  "status": "ok",
+  "landed_title": "Oxytocin and the Development of Parenting in Humans (2010)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-066",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29730038/",
+  "status": "ok",
+  "landed_title": "The neurobiology of human allomaternal care; implications for fathering, coparenting, and children's social development (2018)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-067",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20598076/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A2-070",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20512407/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A2-071",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19526333/",
+  "status": "ok",
+  "landed_title": "The Impact of Paternal Involvement on Feto-Infant Morbidity Among Whites, Blacks and Hispanics (2009)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-073",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36372097/",
+  "status": "ok",
+  "landed_title": "The First-Year Mortality Rates of Singleton Infants Born at Term of US-Born and Foreign-Born Women: The Effect of Paternal Acknowledgment (2022)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-074",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22099734/",
+  "status": "ok",
+  "landed_title": "Teenage Pregnancy and the Influence of Paternal Involvement on Fetal Outcomes (2011)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-075",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23514133/",
+  "status": "ok",
+  "landed_title": "Fathers' engagement in pregnancy and childbirth: evidence from a national survey (2013)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-076",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16199676/",
+  "status": "ok",
+  "landed_title": "A Controlled Trial of the Father's Role in Breastfeeding Promotion (2005)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-077",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24158503/",
+  "status": "ok",
+  "landed_title": "Assessing the Economic Impact of Paternal Involvement: A Comparison of the Generalized Linear Model Versus Decision Analysis Trees (2013)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-078",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/18055667/",
+  "status": "ok",
+  "landed_title": "Preschooler Obesity and Parenting Styles of Mothers and Fathers: Australian National Population Study (2007)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-112",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35005834/",
+  "status": "ok",
+  "landed_title": "Configurations of mother-child and father-child attachment as predictors of internalizing and externalizing behavioral problems: An IPD meta-analysis (2021)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-113",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38709619/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A5-116",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31894183/",
+  "status": "ok",
+  "landed_title": "Birth of a Father: Fathering in the First 1,000 Days (2019)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-059",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/14151332/",
+  "status": "ok",
+  "landed_title": "The Development of Social Attachments in Infancy (1964)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-061",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/10836566/",
+  "status": "ok",
+  "landed_title": "Fatherhood in the Twenty-First Century (2000)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-062",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17375727/",
+  "status": "ok",
+  "landed_title": "Children's Living Arrangements Following Separation and Divorce: Insights From Empirical and Clinical Research (2007)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Kelly 2007)"
+ },
+ {
+  "id": "A5-074",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12550822/",
+  "status": "ok",
+  "landed_title": "The role of father involvement in children's later mental health (2003)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-092",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17522746/",
+  "status": "ok",
+  "landed_title": "Risk behaviours, victimisation and mental distress among adolescents in different family structures (2007)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-095",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22739936/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched per proxy instruction; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A2-047",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22808985/",
+  "status": "ok",
+  "landed_title": "Do early father-infant interactions predict the onset of externalising behaviours in young children? Findings from a longitudinal cohort study (2012)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Ramchandani)"
+ },
+ {
+  "id": "A2-059",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11132488/",
+  "status": "ok",
+  "landed_title": "Distress among young adults from divorced families (2000)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Laumann-Billings & Emery)"
+ },
+ {
+  "id": "A2-080",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21057648/",
+  "status": "ok",
+  "landed_title": "Fathers' early contributions to children's language development in families from low-income rural communities (2010)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-081",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28103110/",
+  "status": "ok",
+  "landed_title": "Engaging Fathers in Effective Parenting for Preschool Children Using Shared Book Reading: A Randomized Controlled Trial (2017)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-082",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17328697/",
+  "status": "ok",
+  "landed_title": "Reciprocal Longitudinal Relations Between Nonresident Father Involvement and Adolescent Delinquency (2007)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A2-083",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16583774/",
+  "status": "ok",
+  "landed_title": "Nonresident Fathers' Involvement and Adolescents' Smoking (2006)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Menning)"
+ },
+ {
+  "id": "A5-127",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27600319/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched per proxy instruction; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A5-104",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16158731/",
+  "status": "ok",
+  "landed_title": "The Impact of Family Formation Change on the Cognitive, Social, and Emotional Well-Being of the Next Generation (2005)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Amato)"
+ },
+ {
+  "id": "A4-066",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24811135/",
+  "status": "ok",
+  "landed_title": "Who Gets Custody Now? Dramatic Changes in Children's Living Arrangements After Divorce (2014)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Cancian et al., Demography)"
+ },
+ {
+  "id": "A5-107",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30475019/",
+  "status": "ok",
+  "landed_title": "Parental alienating behaviors: An unacknowledged form of family violence (2018)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Harman, Kruk & Hines, Psychol Bull)"
+ },
+ {
+  "id": "A5-130",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12182506/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched per proxy instruction; WebSearch budget exhausted. Needs re-verification. Same card A5-130 has a SAGE DOI link that loaded OK (Sauvola 2002 'Family Type and Criminal Behaviour of Male Offspring: Northern Finland 1966 Birth Cohort')."
+ },
+ {
+  "id": "A5-132",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23908462/",
+  "status": "ok",
+  "landed_title": "Social determinants of mental health: a Finnish nationwide follow-up study on mental disorders (2013)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Gissler/Sourander team; Finnish birth cohort) - card A5-132 topic: divorce and diagnosed mental disorders in a Finnish birth cohort"
+ },
+ {
+  "id": "A5-110",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12795391/",
+  "status": "ok",
+  "landed_title": "Does Father Absence Place Daughters at Special Risk for Early Sexual Activity and Teenage Pregnancy? (2003)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Ellis et al.)"
+ },
+ {
+  "id": "A5-090",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22383476/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched per proxy instruction; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A5-128",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24980187/",
+  "status": "ok",
+  "landed_title": "Practitioner Review: Engaging fathers - recommendations for a game change in parenting interventions based on a systematic review of the global evidence (2014)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Panter-Brick et al.)"
+ },
+ {
+  "id": "A5-134",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37390081/",
+  "status": "ok",
+  "landed_title": "Systematic review and theoretical comparison of children's outcomes in post-separation living arrangements (2023)",
+  "new_url": "",
+  "note": "OpenAlex pmid match; matches card topic (review of children's outcomes by post-separation living arrangement)"
+ },
+ {
+  "id": "A5-135",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31830876/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched per proxy instruction; WebSearch budget exhausted. Needs re-verification. Same card A5-135 has a SAGE DOI link that loaded OK ('Complex families and health complaints among adolescents', Scand J Public Health 2020)."
+ },
+ {
+  "id": "A5-022",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11915414/",
+  "status": "ok",
+  "landed_title": "Child adjustment in joint-custody versus sole-custody arrangements: A meta-analytic review (2002)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Bauserman)"
+ },
+ {
+  "id": "A5-046",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/17605542/",
+  "status": "ok",
+  "landed_title": "Postdivorce living arrangements, parent conflict, and long-term physical health correlates for children of divorce (2007)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Fabricius & Luecken)"
+ },
+ {
+  "id": "A5-050",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29963700/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch proxy HTTP 429 (rate limited) on OpenAlex lookup; not refetched per proxy instruction; WebSearch budget exhausted. Needs re-verification."
+ },
+ {
+  "id": "A5-166",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24053116/",
+  "status": "ok",
+  "landed_title": "Living in two homes - a Swedish national survey of wellbeing in 12 and 15 year olds with joint physical custody (2013)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Bergstrom et al.)"
+ },
+ {
+  "id": "A5-167",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24662307/",
+  "status": "ok",
+  "landed_title": "Joint physical custody, turning to parents for emotional support, and subjective health: A study of adolescents in Stockholm, Sweden (2014)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Laftman et al.)"
+ },
+ {
+  "id": "A5-168",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26553250/",
+  "status": "ok",
+  "landed_title": "Psychological complaints among children in joint physical custody and other family types: Considering parental factors (2015)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Fransson et al.)"
+ },
+ {
+  "id": "A5-169",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26487762/",
+  "status": "ok",
+  "landed_title": "Family residency and psychosomatic problems among adolescents in Sweden: The impact of child-parent relations (2015)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Hagquist)"
+ },
+ {
+  "id": "A5-170",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28595062/",
+  "status": "ok",
+  "landed_title": "Self-esteem in children in joint physical custody and other living arrangements (2017)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Turunen)"
+ },
+ {
+  "id": "A5-171",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34199778/",
+  "status": "ok",
+  "landed_title": "Mental Health in Schoolchildren in Joint Physical Custody: A Longitudinal Study (2021)",
+  "new_url": "",
+  "note": "OpenAlex pmid match"
+ },
+ {
+  "id": "A5-172",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23978321/",
+  "status": "ok",
+  "landed_title": "An updated and expanded meta-analysis of nonresident fathering and child well-being (2013)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Adamsons & Johnson)"
+ },
+ {
+  "id": "A5-180",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/9622777/",
+  "status": "ok",
+  "landed_title": "Father by law: Effects of joint legal custody on nonresident fathers' involvement with children (1998)",
+  "new_url": "",
+  "note": "OpenAlex pmid match (Seltzer, Demography)"
+ },
+ {
+  "id": "A2-006",
+  "url": "https://openlibrary.org/works/OL18961824W",
+  "status": "ok",
+  "landed_title": "The five to seven year shift (Haith & Sameroff eds., 1996) | Open Library",
+  "new_url": "",
+  "note": "Matches card: developmental scientists on the 5-to-7 shift"
+ },
+ {
+  "id": "A2-017",
+  "url": "https://openlibrary.org/works/OL1194364W",
+  "status": "ok",
+  "landed_title": "Childhood and society by Erik H. Erikson | Open Library",
+  "new_url": "",
+  "note": "Matches card (Erikson, Childhood and Society)"
+ },
+ {
+  "id": "A2-026",
+  "url": "https://openlibrary.org/works/OL18366014W",
+  "status": "ok",
+  "landed_title": "The growth of logical thinking from childhood to adolescence by Baerbel Inhelder | Open Library (1958)",
+  "new_url": "",
+  "note": "Inhelder & Piaget - matches card; page has no description"
+ },
+ {
+  "id": "A2-031",
+  "url": "https://openlibrary.org/works/OL21102030W",
+  "status": "ok",
+  "landed_title": "Age of Opportunity by Laurence Steinberg | Open Library (2015)",
+  "new_url": "",
+  "note": "Matches card (Steinberg, Age of Opportunity: Lessons from the New Science of Adolescence)"
+ },
+ {
+  "id": "A5-060",
+  "url": "https://openlibrary.org/works/OL18346510W",
+  "status": "ok",
+  "landed_title": "The role of the father in child development by Michael E. Lamb | Open Library (5th ed. 2010)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-068",
+  "url": "https://openlibrary.org/works/OL3244770W",
+  "status": "ok",
+  "landed_title": "Surviving the breakup by Judith S. Wallerstein | Open Library (1980, Wallerstein & Kelly)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-069",
+  "url": "https://openlibrary.org/works/OL1950807W",
+  "status": "ok",
+  "landed_title": "Maternal deprivation reassessed by Michael Rutter | Open Library (Penguin 1981)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-076",
+  "url": "https://openlibrary.org/works/OL86374W",
+  "status": "ok",
+  "landed_title": "Fatherneed by Kyle D. Pruett | Open Library (2001)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-077",
+  "url": "https://openlibrary.org/works/OL1962315W",
+  "status": "ok",
+  "landed_title": "Fatherhood by Ross D. Parke | Open Library (Harvard UP 1996)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-082",
+  "url": "https://openlibrary.org/works/OL3949182W",
+  "status": "ok",
+  "landed_title": "Fathers and families by Henry B. Biller | Open Library (Auburn House 1993)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-066",
+  "url": "https://openlibrary.org/works/OL18805358W",
+  "status": "ok",
+  "landed_title": "Mothers and others by Sarah Blaffer Hrdy | Open Library (2009)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-067",
+  "url": "https://openlibrary.org/works/OL4480763W",
+  "status": "ok",
+  "landed_title": "Intimate fathers by Barry S. Hewlett | Open Library (U Michigan Press 1991)",
+  "new_url": "",
+  "note": "Matches card (Aka pygmy paternal infant care)"
+ },
+ {
+  "id": "A2-046",
+  "url": "https://journals.sagepub.com/doi/10.1177/000992289403300709",
+  "status": "ok",
+  "landed_title": "WeeFIM: Normative Sample of an Instrument for Tracking Functional Independence in Children (Clin Pediatr 1994)",
+  "new_url": "",
+  "note": "Page loaded; abstract only"
+ },
+ {
+  "id": "A2-052",
+  "url": "https://journals.sagepub.com/doi/10.1177/0042085914525789",
+  "status": "ok",
+  "landed_title": "A Meta-Analysis: The Relationship Between Father Involvement and Student Academic Achievement (Jeynes, Urban Education 2015)",
+  "new_url": "",
+  "note": "Matches card (66-study meta-analysis); abstract page loads"
+ },
+ {
+  "id": "A2-056",
+  "url": "https://journals.sagepub.com/doi/10.1177/0192513X08318145",
+  "status": "ok",
+  "landed_title": "Involvement Among Resident Fathers and Links to Infant Cognitive Outcomes (Bronte-Tinkew et al., J Family Issues 2008)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-125",
+  "url": "https://journals.sagepub.com/doi/10.1177/0022022115597754",
+  "status": "ok",
+  "landed_title": "Pancultural Gender Differences in the Relation Between Perceived Parental Acceptance and Psychological Adjustment of Children and Adult Offspring: A Meta-Analytic Review of Worldwide Research (Ali, Khaleque, Rohner 2015, J Cross-Cult Psychol)",
+  "new_url": "",
+  "note": "Matches card (23 nations)"
+ },
+ {
+  "id": "A5-130",
+  "url": "https://journals.sagepub.com/doi/10.1177/002076402128783163",
+  "status": "ok",
+  "landed_title": "Family Type and Criminal Behaviour of Male Offspring: the Northern Finland 1966 Birth Cohort Study (Sauvola et al., Int J Soc Psychiatry 2002)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-091",
+  "url": "https://journals.sagepub.com/doi/10.1177/20539517211069299",
+  "status": "check",
+  "landed_title": "'What about the dads?' Linking fathers and children in administrative data: A systematic scoping review (Lut et al., Big Data & Society, Jan 2022)",
+  "new_url": "",
+  "note": "LIVE but WRONG TARGET: card A5-091 describes a 2016 British national study on father involvement and child behaviour; this DOI is a 2022 Big Data & Society scoping review on linking fathers to children in administrative health data. DOI is mismatched - replace. Intended work per EXISTING_CARDS: Kroll, Carson, Redshaw, Quigley 2016 'Early father involvement and subsequent child behaviour' (UK Millennium Cohort Study) - likely PLoS ONE 2016;11(9):e0162339 (candidate DOI 10.1371/journal.pone.0162339 - UNVERIFIED, Crossref check was rate-limited)."
+ },
+ {
+  "id": "A5-135",
+  "url": "https://journals.sagepub.com/doi/10.1177/1403494819893903",
+  "status": "ok",
+  "landed_title": "Complex families and health complaints among adolescents: A population-based cross-sectional study (Scand J Public Health 2020)",
+  "new_url": "",
+  "note": "Norwegian 16-19-year-olds; joint physical custody had fewer complaints - matches card"
+ },
+ {
+  "id": "A2-009",
+  "url": "https://link.springer.com/book/10.1007/978-1-4615-5401-1",
+  "status": "ok",
+  "landed_title": "The Collected Works of L. S. Vygotsky: Child Psychology (Springer 1998)",
+  "new_url": "",
+  "note": "Book listing; covers crises at ages 1, 3 and 7"
+ },
+ {
+  "id": "A5-133",
+  "url": "https://link.springer.com/article/10.1007/s00787-020-01715-0",
+  "status": "ok",
+  "landed_title": "Adolescents' mental health problems increase after parental divorce, not before (TRAILS, Eur Child Adolesc Psychiatry)",
+  "new_url": "",
+  "note": "Dutch TRAILS cohort - matches card topic (symptoms before/after separation in the Netherlands)"
+ },
+ {
+  "id": "A5-084",
+  "url": "https://link.springer.com/book/10.1007/978-3-030-68479-2",
+  "status": "ok",
+  "landed_title": "Shared Physical Custody: Interdisciplinary Insights in Child Custody Arrangements (Bernardi & Mortelmans eds., Springer 2021)",
+  "new_url": "",
+  "note": "Open-access book; matches card"
+ },
+ {
+  "id": "A2-034",
+  "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470216/",
+  "status": "ok",
+  "landed_title": "Physiology, Menarche - StatPearls - NCBI Bookshelf",
+  "new_url": "",
+  "note": "Live"
+ },
+ {
+  "id": "A5-113",
+  "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Psychol+Bull%22%5BTitle+Abbreviation%5D",
+  "status": "check",
+  "landed_title": "Psychological bulletin. - NLM Catalog - NCBI",
+  "new_url": "",
+  "note": "Live, but it is a journal-level NLM Catalog search (one result: the journal Psychological Bulletin, APA, since 1904), not the article. Card A5-113 is the Madigan et al. 2024 article 'Maternal and paternal sensitivity: Key determinants of child attachment security' (article is linked via PubMed 38709619). Search-query URL is not a stable record; consider replacing or dropping."
+ },
+ {
+  "id": "A5-065",
+  "url": "https://ffcws.princeton.edu/publications/causal-effects-father-absence",
+  "status": "ok",
+  "landed_title": "The Causal Effects of Father Absence | Future of Families and Child Wellbeing Study",
+  "new_url": "",
+  "note": "McLanahan, Tach, Schneider 2013 Annu Rev Sociol listing"
+ },
+ {
+  "id": "A5-124",
+  "url": "https://ffcws.princeton.edu/publications/role-fathers-reducing-socioeconomic-inequalities-adolescent-behavioral-outcomes",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused twice: PROVENANCE_REQUIRED (deterministic). Not fetched; WebSearch budget exhausted so existence not independently confirmed."
+ },
+ {
+  "id": "A5-157",
+  "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann96-123_en.html",
+  "status": "ok",
+  "landed_title": "Code of Canon Law - Title VI - Physical and Juridic Persons (Cann. 96-123)",
+  "new_url": "",
+  "note": "Contains can. 97 par. 2: minor under seven is an infans; use of reason presumed from completion of seventh year"
+ },
+ {
+  "id": "A5-158",
+  "url": "https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19770331_penance-communion_en.html",
+  "status": "ok",
+  "landed_title": "First penance, first communion (1977 letter, Congregations for the Sacraments and Divine Worship / for the Clergy)",
+  "new_url": "",
+  "note": "Page states age of discretion = age in which the child begins to reason, around the seventh year - matches card"
+ },
+ {
+  "id": "A2-043",
+  "url": "https://canchild.ca/wp-content/uploads/2025/01/dcd_dressing_skills.pdf",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused twice: PROVENANCE_REQUIRED (deterministic). Not fetched; WebSearch budget exhausted so existence not independently confirmed."
+ },
+ {
+  "id": "A2-032",
+  "url": "https://pure.johnshopkins.edu/en/publications/secondary-sexual-characteristics-in-boys-data-from-the-pediatric--5/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused twice: PROVENANCE_REQUIRED (deterministic). Not fetched; WebSearch budget exhausted so existence not independently confirmed."
+ },
+ {
+  "id": "A5-057",
+  "url": "https://pediatrics.aappublications.org/content/138/1/e20161128.abstract",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused twice: PROVENANCE_REQUIRED (deterministic). Not fetched. Old pediatrics.aappublications.org host has migrated to publications.aap.org in general, so this may redirect there - unverified."
+ },
+ {
+  "id": "A5-137",
+  "url": "https://www.cambridge.org/core/books/abs/mental-health-and-growing-up/divorce-or-separation-of-parents-the-impact-on-children-and-adolescents/B8C516AAF11AABF89F0D912422988202",
+  "status": "ok",
+  "landed_title": "Divorce or separation of parents: the impact on children and adolescents (Chapter 13) - Mental Health and Growing Up (Cambridge Core)",
+  "new_url": "",
+  "note": "Live; chapter summary page (full text paywalled)"
+ },
+ {
+  "id": "A2-068",
+  "url": "https://medlineplus.gov/puberty.html",
+  "status": "ok",
+  "landed_title": "Puberty | Puberty in Boys | Puberty in Girls | MedlinePlus",
+  "new_url": "",
+  "note": "Live; says puberty usually happens between ages 8 and 13 for girls"
+ },
+ {
+  "id": "A5-114",
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/03004430903211208",
+  "status": "blocked_exists",
+  "landed_title": "Quality of attachment to father and mother and number of reciprocal friends (Verissimo et al., Early Child Development and Care, 2011)",
+  "new_url": "",
+  "note": "Publisher page fetch returned a generic fetch error (bot protection likely). DOI 10.1080/03004430903211208 confirmed via Crossref and matches card. WebSearch budget exhausted so no search used."
+ },
+ {
+  "id": "A2-049",
+  "url": "https://cris.biu.ac.il/en/publications/infant-mother-and-infant-father-synchrony-the-coregulation-of-pos/",
+  "status": "ok",
+  "landed_title": "Infant-mother and infant-father synchrony: The coregulation of positive arousal (Feldman 2003, Infant Mental Health Journal)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A2-054",
+  "url": "https://www.jaacap.org/article/S0890-8567(09)61657-9/fulltext",
+  "status": "blocked_exists",
+  "landed_title": "Early Father Involvement Moderates Biobehavioral Susceptibility to Mental Health Problems in Middle Childhood (Boyce et al., J Am Acad Child Adolesc Psychiatry 2006;45(12):1510-1520)",
+  "new_url": "",
+  "note": "jaacap.org fetch returned a generic fetch error (likely bot protection). Article existence confirmed via Crossref DOI 10.1097/01.chi.0000237706.50884.8b (title matches card A2-054 exactly). The PII-style URL itself could not be verified (Crossref alternative-id lookup failed). Consider https://doi.org/10.1097/01.chi.0000237706.50884.8b as a stable alternative."
+ },
+ {
+  "id": "A2-060",
+  "url": "https://bristol.ac.uk/alspac/news/2004/85.html",
+  "status": "ok",
+  "landed_title": "2004: fathers contact | ALSPAC | University of Bristol (press release 26 May 2004, Dunn et al.)",
+  "new_url": "",
+  "note": "Live. University of Bristol ALSPAC press release (26 May 2004) summarising the Dunn, Cheng, O'Connor & Bridges 2004 study (162 children of separated parents, J Child Psychol Psychiatry); a press release, not the paper itself."
+ },
+ {
+  "id": "A5-101",
+  "url": "https://www.hkfws.org.hk/assets/files/reserch_reports/study-report_impact-of-co-parenting-approaches-on-childrens-well-being-in-post-divorce-families-in-hk.pdf",
+  "status": "ok",
+  "landed_title": "Impact of Co-parenting Approaches on Children's Well-Being in Post-Divorce Families in Hong Kong (June 2016, CUHK Dept of Social Work / HK Family Welfare Society)",
+  "new_url": "",
+  "note": "PDF loads; matches card"
+ },
+ {
+  "id": "A5-097",
+  "url": "https://www.equimundo.org/wp-content/uploads/2015/06/State-of-the-Worlds-Fathers-Full-Report-2015.pdf",
+  "status": "ok",
+  "landed_title": "State of the World's Fathers (2015 MenCare full report)",
+  "new_url": "",
+  "note": "PDF loads; matches card"
+ },
+ {
+  "id": "A4-062",
+  "url": "https://www.ssb.no/befolkning/barn-familier-og-husholdninger/artikler/delt-bosted-for-barn-etter-samlivsbrudd.nye-utviklingstrekk-og-kjennetegn",
+  "status": "ok",
+  "landed_title": "Delt bosted for barn etter samlivsbrudd. Nye utviklingstrekk og kjennetegn - SSB (2022)",
+  "new_url": "",
+  "note": "Page says 43% of formerly co-resident parents have shared residence, up from 25% in the 2012 survey"
+ },
+ {
+  "id": "A4-068",
+  "url": "https://www.thelatinlibrary.com/isidore/11.shtml",
+  "status": "ok",
+  "landed_title": "Isidore: Etymologiae XI (De homine et portentis)",
+  "new_url": "",
+  "note": "Sec. II De aetatibus hominum: 'Prima aetas infantia ... quae porrigitur in septem annis' - matches card"
+ },
+ {
+  "id": "A5-108",
+  "url": "https://timarit.is/page/7810373?lang=da",
+  "status": "ok",
+  "landed_title": "Leyfi til ad elska (timarit.is, Feb 2023, p.14) - reproduces Harman, Bernet & Harman 2019, 'Parental Alienation: The Blossoming of a Field of Study', Curr Dir Psychol Sci 28(2):212-217",
+  "new_url": "",
+  "note": "Page reproduces the journal article text (abstract: 'there is consensus among researchers as to what parental alienating behaviors are'). Secondary host (Icelandic periodical archive), not the journal's own page."
+ },
+ {
+  "id": "A5-131",
+  "url": "https://research.sfu.ac.at/en/publications/long-term-effects-of-parental-divorce-on-mental-health-a-meta-ana/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (permission request to user unanswered). Not fetched; WebSearch budget exhausted."
+ },
+ {
+  "id": "A5-021",
+  "url": "http://psycnet.apa.org/journals/law/20/1/46/",
+  "status": "blocked_exists",
+  "landed_title": "Social science and parenting plans for young children: A consensus report (Warshak 2014, Psychology, Public Policy, and Law 20(1):46-67)",
+  "new_url": "https://doi.org/10.1037/law0000005",
+  "note": "Publisher page not fetchable (WebFetch ROBOTS_DISALLOWED), so status is blocked_exists, not dead. Existence confirmed via Crossref: DOI 10.1037/law0000005 = Warshak 2014 consensus report, Psychology, Public Policy, and Law 20(1):46-67 (matches URL path journals/law/20/1/46). new_url is an OPTIONAL more stable https DOI link."
+ },
+ {
+  "id": "A5-045",
+  "url": "https://ohiohouse.gov/members/rodney-creech/in-the-news/proposed-statehouse-bill-could-change-child-custody-in-divorce-cases-895",
+  "status": "check",
+  "landed_title": "Proposed statehouse bill could change child custody in divorce cases | Rodney Creech | Ohio House of Representatives (reprint of Dayton Daily News, 23 Jun 2021)",
+  "new_url": "",
+  "note": "Live, but it is a news reprint (Dayton Daily News 23 Jun 2021) on an Ohio shared-parenting bill that quotes Linda Nielsen's '40 studies' summary; it is NOT the 2014 study itself. Intended work per EXISTING_CARDS: Nielsen 2014 'Shared physical custody: Summary of 40 studies on outcomes for children' (J Divorce & Remarriage 55(8)) - candidate DOI 10.1080/10502556.2014.972681 UNVERIFIED (Crossref check was rate-limited)."
+ },
+ {
+  "id": "A5-120",
+  "url": "https://digitalcommons.unl.edu/psychfacpub/963/",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (not in tool's allowed provenance set). Not fetched; WebSearch budget exhausted."
+ },
+ {
+  "id": "A5-122",
+  "url": "https://business.leeds.ac.uk/dir-record/research-projects/1821/does-fathers-childcare-involvement-increase-children-s-educational-attainment-at-primary-school",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (not in tool's allowed provenance set). Not fetched; WebSearch budget exhausted."
+ },
+ {
+  "id": "A5-174",
+  "url": "https://aifs.gov.au/research/commissioned-reports/views-adolescents-separated-families",
+  "status": "ok",
+  "landed_title": "Views of adolescents in separated families | Australian Institute of Family Studies (2010 report, Lodge & Alexander)",
+  "new_url": "",
+  "note": "Matches card; no redirect"
+ },
+ {
+  "id": "A5-178",
+  "url": "https://www.unicef.org/india/press-releases/fathers-are-one-best-yet-most-underutilized-child-development-resources-unicef",
+  "status": "ok",
+  "landed_title": "Fathers are one of the best, yet most underutilized child development resources - UNICEF (UNICEF India press release, June 2018)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-016",
+  "url": "https://kslegislature.gov/li_2018/b2017_18/measures/SB257/testimony/",
+  "status": "ok",
+  "landed_title": "SB 257 Committee Minutes and Testimony (Kansas Senate Judiciary, hearing 30 Jan 2018)",
+  "new_url": "",
+  "note": "Live; lists testimony incl. Dr Linda Nielsen (neutral); testimony documents themselves not shown in extracted page text"
+ },
+ {
+  "id": "A5-053",
+  "url": "https://www.legislation.gov.uk/ukpga/1989/41/section/1",
+  "status": "ok",
+  "landed_title": "Children Act 1989, section 1 'Welfare of the child' (legislation.gov.uk)",
+  "new_url": "",
+  "note": "Contains s.1(2A) presumption that involvement of each parent furthers the child's welfare - matches card"
+ },
+ {
+  "id": "A5-008",
+  "url": "https://hal.umontpellier.fr/hal-01870997v1/document",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "Fetcher received an Anubis bot-protection 'Access Denied / Oh noes!' page (not a 404). Document existence unconfirmed; WebSearch budget exhausted."
+ },
+ {
+  "id": "A5-018",
+  "url": "https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf",
+  "status": "ok",
+  "landed_title": "Official Gazette of Abu Dhabi, Year 50, Issue 11 (15 Nov 2021) - publishes Law No. 14 of 2021 on Personal Status for Non-Muslim Foreigners in the Emirate of Abu Dhabi",
+  "new_url": "",
+  "note": "Live PDF. Article 9 'الحضانة المشتركة' (joint custody: shared equal right of father and mother after divorce); Art. 16 joint custody until age 16. Note the law covers NON-MUSLIM FOREIGNERS only."
+ },
+ {
+  "id": "A5-039",
+  "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (not in tool's allowed provenance set). Not fetched; WebSearch budget exhausted."
+ },
+ {
+  "id": "A5-153",
+  "url": "https://revisor.mo.gov/main/OneSection.aspx?section=452.375",
+  "status": "ok",
+  "landed_title": "Missouri Revisor of Statutes - RSMo Section 452.375 (child custody)",
+  "new_url": "",
+  "note": "Subsection 4 / factors in subsection 2 contain 'frequent, continuing and meaningful contact with both parents' - matches card"
+ },
+ {
+  "id": "A5-159",
+  "url": "https://avalon.law.yale.edu/18th_century/blackstone_bk4ch2.asp",
+  "status": "ok",
+  "landed_title": "Avalon Project - Blackstone's Commentaries, Book IV, Chapter 2: Of the Persons Capable of Committing Crimes",
+  "new_url": "",
+  "note": "Infancy section: 'Under seven years of age indeed an infant cannot be guilty of felony'; under fourteen presumed incapable unless malice shown - matches card thresholds 7 and 14"
+ },
+ {
+  "id": "A5-179",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1649",
+  "status": "ok",
+  "landed_title": "The Hindu Minority and Guardianship Act, 1956 (Act No. 32 of 1956) - India Code",
+  "new_url": "",
+  "note": "Metadata page only; Files section appears empty in extracted text, so statute text itself not shown"
+ },
+ {
+  "id": "A5-031",
+  "url": "https://www.hrw.org/news/2020/07/03/submission-european-court-human-rights-am-v-russia",
+  "status": "ok",
+  "landed_title": "Submission to the European Court of Human Rights in A.M. v. Russia | Human Rights Watch (3 Jul 2020)",
+  "new_url": "",
+  "note": "Live. Para 8 quotes the Grand Chamber: \"the mutual enjoyment by parent and child of each other's company constitutes a fundamental element of family life\"; para 10 discusses contact case law. Matches card A5-031 theme, but it is an HRW third-party submission, not the Court's own case-law guide (the card's primary URL is ks.echr.coe.int/.../contact-rights)."
+ },
+ {
+  "id": "A5-140",
+  "url": "https://supreme.justia.com/cases/federal/us/405/645/",
+  "status": "ok",
+  "landed_title": "Stanley v. Illinois, 405 U.S. 645 (1972) | Justia U.S. Supreme Court Center",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A5-149",
+  "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2017/2017025.html",
+  "status": "ok",
+  "landed_title": "Bundesgerichtshof Pressemitteilung 2017: Anordnung des Wechselmodells durch Umgangsregelung des Familiengerichts (Beschluss vom 1.2.2017, XII ZB 601/15)",
+  "new_url": "",
+  "note": "Matches card"
+ },
+ {
+  "id": "A1-049",
+  "url": "http://mc.dlib.nyu.edu/files/books/aub_aco001343/aub_aco001343_lo.pdf",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (not in tool's allowed provenance set). Not fetched; WebSearch budget exhausted. Card's primary URL for A1-049 is a different NYU viewer link (sites.dlib.nyu.edu/viewer/books/aub_aco001343/display?lang=ar) - the book id aub_aco001343 matches."
+ },
+ {
+  "id": "A1-054",
+  "url": "https://darul-kutub.com/uploads/books/cbc792edbc63f5732fd1bc59cd83785e4864d4f8.pdf",
+  "status": "blocked",
+  "landed_title": "",
+  "new_url": "",
+  "note": "WebFetch refused: PROVENANCE_REQUIRED (not in tool's allowed provenance set). Not fetched; WebSearch budget exhausted."
+ },
+ {
+  "id": "A1-047",
+  "url": "https://hadithprophet.com/hadith-52550.html",
+  "status": "ok",
+  "landed_title": "Sahih Muslim no. 7469 (kafil al-yatim) with Sharh al-Nawawi (al-Minhaj) - hadithprophet.com",
+  "new_url": "",
+  "note": "Commentary shown explains sponsorship covers food, clothing, discipline (ta'dib) and upbringing (tarbiya) - matches card A1-047"
+ }
+]

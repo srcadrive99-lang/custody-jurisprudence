@@ -1,0 +1,189 @@
+[
+ {
+  "id": "A2-014",
+  "status": "verified_gist",
+  "found_text": "In girls, precocious puberty is when any of the following develop before age 8: [...] In boys, precocious puberty is when any of the following develop before age 9: [...]",
+  "location": "MedlinePlus Medical Encyclopedia (U.S. National Library of Medicine), article 001168 'Precocious puberty', definition section (reviewed 7/1/2025). Its reference list names the Nelson chapter as source: Garibaldi LR, Chemaitilly W. Disorders of pubertal development. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds. Nelson Textbook of Pediatrics. 22nd ed. Philadelphia, PA: Elsevier; 2025: chap 600.",
+  "source_url": "https://medlineplus.gov/ency/article/001168.htm",
+  "url_status": "ok",
+  "proposed_ar": "عند البنات يعد البلوغ مبكرا إذا ظهرت أي من العلامات الآتية قبل سن 8 سنوات: [...] وعند الأولاد يعد البلوغ مبكرا إذا ظهرت أي من العلامات الآتية قبل سن 9 سنوات: [...]",
+  "double_edged": "",
+  "notes": "NEEDS ATTENTION. Nelson's own sentence could not be reached: ScienceDirect (chapter abstracts), Google Books and the archive.org full-text search endpoints are all blocked for this fetcher; the Elsevier product page (entry URL) loads and confirms the 22nd edition (Kliegman & St. Geme, copyright 2025, published April 2024, ISBN 9780323883054) but carries no chapter text. The gist (before 8 in girls, before 9 in boys) is supported by the NIH MedlinePlus page, which explicitly cites the Nelson chapter as its source. Correct the entry's work field: chapter 'Disorders of Pubertal Development' (Luigi Garibaldi & Wassim Chemaitilly), ch. 600 in the 22nd ed. (2025); ch. 578 in the 21st ed. (2020); ch. 556, pp. 1886-1894 in the 19th ed. (2011, Crossref DOI 10.1016/b978-1-4377-0755-7.00556-x). found_text is MedlinePlus wording, not Nelson's."
+ },
+ {
+  "id": "A2-006",
+  "status": "verified_gist",
+  "found_text": "Leading researchers in neurology, sociology, anthropology, education, and psychology assess what is now commonly known as the five to seven year shift. ... They find that important transitions in behavior and environment do take place in this period, and are best described in terms of the qualitative increase in complexity due to interactions among ecological systems.",
+  "location": "Publisher's description (University of Chicago Press, The John D. and Catherine T. MacArthur Foundation Series on Mental Health and Development, 1996), reproduced on the bookseller page; corroborated by the book's own ch. 5 (Pierre Mounoud, 'A Recursive Transformation of Central Cognitive Mechanisms: The Shift from Partial to Whole Representations'), p. 85: 'The numerous transitions observed in the behavior of children between 5 and 7 years of age testify, from my point of view, to a general transformation of the central cognitive mechanisms.'",
+  "source_url": "https://page158books.com/book/9780226734477",
+  "url_status": "ok",
+  "proposed_ar": "يقيم باحثون بارزون في علم الأعصاب وعلم الاجتماع وعلم الإنسان والتربية وعلم النفس ما صار يعرف اليوم بتحول الخامسة إلى السابعة. ... ويخلصون إلى أن تحولات مهمة في السلوك والبيئة تقع فعلا في هذه المرحلة، وأن أحسن وصف لها هو الزيادة النوعية في التعقيد الناشئة عن التفاعل بين الأنظمة المحيطة بالطفل.",
+  "double_edged": "",
+  "notes": "Open Library (entry URL) loads and shows the book (U. Chicago Press 1996) with a description beginning 'the years from five to seven have returned to prominence in developmental psychology'; press.uchicago.edu itself was unreachable. The full description also says the researchers 'consider how development is influenced by changes in neurobiological subsystems; cognition, emotion, and self-concept; concerns with peers and families; and school and cultural practices.' The words 'universal' and 'cultures assign new responsibilities' are not in the description; that framing rests on the subtitle 'The Age of Reason and Responsibility' and on the Rogoff et al. (1975) cross-cultural survey discussed in the volume, so soften the gist slightly. Chapter 5 PDF (from the book): https://www.unige.ch/fapse/PSY/persons/mounoud/files/PM_Sameroff_1996.pdf"
+ },
+ {
+  "id": "A2-009",
+  "status": "verified_gist",
+  "found_text": "School age, like all other age levels, opens with a critical or turning-point period; this was described in the literature as the crisis at age seven before the other age levels were described. It was noted that in making the transition from preschool to school age, the child changes abruptly and becomes more difficult with respect to rearing than he was previously. This is a kind of transitional stage—he is no longer a preschooler and not yet a school child.",
+  "location": "The Collected Works of L. S. Vygotsky, Vol. 5: Child Psychology (ed. R. W. Rieber; New York: Plenum/Springer, 1998), chapter 'The Crisis at Age Seven', pp. 289-296, opening paragraph (shown as the chapter abstract on the Springer page). 'The Problem of Age' is a different chapter of the same volume (pp. 187-205).",
+  "source_url": "https://link.springer.com/chapter/10.1007/978-1-4615-5401-1_11",
+  "url_status": "ok",
+  "proposed_ar": "يفتتح سن المدرسة، كسائر المراحل العمرية، بفترة حرجة أو فترة انعطاف؛ وقد وصفت في الأدبيات باسم أزمة السابعة قبل أن توصف المراحل العمرية الأخرى. ولوحظ أن الطفل عند انتقاله من سن ما قبل المدرسة إلى سن المدرسة يتغير فجأة ويصير أصعب في التربية مما كان قبل ذلك. وهذه مرحلة انتقالية من نوع ما: فهو لم يعد طفل ما قبل المدرسة ولم يصر بعد تلميذا.",
+  "double_edged": "",
+  "notes": "Entry's work/section should be corrected: the 'crisis at age seven' material is the chapter 'The Crisis at Age Seven' (lecture of 1933/34), Collected Works vol. 5, pp. 289-296, not 'The Problem of Age'. The point about the child losing childish spontaneity/naivete (Russian: utrata detskoi neposredstvennosti) is in the full chapter text, which is paywalled on Springer (the marxists.org copy required a permission prompt), so it is not verified verbatim. The Springer page lists the volume editor Rieber as chapter 'author' (metadata quirk). A newer translation exists: 'The Crisis at Age Three and the Crisis at Age Seven', in L.S. Vygotsky's Pedological Works, Vol. 2 (Springer, 2021), pp. 201-227 (also paywalled)."
+ },
+ {
+  "id": "A2-017",
+  "status": "verified_gist",
+  "found_text": "With the oncoming latency period, the normally advanced child . . . now learns to win recognition by producing things. He develops industry—that is, he adjusts himself to the inorganic laws of the tool world. [...] Many a child's development is disrupted when family life may not have prepared him for school life or when school life may fail to sustain the promises of the early stages.",
+  "location": "Childhood and Society (New York: W. W. Norton, 1950), ch. 7 'Eight Stages of Man', section 4 'Industry vs. Inferiority', pp. 226-227 (1950 pagination) — as quoted (with the ellipsis) in Karen VanderVen, 'Is It Still Industry? Towards a New Look at Erikson's Relevance to School Age Youth', Journal of Child and Youth Care Work (2015).",
+  "source_url": "https://acycpjournal.pitt.edu/ojs/jcycw/article/download/80/64/202",
+  "url_status": "ok",
+  "proposed_ar": "مع اقتراب فترة الكمون يتعلم الطفل السوي المتقدم ... أن ينال التقدير بإنتاج الأشياء. فينمي فيه الاجتهاد، أي يكيف نفسه مع قوانين عالم الأدوات. [...] وكثير من الأطفال يضطرب نموهم حين لا تكون حياة الأسرة قد هيأتهم لحياة المدرسة، أو حين تعجز حياة المدرسة عن الوفاء بوعود المراحل الأولى.",
+  "double_edged": "",
+  "notes": "The book itself (archive.org lending copies childhoodsociety00erik_0 etc.) could not be searched; the quotation is taken from a peer-reviewed article that quotes Erikson 1950 with page numbers. Erikson gives NO numerical age for stage 4 in this text: he speaks of the 'oncoming latency period' and 'school life'. The 'about 6 (to 12)' range comes from secondary textbooks (e.g. a Lumen Learning table: 'Industry and inferiority | Age 6-12'). Suggest rewording the gist: stage 4 begins with school entry / the latency period (commonly dated about 6), without attributing the number to Erikson. The 1963 2nd edition has different pagination (approx. pp. 258-261)."
+ },
+ {
+  "id": "A2-026",
+  "status": "verified_gist",
+  "found_text": "En premier lieu, il s'est trouvé que le stade de développement, débutant vers 11-12 ans et sans cesse retrouvé au cours de nos études antérieures, ne constituait pas simplement un niveau d'achèvement par rapport au stade de 7 à 11 ans (stade d'élaboration des opérations concrètes de la pensée de l'enfant), mais représentait par ailleurs une période de formation aboutissant à un palier d'équilibre vers 14-15 ans.",
+  "location": "B. Inhelder & J. Piaget, De la logique de l'enfant à la logique de l'adolescent (Paris: PUF, 1955) — the French original of the 1958 English edition — Avant-propos, pp. 1-4, first paragraph. See also ch. XVIII 'La pensée de l'adolescent', p. 297 ('la pensée formelle qui se constitue à partir de 11-12 ans'), p. 298 ('atteignant son palier d'équilibre vers 14-15 ans') and p. 302 ('l'adolescent se distingue avant tout de l'enfant par une réflexion qui dépasse le présent').",
+  "source_url": "https://www.unige.ch/piaget/piaget1955LEL_01",
+  "url_status": "ok",
+  "proposed_ar": "أولا: تبين أن مرحلة النمو التي تبدأ نحو 11-12 سنة، والتي وجدناها باستمرار في دراساتنا السابقة، ليست مجرد مستوى اكتمال بالنسبة إلى مرحلة 7 إلى 11 سنة (مرحلة بناء العمليات المحسوسة في تفكير الطفل)، بل تمثل أيضا فترة تكوين تنتهي إلى مستوى من التوازن نحو 14-15 سنة.",
+  "double_edged": "",
+  "notes": "The English translation (Basic Books 1958, trans. Parsons & Milgram) exists only as archive.org lending copies (growthoflogicalt00inhe etc.) and could not be searched; the French original is published chapter by chapter by the Fondation Jean Piaget (University of Geneva): foreword at .../piaget1955LEL_01, ch. XVIII at .../piaget1955LEL_22. The gist is accurate (11-12 onset, 14-15 equilibrium; adolescent vs child thinking). The same foreword also fixes the concrete-operations stage at 7-11 years, which supports the 7-year threshold. Routledge reprint description (ISBN 9780415864442): 'Originally published in 1958, this text offers a translation from French of an essay on the construction of formal operational structures'."
+ },
+ {
+  "id": "A2-031",
+  "status": "verified_gist",
+  "found_text": "Conventionally, \"adolescence\" has meant the stage of development that begins with puberty and ends with the economic and social independence of the young person from his or her parents. As I will explain, by that definition, ten to twenty-five isn't far off the mark today. [...] In this book, I use the term \"adolescence\" to refer to the period from ten until twenty-five.",
+  "location": "Age of Opportunity: Lessons from the New Science of Adolescence (Boston: Houghton Mifflin Harcourt, 2014), Introduction — book excerpt published by WBUR 'Here & Now', 1 Dec 2014.",
+  "source_url": "https://www.wbur.org/hereandnow/2014/12/01/science-adolescence-steinberg",
+  "url_status": "ok",
+  "proposed_ar": "جرى العرف على أن «المراهقة» هي مرحلة النمو التي تبدأ بالبلوغ وتنتهي باستقلال الشاب اقتصاديا واجتماعيا عن والديه. وكما سأبين، فإن المدى من العاشرة إلى الخامسة والعشرين ليس بعيدا عن الصواب اليوم بهذا التعريف. [...] وفي هذا الكتاب أستعمل لفظ «المراهقة» للدلالة على الفترة من سن 10 إلى سن 25.",
+  "double_edged": "If we look at the average of age of puberty now in the United States, girls are starting puberty around 11 or 12 years old. (Steinberg, interview on the same WBUR page)",
+  "notes": "NEEDS ATTENTION on one number. Verified from the book's Introduction: adolescence begins with puberty; Steinberg dates it today from about 10 to 25. The claim that puberty is arriving earlier is in ch. 3 'The Longest Decade' (not reachable; lending copy only) and is stated by Steinberg in interviews: 'The age of puberty keeps dropping' (Psychology Today, Sept 2014) and 'Adolescence has been stretched at both ends because of the early onset of puberty' (Chicago Tribune via APS, Oct 2014). But the entry's phrase 'many girls enter adolescence before 11' is not found; in the same interview he puts the average onset in US girls at 11-12. Suggest: 'adolescence begins with puberty, and because puberty now starts earlier Steinberg dates adolescence from about age 10'. Publisher blurb: 'Adolescence now lasts longer than ever before.'"
+ },
+ {
+  "id": "A5-060",
+  "status": "verified_gist",
+  "found_text": "Babies form attachments to both parents at the same time if both are attentive even when one is more involved. [...] Fathers have positive effects when they are responsive, committed, caring, and involved. [...] Tendencies to rough-house or appear masculine do not affect children's adjustment.",
+  "location": "Michael E. Lamb (University of Cambridge), lecture slides 'The Role of the Father in Child Development: With Focus on The Early Years', Bühler Fest-Symposium, University of Vienna, 2013 — the editor's own summary of the book's findings. In the 5th edition the corresponding chapters are ch. 1, Lamb, 'How Do Fathers Influence Children's Development? Let Me Count the Ways' (pp. 1-26) and ch. 4, Lamb & Lewis, 'The Development and Significance of Father-Child Relationships in Two-Parent Families' (pp. 94-153).",
+  "source_url": "https://ecc.univie.ac.at/fileadmin/user_upload/p_ecc/Alte_Webseite/Festsymposium/Vortr%C3%A4ge/B%C3%BChler-Fest-Symposium_2013_Michael_Lamb.pdf",
+  "url_status": "ok",
+  "proposed_ar": "يكون الرضع تعلقا بكلا الوالدين في الوقت نفسه إذا كان كلاهما منتبها لهم، حتى لو كان أحدهما أكثر مشاركة من الآخر. [...] ويكون للآباء أثر إيجابي حين يكونون مستجيبين وملتزمين ومهتمين ومشاركين. [...] والميل إلى اللعب الخشن أو إلى إظهار الرجولة لا يؤثر في تكيف الأطفال.",
+  "double_edged": "",
+  "notes": "NEEDS ATTENTION. The book's own text was not reached: Wiley's pages are blocked/unreachable, there is no open-access chapter, and the archive.org copy is lending-only. The publisher's description (via the Wiley e-bookshelf listing) only confirms scope: 'The definitive book on when, why, and how fathers matter to their children and families' and 'brings together contributions from international experts on each subject to provide a thorough and current summary of the state of fatherhood across cultures, classes, economic systems, and family formations'. The found_text is Lamb's own wording from a 2013 lecture bearing the book's title (contact mel37@cam.ac.uk on the slides), which states exactly the two points of the gist. Either re-cite the entry to Lamb's ch. 1 / ch. 4 with the page once checked, or cite the lecture."
+ },
+ {
+  "id": "A5-068",
+  "status": "verified_gist",
+  "found_text": "[T]here is evidence in our findings that lacking legal rights to share in decisions about major aspects of their children's lives . . . many noncustodial parents withdrew from their children in grief and frustration. Their withdrawal was experienced by the children as a rejection and was detrimental in its impact.",
+  "location": "Surviving the Breakup: How Children and Parents Cope with Divorce (New York: Basic Books, 1980), p. 310 — as quoted in Carol S. Bruch, 'Parenting At and After Divorce: A Search for New Models', Michigan Law Review 79(4), 1981, pp. 708-727 (book review). The review also quotes p. 257 ('Lacking both daily contact and direct authority to intervene, their role was circumscribed') and reports that the six-to-eight-year-olds 'longed for their fathers' regardless of pre-separation closeness.",
+  "source_url": "https://repository.law.umich.edu/cgi/viewcontent.cgi?article=3846&context=mlr",
+  "url_status": "ok",
+  "proposed_ar": "في نتائجنا ما يدل على أن كثيرا من الآباء غير الحاضنين، لافتقارهم إلى حق قانوني في المشاركة في القرارات المتعلقة بالجوانب الكبرى في حياة أبنائهم ... انسحبوا من حياة أبنائهم حزنا وإحباطا. وكان الأبناء يشعرون بهذا الانسحاب على أنه رفض لهم، وكان أثره ضارا بهم.",
+  "double_edged": "Thus, although the mother's parenting was of primary importance, the noncustodial parent's role was also vital in supporting a child's sound psychological functioning. (reviewer's summary of the book's findings; in the 1970s Marin County sample the mother was almost always the custodial parent)",
+  "notes": "Book text could not be searched (archive.org lending copies survivingbreakup00wall / survivingbreakup0000wall). Publisher's description (Hachette/Basic Books): 'Based on the Children of Divorce Project, a landmark study of sixty families during the first five years after divorce'. The entry's exact wording ('intense longing for the absent father', 'few visits do not meet their need') was not located verbatim; the closest verified material is the p. 310 passage above and the review's report of the 6-8-year-olds' longing. The review also quotes p. 215: when relationships with both parents were sound the children showed '[s]uccessful outcome[s] at all ages, [that is,] good ego functioning, adequate or high self-esteem and no depression'."
+ },
+ {
+  "id": "A5-069",
+  "status": "verified_gist",
+  "found_text": "The most parsimonious explanation of the research findings suggests that a child needs to have the presence of a person to whom he is attached but it is irrelevant whether or not this person is his mother. [...] If it is bond formation which is important (rather than mother-child bond formation), it is in a child's interest to encourage attachment to several people, not just one, so that if one person is away another is present.",
+  "location": "Maternal Deprivation Reassessed (Harmondsworth: Penguin, 1972), p. 49 (two sentences on the same page, not consecutive). See also p. 17: 'in nearly a third of cases the main attachment was to the father' (citing Schaffer & Emerson 1964) and p. 52: 'disruption or distortion of the bonding process (not necessarily with the mother)'.",
+  "source_url": "https://www.gwern.net/doc/psychiatry/1972-rutter-maternaldeprivationreassessed.pdf",
+  "url_status": "ok",
+  "proposed_ar": "إن أبسط تفسير لنتائج البحوث يدل على أن الطفل يحتاج إلى وجود شخص يتعلق به، لكن لا يهم أن يكون هذا الشخص أمه أو غيرها. [...] وإذا كان المهم هو تكوين الرابطة (لا تكوين رابطة الأم بالطفل خاصة)، فمن مصلحة الطفل أن يشجع على التعلق بعدة أشخاص لا بشخص واحد، حتى إذا غاب أحدهم وجد الآخر.",
+  "double_edged": "The mother is usually the person who has done most for the child, is most familiar to the child and has given most comfort. (p. 51)",
+  "notes": "Verbatim, from a full-text (OCR) copy of the 1972 Penguin edition hosted on gwern.net; archive.org holds lending copies (maternaldeprivat0000unse_i4p7 = 1972; maternaldeprivat00rutt = 1981 2nd ed.). The gist is accurate. Also p. 17: 'Although there was usually one particularly strong attachment, the majority of the children showed multiple attachments of varying intensity.' and p. 47: 'separation per se is not the key factor, but that some distortion or disruption of the bonding process is crucial'."
+ },
+ {
+  "id": "A5-076",
+  "status": "verified_gist",
+  "found_text": "Fathers have always parented differently than mothers. In Fatherneed, Dr. Kyle D. Pruett shows mothers and fathers why that difference is so important to a child's physical, cognitive, and emotional development. [...] what a father can do to prepare his marriage, his house, and his emotions for his child's needs, from infancy through the toddler years, childhood, adolescence, and young and mature adulthood.",
+  "location": "Publisher's description on the Penguin Random House page for the Broadway Books paperback (2001) of Fatherneed: Why Father Care Is as Essential as Mother Care for Your Child (first published New York: Free Press, 2000).",
+  "source_url": "https://www.penguinrandomhouse.com/books/136318/fatherneed-by-kyle-d-pruett-md/",
+  "url_status": "ok",
+  "proposed_ar": "لطالما كان الآباء يربون أبناءهم بطريقة مختلفة عن الأمهات. وفي كتاب «حاجة الطفل إلى أبيه» يبين الدكتور كايل برويت للأمهات والآباء لماذا هذا الاختلاف بالغ الأهمية لنمو الطفل الجسدي والمعرفي والعاطفي. [...] ما يستطيع الأب أن يفعله ليهيئ زواجه وبيته ومشاعره لحاجات طفله، من الرضاعة إلى سن المشي ثم الطفولة والمراهقة ثم الرشد.",
+  "double_edged": "",
+  "notes": "Book text not reached (archive.org lending copy fatherneedwhyfat00prue; Simon & Schuster page unreachable). The subtitle itself carries the core claim ('as Essential as Mother Care'); the description supports 'different, important from infancy'. The 'play/challenge' detail appears only as paraphrase in a review (Humanum Review: fathers 'rough-and-tumble', 'adventure with Dad'). Blurb on the same page by Judith Wallerstein: 'A warm and glowing message for parents about how fathers and children need each other from the child's infancy well into adulthood.'"
+ },
+ {
+  "id": "A5-077",
+  "status": "verified_gist",
+  "found_text": "But research is showing that maternal caretaking is not biologically fixed, nor are fathers necessarily restricted to a secondary role in childcare. Turning away from well-worn theories in favor of direct observation, modern studies have revealed a substantial amount about how fathers behave with their children, how this behavior differs from maternal behavior, and how it affects children.",
+  "location": "Publisher's synopsis (Harvard University Press, The Developing Child series, 1996), as reproduced on Blackwell's product page and on Open Library.",
+  "source_url": "https://blackwells.co.uk/bookshop/product/Fatherhood-by-Ross-D-Parke/9780674295186",
+  "url_status": "ok",
+  "proposed_ar": "لكن البحوث تبين أن رعاية الأم للطفل ليست أمرا ثابتا بيولوجيا، وأن الآباء ليسوا بالضرورة مقصورين على دور ثانوي في رعاية الأطفال. وبالابتعاد عن النظريات المستهلكة إلى الملاحظة المباشرة، كشفت الدراسات الحديثة قدرا كبيرا عن كيفية تعامل الآباء مع أطفالهم، وكيف يختلف هذا السلوك عن سلوك الأمهات، وكيف يؤثر في الأطفال.",
+  "double_edged": "",
+  "notes": "hup.harvard.edu was unreachable from this fetcher; the book text (archive.org lending copy fatherhood0000park) was not searched. The synopsis supports the gist (fathers not restricted to a secondary role; paternal behaviour differs and affects children); the specific 'play style' wording is not in the synopsis. Synopsis also: 'Fathers have become partners in parenthood, wielding a more direct influence on their children's development.'"
+ },
+ {
+  "id": "A5-082",
+  "status": "verified_gist",
+  "found_text": "Biller, well known for his extensive research into the impacts of involved fathering or the absence thereof, provides a comprehensive, straightforward analysis of just how important paternal involvement really is. [...] Fathers who sustain high interest and a true presence in a child's nurturing significantly influence body image, self-esteem, moral standards, intellectual achievement, and social competency.",
+  "location": "Publisher's description (Auburn House / Greenwood, 1993; e-book ISBN 978-0-313-03618-7), as reproduced on the e-book vendor page.",
+  "source_url": "https://www.shakes.cz/ebook/978-0-313-03618-7",
+  "url_status": "ok",
+  "proposed_ar": "بيلر، المعروف ببحوثه الواسعة في آثار مشاركة الأب في التربية أو غيابه عنها، يقدم تحليلا شاملا واضحا لمدى أهمية مشاركة الأب حقا. [...] فالآباء الذين يحافظون على اهتمام عال وحضور حقيقي في رعاية الطفل يؤثرون تأثيرا كبيرا في صورة الجسد، وتقدير الذات، والمعايير الخلقية، والتحصيل العقلي، والكفاءة الاجتماعية.",
+  "double_edged": "",
+  "notes": "The current rights-holder page (Bloomsbury) is blocked for this fetcher; archive.org holds lending copies (fathersfamiliesp0000bill). The description supports the first half of the gist (cognitive, moral, social influence) and alludes to father absence ('or the absence thereof'); Biller's detailed evidence on harm from father absence is mainly in his earlier 'Paternal Deprivation' (1974)."
+ },
+ {
+  "id": "A5-066",
+  "status": "verified_gist",
+  "found_text": "Mothers and Others finds the key in the primatologically unique length of human childhood. If the young were to survive in a world of scarce food, they needed to be cared for, not only by their mothers but also by siblings, aunts, fathers, friends - and, with any luck, grandmothers. Out of this complicated and contingent form of childrearing, Sarah Hrdy argues, came the human capacity for understanding others.",
+  "location": "Jacket text of Mothers and Others (Cambridge, MA: Belknap Press of Harvard University Press, 2009), as reproduced on the Open Library record (marked '--Jacket').",
+  "source_url": "https://openlibrary.org/works/OL18805358W",
+  "url_status": "ok",
+  "proposed_ar": "يجد كتاب «الأم والآخرون» مفتاح المسألة في طول الطفولة الإنسانية الفريد بين الرئيسيات. فلكي يبقى الصغار أحياء في عالم شحيح الطعام كان لا بد أن يرعاهم، لا أمهاتهم وحدهن، بل الإخوة والخالات والعمات والآباء والأصدقاء، وإن حالفهم الحظ الجدات أيضا. ومن هذا الشكل المعقد المشروط من تربية الأطفال نشأت، كما تقول سارة هردي، قدرة الإنسان على فهم الآخرين.",
+  "double_edged": "",
+  "notes": "hup.harvard.edu unreachable from this fetcher; book text (archive.org lending copy mothersothersevo0000hrdy) not searched. The jacket text supports the gist; Hrdy's technical term 'cooperative breeding' is not in the jacket wording. Minor: the entry's jurisdiction says Harvard, but Hrdy is professor emerita at UC Davis (Harvard is the publisher)."
+ },
+ {
+  "id": "A5-096",
+  "status": "verified_gist",
+  "found_text": "It is clear from the research that father involvement has enormous implications for men on their own path of adult development, for their wives and partners in the coparenting relationship and, most importantly, for their children in terms of social, emotional, physical, and cognitive development.",
+  "location": "Sarah Allen & Kerry Daly, The Effects of Father Involvement: An Updated Research Summary of the Evidence (Centre for Families, Work & Well-Being / FIRA-CURA, University of Guelph, May 2007), Introduction, p. 1.",
+  "source_url": "https://library.parenthelp.eu/wp-content/uploads/2017/05/Effects_of_Father_Involvement.pdf",
+  "url_status": "ok",
+  "proposed_ar": "يتضح من البحوث أن لمشاركة الأب آثارا هائلة على الرجل في مسار نموه هو كبالغ، وعلى زوجته أو شريكته في علاقة التعاون بين الوالدين، والأهم من ذلك على أطفاله من حيث النمو الاجتماعي والعاطفي والجسدي والمعرفي.",
+  "double_edged": "the quality (not quantity) of the father's relationship with the mother and the child [...] and frequency of contact do not consistently contribute in a positive way to child development [...] more father involvement is not always optimal in all cases (section on non-resident fathers; the last clause refers to Jaffee et al. 2003 on antisocial fathers)",
+  "notes": "Verbatim, exact match confirmed in the original University of Guelph PDF (mirror copy) and in the FII-ON reprint (https://static1.squarespace.com/static/5f31005d60d8203846b53362/t/5f3ddd82d2a19e5420e487aa/1597889968240/The-Effects-of-Father-Involvement.pdf). Entry URL (Policy Commons) loads but shows only partial extracted text marked 'Premium'; the original fira.ca domain now belongs to an unrelated company. Section openers: Cognitive Development (p. 2) 'Infants of highly involved fathers, as measured by amount of interaction, including higher levels of play and caregiving activities, are more cognitively competent at 6 months and score higher on the Bayley Scales of Infant Development'; Social Development (p. 4) 'Father involvement is positively correlated with children's overall social competence, social initiative, social maturity, and capacity for relatedness with others'."
+ },
+ {
+  "id": "A5-097",
+  "status": "verified_gist",
+  "found_text": "This first ever State of the World's Fathers report brings together key international research findings along with program and policy examples related to men's participation in caregiving [...] Involved fatherhood helps children thrive. As men take on more caregiving, research increasingly confirms that fathers' involvement affects children in much the same ways that mothers' involvement does. [...] Men's participation as fathers and as caregivers also matters tremendously for women's lives.",
+  "location": "State of the World's Fathers: A MenCare Advocacy Publication (Washington, DC: Promundo, Rutgers, Save the Children, Sonke Gender Justice and the MenEngage Alliance, 2015), Executive Summary, pp. 15-16.",
+  "source_url": "https://www.equimundo.org/wp-content/uploads/2015/06/State-of-the-Worlds-Fathers-Full-Report-2015.pdf",
+  "url_status": "ok",
+  "proposed_ar": "يجمع هذا التقرير الأول من نوعه عن حالة آباء العالم أهم نتائج البحوث الدولية مع أمثلة من البرامج والسياسات المتعلقة بمشاركة الرجال في الرعاية [...] إن الأبوة المشاركة تعين الأطفال على الازدهار. ومع تزايد ما يتولاه الرجال من رعاية، تؤكد البحوث أكثر فأكثر أن مشاركة الآباء تؤثر في الأطفال بالطرق نفسها تقريبا التي تؤثر بها مشاركة الأمهات. [...] ومشاركة الرجال كآباء وكمقدمي رعاية مهمة جدا أيضا لحياة النساء.",
+  "double_edged": "",
+  "notes": "Verbatim from the open PDF (entry URL works). Also p. 16: 'Involved fatherhood makes men happier and healthier' / 'Men who are involved in meaningful ways with their children report this relationship to be one of their most important sources of well-being and happiness.' Recommendations (pp. 21-22): 'Create national and international action plans to promote involved, non-violent fatherhood'; 'Institute and implement equal, paid, and non-transferrable parental leave policies in both public and private sectors'. Caveat in the same summary (not undermining the thesis): men's caregiving 'nowhere does it equal that of women'. Add MenEngage Alliance to the publishers."
+ },
+ {
+  "id": "A5-067",
+  "status": "verified_gist",
+  "found_text": "Based on extensive fieldwork among the Aka hunter-gatherers of the Central African rainforest, Hewlett documents what remains the highest level of direct paternal proximity ever recorded in a human society, with Aka fathers staying within arm's reach of their infants for nearly 47% of the day. [...] proving that intensive fatherly care is a natural and highly successful strategy for raising secure children.",
+  "location": "Publisher's description, University of Michigan Press book page for Intimate Fathers: The Nature and Context of Aka Pygmy Paternal Infant Care (Ann Arbor, 1991; ISBN 9780472082032).",
+  "source_url": "https://press.umich.edu/Books/I/Intimate-Fathers",
+  "url_status": "ok",
+  "proposed_ar": "بناء على عمل ميداني واسع بين صيادي قوم أكا في غابات وسط إفريقيا المطيرة، يوثق هيولت ما يظل أعلى مستوى سجل في مجتمع إنساني من القرب المباشر بين الأب ورضيعه، إذ يبقى آباء أكا على مسافة ذراع من رضعهم نحو 47% من النهار. [...] مما يثبت أن رعاية الأب المكثفة لرضيعه استراتيجية طبيعية وناجحة جدا لتنشئة أطفال آمنين.",
+  "double_edged": "",
+  "notes": "Book text (archive.org lending copy intimatefathersn0000hewl) not searched. Corroborated in Hewlett's own words in a 1992 chapter: 'Aka fathers provide more direct infant care than fathers in any other known society' (B. S. Hewlett, 'Husband-Wife Reciprocity and the Father-Infant Relationship among Aka Pygmies', in Father-Child Relations: Cultural and Biosocial Contexts, Aldine de Gruyter, 1992, p. 96; PDF at https://anthro.vancouver.wsu.edu/documents/76/fa-infants_08__h2ftttj.pdf). The press description also says Aka fathers 'actively cuddle, soothe, and gently care for their babies while mothers hunt'."
+ },
+ {
+  "id": "A5-084",
+  "status": "verified_gist",
+  "found_text": "In all these domains, results point to a general tendency of positive outcomes on children in joint physical custody (except in conflictual or violent situations which we will elaborate on later). Even though effects are usually small, they point to a higher wellbeing of children in shared care arrangements compared to sole physical custody.",
+  "location": "Laura Bernardi & Dimitri Mortelmans, 'Introduction: Advances in Research on Shared Physical Custody by Interdisciplinary Approaches', in Shared Physical Custody: Interdisciplinary Insights in Child Custody Arrangements (Cham: Springer, 2021, open access, European Studies of Population), ch. 1, Sect. 1.2.",
+  "source_url": "https://link.springer.com/chapter/10.1007/978-3-030-68479-2_1",
+  "url_status": "ok",
+  "proposed_ar": "في كل هذه المجالات تشير النتائج إلى اتجاه عام نحو نتائج إيجابية للأطفال في الحضانة المشتركة بالإقامة لدى الوالدين (إلا في حالات النزاع أو العنف التي سنفصل فيها لاحقا). ومع أن الآثار صغيرة في الغالب، فإنها تدل على رفاه أعلى للأطفال في ترتيبات الرعاية المشتركة مقارنة بالحضانة المنفردة.",
+  "double_edged": "Also here, Emery concludes that a lot of work needs to be done. There is not enough evidence yet to determine the benefit of SPC versus sole custody. (Sect. 1.4, summarizing Robert E. Emery's chapter 'Psychological Perspectives on Joint Physical Custody')",
+  "notes": "Verbatim from the open-access chapter (entry URL = book page, works, 'full access to this open access Book'). Same section also: 'Despite the selection effect, income differences turn out to be more limited than expected and even when controlling for education or income, SPC is systematically more beneficial than sole custody.' Sect. 1.1: SPC 'has been on the rise in most Western regions in the last two decades' but 'remains mostly a minority arrangement, ranging from 12% in the UK to 40%' (Belgium, Quebec). Note: 'shared physical custody' in this book is not necessarily equal time, so translate as الحضانة المشتركة / الإقامة المشتركة rather than بالمناصفة unless the passage says equal time. Book description: 'This open access book provides an overview of the ever-growing phenomenon of children in shared physical custody thereby providing legal, psychological, family sociological and demographical insights.'"
+ }
+]
