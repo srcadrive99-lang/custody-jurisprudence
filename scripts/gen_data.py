@@ -23,8 +23,15 @@ for m in re.finditer(r'<section class="page [^"]* sec-(\w+)" id="(A\d-\d{3})"[^>
     rt = txt(re.search(r'<div class="rt">(.*?)</div>', body, re.S).group(1))
     cards[cid] = dict(section=sec, card_number=num, card_title=rt)
 
-AXIS_OF = {'azhar': 1, 'eg': 1, 'f1': 1, 'f2': 1, 'f3': 1, 'f4': 1, 'f5': 1, 'f6': 1, 'med': 2, 'psy': 2, 'soc': 4, 'harm': 4, 'court': 5, 'law': 5, 'intl': 5, 'study': 5}
-CAT_OF = {'azhar': 'فتوى مصرية', 'eg': 'فقه وقانون مصري', 'f1': 'أثر', 'f2': 'فقه حنفي', 'f3': 'فقه مالكي', 'f4': 'فقه شافعي', 'f5': 'فقه حنبلي', 'f6': 'فقه مقارن ولغة', 'med': 'طب', 'psy': 'علم نفس', 'soc': 'علوم المجتمع والإنسان', 'harm': 'أضرار الحرمان من الأب',
+# resolve {N:id} card-number placeholders in new cards (knockout section)
+def _resN(o):
+    if isinstance(o,str): return re.sub(r'\{N:(A\d-\d{3})\}',lambda m:str(cards[m.group(1)]['card_number']),o)
+    if isinstance(o,list): return [_resN(x) for x in o]
+    if isinstance(o,dict): return {k:_resN(v) for k,v in o.items()}
+    return o
+NEW = _resN(NEW)
+AXIS_OF = {'hujaj': 5, 'azhar': 1, 'eg': 1, 'f1': 1, 'f2': 1, 'f3': 1, 'f4': 1, 'f5': 1, 'f6': 1, 'med': 2, 'psy': 2, 'soc': 4, 'harm': 4, 'court': 5, 'law': 5, 'intl': 5, 'study': 5}
+CAT_OF = {'hujaj': 'حجة جامعة', 'azhar': 'فتوى مصرية', 'eg': 'فقه وقانون مصري', 'f1': 'أثر', 'f2': 'فقه حنفي', 'f3': 'فقه مالكي', 'f4': 'فقه شافعي', 'f5': 'فقه حنبلي', 'f6': 'فقه مقارن ولغة', 'med': 'طب', 'psy': 'علم نفس', 'soc': 'علوم المجتمع والإنسان', 'harm': 'أضرار الحرمان من الأب',
           'court': 'قضاء', 'law': 'تشريع مقارن', 'intl': 'هيئات دولية', 'study': 'دراسة علمية'}
 
 def lang_of(text, jur):
@@ -70,10 +77,10 @@ for e in OLD['entries']:
 for c in NEW:
     if c['id'] not in cards: continue  # retired
     sec = c['sec']; src = c['src']
-    ot = c['ot']
+    ot = re.sub(r'\s+', ' ', txt(c['ot'])).strip() if '<' in c['ot'] else c['ot']
     lang = lang_of(ot, c.get('jurisdiction', ''))
     e = {
-        'id': c['id'], 'axis': AXIS_OF[sec], 'category': CAT_OF[sec], 'supports': c.get('supports', ['shared_parenting']),
+        'id': c['id'], 'axis': c.get('axis', AXIS_OF[sec]), 'category': CAT_OF[sec], 'supports': c.get('supports', ['shared_parenting']),
         'author': {'name': src['author'], 'date': str(src.get('year', ''))},
         'work': {'title': src.get('title_latin', '') or '', 'section': src.get('where', '') or '', 'volume': '', 'page': '', 'edition': ''},
         'original': {'lang': lang, 'text': ot, 'verbatim': not ot.startswith('مضمونه')},
@@ -166,7 +173,7 @@ entries.sort(key=lambda e: (e['card_number'] is None, e['card_number'] or 0, e['
 meta = dict(OLD['meta'])
 meta['title'] = 'حول سن الحضانة والرعاية المشتركة بالمناصفة — النصوص والمصادر'
 meta['owner'] = ''
-meta['version'] = '1.22.0'; meta['date'] = datetime.date.today().isoformat()
+meta['version'] = '1.23.0'; meta['date'] = datetime.date.today().isoformat()
 meta['legend']['supports']['shared_parenting'] = 'الرعاية المشتركة بالمناصفة'
 meta['sections'] = {k: mn_plain(SEC[k]['name']) for k in ORDER}
 meta['section_order'] = list(ORDER)
@@ -204,6 +211,7 @@ meta['changelog']['1.20.2'] = ['استبعاد 4 بطاقات أخرى كشفه�
 meta['changelog']['1.21.0'] = ['إضافة 13 فتوى من «الفتاوى المهدية في الوقائع المصرية» للشيخ محمد المهدي العباسي مفتي الديار المصرية وشيخ الأزهر (ج1، 1301هـ): انتهاء حضانة النساء بسبع للغلام وتسع للبنت، وضم الأب جبرا، ولا تخيير للصغير، ورؤية الأم بعد انتهاء الحضانة، ومنع إبعاد البنت عن أبيها بدون رضاه — كل فتوى بصفحتها في كتب Google']
 meta['changelog']['1.21.1'] = ['تذييل المادة 34 في كل البطاقات المختصرة وفي الطبعة النصية، وفحص آلي يوقف الإخراج عند غيابه؛ إعادة المصدر وموضعه ورابطه (برمز QR) إلى كل بطاقة مختصرة؛ إصلاح علامات التنصيص المكررة؛ تصحيح البطاقة 184 (لجنة حقوق الطفل الأممية، التعليق العام 14، الفقرة 67)؛ المادة 35 للبطاقات المختصرة']
 meta['changelog']['1.22.0'] = ['قسم جديد: «فتاوى الأزهر ودار الإفتاء المصرية» (القسم التاسع) يجمع 26 فتوى رسمية قبل سنة 2000: 17 من «الفتاوى المهدية» للشيخ محمد المهدي العباسي شيخ الأزهر ومفتي الديار المصرية، و9 من سجلات دار الإفتاء المصرية (حسونة النواوي، محمد عبده، محمد بخيت، أحمد هريدي)؛ منها 6 فتاوى جديدة: 4 من الفتاوى المهدية، وفتوى محمد بخيت 1920 «الولد متى كان عند أحد الأبوين لا يمنع الآخر عن النظر إليه وعن تعهده»، وفتوى أحمد هريدي 1964 في بقاء صلة الأم بعد ضم الأولاد إلى أبيهم', 'الأقسام صارت ستة عشر']
+meta['changelog']['1.23.0'] = ['قسم جديد: «الحجج المفحمة» (القسم السابع عشر): 14 حجة جامعة، كل حجة تجمع ثلاثة نصوص منقولة بلفظها من أقسام مختلفة (القرآن والسنة، والفقه، وفتاوى الأزهر ودار الإفتاء، والطب، وعلم النفس، والدراسات، والقضاء، والتشريع، والمواثيق الدولية) مع رقم بطاقة كل نص ورابط مصدره', 'الأقسام صارت سبعة عشر']
 meta['changelog']['1.20.1'] = ['استبعاد 14 بطاقة لا تصلح حجة لنا: دراسات تجعل سن الحيض أو البلوغ عند الأنثى بين 11 و13 (الدراسة المصرية، تشيلي، البرازيل، كوريا، دليل ميرك، فسيولوجيا الحيض، مارشال وتانر)، والاحتلام 13 إلى 14.6 (الصين، الهند)، واكتمال التفكير المجرد في 14-15 (بياجيه وإنهلدر)، والمشناه (12 و13)، وتحديد البلوغ بخمس عشرة (شرح النووي)، و«حتى تحيض» (بدائع الصنائع)', 'الطبعة المختصرة بنمطين وتعريف مختصر بالمصدر', 'الطبعة النصية بالروابط (وورد ونص)']
 meta['retired_ids'] = [r for r in meta.get('retired_ids', []) if r['id'] not in OV['retire']] + retired_now
 meta['id_map_1_17'] = IDMAP
@@ -217,7 +225,7 @@ print(collections.Counter(e['original']['lang'] for e in entries))
 # ---- schema ----
 schema = json.load(open('/mnt/user-data/outputs/nuqul_7_9.schema.json', encoding='utf8'))
 mp = schema['properties']['meta']['properties']
-mp['sections'] = {'type': 'object', 'description': 'مفاتيح الأقسام الستة عشر وأسماؤها'}
+mp['sections'] = {'type': 'object', 'description': 'مفاتيح الأقسام السبعة عشر وأسماؤها'}
 mp['section_order'] = {'type': 'array', 'items': {'type': 'string'}}
 mp['changelog'] = {'type': 'object', 'description': 'سجل التغييرات لكل إصدار'}
 mp['id_map_1_17'] = {'type': 'object', 'description': 'المعرفات المؤقتة للنصوص المضافة في 1.16 ومقابلها الدائم'}

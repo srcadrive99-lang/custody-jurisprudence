@@ -45,6 +45,7 @@ def source(e):
     if re.search('[؀-ۿ]',a): s=a+(' · '+a_date if (a_date:=e['author'].get('date','')) else '')
     else: s=j+(' · '+year(e) if year(e) else '')
     return s
+IDN={x['id']:x['card_number'] for x in J['entries'] if x.get('card_number')}
 NCW={x['id']:x.get('src',{}) for x in json.load(open('/home/claude/work/new_cards.json',encoding='utf8'))}
 def fullsrc(e):
     a=e['author']; w=e.get('work') or {}
@@ -53,7 +54,7 @@ def fullsrc(e):
         v=(w.get(k) or '').strip()
         if v and v not in parts: parts.append(v)
     if not parts:
-        sw=(NCW.get(e['id'],{}).get('sw') or '').strip()
+        sw=re.sub(r'\{N:(A\d-\d{3})\}',lambda m:str(IDN.get(m.group(1),'')),(NCW.get(e['id'],{}).get('sw') or '').strip())
         if sw: parts.append(sw)
     return parts
 def bd(x):
@@ -91,6 +92,7 @@ a.lk{text-decoration:none;color:inherit}
 .tx .q .sl{position:absolute;left:10px;bottom:8px;width:70px;height:70px;opacity:var(--slo,.13);pointer-events:none}.tx .q .sl svg{width:70px!important;height:70px!important}
 .tx .q .wm{position:absolute;inset:-40px;display:flex;flex-wrap:wrap;align-content:space-around;justify-content:space-around;transform:rotate(-22deg);pointer-events:none;z-index:0}.tx .q .wm span{font-family:'CairoE',sans-serif;font-weight:700;font-size:15px;color:rgba(31,42,48,var(--wmo,.075));white-space:nowrap;padding:14px 18px}
 .tx .q .qt{position:relative;z-index:1}
+.hq{padding:0 0 .35em;margin:0 0 .35em;border-bottom:1px dashed #E2C3D4}.hq:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0}.hs{display:block;font-family:'CairoE',sans-serif;font-weight:700;font-size:.6em;line-height:1.4;color:var(--ad)}
 .mn{font-family:'AmiriE','CairoE',serif;font-weight:700;color:#C40000;font-size:1.08em}
 .B .ag{display:none}.B .tx .q{font-size:calc(var(--k)*1.1)}
 '''
@@ -101,13 +103,21 @@ def linkblk(e,n):
     u=l['url']; short=re.sub(r'^https?://(www\.)?','',u)
     if len(short)>70: short=short[:67]+'…'
     return f'<a class="lk" href="{H.escape(u)}">{_qr(u)}<span class="lt"><b>رابط المصدر: {H.escape(l.get("label") or "الرابط")}</b>{H.escape(l.get("site") or "")}<small>{H.escape(short)}</small></span></a>'
+def hujaj_html(e):
+    parts=[x.strip() for x in arabic_text(e).split('◆') if x.strip()]
+    out=[]
+    for x in parts:
+        m=re.match(r'^([«﴿].*[»﴾])\s*\((.*)\)\s*$',x,re.S)
+        q,sname=(m.group(1),m.group(2)) if m else (x,'')
+        out.append(f'<div class="hq">{mn(H.escape(q))}<span class="hs">{H.escape(sname)}</span></div>')
+    return ''.join(out)
 def card(e,style):
     s=SEC[e['section']]; n=e['card_number']
     ar=e['original']['lang']=='ar'
     return f'''<div class="c {style}" data-n="{n}" style="--a:{s['acc']};--ad:{s['accd']};--t1:{s['g'][0]};--k:24px">
 <div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
-<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{(lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e) and '﴿' not in arabic_text(e))}</div></div></div>
+<div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{hujaj_html(e) if e['section']=='hujaj' else (lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e) and '﴿' not in arabic_text(e))}</div></div></div>
 <div class="sr">{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+" · ".join(bd(x) for x in fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
 <div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
 <div class="ft">{linkblk(e,n)}<span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div><div class="slog">لا للمظاهرات والثورات<i></i>لا لسيداو، ولا لتمييز المرأة على الرجل في الإجراءات والقرارات والقوانين<i></i>نعم لصلة الأرحام</div></div>'''

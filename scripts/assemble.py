@@ -54,10 +54,12 @@ SECTIONS=[  # key, name, acc, accd, tint, tint2, cover gradient (c1,c2), one-lin
       blurb='التمييز حد الحضانة، والجارية أسبق نضجا'),
  dict(key='f6',   name='الفقه المقارن والتربية الإسلامية', acc='#6B5E2A', accd='#4A411D', g=('#F3F0E3','#E1DABB'),
       blurb='التعليم والتأديب في السابعة عند علماء التربية واللغة'),
+ dict(key='hujaj', name='الحجج المفحمة', acc='#8B1E5B', accd='#601440', g=('#FBEAF3','#F0CDE0'),
+      blurb='حجج جامعة من كل الأقسام لا جواب عنها'),
 ]
 SEC={d['key']:d for d in SECTIONS}
 ORDER=[d['key'] for d in SECTIONS]
-AR_ORD=['الأول','الثاني','الثالث','الرابع','الخامس','السادس','السابع','الثامن','التاسع','العاشر','الحادي عشر','الثاني عشر','الثالث عشر','الرابع عشر','الخامس عشر','السادس عشر']
+AR_ORD=['الأول','الثاني','الثالث','الرابع','الخامس','السادس','السابع','الثامن','التاسع','العاشر','الحادي عشر','الثاني عشر','الثالث عشر','الرابع عشر','الخامس عشر','السادس عشر','السابع عشر']
 
 TOC_BLURB={
  'med':'من ابن سينا إلى منظمة الصحة العالمية وكبريات مجلات طب الأطفال: السابعة سن الاستعداد للتأديب والتعليم، والتاسعة عتبة البلوغ، وانخراط الأب في رعاية ولده من صحته.',
@@ -75,6 +77,7 @@ TOC_BLURB={
  'f3':'فقهاء المالكية: الأب أقوم على تعليم الولد وتأديبه، والحضانة حق للمحضون لا للحاضنة، ولا يمنع الأب من ولده.',
  'f4':'فقهاء الشافعية: الحضانة فيما دون السبع، وبعدها الكفالة على الأب، فالتعليم والتأديب مما يجب على الأب القيام به.',
  'f5':'فقهاء الحنابلة: التمييز حد الحضانة، والجارية تضم إلى أبيها في السابعة لأنها أسبق نضجا، وصيانة الولد وتعليمه إلى الأب.',
+'hujaj':'حجج جامعة لا جواب عنها: كل حجة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
  'f6':'الموسوعات والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
 OPEN_BLURB={
@@ -93,6 +96,7 @@ OPEN_BLURB={
  'f3':'فقهاء المالكية: الأب أقوم على تعليم الولد وتأديبه، والحضانة حق للمحضون لا للحاضنة، ولا يمنع الأب من ولده ولا يقطع عن رحمه.',
  'f4':'فقهاء الشافعية: الحضانة فيما دون السبع، وبعدها الكفالة على الأب سواء اختاره الولد أو اختار أمه، فالتعليم والتأديب مما يجب على الأب القيام به.',
  'f5':'فقهاء الحنابلة: التمييز حد الحضانة، والجارية تضم إلى أبيها في السابعة لأنها أسبق نضجا، وصيانة الولد وتعليمه إلى الأب لا إلى الحاضنة.',
+'hujaj':'حجج جامعة لا جواب عنها: كل حجة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
  'f6':'الموسوعات الفقهية والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
 
@@ -350,7 +354,7 @@ def opener_page(base_opener, key, idx, count, page, pages, logo_svg, wide=False)
             f'<div><div style="font-family:\'CairoE\', sans-serif;font-weight:700;font-size:38px;line-height:1.3;color:{d["acc"]}">{name}</div>\n'
             f'<div style="height:4px;width:110px;background:{d["acc"]};margin:10px 0 12px"></div>\n'
             f'<div style="font-family:\'NotoArE\', sans-serif;font-size:16px;line-height:1.9;color:#34464F">{blurb}</div>\n'
-            f'<div style="font-family:\'CairoE\', sans-serif;font-weight:700;font-size:19px;color:{d["acc"]};margin-top:10px">{count} نصا ومصدرا</div></div></div>\n'
+            f'<div style="font-family:\'CairoE\', sans-serif;font-weight:700;font-size:19px;color:{d["acc"]};margin-top:10px">{count} {"حجة جامعة" if key=="hujaj" else "نصا ومصدرا"}</div></div></div>\n'
             f'<div class="foot2"><span class="fid">{name} · صفحة {page} من {pages}</span></div></section>')
     return (f'<section class="page opener" id="sec-{key}"><div style="min-height: 640px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; border-top: 14px solid {d["acc"]}; padding: 40px 24px 16px; border-radius: 0 0 22px 22px; background: linear-gradient(180deg, rgba(255,255,255,0.75) 0%, rgba(255,255,255,0) 40%), linear-gradient(160deg, {d["g"][0]} 0%, {d["g"][1]} 100%)">\n'
             f'<div style="display: flex; justify-content: space-between; align-items: flex-start">\n<div><div style="font-family: \'NotoArE\', sans-serif; font-size: 18px; letter-spacing: 2px; color: #4A5A61">القسم {AR_ORD[idx]}</div>\n'
@@ -358,7 +362,7 @@ def opener_page(base_opener, key, idx, count, page, pages, logo_svg, wide=False)
             f'<div><div style="font-family: \'CairoE\', sans-serif; font-weight: 700; font-size: 66px; line-height: 1.3; color: {d["acc"]}">{name}</div>\n'
             f'<div style="height: 5px; width: 160px; background: {d["acc"]}; margin: 14px 0 18px"></div>\n'
             f'<div style="font-family: \'NotoArE\', sans-serif; font-size: 22px; line-height: 1.9; color: #34464F; max-width: 820px">{blurb}</div>\n'
-            f'<div style="font-family: \'CairoE\', sans-serif; font-weight: 700; font-size: 26px; color: {d["acc"]}; margin-top: 14px">{count} نصا ومصدرا</div></div></div>\n'
+            f'<div style="font-family: \'CairoE\', sans-serif; font-weight: 700; font-size: 26px; color: {d["acc"]}; margin-top: 14px">{count} {"حجة جامعة" if key=="hujaj" else "نصا ومصدرا"}</div></div></div>\n'
             f'<div class="foot2"><span class="fid">{name} · صفحة {page} من {pages}</span></div></section>')
 
 def stats_page(base_stats, cards_meta, counts, page, pages):
@@ -385,7 +389,7 @@ def stats_page(base_stats, cards_meta, counts, page, pages):
     s=re.sub(r'<span class="fid">.*?</span>',f'<span class="fid">الإحصاءات · صفحة {page} من {pages}</span>',s)
     return s
 
-EXTRA_CSS=('.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}'
+EXTRA_CSS=('.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}'
            '.srcl.has-ico{position:relative;padding-left:40px}.srcl .ico{position:absolute;left:9px;top:50%;transform:translateY(-50%);width:26px;height:17.3px;display:block;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.mn{font-family:\'AmiriE\',\'CairoE\',serif;font-weight:700;font-size:1.12em;line-height:1;color:#C40000}'
            '.chip .mn{font-size:1.05em;color:inherit}.st1 .mn{color:inherit}.fid .mn{font-size:1em;color:inherit}.argt .mn,.about .mn,.tt .mn{color:#9A0000}'
@@ -429,13 +433,13 @@ def main():
     counts={k:len(v) for k,v in groups.items()}; total=sum(counts.values())
     # page numbering: cover=1, toc=2, then per section opener + cards, stats last
     pages=2+sum(1+counts[k] for k in ORDER)+1
-    out_m=[]; out_w=[]; n=0; page=2; pages_start={}; cards_meta=[]
+    out_m=[]; out_w=[]; n=0; page=2; pages_start={}; cards_meta=[]; NUMOF={}
     opener_tpl=base['sec-psy']
     for idx,key in enumerate(ORDER):
         page+=1; pages_start[key]=page
         out_m.append(opener_page(opener_tpl,key,idx,counts[key],page,pages,LOGO_FLAT,False)); out_w.append(opener_page(opener_tpl,key,idx,counts[key],page,pages,LOGO_FLAT,True))
         for kind,i,h in groups[key]:
-            n+=1; page+=1
+            n+=1; page+=1; NUMOF[i]=n
             if kind=='old':
                 cm=transform_card(h,META.get(i),links_fix,False)
                 cm=set_section_class(cm,key)
@@ -443,7 +447,12 @@ def main():
                 cw=set_wide(cm)
                 meta=META.get(i,{}); cards_meta.append(dict(sec=key,supports=meta.get('supports',[]),strength=meta.get('strength',''),jurisdiction=meta.get('jurisdiction','')))
             else:
-                e=h; cm=build_card(e,n,False)
+                def _rn(o):
+                    if isinstance(o,str): return re.sub(r'\{N:(A\d-\d{3})\}',lambda m:str(NUMOF[m.group(1)]),o)
+                    if isinstance(o,list): return [_rn(x) for x in o]
+                    if isinstance(o,dict): return {k:_rn(v) for k,v in o.items()}
+                    return o
+                e=_rn(h); cm=build_card(e,n,False)
                 cm=set_number(cm,n,total,page,pages,add_mn(SEC[key]['name']),False)
                 cm=re.sub(r'<div class="st1">.*?</div>',lambda m:add_mn(m.group(0)),cm,count=1)
                 cm=re.sub(r'<div class="chips">.*?</div></div>',lambda m:add_mn(m.group(0)),cm,count=1,flags=re.S)
