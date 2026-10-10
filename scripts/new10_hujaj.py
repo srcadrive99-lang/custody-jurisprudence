@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
-# v1.23.0: section «الحجج المفحمة» (hujaj): knockout arguments composed of verbatim quotes from existing cards
-import json,re,copy
+# v1.23.0: section «الأدلة المتضافرة» (hujaj): knockout arguments composed of verbatim quotes from existing cards
+import json,re,copy,sys
+sys.path.insert(0,'/home/claude/work')
+import flags
 P='/home/claude/work/new_cards.json'
-N=json.load(open(P,encoding='utf8')); N=[x for x in N if x.get('sec')!='hujaj']
+N=json.load(open(P,encoding='utf8')); NI={x['id']:x.get('icon','') for x in N}; N=[x for x in N if x.get('sec')!='hujaj']
 D=json.load(open('/home/claude/work/build/nuqul_7_9.json',encoding='utf8'))
 ID={x['id']:x for x in D['entries']}
 # card numbers by id (stable ids; numbers resolved at build time below)
@@ -106,7 +108,12 @@ for cid,ax,sup,title,quotes,arg in K:
             ok=f in full or re.sub('[ً-ْٰ]','',f) in re.sub('[ً-ْٰ]','',full)
             assert ok, (cid,src,f[:60])
         qq=q if q.startswith('﴿') else f'«{q}»'
-        parts.append(f'<div class="hq">{qq} <span class="hs">({S[src]} — بطاقة {{N:{src}}})</span><span class="hsep"> ◆ </span></div>')
+        k=NI.get(src) or flags.key_for(ID[src].get('jurisdiction',''),ID[src].get('category',''))
+        nm=flags.NAMES.get(k,'') if k and k not in flags.FIQH_KEYS|{'book','egbook'} else ''
+        if nm and nm in S[src]: nm=''
+        svg=flags.icon(k) if k in flags.F else ''
+        lab=(nm+' · ' if nm else '')+S[src]
+        parts.append(f'<div class="hq">{qq} <span class="hs">{svg}({lab} — بطاقة {{N:{src}}})</span><span class="hsep"> ◆ </span></div>')
         if src not in seen:
             seen.add(src); l=dict(L(src)); l['label']=f'{S[src]} — بطاقة {{N:{src}}}'; links.append(l)
     e=dict(id=cid,sec='hujaj',icon='',supports=sup,strength='explicit_7' if sup[0]=='7' else ('explicit_9' if sup[0]=='9' else 'explicit'),
@@ -114,7 +121,7 @@ for cid,ax,sup,title,quotes,arg in K:
            src=dict(author='حجة جامعة',year='',jur='',title_latin='',sw='من البطاقات '+'، '.join(f'{{N:{s}}}' for s in dict.fromkeys(s for s,_ in quotes)),where='',latin=False),
            about='بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه.',
            level='حجة جامعة متعددة المصادر',links=links[:3],arg=arg,
-           chips=[['str hot','حجة مفحمة']]+[['sup',SUPMAP[s]] for s in sup],fam='west',axis=ax,hujaj=True)
+           chips=[['str hot','دليل جامع']]+[['sup',SUPMAP[s]] for s in sup],fam='west',axis=ax,hujaj=True)
     out.append(e)
 N+=out
 json.dump(N,open(P,'w',encoding='utf8'),ensure_ascii=False,indent=1)

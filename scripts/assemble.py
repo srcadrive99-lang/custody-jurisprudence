@@ -54,8 +54,8 @@ SECTIONS=[  # key, name, acc, accd, tint, tint2, cover gradient (c1,c2), one-lin
       blurb='التمييز حد الحضانة، والجارية أسبق نضجا'),
  dict(key='f6',   name='الفقه المقارن والتربية الإسلامية', acc='#6B5E2A', accd='#4A411D', g=('#F3F0E3','#E1DABB'),
       blurb='التعليم والتأديب في السابعة عند علماء التربية واللغة'),
- dict(key='hujaj', name='الحجج المفحمة', acc='#8B1E5B', accd='#601440', g=('#FBEAF3','#F0CDE0'),
-      blurb='حجج جامعة من كل الأقسام لا جواب عنها'),
+ dict(key='hujaj', name='الأدلة المتضافرة', acc='#8B1E5B', accd='#601440', g=('#FBEAF3','#F0CDE0'),
+      blurb='أدلة من كل الأقسام تلتقي على حكم واحد'),
 ]
 SEC={d['key']:d for d in SECTIONS}
 ORDER=[d['key'] for d in SECTIONS]
@@ -77,7 +77,7 @@ TOC_BLURB={
  'f3':'فقهاء المالكية: الأب أقوم على تعليم الولد وتأديبه، والحضانة حق للمحضون لا للحاضنة، ولا يمنع الأب من ولده.',
  'f4':'فقهاء الشافعية: الحضانة فيما دون السبع، وبعدها الكفالة على الأب، فالتعليم والتأديب مما يجب على الأب القيام به.',
  'f5':'فقهاء الحنابلة: التمييز حد الحضانة، والجارية تضم إلى أبيها في السابعة لأنها أسبق نضجا، وصيانة الولد وتعليمه إلى الأب.',
-'hujaj':'حجج جامعة لا جواب عنها: كل حجة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
+'hujaj':'أدلة متضافرة: كل بطاقة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
  'f6':'الموسوعات والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
 OPEN_BLURB={
@@ -96,7 +96,7 @@ OPEN_BLURB={
  'f3':'فقهاء المالكية: الأب أقوم على تعليم الولد وتأديبه، والحضانة حق للمحضون لا للحاضنة، ولا يمنع الأب من ولده ولا يقطع عن رحمه.',
  'f4':'فقهاء الشافعية: الحضانة فيما دون السبع، وبعدها الكفالة على الأب سواء اختاره الولد أو اختار أمه، فالتعليم والتأديب مما يجب على الأب القيام به.',
  'f5':'فقهاء الحنابلة: التمييز حد الحضانة، والجارية تضم إلى أبيها في السابعة لأنها أسبق نضجا، وصيانة الولد وتعليمه إلى الأب لا إلى الحاضنة.',
-'hujaj':'حجج جامعة لا جواب عنها: كل حجة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
+'hujaj':'أدلة متضافرة: كل بطاقة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
  'f6':'الموسوعات الفقهية والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
 
@@ -389,7 +389,7 @@ def stats_page(base_stats, cards_meta, counts, page, pages):
     s=re.sub(r'<span class="fid">.*?</span>',f'<span class="fid">الإحصاءات · صفحة {page} من {pages}</span>',s)
     return s
 
-EXTRA_CSS=('.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}'
+EXTRA_CSS=('.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}.sec-hujaj .hs .ico{display:inline-block;width:22px;height:15px;vertical-align:-3px;margin-left:5px;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.srcl.has-ico{position:relative;padding-left:40px}.srcl .ico{position:absolute;left:9px;top:50%;transform:translateY(-50%);width:26px;height:17.3px;display:block;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.mn{font-family:\'AmiriE\',\'CairoE\',serif;font-weight:700;font-size:1.12em;line-height:1;color:#C40000}'
            '.chip .mn{font-size:1.05em;color:inherit}.st1 .mn{color:inherit}.fid .mn{font-size:1em;color:inherit}.argt .mn,.about .mn,.tt .mn{color:#9A0000}'

@@ -46,6 +46,8 @@ def source(e):
     else: s=j+(' · '+year(e) if year(e) else '')
     return s
 IDN={x['id']:x['card_number'] for x in J['entries'] if x.get('card_number')}
+import flags
+NCI={x['id']:x.get('icon','') for x in json.load(open('/home/claude/work/new_cards.json',encoding='utf8'))}
 NCW={x['id']:x.get('src',{}) for x in json.load(open('/home/claude/work/new_cards.json',encoding='utf8'))}
 def fullsrc(e):
     a=e['author']; w=e.get('work') or {}
@@ -92,6 +94,7 @@ a.lk{text-decoration:none;color:inherit}
 .tx .q .sl{position:absolute;left:10px;bottom:8px;width:70px;height:70px;opacity:var(--slo,.13);pointer-events:none}.tx .q .sl svg{width:70px!important;height:70px!important}
 .tx .q .wm{position:absolute;inset:-40px;display:flex;flex-wrap:wrap;align-content:space-around;justify-content:space-around;transform:rotate(-22deg);pointer-events:none;z-index:0}.tx .q .wm span{font-family:'CairoE',sans-serif;font-weight:700;font-size:15px;color:rgba(31,42,48,var(--wmo,.075));white-space:nowrap;padding:14px 18px}
 .tx .q .qt{position:relative;z-index:1}
+.flg{display:inline-flex;align-items:center;gap:4px;margin-left:6px;vertical-align:middle}.flg svg{width:24px;height:16px;display:block;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}.flg .fn{font-family:'CairoE',sans-serif;font-weight:700;font-size:.95em;color:inherit}.flg .fn:after{content:' ·'}
 .hq{padding:0 0 .35em;margin:0 0 .35em;border-bottom:1px dashed #E2C3D4}.hq:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0}.hs{display:block;font-family:'CairoE',sans-serif;font-weight:700;font-size:.6em;line-height:1.4;color:var(--ad)}
 .mn{font-family:'AmiriE','CairoE',serif;font-weight:700;color:#C40000;font-size:1.08em}
 .B .ag{display:none}.B .tx .q{font-size:calc(var(--k)*1.1)}
@@ -103,13 +106,26 @@ def linkblk(e,n):
     u=l['url']; short=re.sub(r'^https?://(www\.)?','',u)
     if len(short)>70: short=short[:67]+'…'
     return f'<a class="lk" href="{H.escape(u)}">{_qr(u)}<span class="lt"><b>رابط المصدر: {H.escape(l.get("label") or "الرابط")}</b>{H.escape(l.get("site") or "")}<small>{H.escape(short)}</small></span></a>'
+def flag_key(e):
+    k=NCI.get(e['id']) if e['id'] in NCI else None
+    if not k: k=flags.key_for(e.get('jurisdiction',''),e.get('category',''))
+    return k
+COUNTRY_SKIP=flags.FIQH_KEYS|{'book','egbook'}
+def flag_span(k,txt=''):
+    if not k or k not in flags.F: return ''
+    nm=flags.NAMES.get(k,'')
+    lab='' if (k in COUNTRY_SKIP or not nm or nm in txt) else f'<b class="fn">{nm}</b>'
+    return f'<span class="flg">{flags.icon(k)}{lab}</span>'
+IDE={x['card_number']:x for x in J['entries'] if x.get('card_number')}
 def hujaj_html(e):
     parts=[x.strip() for x in arabic_text(e).split('◆') if x.strip()]
     out=[]
     for x in parts:
         m=re.match(r'^([«﴿].*[»﴾])\s*\((.*)\)\s*$',x,re.S)
         q,sname=(m.group(1),m.group(2)) if m else (x,'')
-        out.append(f'<div class="hq">{mn(H.escape(q))}<span class="hs">{H.escape(sname)}</span></div>')
+        mm=re.search(r'بطاقة (\d+)',sname); se=IDE.get(int(mm.group(1))) if mm else None
+        fs=flag_span(flag_key(se),sname) if se else ''
+        out.append(f'<div class="hq">{mn(H.escape(q))}<span class="hs">{fs}{H.escape(sname)}</span></div>')
     return ''.join(out)
 def card(e,style):
     s=SEC[e['section']]; n=e['card_number']
@@ -118,7 +134,7 @@ def card(e,style):
 <div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
 <div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{hujaj_html(e) if e['section']=='hujaj' else (lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e) and '﴿' not in arabic_text(e))}</div></div></div>
-<div class="sr">{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+" · ".join(bd(x) for x in fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
+<div class="sr">{"" if e["section"]=="hujaj" else flag_span(flag_key(e),source(e))}{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+" · ".join(bd(x) for x in fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
 <div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
 <div class="ft">{linkblk(e,n)}<span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div><div class="slog">لا للمظاهرات والثورات<i></i>لا لسيداو، ولا لتمييز المرأة على الرجل في الإجراءات والقرارات والقوانين<i></i>نعم لصلة الأرحام</div></div>'''
 FIT='''()=>{for(const c of document.querySelectorAll('.c')){let lo=13,hi=30;for(let i=0;i<14;i++){const m=(lo+hi)/2;c.style.setProperty('--k',m+'px');const over=c.scrollHeight>c.clientHeight+1||[...c.children].some(x=>!x.classList.contains('slog')&&x.scrollWidth>x.clientWidth+2);if(over)hi=m;else lo=m;}c.style.setProperty('--k',lo+'px');c.dataset.k=lo.toFixed(1);}}'''
