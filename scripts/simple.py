@@ -59,6 +59,15 @@ def fullsrc(e):
         sw=re.sub(r'\{N:(A\d-\d{3})\}',lambda m:str(IDN.get(m.group(1),'')),(NCW.get(e['id'],{}).get('sw') or '').strip())
         if sw: parts.append(sw)
     return parts
+def locjoin(L):
+    out=[];buf=[]
+    for x in L:
+        if re.search('[\u0600-\u06FF]',x):
+            if buf: out.append(bd(' · '.join(buf))); buf=[]
+            out.append(bd(x))
+        else: buf.append(x)
+    if buf: out.append(bd(' · '.join(buf)))
+    return ' · '.join(out)
 def bd(x):
     x=H.escape(x)
     return f'<bdi dir="ltr">{x}</bdi>' if not re.search('[\u0600-\u06FF]',x) else f'<bdi>{x}</bdi>'
@@ -134,7 +143,7 @@ def card(e,style):
 <div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
 <div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{hujaj_html(e) if e['section']=='hujaj' else (lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e) and '﴿' not in arabic_text(e))}</div></div></div>
-<div class="sr">{"" if e["section"]=="hujaj" else flag_span(flag_key(e),source(e))}{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+" · ".join(bd(x) for x in fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
+<div class="sr">{"" if e["section"]=="hujaj" else flag_span(flag_key(e),source(e))}{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+locjoin(fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
 <div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
 <div class="ft">{linkblk(e,n)}<span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div><div class="slog">لا للمظاهرات والثورات<i></i>لا لسيداو، ولا لتمييز المرأة على الرجل في الإجراءات والقرارات والقوانين<i></i>نعم لصلة الأرحام</div></div>'''
 FIT='''()=>{for(const c of document.querySelectorAll('.c')){let lo=13,hi=30;for(let i=0;i<14;i++){const m=(lo+hi)/2;c.style.setProperty('--k',m+'px');const over=c.scrollHeight>c.clientHeight+1||[...c.children].some(x=>!x.classList.contains('slog')&&x.scrollWidth>x.clientWidth+2);if(over)hi=m;else lo=m;}c.style.setProperty('--k',lo+'px');c.dataset.k=lo.toFixed(1);}}'''

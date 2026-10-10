@@ -8562,5 +8562,783 @@
   ],
   "fam": "west",
   "harm2": true
+ },
+ {
+  "id": "A1-110",
+  "sec": "tamyiz",
+  "icon": "de",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "ألمانيا — القانون المدني الاتحادي",
+  "title": "القانون المدني الألماني، المادة 104 — من لم يتم سبع سنين عديم الأهلية",
+  "ot": "\"Geschäftsunfähig ist: 1. wer nicht das siebente Lebensjahr vollendet hat, ...\"",
+  "ltr": true,
+  "tt": "«عديم الأهلية: 1. من لم يتم السنة السابعة من عمره ...»",
+  "src": {
+   "author": "Bürgerliches Gesetzbuch (BGB)",
+   "year": "1896/2002",
+   "jur": "ألمانيا — القانون المدني الاتحادي",
+   "title_latin": "§ 104 Geschäftsunfähigkeit",
+   "sw": "",
+   "where": "BGB § 104 Nr. 1",
+   "latin": true
+  },
+  "about": "القانون المدني الألماني نافذ منذ سنة 1900، وهو من أعمدة القوانين المدنية في العالم، وينشر نصه الرسمي على موقع وزارة العدل الاتحادية.",
+  "level": "تشريع اتحادي نافذ",
+  "links": [
+   {
+    "url": "https://www.gesetze-im-internet.de/bgb/__104.html",
+    "label": "النص الرسمي للمادة",
+    "site": "وزارة العدل الألمانية",
+    "domain": "www.gesetze-im-internet.de"
+   },
+   {
+    "url": "https://bgb.kommentar.de/Geschaeftsunfaehigkeit",
+    "label": "نص المادة وشرحها",
+    "site": "شرح القانون المدني الألماني",
+    "domain": "bgb.kommentar.de"
+   }
+  ],
+  "arg": "أكبر دول أوروبا تجعل تمام السابعة حدا قانونيا يبدأ عنده اعتبار تصرفات الطفل؛ فالسابعة ليست «فقها قديما»، بل حد يعمل به القانون الحديث.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A1-111",
+  "sec": "tamyiz",
+  "icon": "de",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "ألمانيا — القانون المدني الاتحادي",
+  "title": "القانون المدني الألماني، المادة 828 — من لم يتم سبع سنين لا يسأل عن ضرر يحدثه",
+  "ot": "\"Wer nicht das siebente Lebensjahr vollendet hat, ist für einen Schaden, den er einem anderen zufügt, nicht verantwortlich.\"",
+  "ltr": true,
+  "tt": "«من لم يتم السنة السابعة من عمره لا يسأل عن ضرر يحدثه بغيره.»",
+  "src": {
+   "author": "Bürgerliches Gesetzbuch (BGB)",
+   "year": "1896/2002",
+   "jur": "ألمانيا — القانون المدني الاتحادي",
+   "title_latin": "§ 828 Minderjährige",
+   "sw": "",
+   "where": "BGB § 828 Abs. 1",
+   "latin": true
+  },
+  "about": "القانون المدني الألماني نافذ منذ سنة 1900، وينشر نصه الرسمي على موقع وزارة العدل الاتحادية.",
+  "level": "تشريع اتحادي نافذ",
+  "links": [
+   {
+    "url": "https://www.gesetze-im-internet.de/bgb/__828.html",
+    "label": "النص الرسمي للمادة",
+    "site": "وزارة العدل الألمانية",
+    "domain": "www.gesetze-im-internet.de"
+   },
+   {
+    "url": "https://gesetze.legal/bund/bgb/828",
+    "label": "نص المادة",
+    "site": "gesetze.legal",
+    "domain": "gesetze.legal"
+   }
+  ],
+  "arg": "القانون الألماني يجعل تمام السابعة بداية مسؤولية الطفل عن أفعاله؛ وهو ما سماه الفقهاء التمييز، وعنده تنتهي حضانة النساء ويبدأ التأديب والتعليم.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A1-112",
+  "sec": "tamyiz",
+  "icon": "pk",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "باكستان — قانون العقوبات النافذ",
+  "title": "قانون العقوبات الباكستاني، المادة 82 — لا جريمة على طفل دون السابعة",
+  "ot": "\"Nothing is an offence, which is done by a child under seven years of age.\"",
+  "ltr": true,
+  "tt": "«لا يعد جريمة ما يفعله طفل دون السابعة من عمره.»",
+  "src": {
+   "author": "Pakistan Penal Code (Act XLV of 1860)",
+   "year": "1860",
+   "jur": "باكستان — قانون العقوبات النافذ",
+   "title_latin": "Section 82 — Act of a child under seven years of age",
+   "sw": "",
+   "where": "PPC s. 82",
+   "latin": true
+  },
+  "about": "قانون العقوبات الباكستاني نافذ في أكبر بلد إسلامي في جنوب آسيا، والمادة 82 منه في باب الاستثناءات العامة.",
+  "level": "تشريع نافذ",
+  "links": [
+   {
+    "url": "https://policehumanrightsresources.org/content/uploads/2016/07/Penal-Code-Pakistan-1860.pdf?x19059",
+    "label": "نص القانون",
+    "site": "مكتبة قوانين الشرطة وحقوق الإنسان",
+    "domain": "policehumanrightsresources.org"
+   }
+  ],
+  "arg": "دولة إسلامية كبرى تجعل السابعة حد التمييز في أخطر باب، وهو باب الجرائم؛ فالسابعة حد معتبر في قوانين المسلمين اليوم.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A1-113",
+  "sec": "tamyiz",
+  "icon": "ng",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "نيجيريا — القانون الجنائي النافذ",
+  "title": "القانون الجنائي النيجيري، المادة 30 — من لم يبلغ السابعة لا يسأل جنائيا",
+  "ot": "\"A person under the age of seven years is not criminally responsible for any act or omission.\"",
+  "ltr": true,
+  "tt": "«من لم يبلغ السابعة من عمره لا يسأل جنائيا عن أي فعل أو امتناع.»",
+  "src": {
+   "author": "Criminal Code Act (Nigeria)",
+   "year": "1916/1990",
+   "jur": "نيجيريا — القانون الجنائي النافذ",
+   "title_latin": "Criminal Code, Part I, Chapter 5, section 30",
+   "sw": "",
+   "where": "s. 30",
+   "latin": true
+  },
+  "about": "القانون الجنائي النيجيري نافذ في أكبر دولة إفريقية سكانا؛ والنص منقول في قاعدة بيانات جامعة نوتنغهام البريطانية لقوانين الدول.",
+  "level": "تشريع نافذ",
+  "links": [
+   {
+    "url": "https://cjad.nottingham.ac.uk/en/state/100/keyword/566/",
+    "label": "نص المادة",
+    "site": "قاعدة بيانات جامعة نوتنغهام",
+    "domain": "cjad.nottingham.ac.uk"
+   }
+  ],
+  "arg": "أكبر دولة إفريقية تجعل السابعة حد المسؤولية الجنائية؛ فالسابعة حد يتفق عليه الفقه والقوانين في قارات العالم.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A1-114",
+  "sec": "tamyiz",
+  "icon": "bd",
+  "supports": [
+   "9"
+  ],
+  "strength": "explicit_9",
+  "jurisdiction": "بنغلاديش — قانون العقوبات النافذ",
+  "title": "قانون العقوبات في بنغلاديش، المادة 82 — لا جريمة على طفل دون التاسعة",
+  "ot": "\"Nothing is an offence which is done by a child under nine years of age.\"",
+  "ltr": true,
+  "tt": "«لا يعد جريمة ما يفعله طفل دون التاسعة من عمره.»",
+  "src": {
+   "author": "The Penal Code, 1860 (Bangladesh)",
+   "year": "1860",
+   "jur": "بنغلاديش — قانون العقوبات النافذ",
+   "title_latin": "Section 82 — Act of a child under nine years of age",
+   "sw": "",
+   "where": "s. 82",
+   "latin": true
+  },
+  "about": "قانون العقوبات النافذ في بنغلاديش، وهي من أكبر الدول الإسلامية سكانا؛ والنص في قاعدة بيانات جامعة نوتنغهام.",
+  "level": "تشريع نافذ",
+  "links": [
+   {
+    "url": "https://cjad.nottingham.ac.uk/documents/implementations/pdf/Bangladesh-Penal_Code.pdf",
+    "label": "نص القانون",
+    "site": "قاعدة بيانات جامعة نوتنغهام",
+    "domain": "cjad.nottingham.ac.uk"
+   }
+  ],
+  "arg": "دولة إسلامية كبرى تجعل التاسعة حدا للمسؤولية؛ والتاسعة هي الحد الذي جعله الفقهاء لانتهاء حضانة النساء للبنت.",
+  "chips": [
+   [
+    "str hot",
+    "نص في التاسعة"
+   ],
+   [
+    "sup",
+    "سن التاسعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A1-115",
+  "sec": "tamyiz",
+  "icon": "uk",
+  "supports": [
+   "childhood_ends_at_puberty"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "المملكة المتحدة — إنجلترا وويلز",
+  "title": "قانون الأطفال والشباب في إنجلترا وويلز، المادة 50 — المسؤولية الجنائية تبدأ من العاشرة",
+  "ot": "\"It shall be conclusively presumed that no child under the age of ten years can be guilty of any offence.\"",
+  "ltr": true,
+  "tt": "«يفترض قطعا أن الطفل الذي لم يبلغ العاشرة لا يمكن أن يكون مذنبا بأي جريمة.»",
+  "src": {
+   "author": "Children and Young Persons Act 1933",
+   "year": "1933/1963",
+   "jur": "المملكة المتحدة — إنجلترا وويلز",
+   "title_latin": "Section 50 — Age of criminal responsibility",
+   "sw": "",
+   "where": "s. 50",
+   "latin": true
+  },
+  "about": "قانون نافذ في إنجلترا وويلز منذ 1933، ونصه الرسمي على موقع التشريعات الحكومي البريطاني.",
+  "level": "تشريع نافذ",
+  "links": [
+   {
+    "url": "https://legislation.gov.uk/ukpga/Geo5/23-24/12/section/50",
+    "label": "النص الرسمي",
+    "site": "التشريعات البريطانية الرسمية",
+    "domain": "legislation.gov.uk"
+   }
+  ],
+  "arg": "بريطانيا تحاسب ابن العاشرة جنائيا، فهو عندها ليس طفلا عاجزا يحتاج حضانة النساء؛ فمن يمد الحضانة سنين بعد ذلك يخالف حتى القوانين الغربية.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "انتهاء الطفولة بالبلوغ"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A2-110",
+  "sec": "school",
+  "icon": "un",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "الأمم المتحدة — اليونسكو",
+  "title": "اليونسكو — التصنيف الدولي للتعليم: سن دخول المدرسة الابتدائية بين 5 و7",
+  "ot": "\"The customary or legal age of entry is usually not below 5 years old nor above 7 years old.\"",
+  "ltr": true,
+  "tt": "«سن الالتحاق [بالتعليم الابتدائي] المعتاد أو القانوني لا يقل عادة عن 5 سنين ولا يزيد على 7 سنين.»",
+  "src": {
+   "author": "UNESCO Institute for Statistics",
+   "year": "2011",
+   "jur": "الأمم المتحدة — اليونسكو",
+   "title_latin": "International Standard Classification of Education: ISCED 2011",
+   "sw": "",
+   "where": "paragraph 122",
+   "latin": true
+  },
+  "about": "التصنيف الدولي للتعليم هو المعيار الرسمي الذي تعتمده اليونسكو ودول العالم في إحصاءات التعليم.",
+  "level": "تعريف رسمي لهيئة أممية",
+  "links": [
+   {
+    "url": "https://unesdoc.unesco.org/ark:/48223/pf0000219109",
+    "label": "النص الرسمي للتصنيف",
+    "site": "المكتبة الرقمية لليونسكو",
+    "domain": "unesdoc.unesco.org"
+   }
+  ],
+  "arg": "العالم كله يخرج الطفل من البيت إلى المدرسة والتكليف بين الخامسة والسابعة؛ وهي سن التمييز التي جعلها الفقهاء حد انتقال الولد إلى أبيه للتعليم والتأديب.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A2-111",
+  "sec": "school",
+  "icon": "us",
+  "supports": [
+   "shared_parenting"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — وزارة التعليم، المركز الوطني لإحصاءات التعليم",
+  "title": "وزارة التعليم الأمريكية 1997 — مشاركة الأب في المدرسة ترفع درجات الأولاد",
+  "ot": "\"... children in two-parent families where the father is are highly involved get better grades ... enjoy school more ... less likely to repeat a grade ... [in father-headed families children are] twice as likely to get mostly A's ...\"",
+  "ltr": true,
+  "tt": "«... الأطفال في الأسر ذات الوالدين الذين يشارك آباؤهم مشاركة عالية [في مدرستهم] يحصلون على درجات أفضل ... ويستمتعون بالمدرسة أكثر ... وأقل رسوبا ... [وفي الأسر التي يرعاها الأب] أكثر حصولا على أعلى الدرجات بمثلين ...»",
+  "src": {
+   "author": "U.S. Department of Education, National Center for Education Statistics",
+   "year": "1997",
+   "jur": "الولايات المتحدة — وزارة التعليم، المركز الوطني لإحصاءات التعليم",
+   "title_latin": "Fathers' Involvement in Their Children's Schools — press release, October 2, 1997",
+   "sw": "",
+   "where": "NHES 1996 — 16,910 students",
+   "latin": true
+  },
+  "about": "دراسة رسمية للمركز الوطني لإحصاءات التعليم في وزارة التعليم الأمريكية، على مسح وطني لآباء نحو 17 ألف تلميذ.",
+  "level": "إحصاء رسمي للدولة",
+  "links": [
+   {
+    "url": "https://nces.ed.gov/pressrelease/father.asp",
+    "label": "البيان الرسمي",
+    "site": "وزارة التعليم الأمريكية",
+    "domain": "nces.ed.gov"
+   },
+   {
+    "url": "https://nces.ed.gov/pubs98/web/98121.asp",
+    "label": "ملخص الدراسة",
+    "site": "وزارة التعليم الأمريكية",
+    "domain": "nces.ed.gov"
+   }
+  ],
+  "arg": "مشاركة الأب في تعليم ولده ترفع تحصيله؛ والتعليم هو العلة التي من أجلها جعل الفقهاء الولد عند أبيه بعد السابعة.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "الرعاية المشتركة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A2-112",
+  "sec": "body",
+  "icon": "it",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "إيطاليا — جامعة تورينو، مركز العلوم المعرفية",
+  "title": "ديل جوديتشي وزملاؤه — في السادسة إلى الثامنة يبدأ طور جديد في جسد الطفل",
+  "ot": "\"From the biological standpoint human juvenility begins with the endocrine events of adrenarche ... At about 6–8 years, with little difference between the sexes but substantial individual variation in timing, the cortex of the adrenal glands begins to secrete increasing quantities of androgens ...\"",
+  "ltr": true,
+  "tt": "«من الناحية الحيوية يبدأ طور اليفاعة عند الإنسان بأحداث غددية [هي نضج الغدة الكظرية] ... ففي نحو السادسة إلى الثامنة، بفارق قليل بين الذكور والإناث، تبدأ قشرة الغدة الكظرية إفراز كميات متزايدة من الهرمونات ...»",
+  "src": {
+   "author": "Del Giudice M, Angeleri R, Manera V",
+   "year": "2009/2011",
+   "jur": "إيطاليا — جامعة تورينو، مركز العلوم المعرفية",
+   "title_latin": "The juvenile transition: A developmental switch point in human life history",
+   "sw": "",
+   "where": "Developmental Review 29 (2009): 1–31",
+   "latin": true
+  },
+  "about": "ماركو ديل جوديتشي من أبرز علماء تاريخ الحياة البشرية في علم النفس التطوري، والبحث من مركز العلوم المعرفية بجامعة تورينو، ومنشور في مجلة المراجعة النمائية ومراجع دار سبرينغر.",
+  "level": "مراجعة علمية محكمة",
+  "links": [
+   {
+    "url": "https://iris.unito.it/bitstream/2318/126112/1/DelGiudice_etal_JT.pdf",
+    "label": "نص البحث",
+    "site": "مستودع جامعة تورينو",
+    "domain": "iris.unito.it"
+   },
+   {
+    "url": "https://iris.unito.it/bitstream/2318/132069/1/dev_rev.pdf",
+    "label": "البحث الأصلي 2009",
+    "site": "مستودع جامعة تورينو",
+    "domain": "iris.unito.it"
+   }
+  ],
+  "arg": "جسد الطفل نفسه يعلن نهاية الطفولة الأولى بين السادسة والثامنة؛ فالسابعة حد في الأحياء كما هي حد في الفقه.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A2-113",
+  "sec": "body",
+  "icon": "it",
+  "supports": [
+   "7"
+  ],
+  "strength": "explicit_7",
+  "jurisdiction": "إيطاليا — جامعة تورينو، مركز العلوم المعرفية",
+  "title": "ديل جوديتشي وزملاؤه — في السادسة والسابعة يستقل الطفل بطعامه، ويقفز ضبطه لنفسه",
+  "ot": "\"In humans, children become relatively able to feed themselves ... at about 6–7 years of age. ... In the psychological domain, the beginning of juvenility witnesses dramatic increases in self-control, emotional and attentional regulation, and executive functions in general, which collectively go under the label of “the 5- to 7-years shift”.\"",
+  "ltr": true,
+  "tt": "«يصير الأطفال قادرين نسبيا على إطعام أنفسهم ... في نحو السادسة والسابعة من العمر. ... وفي الجانب النفسي يشهد أول طور اليفاعة زيادات كبيرة في ضبط النفس وتنظيم الانفعال والانتباه والوظائف التنفيذية عموما، وهو ما يسمى مجتمعا «تحول الخامسة إلى السابعة».»",
+  "src": {
+   "author": "Del Giudice M, Angeleri R, Manera V",
+   "year": "2011",
+   "jur": "إيطاليا — جامعة تورينو، مركز العلوم المعرفية",
+   "title_latin": "Juvenility and the Juvenile Transition",
+   "sw": "",
+   "where": "Springer reference entry, p. 1533",
+   "latin": true
+  },
+  "about": "ماركو ديل جوديتشي من أبرز علماء تاريخ الحياة البشرية في علم النفس التطوري، والبحث من مركز العلوم المعرفية بجامعة تورينو.",
+  "level": "مراجعة علمية محكمة",
+  "links": [
+   {
+    "url": "https://iris.unito.it/bitstream/2318/126112/1/DelGiudice_etal_JT.pdf",
+    "label": "نص البحث",
+    "site": "مستودع جامعة تورينو",
+    "domain": "iris.unito.it"
+   }
+  ],
+  "arg": "الاستغناء الذي جعله الفقهاء علة انتهاء حضانة النساء يثبته العلم في السادسة والسابعة: يأكل الطفل وحده، ويضبط نفسه وانتباهه.",
+  "chips": [
+   [
+    "str hot",
+    "نص في السابعة"
+   ],
+   [
+    "sup",
+    "سن السابعة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A4-110",
+  "sec": "soc",
+  "icon": "us",
+  "supports": [
+   "shared_parenting"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — جامعة هارفارد وجامعة كاليفورنيا في بيركلي",
+  "title": "راج تشيتي وزملاؤه، هارفارد وبيركلي 2014 — بنية الأسرة أقوى ما يتنبأ بارتقاء الأبناء",
+  "ot": "\"Finally, the strongest predictors of upward mobility are measures of family structure such as the fraction of single parents in the area. ... Children of married parents also have higher rates of upward mobility if they live in communities with fewer single parents.\"",
+  "ltr": true,
+  "tt": "«وأخيرا فإن أقوى ما يتنبأ بارتقاء الأبناء [في السلم الاجتماعي] مقاييس بنية الأسرة، مثل نسبة الأسر ذات الوالد الواحد في المنطقة ... وحتى أبناء الوالدين المتزوجين يرتقون أكثر إذا عاشوا في مجتمعات فيها أسر ذات والد واحد أقل.»",
+  "src": {
+   "author": "Chetty R, Hendren N, Kline P, Saez E",
+   "year": "2014",
+   "jur": "الولايات المتحدة — جامعة هارفارد وجامعة كاليفورنيا في بيركلي",
+   "title_latin": "Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States",
+   "sw": "",
+   "where": "Quarterly Journal of Economics 129(4) — Executive Summary, January 2014",
+   "latin": true
+  },
+  "about": "راج تشيتي أستاذ الاقتصاد بجامعة هارفارد ومن أشهر اقتصاديي العالم، والدراسة على سجلات ضرائب أكثر من 40 مليون أمريكي ومنشورة في المجلة الفصلية للاقتصاد.",
+  "level": "دراسة سجلات وطنية",
+  "links": [
+   {
+    "url": "https://eml.berkeley.edu/%7Esaez/geosummary.pdf",
+    "label": "الملخص التنفيذي للدراسة",
+    "site": "جامعة كاليفورنيا في بيركلي",
+    "domain": "eml.berkeley.edu"
+   },
+   {
+    "url": "https://cepr.org/voxeu/columns/where-land-opportunity-intergenerational-mobility-us",
+    "label": "عرض الدراسة",
+    "site": "مركز أبحاث السياسات الاقتصادية الأوروبي",
+    "domain": "cepr.org"
+   }
+  ],
+  "arg": "أكبر دراسة اقتصادية في عصرها تجعل حضور الوالدين معا أقوى عامل في مستقبل الأبناء؛ فإقصاء الأب يضر الطفل والمجتمع كله.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "الرعاية المشتركة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A4-111",
+  "sec": "soc",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — جامعة هارفارد ومكتب الإحصاء الأمريكي",
+  "title": "راج تشيتي وزملاؤه 2018 — كثرة الآباء الحاضرين في الحي ترفع مستقبل الأولاد ولو غاب أبوهم",
+  "ot": "\"The few areas with small black-white gaps tend to be low-poverty neighborhoods with low levels of racial bias among whites and high rates of father presence among blacks. ... Black father presence at the neighborhood level strongly predicts black boys' outcomes irrespective of whether their own father is present or not ...\"",
+  "ltr": true,
+  "tt": "«المناطق القليلة التي تصغر فيها الفجوة [بين السود والبيض] هي في الغالب أحياء قليلة الفقر، قليلة التحيز العنصري، عالية في نسبة حضور الآباء ... وحضور الآباء في الحي يتنبأ بقوة بمستقبل الأولاد، سواء أكان أبو الولد نفسه حاضرا أم لا ...»",
+  "src": {
+   "author": "Chetty R, Hendren N, Jones MR, Porter SR",
+   "year": "2018/2020",
+   "jur": "الولايات المتحدة — جامعة هارفارد ومكتب الإحصاء الأمريكي",
+   "title_latin": "Race and Economic Opportunity in the United States: An Intergenerational Perspective",
+   "sw": "",
+   "where": "Quarterly Journal of Economics 135(2), 2020 — abstract and introduction",
+   "latin": true
+  },
+  "about": "دراسة لفريق راج تشيتي بجامعة هارفارد مع مكتب الإحصاء الأمريكي على بيانات 20 مليون طفل، منشورة في المجلة الفصلية للاقتصاد.",
+  "level": "دراسة سجلات وطنية",
+  "links": [
+   {
+    "url": "https://opportunityinsights.org/paper/race/",
+    "label": "صفحة الدراسة",
+    "site": "جامعة هارفارد — مختبر فرص التنمية",
+    "domain": "opportunityinsights.org"
+   },
+   {
+    "url": "https://opportunityinsights.org/wp-content/uploads/2018/04/race_paper.pdf",
+    "label": "نص الدراسة",
+    "site": "جامعة هارفارد",
+    "domain": "opportunityinsights.org"
+   }
+  ],
+  "arg": "حضور الأب لا ينفع ولده وحده، بل ينفع أولاد الحي كله؛ فإقصاء الآباء عن أولادهم يضر جيلا كاملا.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A4-112",
+  "sec": "soc",
+  "icon": "uk",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "المملكة المتحدة — جامعة أكسفورد",
+  "title": "عطار شوارتز وزملاؤها 2009 — انخراط الأجداد يقلل مشكلات المراهقين، وأقوى أثره في الأسر المنفصلة",
+  "ot": "\"... greater grandparent involvement was associated with fewer emotional problems (p < .01) and with more prosocial behavior (p < .001). ... grandparent involvement was more strongly associated with reduced adjustment difficulties among adolescents from lone-parent and step- families than those from two-parent biological families.\"",
+  "ltr": true,
+  "tt": "«... ارتبط انخراط الأجداد الأكبر بمشكلات انفعالية أقل وبسلوك اجتماعي أحسن ... وكان ارتباط انخراط الأجداد بقلة صعوبات التوافق أقوى عند المراهقين من الأسر ذات الوالد الواحد والأسر المعاد تكوينها منه عند أبناء الأسر التي فيها الوالدان.»",
+  "src": {
+   "author": "Attar-Schwartz S, Tan JP, Buchanan A, Flouri E, Griggs J",
+   "year": "2009",
+   "jur": "المملكة المتحدة — جامعة أكسفورد",
+   "title_latin": "Grandparenting and Adolescent Adjustment in Two-Parent Biological, Lone-Parent, and Step-Families",
+   "sw": "",
+   "where": "Journal of Family Psychology 23(1): 67–75",
+   "latin": true
+  },
+  "about": "دراسة من مركز أبحاث الأسرة في جامعة أكسفورد على عينة بريطانية واسعة من المراهقين، في مجلة علم نفس الأسرة التي تصدرها الجمعية الأمريكية لعلم النفس.",
+  "level": "دراسة مسحية وطنية",
+  "links": [
+   {
+    "url": "https://cris.huji.ac.il/en/publications/grandparenting-and-adolescent-adjustment-in-two-parent-biological/",
+    "label": "ملخص الدراسة",
+    "site": "الجامعة العبرية — سجل أبحاث المؤلفة",
+    "domain": "cris.huji.ac.il"
+   }
+  ],
+  "arg": "الأجداد رحم للطفل، وأحوج الأولاد إليهم أبناء الأسر المنفصلة؛ فقطع الطفل عن أبيه يقطعه عن أجداده وأعمامه أيضا.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A5-210",
+  "sec": "study",
+  "icon": "us",
+  "supports": [
+   "shared_parenting"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — جامعة ولاية أريزونا",
+  "title": "فابريشيوس — الأبناء أنفسهم بعد أن كبروا: العيش مع كل والد وقتا متساويا هو الأصلح",
+  "ot": "\"... the students overwhelmingly thought that living with each of their parents for equal amounts of time was best.\"",
+  "ltr": true,
+  "tt": "«... رأى الطلاب [من أبناء المطلقين] بأغلبية ساحقة أن العيش مع كل واحد من الوالدين وقتا متساويا هو الأفضل.»",
+  "src": {
+   "author": "Fabricius WV — Arizona State University",
+   "year": "1990s/2020",
+   "jur": "الولايات المتحدة — جامعة ولاية أريزونا",
+   "title_latin": "Young adults' perspectives on living arrangements after divorce — reported by ASU News, March 2, 2020",
+   "sw": "",
+   "where": "ASU News",
+   "latin": true
+  },
+  "about": "وليم فابريشيوس أستاذ علم النفس بجامعة ولاية أريزونا ومن أبرز الباحثين في الرعاية المشتركة بالمناصفة، والخبر من الموقع الرسمي للجامعة.",
+  "level": "دراسة ميدانية",
+  "links": [
+   {
+    "url": "https://news.asu.edu/20200302-asu-psychology-research-leads-international-conversation-about-custody-laws",
+    "label": "خبر الجامعة",
+    "site": "جامعة ولاية أريزونا",
+    "domain": "news.asu.edu"
+   }
+  ],
+  "arg": "هذا صوت الأبناء بعد أن كبروا وتحرروا من ضغط النزاع: يريدون أباهم وأمهم بالمناصفة. فلا تخيير مع تغييب، والجواب الصحيح يعرف من الأبناء بعد النضج.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "الرعاية المشتركة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A5-211",
+  "sec": "intl",
+  "icon": "world",
+  "supports": [
+   "shared_parenting"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "دولي — المجلس الدولي للرعاية المشتركة بالمناصفة (34 دولة)",
+  "title": "المؤتمر الدولي السادس للرعاية المشتركة بالمناصفة 2023 — المناصفة هي الأمثل لنمو الطفل",
+  "ot": "\"... shared parenting is a viable post-divorce parenting arrangement that is optimal to child development and well-being ...\"",
+  "ltr": true,
+  "tt": "«... الرعاية المشتركة ترتيب ناجح بعد الطلاق، وهو الأمثل لنمو الطفل وحسن حاله ...»",
+  "src": {
+   "author": "International Council on Shared Parenting (ICSP)",
+   "year": "2023",
+   "jur": "دولي — المجلس الدولي للرعاية المشتركة بالمناصفة (34 دولة)",
+   "title_latin": "Conclusions of the 6th International Conference on Shared Parenting, Athens, May 5–7, 2023",
+   "sw": "",
+   "where": "Conclusions 1 and 7",
+   "latin": true
+  },
+  "about": "المجلس الدولي للرعاية المشتركة بالمناصفة يجمع الباحثين والقضاة والمختصين في قانون الأسرة؛ وحضر مؤتمره السادس في أثينا نحو 200 مندوب من 34 دولة.",
+  "level": "خلاصة مؤتمر علمي دولي",
+  "links": [
+   {
+    "url": "https://www.twohomes.org/?p=1196",
+    "label": "خلاصات المؤتمر",
+    "site": "المجلس الدولي للرعاية المشتركة بالمناصفة",
+    "domain": "www.twohomes.org"
+   }
+  ],
+  "arg": "خلاصة مؤتمر دولي من 34 دولة: الرعاية المشتركة بالمناصفة هي الأمثل للطفل بعد الطلاق.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "الرعاية المشتركة"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
+ },
+ {
+  "id": "A4-113",
+  "sec": "intl",
+  "icon": "world",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "دولي — منظمة التعاون الإسلامي (57 دولة)",
+  "title": "منظمة التعاون الإسلامي — عهد حقوق الطفل في الإسلام 2005: لا يحرم الطفل من صلته بوالديه",
+  "ot": "\"No child shall be separated from his/her parents against their will ... no child shall be deprived of maintaining relations with them. ... A sound upbringing is a right of the child and shall be the responsibility of his / her parents or legal guardian.\"",
+  "ltr": true,
+  "tt": "«لا يفصل طفل عن والديه رغما عنهما ... ولا يحرم طفل من الحفاظ على صلته بهما ... والتربية السليمة حق للطفل، وهي مسؤولية والديه أو وليه الشرعي.»",
+  "src": {
+   "author": "Organisation of Islamic Cooperation (OIC)",
+   "year": "2005",
+   "jur": "دولي — منظمة التعاون الإسلامي (57 دولة)",
+   "title_latin": "Covenant on the Rights of the Child in Islam",
+   "sw": "",
+   "where": "Articles 8(2), 8(3), 11(1)",
+   "latin": true
+  },
+  "about": "عهد اعتمده مؤتمر وزراء خارجية الدول الإسلامية في صنعاء سنة 2005، وهو وثيقة حقوق الطفل الرسمية لمنظمة التعاون الإسلامي التي تضم 57 دولة.",
+  "level": "معاهدة دولية",
+  "links": [
+   {
+    "url": "https://bdrive.oic-oci.org/index.php/s/8Czb8kFGRJJydgT/download",
+    "label": "نص العهد",
+    "site": "منظمة التعاون الإسلامي",
+    "domain": "bdrive.oic-oci.org"
+   },
+   {
+    "url": "https://www.refworld.org/docid/44eaf0e4a.html",
+    "label": "سجل العهد",
+    "site": "قاعدة بيانات المفوضية السامية لشؤون اللاجئين",
+    "domain": "www.refworld.org"
+   }
+  ],
+  "arg": "الدول الإسلامية كلها تعهدت ألا يحرم الطفل من صلته بوالديه، وأن تربيته مسؤولية الوالدين معا؛ فقطع الطفل عن أبيه مخالف لعهد المسلمين أنفسهم.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v125": true
  }
 ]

@@ -1,7 +1,7 @@
 [
  {
   "rank": 1,
-  "card": 315,
+  "card": 320,
   "title": "Surat al-Nur: When Children Reach Puberty",
   "source": "The Qur'an, Surat al-Nur",
   "quotation": {
@@ -12,11 +12,12 @@
   },
   "why_it_matters": "The Qur'an makes reaching puberty the point at which a child leaves the legal status of childhood and is addressed as an adult. Childhood therefore ends at puberty, not at a later fixed age such as fifteen.",
   "evidence_level": "Foundational scriptural text (the Qur'an)",
-  "url": null
+  "url": null,
+  "id": "A3-006"
  },
  {
   "rank": 2,
-  "card": 306,
+  "card": 321,
   "title": "Sunan Abi Dawud: The Command to Pray at Seven",
   "source": "Abu Dawud al-Sijistani (d. 275 AH), Sunan Abi Dawud — Prophetic Sunnah",
   "quotation": {
@@ -27,11 +28,12 @@
   },
   "why_it_matters": "The Prophet made seven the first age at which a child is addressed with a religious command, which presupposes discernment. A discerning child needs teaching and upbringing, a role the jurists assign to the father.",
   "evidence_level": "Prophetic hadith",
-  "url": "https://sunnah.com/abudawud:495"
+  "url": "https://sunnah.com/abudawud:495",
+  "id": "A1-001"
  },
  {
   "rank": 3,
-  "card": 296,
+  "card": 291,
   "title": "Fatwa of the Grand Mufti of Egypt Muhammad Bakhit (1917): The Boy Goes to His Father at Seven and the Girl at Nine",
   "source": "Egyptian Dar al-Ifta — Grand Mufti Muhammad Bakhit al-Muti'i, 1917; official collection of the Fatwas of Dar al-Ifta (Egypt)",
   "quotation": {
@@ -42,11 +44,12 @@
   },
   "why_it_matters": "An official Egyptian fatwa states the original Egyptian rule: women's custody ends at seven for the boy and nine for the girl, after which the father takes the child and is even compelled to do so.",
   "evidence_level": "Official fatwa of the State Mufti",
-  "url": "https://shamela.ws/book/432/684"
+  "url": "https://shamela.ws/book/432/684",
+  "id": "A1-056"
  },
  {
   "rank": 4,
-  "card": 11,
+  "card": 1,
   "title": "World Health Organization: Childhood Ends at Ten",
   "source": "World Health Organization (WHO), Adolescent health — United Nations specialized agency, Geneva",
   "quotation": {
@@ -57,11 +60,12 @@
   },
   "why_it_matters": "The WHO places the start of adolescence at ten, so a fifteen-year-old is in the middle of adolescence, not in childhood.",
   "evidence_level": "Official definition of a UN agency",
-  "url": "https://www.who.int/health-topics/adolescent-health"
+  "url": "https://www.who.int/health-topics/adolescent-health",
+  "id": "A2-016"
  },
  {
   "rank": 5,
-  "card": 205,
+  "card": 204,
   "title": "UNICEF: The United Nations Defines Adolescents as Those Aged 10 to 19",
   "source": "UNICEF — Division of Data, Analytics, Planning and Monitoring, 2024 — United Nations",
   "quotation": {
@@ -72,11 +76,12 @@
   },
   "why_it_matters": "The United Nations' own statistical definition treats a ten-year-old as an adolescent in transition to adulthood, so extending childhood to fifteen has no support in UN definitions.",
   "evidence_level": "Official definition of a UN agency",
-  "url": "https://data.unicef.org/topic/adolescents/overview/"
+  "url": "https://data.unicef.org/topic/adolescents/overview/",
+  "id": "A5-175"
  },
  {
   "rank": 6,
-  "card": 201,
+  "card": 205,
   "title": "Convention on the Rights of the Child: Contact with Both Parents",
   "source": "United Nations, Convention on the Rights of the Child, 1989 (ratified by Egypt in 1990)",
   "quotation": {
@@ -87,11 +92,12 @@
   },
   "why_it_matters": "A binding treaty ratified by Egypt makes regular, direct contact with both parents a right of the child itself, not a privilege granted by one parent.",
   "evidence_level": "Binding international treaty",
-  "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child"
+  "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child",
+  "id": "A5-001"
  },
  {
   "rank": 7,
-  "card": 29,
+  "card": 2,
   "title": "US National Library of Medicine: Puberty Begins at Eight in Girls and Nine in Boys",
   "source": "MedlinePlus — US National Library of Medicine, National Institutes of Health, 2026 (United States)",
   "quotation": {
@@ -102,11 +108,12 @@
   },
   "why_it_matters": "The official US medical reference places normal puberty in girls between eight and thirteen, so nine — the Hanafi limit for a girl's custody by women — lies within the normal age of puberty.",
   "evidence_level": "Official government medical reference",
-  "url": "https://medlineplus.gov/puberty.html"
+  "url": "https://medlineplus.gov/puberty.html",
+  "id": "A2-068"
  },
  {
   "rank": 8,
-  "card": 6,
+  "card": 3,
   "title": "US Study (2013): Onset of Puberty in Girls",
   "source": "Biro FM, et al., 2013, Pediatrics (United States)",
   "quotation": {
@@ -117,11 +124,12 @@
   },
   "why_it_matters": "Median onset of puberty in girls falls between 8.8 and 9.7 years, a medical confirmation of nine as the limit of a girl's custody by women.",
   "evidence_level": "Longitudinal cohort study",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/24190685/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24190685/",
+  "id": "A2-011"
  },
  {
   "rank": 9,
-  "card": 7,
+  "card": 4,
   "title": "Copenhagen Puberty Study (2009): Puberty in Girls Now Begins Before Ten",
   "source": "Aksglaede L, Sørensen K, Petersen JH, Skakkebæk NE, Juul A, 2009, Pediatrics (Denmark)",
   "quotation": {
@@ -132,11 +140,12 @@
   },
   "why_it_matters": "Within a single generation the onset of puberty in Danish girls fell by a full year to below ten, so nine is a real bodily threshold today.",
   "evidence_level": "Population-based medical cohort study",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/19403485/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19403485/",
+  "id": "A2-012"
  },
  {
   "rank": 10,
-  "card": 32,
+  "card": 36,
   "title": "American Dental Association: Shedding of Primary Incisors and Eruption of the First Permanent Molar at 6–7 Years",
   "source": "American Dental Association (ADA) — MouthHealthy, Eruption Charts, 2012 (United States)",
   "quotation": {
@@ -147,11 +156,12 @@
   },
   "why_it_matters": "The ADA dates the loss of the first milk teeth and the eruption of the first permanent molar to six to seven years — the dental change (ithghar) to which classical scholars tied discernment — and the second molar to the threshold of puberty.",
   "evidence_level": "Medical statement of a professional body",
-  "url": "https://www.mouthhealthy.org/all-topics-a-z/eruption-charts"
+  "url": "https://www.mouthhealthy.org/all-topics-a-z/eruption-charts",
+  "id": "A2-072"
  },
  {
   "rank": 11,
-  "card": 33,
+  "card": 5,
   "title": "Lurie Children's Hospital (2023): Absent Paternal Acknowledgment on the Birth Certificate Raises Term Infant Mortality Across the United States",
   "source": "Prybylowski A, Howland J, Rankin KM, Collins JW Jr, 2023, Pediatrics — Lurie Children's Hospital of Chicago and University of Illinois (United States)",
   "quotation": {
@@ -162,11 +172,12 @@
   },
   "why_it_matters": "National US birth records show term infant mortality about two and a half times higher when the father does not acknowledge the child, so the father matters from the first day of life.",
   "evidence_level": "Official national registry study",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/36372097/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36372097/",
+  "id": "A2-073"
  },
  {
   "rank": 12,
-  "card": 30,
+  "card": 6,
   "title": "Alio et al. (2011): Father Absence and Infant Mortality in the First Year",
   "source": "Alio AP, Mbah AK, Kornosky JL, Wathington D, Marty PJ, Salihu HM, 2011 — University of South Florida (United States)",
   "quotation": {
@@ -177,11 +188,12 @@
   },
   "why_it_matters": "Florida birth records show that father absence multiplies infant mortality, and that most of the excess deaths could be prevented through greater paternal involvement.",
   "evidence_level": "State official records study",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/20512407/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20512407/",
+  "id": "A2-070"
  },
  {
   "rank": 13,
-  "card": 23,
+  "card": 7,
   "title": "Academic Pediatrics (2018): Fathers Improve Children's Cognition and Mental Health and Reduce Obesity",
   "source": "Allport BS, Johnson S, Aqil A, Labrique AB, Nelson T, Kc A, et al., 2018, Academic Pediatrics — Johns Hopkins University (United States)",
   "quotation": {
@@ -192,11 +204,12 @@
   },
   "why_it_matters": "A Johns Hopkins review links paternal involvement to better cognition and mental health and lower obesity, which is why the American Academy of Pediatrics urges pediatricians to engage fathers.",
   "evidence_level": "Peer-reviewed medical review",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/29653255/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29653255/",
+  "id": "A2-062"
  },
  {
   "rank": 14,
-  "card": 25,
+  "card": 8,
   "title": "Gordon and Feldman (2010): Fathers' Bonding Hormone Equals Mothers'",
   "source": "Gordon I, Zagoory-Sharon O, Leckman JF, Feldman R, 2010, Biological Psychiatry — Bar-Ilan University and Yale Child Study Center",
   "quotation": {
@@ -207,11 +220,12 @@
   },
   "why_it_matters": "Oxytocin, the bonding hormone, rose equally in fathers and mothers with no difference at any time point, so the father's bond with his child is biological, not incidental.",
   "evidence_level": "Longitudinal study with biological measurements",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/20359699/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/20359699/",
+  "id": "A2-064"
  },
  {
   "rank": 15,
-  "card": 43,
+  "card": 41,
   "title": "Piaget: Ages Seven to Eight Are a Decisive Turning Point in Mental Development",
   "source": "Piaget J, 1972 — University of Geneva (Switzerland)",
   "quotation": {
@@ -222,11 +236,12 @@
   },
   "why_it_matters": "Piaget marks seven to eight as a decisive turning point, the onset of organized logical thinking — the same discernment (tamyiz) to which jurists tied the end of women's custody.",
   "evidence_level": "Foundational scientific theory",
-  "url": "https://archive.org/details/principlesofgene0000piag"
+  "url": "https://archive.org/details/principlesofgene0000piag",
+  "id": "A2-008"
  },
  {
   "rank": 16,
-  "card": 44,
+  "card": 42,
   "title": "Vygotsky: The Crisis at Age Seven",
   "source": "Vygotsky LS, 1934, Collected Works (Russia)",
   "quotation": {
@@ -237,11 +252,12 @@
   },
   "why_it_matters": "Vygotsky described the transition to school age as \"the crisis at age seven\", so seven is a recognized threshold in psychology and not in jurisprudence alone.",
   "evidence_level": "Foundational scientific theory",
-  "url": "https://link.springer.com/book/10.1007/978-1-4615-5401-1"
+  "url": "https://link.springer.com/book/10.1007/978-1-4615-5401-1",
+  "id": "A2-009"
  },
  {
   "rank": 17,
-  "card": 46,
+  "card": 43,
   "title": "Laurence Steinberg: Adolescence Begins with Puberty",
   "source": "Steinberg L, 2014 — Temple University (United States)",
   "quotation": {
@@ -252,11 +268,12 @@
   },
   "why_it_matters": "A leading scholar of adolescence defines adolescence as beginning with puberty, around ten, so fifteen is not childhood in psychology.",
   "evidence_level": "Scholarly book by a leading authority",
-  "url": "https://openlibrary.org/works/OL21102030W"
+  "url": "https://openlibrary.org/works/OL21102030W",
+  "id": "A2-031"
  },
  {
   "rank": 18,
-  "card": 61,
+  "card": 44,
   "title": "Lamb (1977): Infants Attach to Their Fathers as to Their Mothers",
   "source": "Lamb ME, 1977, Child Development (United States)",
   "quotation": {
@@ -267,11 +284,12 @@
   },
   "why_it_matters": "Infants showed no preference for either parent in attachment behaviour, so a young child is attached to the father as much as to the mother from the beginning.",
   "evidence_level": "Observational study",
-  "url": "https://doi.org/10.2307/1128896"
+  "url": "https://doi.org/10.2307/1128896",
+  "id": "A5-070"
  },
  {
   "rank": 19,
-  "card": 60,
+  "card": 45,
   "title": "Michael Rutter: Maternal Deprivation Reassessed",
   "source": "Rutter M, 1972 — King's College London (United Kingdom)",
   "quotation": {
@@ -282,11 +300,12 @@
   },
   "why_it_matters": "The founder of modern child psychiatry concluded that a child needs attachment figures, not the mother alone, and benefits from attachment to several people.",
   "evidence_level": "Foundational scientific review",
-  "url": "https://openlibrary.org/works/OL1950807W"
+  "url": "https://openlibrary.org/works/OL1950807W",
+  "id": "A5-069"
  },
  {
   "rank": 20,
-  "card": 87,
+  "card": 46,
   "title": "Warshak (2003): Asking Children Their Preference Does Not Reveal Their Best Interests but Makes Them Parties to Their Parents' Dispute",
   "source": "Warshak RA, 2003, Family Relations — University of Texas Southwestern Medical Center (United States)",
   "quotation": {
@@ -297,11 +316,12 @@
   },
   "why_it_matters": "Soliciting a child's preference does not reliably reveal the child's interests and draws the child into the parental conflict; this grounds the principle that there can be no choice after exclusion of a parent.",
   "evidence_level": "Peer-reviewed scientific review",
-  "url": "https://doi.org/10.1111/j.1741-3729.2003.00373.x"
+  "url": "https://doi.org/10.1111/j.1741-3729.2003.00373.x",
+  "id": "A2-069"
  },
  {
   "rank": 21,
-  "card": 92,
+  "card": 47,
   "title": "Warshak (2015) in an American Psychological Association Journal: The Fallacy that \"the Alienated Adolescent's Preference Should Decide Custody\"",
   "source": "Warshak RA, 2015, Professional Psychology: Research and Practice (American Psychological Association) — University of Texas Southwestern Medical Center (United States)",
   "quotation": {
@@ -312,11 +332,12 @@
   },
   "why_it_matters": "Treating an alienated adolescent's stated preference as decisive is listed among ten fallacies that corrupt custody decisions; a choice made after years of exclusion favours the excluding parent, not the child.",
   "evidence_level": "Peer-reviewed scientific review",
-  "url": "https://doi.org/10.1037/pro0000031"
+  "url": "https://doi.org/10.1037/pro0000031",
+  "id": "A2-084"
  },
  {
   "rank": 22,
-  "card": 172,
+  "card": 159,
   "title": "Meta-Analysis (2002): Adjustment of Children in Joint Custody",
   "source": "Bauserman R, 2002, Journal of Family Psychology (United States)",
   "quotation": {
@@ -327,11 +348,12 @@
   },
   "why_it_matters": "A meta-analysis of 33 studies found children in joint custody better adjusted than those in sole custody and no different from children in intact families.",
   "evidence_level": "Meta-analysis: the highest level of evidence",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/11915414/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11915414/",
+  "id": "A5-022"
  },
  {
   "rank": 23,
-  "card": 191,
+  "card": 160,
   "title": "Hjern (2021): Multi-Year Follow-Up of More than 31,000 Danish Children",
   "source": "Hjern A, Urhoj SK, Fransson E, Bergström M, 2021 — Danish National Birth Cohort (Denmark)",
   "quotation": {
@@ -342,11 +364,12 @@
   },
   "why_it_matters": "Among 31,519 children followed from seven to eleven, those in equal shared parenting were closest to children of intact families in mental health.",
   "evidence_level": "National longitudinal cohort study",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/34199778/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34199778/",
+  "id": "A5-171"
  },
  {
   "rank": 24,
-  "card": 186,
+  "card": 161,
   "title": "Bergström (2013): National Survey of More than 164,000 Pupils Aged Twelve and Fifteen",
   "source": "Bergström M, Modin B, Fransson E, Rajmil L, Berlin M, Gustafsson PA, Hjern A, 2013 — Stockholm University and Karolinska Institutet (Sweden)",
   "quotation": {
@@ -357,11 +380,12 @@
   },
   "why_it_matters": "Children in joint physical custody fared better than those living mostly with one parent, and this was especially true at fifteen.",
   "evidence_level": "Large national study",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/24053116/"
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24053116/",
+  "id": "A5-166"
  },
  {
   "rank": 25,
-  "card": 184,
+  "card": 162,
   "title": "Fransson, Hjern and Bergström (2018): The Research Record on Equal Shared Parenting after Separation",
   "source": "Fransson E, Hjern A, Bergström M, 2018, Journal of Divorce & Remarriage — Stockholm University (Sweden)",
   "quotation": {
@@ -372,11 +396,12 @@
   },
   "why_it_matters": "The world's largest body of data on shared residence found no Swedish study in which children's health was worse in joint custody than in sole care from age three onward.",
   "evidence_level": "Peer-reviewed scientific review",
-  "url": "https://doi.org/10.1080/10502556.2018.1454198"
+  "url": "https://doi.org/10.1080/10502556.2018.1454198",
+  "id": "A5-085"
  },
  {
   "rank": 26,
-  "card": 177,
+  "card": 163,
   "title": "Study (2018): The Causal Effect of Joint Custody",
   "source": "Braver SL, Votruba AM, 2018, Journal of Divorce & Remarriage (United States)",
   "quotation": {
@@ -387,11 +412,12 @@
   },
   "why_it_matters": "A comprehensive review concluded that joint physical custody itself produces the benefit and recommended making it a rebuttable legal presumption.",
   "evidence_level": "Analytical review",
-  "url": "https://doi.org/10.1080/10502556.2018.1454203"
+  "url": "https://doi.org/10.1080/10502556.2018.1454203",
+  "id": "A5-048"
  },
  {
   "rank": 27,
-  "card": 179,
+  "card": 164,
   "title": "Nielsen (2017): Conflict Does Not Rule Out Equal Shared Parenting",
   "source": "Nielsen L, 2017, Psychology, Public Policy, and Law (American Psychological Association) — Wake Forest University (United States)",
   "quotation": {
@@ -402,11 +428,12 @@
   },
   "why_it_matters": "Recent research does not support excluding joint physical custody because of parental conflict; the quality of each parent–child relationship matters more.",
   "evidence_level": "Peer-reviewed scientific review",
-  "url": "https://doi.org/10.1037/law0000109"
+  "url": "https://doi.org/10.1037/law0000109",
+  "id": "A5-064"
  },
  {
   "rank": 28,
-  "card": 193,
+  "card": 165,
   "title": "Fabricius (2020): A Child's Security with the Father Rises with Every Increment of Time Up to Equal Time",
   "source": "Fabricius WV, 2020, The Oxford Handbook of Children and the Law (Oxford University Press) — Arizona State University (United States)",
   "quotation": {
@@ -417,11 +444,12 @@
   },
   "why_it_matters": "Data from 1,030 young adults show emotional security with fathers improving with each increment of parenting time up to 50%, with no sufficient minimum short of equal time.",
   "evidence_level": "Chapter in a peer-reviewed academic handbook",
-  "url": "https://doi.org/10.1093/oxfordhb/9780190694395.013.22"
+  "url": "https://doi.org/10.1093/oxfordhb/9780190694395.013.22",
+  "id": "A5-173"
  },
  {
   "rank": 29,
-  "card": 136,
+  "card": 124,
   "title": "Northern Finland Birth Cohort (2001): Growing Up Without One Parent Raises Male Mortality and Suicide",
   "source": "Sauvola A, et al., 2001, European Journal of Public Health — University of Oulu, Northern Finland 1966 Birth Cohort and national death register (Finland)",
   "quotation": {
@@ -432,11 +460,12 @@
   },
   "why_it_matters": "Young men from single-parent backgrounds had 1.8 times the mortality and 2.5 times the suicide risk, so losing a parent's presence endangers life, not only well-being.",
   "evidence_level": "National registry study",
-  "url": "https://doi.org/10.1093/eurpub/11.3.284"
+  "url": "https://doi.org/10.1093/eurpub/11.3.284",
+  "id": "A4-075"
  },
  {
   "rank": 30,
-  "card": 132,
+  "card": 125,
   "title": "Comanor and Phillips (2002): The Father's Presence in the Home Is the Most Important Protection Against Delinquency; Income Matters Far Less",
   "source": "Comanor WS, Phillips L, 2002, Journal of Applied Economics — National Longitudinal Survey of Youth (United States)",
   "quotation": {
@@ -447,11 +476,12 @@
   },
   "why_it_matters": "The single most important factor in a youth's contact with the criminal justice system was the father's presence at home; income mattered far less, so financial support cannot replace the father.",
   "evidence_level": "Peer-reviewed study of a national longitudinal survey",
-  "url": "https://doi.org/10.1080/15140326.2002.12040577"
+  "url": "https://doi.org/10.1080/15140326.2002.12040577",
+  "id": "A4-071"
  },
  {
   "rank": 31,
-  "card": 133,
+  "card": 126,
   "title": "Antecol and Bedard (2007): Every Additional Five Years with the Father Lowers Smoking, Drug Use and Convictions",
   "source": "Antecol H, Bedard K, 2007, Journal of Population Economics — National Longitudinal Survey of Youth and Young Adult Supplement (United States)",
   "quotation": {
@@ -462,11 +492,12 @@
   },
   "why_it_matters": "Each additional five years with the biological father measurably reduces smoking, drinking, early sexual activity, marijuana use and conviction.",
   "evidence_level": "Peer-reviewed study of a national longitudinal survey",
-  "url": "https://link.springer.com/article/10.1007/s00148-005-0019-x"
+  "url": "https://link.springer.com/article/10.1007/s00148-005-0019-x",
+  "id": "A4-072"
  },
  {
   "rank": 32,
-  "card": 255,
+  "card": 262,
   "title": "European Court of Human Rights (2009): Granting the Mother Sole Custody Without Judicial Review Is Discrimination",
   "source": "European Court of Human Rights — Zaunegger v. Germany, no. 22028/04, 2009 (Council of Europe)",
   "quotation": {
@@ -477,11 +508,12 @@
   },
   "why_it_matters": "The Court held that automatically vesting sole custody in the mother, with no judicial review of the father's share, is discriminatory; Germany amended its Civil Code in 2013 as a result.",
   "evidence_level": "Binding judgment of an international court",
-  "url": "https://hudoc.echr.coe.int/eng?i=001-96020"
+  "url": "https://hudoc.echr.coe.int/eng?i=001-96020",
+  "id": "A5-142"
  },
  {
   "rank": 33,
-  "card": 262,
+  "card": 263,
   "title": "German Federal Court of Justice (2017): Equal Alternating Residence May Be Ordered Despite One Parent's Objection",
   "source": "Bundesgerichtshof (Federal Court of Justice), Beschluss XII ZB 601/15, 2017 (Germany)",
   "quotation": {
@@ -492,11 +524,12 @@
   },
   "why_it_matters": "Germany's highest civil court held that equal alternating residence can be ordered over one parent's objection when it best serves the child, because both parents hold parental authority equally.",
   "evidence_level": "Supreme court ruling",
-  "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2017/2017025.html"
+  "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2017/2017025.html",
+  "id": "A5-149"
  },
  {
   "rank": 34,
-  "card": 246,
+  "card": 264,
   "title": "Spanish Supreme Court (2013): Joint Custody Is the Norm",
   "source": "Tribunal Supremo (Supreme Court), Civil Chamber, Judgment 257/2013, 2013 (Spain)",
   "quotation": {
@@ -507,11 +540,12 @@
   },
   "why_it_matters": "Spain's Supreme Court held that joint custody is the normal and desirable arrangement because it gives effect to children's right to relations with both parents.",
   "evidence_level": "Binding judicial ruling",
-  "url": "https://www.iberley.es/jurisprudencia/guarda-custodia-compartida-interes-menores-sentencia-civil-n-257-2013-ts-sala-civil-sec-1-rec-2525-2011-29-04-2013-11970411"
+  "url": "https://www.iberley.es/jurisprudencia/guarda-custodia-compartida-interes-menores-sentencia-civil-n-257-2013-ts-sala-civil-sec-1-rec-2525-2011-29-04-2013-11970411",
+  "id": "A5-012"
  },
  {
   "rank": 35,
-  "card": 268,
+  "card": 265,
   "title": "European Court of Human Rights, Grand Chamber (2000): A Five-Year-Old's Rejection of His Father Cannot Be Decisive Without Psychological Expertise",
   "source": "European Court of Human Rights, Grand Chamber — Elsholz v. Germany, no. 25735/94, 2000 (Council of Europe)",
   "quotation": {
@@ -522,11 +556,12 @@
   },
   "why_it_matters": "Denying a father contact on the strength of a young child's stated refusal, without psychological expert evidence, violated the father's rights; a child's stated wish is not decisive on its own.",
   "evidence_level": "Binding judgment of an international court",
-  "url": "https://hudoc.echr.coe.int/eng?i=001-58763"
+  "url": "https://hudoc.echr.coe.int/eng?i=001-58763",
+  "id": "A5-186"
  },
  {
   "rank": 36,
-  "card": 271,
+  "card": 266,
   "title": "Andhra Pradesh High Court (1982): Under Islamic Law, the Father Is Entitled to Custody of a Boy After Seven",
   "source": "High Court of Andhra Pradesh, Division Bench (Letters Patent Appeal), judgment by Raghuvir J., 1982 (India)",
   "quotation": {
@@ -537,11 +572,12 @@
   },
   "why_it_matters": "A court applying Islamic law held that after seven the father is entitled to custody and that \"ordinarily, the children are to be with the father\", and ordered the boy handed to him.",
   "evidence_level": "High Court ruling (appellate division bench)",
-  "url": "https://indiankanoon.org/doc/991616/"
+  "url": "https://indiankanoon.org/doc/991616/",
+  "id": "A5-189"
  },
  {
   "rank": 37,
-  "card": 273,
+  "card": 267,
   "title": "Telangana High Court (2024): The Father Is Entitled to Custody After Seven and Is the Natural Guardian",
   "source": "High Court for the State of Telangana, Division Bench — P. Sam Koshy and Sambasivarao Naidu JJ., 2024 (India)",
   "quotation": {
@@ -552,11 +588,12 @@
   },
   "why_it_matters": "A 2024 judgment restates the rule that after seven the father is entitled to custody and is the natural guardian, while widening the maternal grandparents' visitation.",
   "evidence_level": "High Court ruling (two-judge division bench)",
-  "url": "https://indiankanoon.org/doc/82098008/"
+  "url": "https://indiankanoon.org/doc/82098008/",
+  "id": "A5-191"
  },
  {
   "rank": 38,
-  "card": 272,
+  "card": 268,
   "title": "Bombay High Court (2007): Custody of a Boy Over Seven Goes to the Father; the Minor's Wish Is Not Decisive",
   "source": "High Court of Judicature at Bombay — V.R. Kingaonkar J., 2007 (India)",
   "quotation": {
@@ -567,11 +604,12 @@
   },
   "why_it_matters": "The Court gave the son over seven to his father, on condition of enrolment in a regular school and with the mother's weekly visits, while the younger children stayed with their mother — an age-based division matching classical jurisprudence.",
   "evidence_level": "High Court ruling",
-  "url": "https://indiankanoon.org/doc/225602/"
+  "url": "https://indiankanoon.org/doc/225602/",
+  "id": "A5-190"
  },
  {
   "rank": 39,
-  "card": 330,
+  "card": 341,
   "title": "Al-Durr al-Mukhtar: Seven and Nine — \"And on This the Fatwa Is Given\"",
   "source": "Al-Haskafi (d. 1088 AH), Al-Durr al-Mukhtar — Hanafi school",
   "quotation": {
@@ -582,11 +620,12 @@
   },
   "why_it_matters": "This is the position on which fatwas are given in the Hanafi school applied in Egypt: seven for the boy and nine for the girl.",
   "evidence_level": "Authoritative juristic text",
-  "url": "https://shamela.ws/book/21613/1848"
+  "url": "https://shamela.ws/book/21613/1848",
+  "id": "A1-009"
  },
  {
   "rank": 40,
-  "card": 328,
+  "card": 342,
   "title": "Al-Bahr al-Ra'iq: The Fatwa Is on Seven Because the Father Is Commanded to Order Him to Pray",
   "source": "Ibn Nujaym, Al-Bahr al-Ra'iq — Hanafi school",
   "quotation": {
@@ -597,11 +636,12 @@
   },
   "why_it_matters": "Ibn Nujaym grounds the age of seven in the Prophetic command to teach prayer at seven, which the father can only fulfil if the child lives with him.",
   "evidence_level": "Authoritative juristic text",
-  "url": "https://islamweb.net/ar/library/content/29/2269/"
+  "url": "https://islamweb.net/ar/library/content/29/2269/",
+  "id": "A1-035"
  },
  {
   "rank": 41,
-  "card": 404,
+  "card": 394,
   "title": "Kashshaf al-Qina': Seven Was Chosen Because It Is the First Stage at Which the Law Addresses the Child with Prayer",
   "source": "Mansur ibn Yunus al-Buhuti (d. 1051 AH), Kashshaf al-Qina' — Hanbali school (relied upon for fatwa)",
   "quotation": {
@@ -612,11 +652,12 @@
   },
   "why_it_matters": "The text ties the custody limit expressly to the age of the command to pray and explains the mother's precedence by the young child's physical needs; when those needs end, so does the precedence.",
   "evidence_level": "Authoritative juristic text (principal fatwa reference of the Hanbali school)",
-  "url": "https://shamela.ws/book/21642/2667"
+  "url": "https://shamela.ws/book/21642/2667",
+  "id": "A1-063"
  },
  {
   "rank": 42,
-  "card": 300,
+  "card": 292,
   "title": "Fatwa of the Grand Mufti Ahmad Hureidi (1967): Women's Right of Custody Is Limited to Seven for the Boy and Nine for the Girl",
   "source": "Egyptian Dar al-Ifta — Grand Mufti Ahmad Hureidi, 1967; official collection of the Fatwas of Dar al-Ifta (Egypt)",
   "quotation": {
@@ -627,11 +668,12 @@
   },
   "why_it_matters": "Egypt's official fatwa authority still affirmed in 1967 that women's custody is limited to seven and nine, and that a custodian who refuses to hand over the child is ordered to do so by the judge.",
   "evidence_level": "Official fatwa of the State Mufti",
-  "url": "https://shamela.ws/book/432/705"
+  "url": "https://shamela.ws/book/432/705",
+  "id": "A1-061"
  },
  {
   "rank": 43,
-  "card": 301,
+  "card": 317,
   "title": "Al-Abyani: The Child Is Handed to the Father at Seven and Nine, and the Father Is Compelled to Take Him",
   "source": "Muhammad Zayd al-Abyani (d. 1355 AH), commentary on Qadri Pasha's codification of personal status rules — Hanafi school (Egypt)",
   "quotation": {
@@ -642,11 +684,12 @@
   },
   "why_it_matters": "The commentator whose work underpinned Egypt's former Sharia courts makes the transfer to the father at seven and nine a right of the child, enforceable against the father himself.",
   "evidence_level": "Authoritative juristic commentary",
-  "url": "https://sites.dlib.nyu.edu/viewer/books/aub_aco001343/display?lang=ar"
+  "url": "https://sites.dlib.nyu.edu/viewer/books/aub_aco001343/display?lang=ar",
+  "id": "A1-049"
  },
  {
   "rank": 44,
-  "card": 349,
+  "card": 358,
   "title": "Al-Mudawwana: The Father Educates Him by Day and He Sleeps at His Mother's",
   "source": "Imam Malik, as transmitted by Ibn al-Qasim in Al-Mudawwana — Maliki school",
   "quotation": {
@@ -657,11 +700,12 @@
   },
   "why_it_matters": "Imam Malik himself describes a divided arrangement — days with the father for education, nights with the mother — showing that the Maliki school does not keep the father away from his child until puberty.",
   "evidence_level": "Authoritative juristic text",
-  "url": "https://www.islamweb.net/ar/library/content/30/2321/ما-جاء-في-حضانة-الأم"
+  "url": "https://www.islamweb.net/ar/library/content/30/2321/ما-جاء-في-حضانة-الأم",
+  "id": "A4-018"
  },
  {
   "rank": 45,
-  "card": 381,
+  "card": 395,
   "title": "Al-Kafi: At Seven the Girl Stays with Her Father Without Being Given a Choice",
   "source": "Ibn Qudama, Al-Kafi — Hanbali school",
   "quotation": {
@@ -672,11 +716,12 @@
   },
   "why_it_matters": "Ibn Qudama places the girl with her father at seven without a choice because her interest lies in his protection, while preserving the mother's visits and her right to nurse the girl.",
   "evidence_level": "Authoritative juristic text",
-  "url": "https://shamela.ws/book/21731/1137"
+  "url": "https://shamela.ws/book/21731/1137",
+  "id": "A1-040"
  },
  {
   "rank": 46,
-  "card": 237,
+  "card": 219,
   "title": "Islamic Family Law of Malaysia (1984): Women's Custody Ends at Seven for a Boy and Nine for a Girl",
   "source": "Islamic Family Law (Federal Territories) Act 1984 (Malaysia)",
   "quotation": {
@@ -687,11 +732,12 @@
   },
   "why_it_matters": "A contemporary Muslim-majority state codifies the classical rule in force today: custody by the female custodian ends at seven for a boy and nine for a girl, and then passes to the father.",
   "evidence_level": "Statute in force",
-  "url": "https://www.ius.uzh.ch/dam/jcr:00000000-573e-dcae-0000-00004dd0afc8/Act303.pdf"
+  "url": "https://www.ius.uzh.ch/dam/jcr:00000000-573e-dcae-0000-00004dd0afc8/Act303.pdf",
+  "id": "A5-156"
  },
  {
   "rank": 47,
-  "card": 225,
+  "card": 220,
   "title": "Abu Dhabi: Joint Custody as the Default",
   "source": "Abu Dhabi Civil Personal Status Law, 2021, applied by the Abu Dhabi Family Court (United Arab Emirates)",
   "quotation": {
@@ -702,11 +748,12 @@
   },
   "why_it_matters": "Abu Dhabi makes joint and equal custody the default after divorce, showing that equal shared parenting is already law in an Arab jurisdiction.",
   "evidence_level": "Statute in force",
-  "url": "https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf"
+  "url": "https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf",
+  "id": "A5-018"
  },
  {
   "rank": 48,
-  "card": 113,
+  "card": 98,
   "title": "Official Spanish Statistics (2025 data): Joint Custody in More than Half of Divorces — 50.8%",
   "source": "Instituto Nacional de Estadística (INE), Statistics on Annulments, Separations and Divorces, published 2026 (Spain)",
   "quotation": {
@@ -717,11 +764,12 @@
   },
   "why_it_matters": "In Spain, alternating-residence joint custody is now the most common outcome of divorces involving children, ahead of sole maternal custody.",
   "evidence_level": "Official state statistics",
-  "url": "https://www.ine.es/dyngs/Prensa/ENSD2025.htm"
+  "url": "https://www.ine.es/dyngs/Prensa/ENSD2025.htm",
+  "id": "A5-193"
  },
  {
   "rank": 49,
-  "card": 230,
+  "card": 221,
   "title": "Arkansas Law (2021): Presumption of Joint Custody",
   "source": "Arkansas Act 604 of 2021, amending Ark. Code § 9-13-101 (United States)",
   "quotation": {
@@ -732,11 +780,12 @@
   },
   "why_it_matters": "Arkansas makes joint custody — an approximately equal division of time — a presumption rebuttable only by clear and convincing evidence.",
   "evidence_level": "Statute in force",
-  "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2021R%2FPublic%2F&file=604.pdf&ddBienniumSession=2021%2F2021R"
+  "url": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2021R%2FPublic%2F&file=604.pdf&ddBienniumSession=2021%2F2021R",
+  "id": "A5-040"
  },
  {
   "rank": 50,
-  "card": 197,
+  "card": 206,
   "title": "Council of Europe (2015): Shared Residence as the Default",
   "source": "Parliamentary Assembly of the Council of Europe, Resolution, 2015",
   "quotation": {
@@ -747,6 +796,7 @@
   },
   "why_it_matters": "Parliamentarians from 46 European states call on member states to introduce the principle of shared residence after separation into law, with limited exceptions.",
   "evidence_level": "International parliamentary resolution",
-  "url": "https://pace.coe.int/files/22220/html"
+  "url": "https://pace.coe.int/files/22220/html",
+  "id": "A5-004"
  }
 ]

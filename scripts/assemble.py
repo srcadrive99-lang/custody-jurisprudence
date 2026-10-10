@@ -21,11 +21,15 @@ TITLE_OLD='حول سن الحضانة والرعاية المشتركة'
 MN='<span class="mn">بالمناصفة</span>'
 
 # ---------------- sections ----------------
-SECTIONS=[  # key, name, acc, accd, tint, tint2, cover gradient (c1,c2), one-line cover blurb, toc blurb, opener blurb
+SECTIONS=[
  dict(key='med',  name='خبراء الطب', acc='#B00010', accd='#7E000B', g=('#FDEDEE','#F6CACE'),
       blurb='البلوغ يتبكر، والأب شريك في صحة ولده'),
+ dict(key='body', name='جسد الطفل يشهد', acc='#00796B', accd='#004D40', g=('#E0F2F1','#B2DFDB'),
+      blurb='السابعة علامة في الجسد: الأسنان والغدد والاستقلال بالنفس'),
  dict(key='psy',  name='خبراء علم النفس', acc='#5B4B9A', accd='#3F3370', g=('#F0ECFA','#D8CDF1'),
       blurb='سن العقل عند السابعة، والتعلق بالأب من السنة الأولى'),
+ dict(key='school', name='المدرسة والتعليم', acc='#D81B60', accd='#9C1145', g=('#FCE4EC','#F8BBD0'),
+      blurb='العالم يدخل الطفل المدرسة بين الخامسة والسابعة'),
  dict(key='soc',  name='خبراء علوم المجتمع والإنسان', acc='#B4541A', accd='#7E3A12', g=('#FDF0E6','#F6D3B8'),
       blurb='الطفولة تنتهي نحو السابعة، وغياب الأب يضر'),
  dict(key='harm', name='أضرار حرمان الطفل من أبيه', acc='#5C4033', accd='#3E2B22', g=('#F7F0EB','#E6D3C6'),
@@ -36,12 +40,14 @@ SECTIONS=[  # key, name, acc, accd, tint, tint2, cover gradient (c1,c2), one-lin
       blurb='حق الطفل في والديه معا'),
  dict(key='law',  name='التشريعات المقارنة', acc='#8A6418', accd='#5F4510', g=('#FBF3E2','#EEDDB4'),
       blurb='من لندن إلى بوينس آيرس: الأصل مشاركة الوالدين'),
+ dict(key='tamyiz', name='سن التمييز في قوانين العالم', acc='#1A237E', accd='#0D1452', g=('#E8EAF6','#C5CAE9'),
+      blurb='قوانين الشرق والغرب تجعل السابعة حد التمييز والمسؤولية'),
  dict(key='court',name='القضاء', acc='#17697A', accd='#0F4A56', g=('#E3F4F7','#BFE1E8'),
       blurb='صحبة الوالد وولده من صميم الحياة الأسرية'),
  dict(key='azhar', name='فتاوى الأزهر ودار الإفتاء المصرية', acc='#7B2D26', accd='#561F1A', g=('#F8EDEB','#EBCFCA'),
       blurb='شيوخ الأزهر ومفتو الديار المصرية: سبع وتسع، ثم الضم إلى الأب'),
- dict(key='eg',   name='مصر: الفقه والقانون', acc='#3A4B52', accd='#26333A', g=('#EEF1F2','#D5DCDF'),
-      blurb='مصر نفسها تشهد: سبع وتسع، ورعاية الوالدين معا'),
+ dict(key='eg',   name='فقه علماء مصر', acc='#3A4B52', accd='#26333A', g=('#EEF1F2','#D5DCDF'),
+      blurb='علماء مصر يشهدون: سبع للغلام وتسع للجارية'),
  dict(key='f1',   name='القرآن والسنة والآثار', acc='#0F5C3A', accd='#0A3F28', g=('#E6F3EC','#C3E2D0'),
       blurb='النص المؤسس: الولد لأبويه، وقطع الرحم محرم'),
  dict(key='f2',   name='الفقه الحنفي', acc='#1F6B5C', accd='#154A40', g=('#E3F3EC','#BFE0D2'),
@@ -57,9 +63,10 @@ SECTIONS=[  # key, name, acc, accd, tint, tint2, cover gradient (c1,c2), one-lin
  dict(key='hujaj', name='الأدلة المتضافرة', acc='#8B1E5B', accd='#601440', g=('#FBEAF3','#F0CDE0'),
       blurb='أدلة من كل الأقسام تلتقي على حكم واحد'),
 ]
+
 SEC={d['key']:d for d in SECTIONS}
 ORDER=[d['key'] for d in SECTIONS]
-AR_ORD=['الأول','الثاني','الثالث','الرابع','الخامس','السادس','السابع','الثامن','التاسع','العاشر','الحادي عشر','الثاني عشر','الثالث عشر','الرابع عشر','الخامس عشر','السادس عشر','السابع عشر']
+AR_ORD=['الأول','الثاني','الثالث','الرابع','الخامس','السادس','السابع','الثامن','التاسع','العاشر','الحادي عشر','الثاني عشر','الثالث عشر','الرابع عشر','الخامس عشر','السادس عشر','السابع عشر','الثامن عشر','التاسع عشر','العشرون']
 
 TOC_BLURB={
  'med':'من ابن سينا إلى منظمة الصحة العالمية وكبريات مجلات طب الأطفال: السابعة سن الاستعداد للتأديب والتعليم، والتاسعة عتبة البلوغ، وانخراط الأب في رعاية ولده من صحته.',
@@ -71,13 +78,16 @@ TOC_BLURB={
  'law':'تشريعات نافذة في أوروبا والأمريكتين وآسيا تجعل الأصل مشاركة الوالدين بالمناصفة أو تعظيم وقت كل والد، وتمنع تفضيل والد على الآخر بسبب جنسه.',
  'court':'محاكم عليا ودولية: صحبة الوالد وولده عنصر جوهري في الحياة الأسرية، وعلى الدولة أن تضمن تنفيذها فعلا، ولا تفضيل للأم لمجرد أنها أم.',
 'azhar':'فتاوى رسمية لشيوخ الأزهر ومفتي الديار المصرية في قضايا المصريين الحقيقية، من القرن التاسع عشر إلى ما قبل سنة 2000: حضانة النساء تنتهي بسبع للغلام وتسع للبنت، ثم يضمه أبوه ولو لم ترض الحاضنة، ولا تخيير للصغير، ولا يمنع أحد الأبوين الآخر من رؤية ولده.',
- 'eg':'شراح الفقه في مصر وتقنين قدري باشا: الغلام إلى أبيه في السابعة والجارية في التاسعة؛ وقانون الطفل المصري يقر حق الطفل في والديه معا.',
+ 'eg':'شراح الفقه في مصر وتقنين قدري باشا والشيخ أبو زهرة: الغلام إلى أبيه في السابعة والجارية في التاسعة.',
  'f1':'آيات في وجوب صلة الرحم وتحريم قطعها، وأحاديث في حق الأب وإثم من يضيع من يعول، وآثار الصحابة في تخيير الغلام بعد التمييز لا قبله.',
  'f2':'فقهاء الحنفية: تنتهي حضانة النساء للغلام إذا استغنى بنفسه في السابعة، وللجارية إذا بلغت أو شارفت البلوغ في التاسعة، ويضم إلى أبيه للتعليم والتأديب.',
  'f3':'فقهاء المالكية: الأب أقوم على تعليم الولد وتأديبه، والحضانة حق للمحضون لا للحاضنة، ولا يمنع الأب من ولده.',
  'f4':'فقهاء الشافعية: الحضانة فيما دون السبع، وبعدها الكفالة على الأب، فالتعليم والتأديب مما يجب على الأب القيام به.',
  'f5':'فقهاء الحنابلة: التمييز حد الحضانة، والجارية تضم إلى أبيها في السابعة لأنها أسبق نضجا، وصيانة الولد وتعليمه إلى الأب.',
 'hujaj':'أدلة متضافرة: كل بطاقة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
+ 'body':'الطب الحيوي وطب الأسنان وعلم الأحياء التطوري: بين السادسة والثامنة تتبدل أسنان الطفل وتنضج غدته الكظرية ويستقل بطعامه وضبط نفسه، فالسابعة علامة في الجسد كما هي حد في الفقه.',
+ 'school':'اليونسكو والبيانات العالمية ووزارة التعليم الأمريكية: العالم كله يدخل الطفل المدرسة بين الخامسة والسابعة، ومشاركة الأب في التعليم ترفع تحصيل الولد.',
+ 'tamyiz':'قوانين ألمانيا وباكستان ونيجيريا وبنغلاديش والهند وإنجلترا والقانون الكنسي: السابعة حد التمييز والأهلية والمسؤولية، وابن العاشرة يحاسب جنائيا.',
  'f6':'الموسوعات والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
 OPEN_BLURB={
@@ -90,13 +100,16 @@ OPEN_BLURB={
  'law':'تشريعات نافذة في أوروبا والأمريكتين وآسيا تجعل الأصل مشاركة الوالدين بالمناصفة أو تعظيم وقت كل والد، وتمنع تفضيل والد على الآخر بسبب جنسه.',
  'court':'محاكم عليا ودولية في أوروبا وأمريكا وكندا وألمانيا والبرازيل والهند: صحبة الوالد وولده عنصر جوهري في الحياة الأسرية، وعلى الدولة أن تضمن تنفيذها فعلا.',
 'azhar':'فتاوى رسمية لشيوخ الأزهر ومفتي الديار المصرية في قضايا المصريين الحقيقية، من القرن التاسع عشر إلى ما قبل سنة 2000: حضانة النساء تنتهي بسبع للغلام وتسع للبنت، ثم يضمه أبوه ولو لم ترض الحاضنة، ولا تخيير للصغير، ولا يمنع أحد الأبوين الآخر من رؤية ولده.',
- 'eg':'شراح الفقه في مصر وتقنين قدري باشا: الغلام إلى أبيه في السابعة والجارية في التاسعة؛ وقانون الطفل المصري يقر حق الطفل في والديه معا.',
+ 'eg':'شراح الفقه في مصر وتقنين قدري باشا والشيخ أبو زهرة: الغلام إلى أبيه في السابعة والجارية في التاسعة.',
  'f1':'النص المؤسس: آيات صلة الرحم وتحريم قطعها، وأحاديث حق الأب وإثم من يضيع من يعول، وآثار الصحابة في تخيير الغلام بعد التمييز لا قبله.',
  'f2':'فقهاء الحنفية: تنتهي حضانة النساء للغلام إذا استغنى بنفسه في السابعة، وللجارية إذا بلغت أو شارفت البلوغ في التاسعة، ويضم إلى أبيه للتعليم والتأديب.',
  'f3':'فقهاء المالكية: الأب أقوم على تعليم الولد وتأديبه، والحضانة حق للمحضون لا للحاضنة، ولا يمنع الأب من ولده ولا يقطع عن رحمه.',
  'f4':'فقهاء الشافعية: الحضانة فيما دون السبع، وبعدها الكفالة على الأب سواء اختاره الولد أو اختار أمه، فالتعليم والتأديب مما يجب على الأب القيام به.',
  'f5':'فقهاء الحنابلة: التمييز حد الحضانة، والجارية تضم إلى أبيها في السابعة لأنها أسبق نضجا، وصيانة الولد وتعليمه إلى الأب لا إلى الحاضنة.',
 'hujaj':'أدلة متضافرة: كل بطاقة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
+ 'body':'الطب الحيوي وطب الأسنان وعلم الأحياء التطوري: بين السادسة والثامنة تتبدل أسنان الطفل وتنضج غدته الكظرية ويستقل بطعامه وضبط نفسه، فالسابعة علامة في الجسد كما هي حد في الفقه.',
+ 'school':'اليونسكو والبيانات العالمية ووزارة التعليم الأمريكية: العالم كله يدخل الطفل المدرسة بين الخامسة والسابعة، ومشاركة الأب في التعليم ترفع تحصيل الولد.',
+ 'tamyiz':'قوانين ألمانيا وباكستان ونيجيريا وبنغلاديش والهند وإنجلترا والقانون الكنسي: السابعة حد التمييز والأهلية والمسؤولية، وابن العاشرة يحاسب جنائيا.',
  'f6':'الموسوعات الفقهية والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
 
@@ -389,7 +402,7 @@ def stats_page(base_stats, cards_meta, counts, page, pages):
     s=re.sub(r'<span class="fid">.*?</span>',f'<span class="fid">الإحصاءات · صفحة {page} من {pages}</span>',s)
     return s
 
-EXTRA_CSS=('.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}.sec-hujaj .hs .ico{display:inline-block;width:22px;height:15px;vertical-align:-3px;margin-left:5px;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
+EXTRA_CSS=('.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-body{--acc:#00796B;--accd:#004D40;--tint:#E0F2F1;--tint2:#F2FAF9}.sec-school{--acc:#D81B60;--accd:#9C1145;--tint:#FCE4EC;--tint2:#FEF4F7}.sec-tamyiz{--acc:#1A237E;--accd:#0D1452;--tint:#E8EAF6;--tint2:#F5F6FC}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}.sec-hujaj .hs .ico{display:inline-block;width:22px;height:15px;vertical-align:-3px;margin-left:5px;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.srcl.has-ico{position:relative;padding-left:40px}.srcl .ico{position:absolute;left:9px;top:50%;transform:translateY(-50%);width:26px;height:17.3px;display:block;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.mn{font-family:\'AmiriE\',\'CairoE\',serif;font-weight:700;font-size:1.12em;line-height:1;color:#C40000}'
            '.chip .mn{font-size:1.05em;color:inherit}.st1 .mn{color:inherit}.fid .mn{font-size:1em;color:inherit}.argt .mn,.about .mn,.tt .mn{color:#9A0000}'
@@ -405,6 +418,24 @@ def fiqh_subkey(meta):
     if 'الحنبلي' in j: return 'f5'
     if any(k in j for k in ['القرآن','السنة','آثار','شروح الحديث','التفسير']) or cat in ('قرآن','حديث','أثر','حديث وشرح','تفسير'): return 'f1'
     return 'f6'
+
+
+MOVE={'A5-157':'tamyiz','A5-158':'tamyiz','A5-161':'tamyiz','A4-058':'school','A2-072':'body','A2-042':'body','A2-043':'body'}
+def _top_rank():
+    try:
+        D=json.load(open('/home/claude/work/build/nuqul_7_9.json',encoding='utf8'))
+        num2id={x['card_number']:x['id'] for x in D['entries'] if x.get('card_number')}
+        T=json.load(open('/home/claude/work/build/tools/top50.json',encoding='utf8'))
+        return {(r.get('id') or num2id.get(r['n'])):r['rank'] for r in T}
+    except Exception: return {}
+TOPRANK=_top_rank()
+LVT=[('القرآن',0),('قرآن',0),('حديث',1),('فتوى رسمية',2),('محكمة عليا',3),('قضاء دولي',3),('معاهدة',4),('تشريع',4),('نص قانوني',4),('تعريف رسمي',5),('إحصاء رسمي',5),('تحليل جامع',6),('مراجعة منهجية',6),('مراجعة منظمة',6),('سجلات',7),('متابعة وطنية',7),('قرار برلماني',8),('تقرير رسمي',8),('بيان طبي',8),('إرشاد رسمي',8)]
+def strength_key(i, m, pos):
+    m=m or {}
+    lv=(m.get('evidence_level') or m.get('level') or '')
+    tier=next((t for k,t in LVT if k in lv),9)
+    st=m.get('strength','')
+    return (0 if i in TOPRANK else 1, TOPRANK.get(i,999), 0 if st in ('explicit_7','explicit_9') else 1, tier, pos)
 
 def main():
     hm,secs_m,tail_m=split_sections(open(BASE_M,encoding='utf8').read())
@@ -425,10 +456,16 @@ def main():
         if i in OV['retire']: continue
         key=re.search(r'sec-(\w+)',h).group(1)
         if key=='fiqh': key=fiqh_subkey(META.get(i))
+        key=MOVE.get(i,key)
         if i in replaced: groups[key].append(('new',i,replaced.pop(i)))  # old card replaced in place
         else: groups[key].append(('old',i,h))
     for e in new:
-        if e['id'] in replaced: groups[e['sec']].append(('new',e['id'],e))
+        if e['id'] in replaced: groups[MOVE.get(e['id'],e['sec'])].append(('new',e['id'],e))
+    # strongest first inside every section (the knockout section keeps its composed order)
+    for k in groups:
+        if k=='hujaj': continue
+        idx={i:n for n,(kind,i,h) in enumerate(groups[k])}
+        groups[k].sort(key=lambda t: strength_key(t[1], META.get(t[1]) if t[0]=='old' else t[2], idx[t[1]]))
     # ordering of new within section: append at end (keeps old order)
     counts={k:len(v) for k,v in groups.items()}; total=sum(counts.values())
     # page numbering: cover=1, toc=2, then per section opener + cards, stats last
@@ -452,7 +489,7 @@ def main():
                     if isinstance(o,list): return [_rn(x) for x in o]
                     if isinstance(o,dict): return {k:_rn(v) for k,v in o.items()}
                     return o
-                e=_rn(h); cm=build_card(e,n,False)
+                e=_rn(h); e=dict(e); e['sec']=key; cm=build_card(e,n,False)
                 cm=set_number(cm,n,total,page,pages,add_mn(SEC[key]['name']),False)
                 cm=re.sub(r'<div class="st1">.*?</div>',lambda m:add_mn(m.group(0)),cm,count=1)
                 cm=re.sub(r'<div class="chips">.*?</div></div>',lambda m:add_mn(m.group(0)),cm,count=1,flags=re.S)
