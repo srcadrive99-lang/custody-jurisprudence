@@ -1,0 +1,127 @@
+[
+{
+"key": "bjs-1988-survey-youth-custody-70pct-without-both-parents",
+"category": "prisons",
+"author": "Allen J. Beck, Susan A. Kline, Lawrence A. Greenfeld — Bureau of Justice Statistics, U.S. Department of Justice",
+"year": "1988",
+"title_latin": "Survey of Youth in Custody, 1987",
+"where": "BJS Special Report, September 1988 (NCJ-113365) — section \"Characteristics of juveniles and young adults\" and Table 2",
+"jurisdiction": "الولايات المتحدة — مكتب إحصاءات العدالة بوزارة العدل",
+"quote": "Seven of every 10 juveniles and young adults primarily grew up in a household without both parents (table 2). Approximately 54.0% lived in single parent households--48.4% with their mothers and 5.6% with their fathers. In contrast to the incarcerated youth, 73.9% of the 62.8 million children in the Nation's resident population in 1986 were living with both parents.",
+"quote_ar": "سبعة من كل 10 من الأحداث والشباب [المحتجزين] نشؤوا في الغالب في بيت يفتقد أحد الوالدين أو كليهما (الجدول 2). نحو 54.0% عاشوا في بيوت فيها والد واحد: 48.4% مع أمهاتهم و5.6% مع آبائهم. وفي المقابل كان 73.9% من أطفال البلد البالغ عددهم 62.8 مليونا سنة 1986 يعيشون مع الوالدين معا.",
+"location": "قسم Characteristics of juveniles and young adults، والجدول 2 (في النص الممسوح ضوئيا خطأ قراءة في كلمة population صحح هنا)",
+"url": "https://bjs.ojp.gov/content/pub/pdf/syc87.pdf",
+"url2": "https://bjs.ojp.gov/library/publications/survey-youth-custody-1987-0",
+"about": "مسح رسمي وطني أجراه مكتب إحصاءات العدالة الأمريكي على الأحداث والشباب المحتجزين في مؤسسات الإصلاح الحكومية طويلة الأمد.",
+"level": "إحصاء رسمي للدولة",
+"argument": "70% من الأحداث المحتجزين نشؤوا بعيدا عن أحد الوالدين، مقابل نحو 26% فقط من أطفال البلد؛ وأغلبهم عاشوا مع الأم وحدها؛ فحرمان الولد من أبيه عامل خطر ظاهر، وهذا يؤيد ضمان بقاء الأب في حياة الولد بعد الفرقة.",
+"double_edged": ""
+},
+{
+"key": "ojjdp-2010-syrp-custody-risk-single-parent-558-vs-153",
+"category": "prisons",
+"author": "Andrea J. Sedlak, Carol Bruce — Office of Juvenile Justice and Delinquency Prevention (OJJDP), U.S. Department of Justice",
+"year": "2010",
+"title_latin": "Youth's Characteristics and Backgrounds: Findings From the Survey of Youth in Residential Placement",
+"where": "OJJDP Juvenile Justice Bulletin, December 2010 (NCJ 227730), p. 6 and Table 4",
+"jurisdiction": "الولايات المتحدة — مكتب قضاء الأحداث ومنع الجنوح بوزارة العدل",
+"quote": "... more youth were living with one parent (45 percent) than with two parents (30 percent) ... and one-fourth of youth (25 percent) were not living with any parent. ... the risk of being taken into custody is significantly greater for juveniles who live with a single parent (558 per 100,000) or with no parent (1,652 per 100,000) than for juveniles living in two-parent households (153 per 100,000).",
+"quote_ar": "... كان من يعيشون مع والد واحد (45%) أكثر ممن يعيشون مع والدين (30%) ... وربع الشباب (25%) لم يكونوا يعيشون مع أي من والديهم. ... وخطر الاحتجاز أكبر بفارق واضح عند الأحداث الذين يعيشون مع والد واحد (558 لكل 100,000) أو بلا والد (1,652 لكل 100,000) منه عند من يعيشون في بيت فيه الوالدان (153 لكل 100,000).",
+"location": "p. 6 (Family) — مع الحاشية 8: المقارنة بأرقام مكتب الإحصاء الأمريكي لمن أعمارهم 12–17",
+"url": "https://www.ojp.gov/pdffiles1/ojjdp/227730.pdf",
+"url2": "https://ojjdp.ojp.gov/library/publications/survey-youth-residential-placement-youth-characteristics-and-backgrounds",
+"about": "نشرة رسمية لمكتب قضاء الأحداث الأمريكي مبنية على المسح الوطني للشباب في أماكن الإيداع (SYRP) بعينة وطنية من المحتجزين.",
+"level": "إحصاء رسمي للدولة",
+"argument": "خطر احتجاز الولد الذي يعيش مع والد واحد نحو 3.6 أضعاف خطر من يعيش مع والديه، ومن لا يعيش مع أي منهما نحو 11 ضعفا؛ فبقاء الوالدين معا في حياة الولد حماية له، وهذا أساس الرعاية المشتركة بعد الفرقة.",
+"double_edged": ""
+},
+{
+"key": "ojjdp-2006-national-report-both-biological-parents-lower-offending",
+"category": "prisons",
+"author": "Howard N. Snyder, Melissa Sickmund — National Center for Juvenile Justice, for the Office of Juvenile Justice and Delinquency Prevention (OJJDP)",
+"year": "2006",
+"title_latin": "Juvenile Offenders and Victims: 2006 National Report",
+"where": "OJJDP, March 2006 (NCJ 212906) — Report Highlights, Chapter 3: Juvenile Offenders (full report p. 72)",
+"jurisdiction": "الولايات المتحدة — مكتب قضاء الأحداث ومنع الجنوح بوزارة العدل",
+"quote": "Juveniles who lived with both biological parents had lower lifetime prevalence of law-violating behaviors than did juveniles who lived in other family types.",
+"quote_ar": "الأحداث الذين عاشوا مع والديهم الحقيقيين معا كانت نسبة ارتكابهم لأفعال مخالفة للقانون طوال حياتهم أقل من الأحداث الذين عاشوا في أنواع الأسر الأخرى.",
+"location": "Report Highlights — Chapter 3, p. 72 of the full report",
+"url": "https://ojjdp.ojp.gov/ojstatbb/nr2006/downloads/nr2006_hl.pdf",
+"url2": "https://ojp.gov/index%2ephp/node/1146836",
+"about": "التقرير الوطني الدوري الذي تصدره وزارة العدل الأمريكية عن الأحداث الجانحين والضحايا، وهو المرجع الرسمي الجامع لإحصاءات قضاء الأحداث هناك.",
+"level": "إحصاء رسمي للدولة",
+"argument": "تقرير رسمي يقرر أن نشأة الولد مع أبيه وأمه معا تقترن بأقل نسبة من الجنوح؛ فإبعاد الأب عن الولد بعد الفرقة يحرمه من هذه الوقاية.",
+"double_edged": ""
+},
+{
+"key": "mackenzie-chamberlain-2008-homeless-students-single-parent-blended",
+"category": "homelessness",
+"author": "David MacKenzie, Chris Chamberlain",
+"year": "2008",
+"title_latin": "Youth Homelessness 2006",
+"where": "Youth Studies Australia, Vol. 27, Issue 1 (March 2008), pp. 17-25 — abstract as indexed by NCJRS (U.S. Department of Justice)",
+"jurisdiction": "أستراليا — التعداد الوطني الثالث للطلاب المشردين",
+"quote": "This article presents the main findings from Australia's third national census of homeless school students ... Three groups of students were overrepresented in the homeless population: Indigenous (native) students, youth from single-parent and blended families, and teens who had been under government care and protection.",
+"quote_ar": "يعرض هذا المقال النتائج الرئيسة للتعداد الوطني الثالث في أستراليا للطلاب المشردين ... ثلاث فئات من الطلاب كانت نسبتها بين المشردين أعلى من نسبتها في المجتمع: طلاب السكان الأصليين، والشباب من الأسر ذات الوالد الواحد والأسر المعاد تكوينها [بزواج أحد الوالدين من جديد]، والمراهقون الذين كانوا تحت رعاية الدولة وحمايتها.",
+"location": "Abstract",
+"url": "https://ojp.gov/ncjrs/virtual-library/abstracts/youth-homelessness-2006",
+"url2": "",
+"about": "ماكنزي وتشامبرلين هما الباحثان اللذان أعدا التعدادات الوطنية الأسترالية للطلاب المشردين (2001 و2006) وتعتمد عليها الجهات الرسمية هناك؛ والملخص مفهرس في المكتبة الرقمية لوزارة العدل الأمريكية.",
+"level": "دراسة سجلات وطنية",
+"argument": "تعداد وطني شمل نحو 2,000 مدرسة يبين أن أبناء الأسر التي غاب عنها أحد الوالدين أو تفككت أكثر تعرضا للتشرد؛ فتفكك الأسرة وانقطاع الولد عن أحد والديه عامل خطر، وهذا يدعو إلى حفظ صلة الولد بوالديه كليهما بعد الفرقة.",
+"double_edged": ""
+},
+{
+"key": "shelton-2009-addhealth-separation-from-parents-homelessness",
+"category": "homelessness",
+"author": "Katherine H. Shelton, Pamela J. Taylor, Adrian Bonner, Marianne van den Bree",
+"year": "2009",
+"title_latin": "Risk factors for homelessness: evidence from a population-based study",
+"where": "Psychiatric Services, 60(4), 465–472 — doi:10.1176/appi.ps.60.4.465",
+"jurisdiction": "الولايات المتحدة — الدراسة الوطنية لصحة المراهقين (Add Health)؛ باحثون من جامعة كارديف",
+"quote": "Several factors related to childhood experiences of poor family functioning, socioeconomic disadvantage, and separation from parents or caregivers were independently associated with ever being homeless. ... The findings underscore the relationship between specific indicators of adversity in childhood and risk of homelessness and point to the importance of early intervention efforts.",
+"quote_ar": "عدة عوامل مرتبطة بتجارب الطفولة — ضعف أداء الأسرة، والعسر المادي، والانفصال عن الوالدين أو من يرعى الطفل — ارتبطت كل منها مستقلة عن غيرها بالتعرض للتشرد في أي وقت. ... وتؤكد النتائج الصلة بين علامات بعينها من الشدائد في الطفولة وخطر التشرد، وتدل على أهمية التدخل المبكر.",
+"location": "Abstract — Results and Conclusions",
+"url": "https://orca.cardiff.ac.uk/id/eprint/11608/",
+"url2": "https://doi.org/10.1176/appi.ps.60.4.465",
+"about": "دراسة محكمة في مجلة الخدمات النفسية التابعة للجمعية الأمريكية للطب النفسي، على عينة وطنية أمريكية من نحو 14,900 شاب؛ والرابط سجلها في المستودع الرسمي لجامعة كارديف.",
+"level": "دراسة على عينة وطنية",
+"argument": "انفصال الطفل عن أحد والديه عامل خطر مستقل للتشرد في الشباب؛ فالحفاظ على صلة الطفل بأبيه وأمه معا بعد الفرقة — لا قطعه عن أحدهما — وقاية له.",
+"double_edged": ""
+},
+{
+"key": "_rejected",
+"items": [
+ {
+  "source": "Williams K, Papadopoulou V, Booth N. Prisoners' childhood and family backgrounds (SPCR), Ministry of Justice Research Series 4/12, 2012 (read via readkong mirror; official PDF on assets.publishing.service.gov.uk blocked)",
+  "why": "Double-edged: 47% of prisoners say they lived with both natural parents and the report gives no general-population comparison; this exact figure is used publicly to rebut father-absence claims (Express & Star / Full Fact check of a '90% grew up without father' claim). The report also notes the family member with a criminal/alcohol problem was most often the father or step-father.",
+  "text": "\"Forty-seven per cent of the prisoners stated that they had lived with both natural parents\" (p. 7); \"In 41% of cases, the person with the alcohol problem was the prisoner's father or step-father,\" (p. 13); fact check: \"The SPCR survey appears to show a very different figure from Ms Badenoch's claim.\""
+ },
+ {
+  "source": "Beck A. et al. Survey of State Prison Inmates, 1991, BJS NCJ-136949 (https://bjs.ojp.gov/content/pub/pdf/SOSPI91.PDF)",
+  "why": "Double-edged: it compares father-only homes unfavourably with mother-only homes on parental substance abuse.",
+  "text": "\"Thirty-seven percent of inmates who lived with their father reported substance abuse in the home\" \"compared to 27% of those who lived with their mother and 34% of those who had other living arrangements.\""
+ },
+ {
+  "source": "James DJ. Profile of Jail Inmates, 2002, BJS NCJ 201932 (https://bjs.ojp.gov/redirect-legacy/content/pub/pdf/pji02.pdf)",
+  "why": "Weak and quotable against: 43.6% grew up with both parents, with no general-population comparison in the report (same problem as SPCR). Useful only as background (56% single-parent or guardian).",
+  "text": "Table 15: Both parents 43.6% (2002); \"56% of jail inmates said they grew up in a single-parent household or with a guardian.\""
+ },
+ {
+  "source": "NSW Justice Health & Juvenile Justice, 2015 Young People in Custody Health Survey (factsheet and full report)",
+  "why": "Main family finding is parental imprisonment (54% had a parent in prison) — usable by opponents to argue that fathers are a danger; no data on living with both parents in the readable text.",
+  "text": "\"54% have had a parent in prison.\""
+ },
+ {
+  "source": "Vostanis P, Grattan E, Cumella S. Mental health problems of homeless children and families, BMJ 1998;316:899 (PMC28492)",
+  "why": "Double-edged: single-mother families overrepresented, but the paper centres domestic violence and protection from violence and studied mothers only; opponents can read it as a case against fathers.",
+  "text": "Conclusions call for rapid rehousing, social support, health care and \"protection from violence\"; analysis limited to mothers because few fathers took part."
+ },
+ {
+  "source": "Hammer H, Finkelhor D, Sedlak AJ. Runaway/Thrownaway Children (NISMART-2), OJJDP 2002 (196469.pdf); Tucker JS et al. 2011 J Youth Adolesc; Brakenhoff B et al. 2015 J Youth Stud; Bearsley-Smith CA et al. 2008 Eur Child Adolesc Psychiatry; Sheahan & Wardrop CSC R-445 (2023)",
+  "why": "Not usable: no family-structure text in the readable version (NISMART, CSC), risk factor phrased only as 'lack of parental support' (Tucker), or the abstract could not be read verbatim (Brakenhoff: publisher bars reprint; Bearsley-Smith: page did not load).",
+  "text": ""
+ }
+]
+}
+]

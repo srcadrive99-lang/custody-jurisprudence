@@ -7978,5 +7978,589 @@
   "fam": "west",
   "axis": 5,
   "hujaj": true
+ },
+ {
+  "id": "A4-079",
+  "sec": "harm",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — وزارة العدل، مكتب إحصاءات العدالة",
+  "title": "مكتب إحصاءات العدالة الأمريكي 1988 — 7 من كل 10 أحداث محتجزين نشؤوا بلا والديهم معا، وأكثرهم مع الأم وحدها",
+  "ot": "\"Seven of every 10 juveniles and young adults primarily grew up in a household without both parents (table 2). Approximately 54.0% lived in single parent households--48.4% with their mothers and 5.6% with their fathers. In contrast to the incarcerated youth, 73.9% of the 62.8 million children in the Nation's resident population in 1986 were living with both parents.\"",
+  "ltr": true,
+  "tt": "«سبعة من كل 10 من الأحداث والشباب [المحتجزين] نشؤوا في الغالب في بيت يفتقد أحد الوالدين أو كليهما (الجدول 2). نحو 54.0% عاشوا في بيوت فيها والد واحد: 48.4% مع أمهاتهم و5.6% مع آبائهم. وفي المقابل كان 73.9% من أطفال البلد البالغ عددهم 62.8 مليونا سنة 1986 يعيشون مع الوالدين معا.»",
+  "src": {
+   "author": "Beck AJ, Kline SA, Greenfeld LA — Bureau of Justice Statistics",
+   "year": "1988",
+   "jur": "الولايات المتحدة — وزارة العدل، مكتب إحصاءات العدالة",
+   "title_latin": "Survey of Youth in Custody, 1987",
+   "sw": "",
+   "where": "BJS Special Report NCJ-113365, September 1988 — Table 2",
+   "latin": true
+  },
+  "about": "تقرير رسمي من مكتب إحصاءات العدالة في وزارة العدل الأمريكية، مبني على مسح وطني لكل نزلاء مؤسسات احتجاز الأحداث الحكومية الطويلة الأمد.",
+  "level": "إحصاء رسمي للدولة",
+  "links": [
+   {
+    "url": "https://bjs.ojp.gov/content/pub/pdf/syc87.pdf",
+    "label": "نص التقرير الرسمي",
+    "site": "مكتب إحصاءات العدالة الأمريكي",
+    "domain": "bjs.ojp.gov"
+   },
+   {
+    "url": "https://bjs.ojp.gov/library/publications/survey-youth-custody-1987-0",
+    "label": "صفحة التقرير",
+    "site": "مكتب إحصاءات العدالة الأمريكي",
+    "domain": "bjs.ojp.gov"
+   }
+  ],
+  "arg": "ثلاثة أرباع أطفال أمريكا كانوا يعيشون مع والديهم معا، أما في سجون الأحداث فأقل من الثلث، ونحو نصف المحتجزين نشؤوا مع الأم وحدها؛ فغياب الأب عن نشأة الولد يلازمه دخول السجن، والوقاية بقاء الأب في حياة ولده بعد الفراق.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-080",
+  "sec": "harm",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim",
+   "shared_parenting"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — وزارة العدل، مكتب قضاء الأحداث ومنع الجنوح",
+  "title": "مكتب قضاء الأحداث الأمريكي 2010 — خطر احتجاز الحدث الذي يعيش مع والد واحد 3.6 أضعاف خطره مع والديه",
+  "ot": "\"more youth were living with one parent (45 percent) than with two parents (30 percent) ... the risk of being taken into custody is significantly greater for juveniles who live with a single parent (558 per 100,000) or with no parent (1,652 per 100,000) than for juveniles living in two-parent households (153 per 100,000).\"",
+  "ltr": true,
+  "tt": "«كان عدد الأحداث الذين يعيشون مع والد واحد (45%) أكثر من الذين يعيشون مع الوالدين (30%) ... وخطر الإيداع في الاحتجاز أعلى بدرجة واضحة لدى الأحداث الذين يعيشون مع والد واحد (558 لكل 100,000) أو بلا والدين (1,652 لكل 100,000) منه لدى الأحداث الذين يعيشون في بيوت فيها الوالدان (153 لكل 100,000).»",
+  "src": {
+   "author": "Sedlak AJ, Bruce C — OJJDP",
+   "year": "2010",
+   "jur": "الولايات المتحدة — وزارة العدل، مكتب قضاء الأحداث ومنع الجنوح",
+   "title_latin": "Youth's Characteristics and Backgrounds: Findings From the Survey of Youth in Residential Placement",
+   "sw": "",
+   "where": "OJJDP Juvenile Justice Bulletin NCJ 227730, December 2010, p. 6 and Table 4",
+   "latin": true
+  },
+  "about": "نشرة رسمية من مكتب قضاء الأحداث ومنع الجنوح في وزارة العدل الأمريكية، مبنية على المسح الوطني للأحداث المودعين في مؤسسات الإيواء والاحتجاز.",
+  "level": "إحصاء رسمي للدولة",
+  "links": [
+   {
+    "url": "https://www.ojp.gov/pdffiles1/ojjdp/227730.pdf",
+    "label": "نص النشرة الرسمية",
+    "site": "وزارة العدل الأمريكية",
+    "domain": "www.ojp.gov"
+   },
+   {
+    "url": "https://ojjdp.ojp.gov/library/publications/survey-youth-residential-placement-youth-characteristics-and-backgrounds",
+    "label": "صفحة النشرة",
+    "site": "مكتب قضاء الأحداث الأمريكي",
+    "domain": "ojjdp.ojp.gov"
+   }
+  ],
+  "arg": "الحدث الذي يعيش مع والد واحد يتعرض لخطر الاحتجاز بنحو 3.6 أضعاف من يعيش مع والديه معا؛ فبقاء الوالدين كليهما في حياة الولد حماية له من السجن، وهذا أصل الرعاية المشتركة.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-081",
+  "sec": "harm",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — وزارة العدل، مكتب قضاء الأحداث ومنع الجنوح",
+  "title": "التقرير الوطني الأمريكي عن الأحداث 2006 — من عاشوا مع أبيهم وأمهم معا أقل مخالفة للقانون",
+  "ot": "\"Juveniles who lived with both biological parents had lower lifetime prevalence of law-violating behaviors than did juveniles who lived in other family types.\"",
+  "ltr": true,
+  "tt": "«الأحداث الذين عاشوا مع والديهم الحقيقيين معا كانت نسبة ارتكابهم لأفعال مخالفة للقانون طوال حياتهم أقل من الأحداث الذين عاشوا في أنواع الأسر الأخرى.»",
+  "src": {
+   "author": "Snyder HN, Sickmund M — OJJDP",
+   "year": "2006",
+   "jur": "الولايات المتحدة — وزارة العدل، مكتب قضاء الأحداث ومنع الجنوح",
+   "title_latin": "Juvenile Offenders and Victims: 2006 National Report",
+   "sw": "",
+   "where": "Juvenile Offenders and Victims: 2006 National Report (NCJ 212906), Chapter 3, p. 72",
+   "latin": true
+  },
+  "about": "التقرير الوطني الدوري الذي تصدره وزارة العدل الأمريكية عن الأحداث الجانحين والضحايا، وهو المرجع الرسمي الجامع لإحصاءات قضاء الأحداث هناك.",
+  "level": "إحصاء رسمي للدولة",
+  "links": [
+   {
+    "url": "https://ojjdp.ojp.gov/ojstatbb/nr2006/downloads/nr2006_hl.pdf",
+    "label": "خلاصة التقرير الرسمي",
+    "site": "مكتب قضاء الأحداث الأمريكي",
+    "domain": "ojjdp.ojp.gov"
+   },
+   {
+    "url": "https://ojp.gov/index%2ephp/node/1146836",
+    "label": "صفحة التقرير",
+    "site": "وزارة العدل الأمريكية",
+    "domain": "ojp.gov"
+   }
+  ],
+  "arg": "تقرير رسمي يقرر أن نشأة الولد مع أبيه وأمه معا تقترن بأقل نسبة من الجنوح؛ فإبعاد الأب عن الولد بعد الفرقة يحرمه من هذه الوقاية.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-082",
+  "sec": "harm",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — مجلة علم الاجتماع الأمريكية (جامعة شيكاغو)",
+  "title": "سامبسون 1987 — تفكك الأسرة يرفع القتل والسرقة بالإكراه عند الأحداث مهما كان الدخل",
+  "ot": "\"The study examines race-specific rates of robbery and homicide by juveniles and adults in over 150 U.S. cities in 1980. ... family disruption substantially increases the rates of ... murder and robbery, especially by juveniles. These effects are independent of income, region, race and age composition, density, city size, and welfare benefits ...\"",
+  "ltr": true,
+  "tt": "«تدرس الدراسة معدلات السرقة بالإكراه والقتل التي يرتكبها الأحداث والبالغون في أكثر من 150 مدينة أمريكية سنة 1980 ... وتفكك الأسرة [غياب الآباء عن البيوت] يرفع معدلات ... القتل والسرقة بالإكراه رفعا كبيرا، ولا سيما عند الأحداث. وهذه الآثار قائمة مهما كان الدخل والإقليم والتركيب العمري والعرقي وكثافة السكان وحجم المدينة وإعانات الرعاية الاجتماعية ...»",
+  "src": {
+   "author": "Sampson RJ",
+   "year": "1987",
+   "jur": "الولايات المتحدة — مجلة علم الاجتماع الأمريكية (جامعة شيكاغو)",
+   "title_latin": "Urban Black Violence: The Effect of Male Joblessness and Family Disruption",
+   "sw": "",
+   "where": "American Journal of Sociology 93(2): 348–383",
+   "latin": true
+  },
+  "about": "روبرت سامبسون أستاذ علم الاجتماع في جامعة هارفارد ومن أشهر علماء الجريمة في العالم، والبحث منشور في مجلة علم الاجتماع الأمريكية بتمويل من المعهد الوطني للعدالة، والنص في مستودع جامعة هارفارد.",
+  "level": "دراسة محكمة في مجلة كبرى",
+  "links": [
+   {
+    "url": "https://dash.harvard.edu/handle/1/3226953",
+    "label": "نص البحث في مستودع جامعة هارفارد",
+    "site": "جامعة هارفارد",
+    "domain": "dash.harvard.edu"
+   },
+   {
+    "url": "https://ojp.gov/ncjrs/virtual-library/abstracts/urban-black-violence-effect-male-joblessness-and-family-disruption",
+    "label": "ملخص البحث",
+    "site": "المكتبة الرقمية لوزارة العدل الأمريكية",
+    "domain": "ojp.gov"
+   }
+  ],
+  "arg": "غياب الرجال عن البيوت يرفع القتل والسرقة بالإكراه، وأشد ذلك عند الأحداث، ويبقى الأثر قائما حتى مع ضبط الدخل والإعانات؛ فلا يغني المال عن حضور الأب في بيت الطفل.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-083",
+  "sec": "harm",
+  "icon": "nl",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "هولندا — المعهد الهولندي لدراسة الجريمة وإنفاذ القانون",
+  "title": "مراجعة 48 دراسة 2021 — النشأة مع والد واحد ترفع خطر جريمة المراهقين",
+  "ot": "\"A systematic search in five electronic databases (Web of Science, PsycINFO, Scopus, SocINDEX, and EconLit) is conducted to identify empirical studies on this topic, resulting in 48 studies that conform to a range of substantive and methodological selection criteria. The results suggest that growing up in single-parent families is associated with an elevated risk of involvement in crime by adolescents ...\"",
+  "ltr": true,
+  "tt": "«أجري بحث منظم في خمس قواعد بيانات علمية للعثور على الدراسات في هذا الموضوع، فخرج 48 دراسة تستوفي شروط الاختيار ... وتدل النتائج على أن النشأة في أسرة فيها والد واحد يلازمها ارتفاع خطر تورط المراهقين في الجريمة ...»",
+  "src": {
+   "author": "Kroese J, Bernasco W, Liefbroer AC, Rouwendal J",
+   "year": "2021",
+   "jur": "هولندا — المعهد الهولندي لدراسة الجريمة وإنفاذ القانون",
+   "title_latin": "Growing up in single-parent families and the criminal involvement of adolescents: a systematic review",
+   "sw": "",
+   "where": "Psychology, Crime & Law 27(1): 61–75",
+   "latin": true
+  },
+  "about": "مراجعة منظمة جامعة لـ 48 دراسة، أعدها باحثون في المعهد الهولندي لدراسة الجريمة وإنفاذ القانون وجامعة فريه أمستردام، ونشرت في مجلة علم النفس والجريمة والقانون.",
+  "level": "مراجعة منظمة للدراسات",
+  "links": [
+   {
+    "url": "https://pure.knaw.nl/portal/nl/publications/growing-up-in-single-parent-families-and-the-criminal-involvement/",
+    "label": "ملخص المراجعة",
+    "site": "الأكاديمية الملكية الهولندية للعلوم",
+    "domain": "pure.knaw.nl"
+   }
+  ],
+  "arg": "خلاصة 48 دراسة أن الطفل الذي ينشأ مع والد واحد أكثر عرضة للجريمة في مراهقته؛ فحرمان الطفل من أحد والديه بعد الفراق ضرر عليه، والمخرج بقاء الوالدين كليهما في حياته.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-084",
+  "sec": "harm",
+  "icon": "nl",
+  "supports": [
+   "silat_al_rahim",
+   "shared_parenting"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "هولندا — جامعة فريه أمستردام، السجلات الوطنية لهيئة الإحصاء الهولندية",
+  "title": "سجلات هولندا الوطنية 2022 — النشأة مع الأم وحدها أخطر في الجريمة من النشأة مع الأب وحده",
+  "ot": "\"there is a higher likelihood for offspring to engage in crime when the single-parent family starts at a younger age compared to a later age or when children grow up with only a biological mother, both for sons and daughters, compared to only a biological father\"",
+  "ltr": true,
+  "tt": "«احتمال وقوع الأبناء في الجريمة أعلى إذا بدأت الأسرة ذات الوالد الواحد في سن أصغر، وأعلى إذا نشأ الأولاد مع الأم البيولوجية وحدها مقارنة بالنشأة مع الأب البيولوجي وحده، وذلك في الأبناء والبنات جميعا.»",
+  "src": {
+   "author": "Kroese J — Vrije Universiteit Amsterdam",
+   "year": "2022",
+   "jur": "هولندا — جامعة فريه أمستردام، السجلات الوطنية لهيئة الإحصاء الهولندية",
+   "title_latin": "Broken homes and crime: Differential effects of parental separation, parental decease, and being born to a single parent on the criminal involvement in offspring",
+   "sw": "",
+   "where": "PhD thesis, Vrije Universiteit Amsterdam, 19 May 2022 — Statistics Netherlands register data",
+   "latin": true
+  },
+  "about": "رسالة دكتوراه في جامعة فريه أمستردام، مبنية على بيانات السجلات السكانية الكاملة لهيئة الإحصاء الهولندية، أشرف عليها باحثون من المعهد الهولندي لدراسة الجريمة وإنفاذ القانون.",
+  "level": "دراسة سجلات وطنية",
+  "links": [
+   {
+    "url": "https://research.vu.nl/en/publications/broken-homes-and-crime-differential-effects-of-parental-separatio/",
+    "label": "ملخص الرسالة",
+    "site": "جامعة فريه أمستردام",
+    "domain": "research.vu.nl"
+   },
+   {
+    "url": "https://nscr.nl/en/higher-risk-of-criminal-behaviour-with-children-growing-up-in-a-single-parent-family/",
+    "label": "خبر المعهد الهولندي لدراسة الجريمة",
+    "site": "المعهد الهولندي لدراسة الجريمة",
+    "domain": "nscr.nl"
+   }
+  ],
+  "arg": "على بيانات شعب كامل: الطفل الذي ينشأ مع الأم وحدها أكثر عرضة للجريمة من الذي ينشأ مع الأب وحده، في البنين والبنات، وكلما بكر الفراق زاد الخطر؛ فلا وجه لجعل الأم صاحبة الحق الأول المطلق، ولا لإبعاد الأب سنوات طويلة.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-085",
+  "sec": "harm",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — المجلة الأمريكية للعدالة الجنائية",
+  "title": "تين إيك وزملاؤه 2023 — غياب الأب في أي مرحلة يلازمه الإجرام والقبض لاحقا",
+  "ot": "\"Results reveal that biological father absence before birth was related to criminal behavior in later adulthood. Having an absent father in early childhood (birth to age 5) was related to criminal behavior in early adulthood as well as arrest. An absent biological father in late adolescence (age 14 to 18) was associated with arrest. ... the negative impact of having an absent biological father—at any time—may not appear until adulthood.\"",
+  "ltr": true,
+  "tt": "«أظهرت النتائج أن غياب الأب البيولوجي قبل الولادة ارتبط بالسلوك الإجرامي في الرشد المتأخر، وأن غياب الأب في الطفولة المبكرة (من الولادة إلى 5 سنوات) ارتبط بالسلوك الإجرامي في أول الرشد وبالقبض، وأن غياب الأب البيولوجي في آخر المراهقة (من 14 إلى 18) ارتبط بالقبض ... والأثر السيئ لغياب الأب البيولوجي، في أي وقت كان، قد لا يظهر إلا في الرشد.»",
+  "src": {
+   "author": "TenEyck MF, Knox KN, El Sayed SA",
+   "year": "2023",
+   "jur": "الولايات المتحدة — المجلة الأمريكية للعدالة الجنائية",
+   "title_latin": "Absent Father Timing and its Impact on Adolescent and Adult Criminal Behavior",
+   "sw": "",
+   "where": "American Journal of Criminal Justice 48: 193–217",
+   "latin": true
+  },
+  "about": "دراسة محكمة في المجلة الأمريكية للعدالة الجنائية (مجلة الأكاديمية الجنوبية للعدالة الجنائية)، مبنية على المسح الوطني الأمريكي لصحة المراهقين حتى الرشد (Add Health) الذي يتابع الأفراد سنوات طويلة.",
+  "level": "دراسة محكمة على عينة وطنية",
+  "links": [
+   {
+    "url": "https://link.springer.com/doi/10.1007/s12103-021-09640-x",
+    "label": "صفحة الدراسة",
+    "site": "دار سبرينغر",
+    "domain": "link.springer.com"
+   }
+  ],
+  "arg": "غياب الأب في أي مرحلة من عمر الولد، من قبل الولادة إلى آخر المراهقة، يلازمه الإجرام أو القبض عليه لاحقا، وقد يتأخر ظهور الضرر إلى الرشد؛ فسلامة الطفل في الحاضر لا تعني أن إبعاد أبيه بلا ضرر.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-086",
+  "sec": "harm",
+  "icon": "au",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "أستراليا — التعداد الوطني للطلاب المشردين",
+  "title": "التعداد الوطني للطلاب المشردين في أستراليا 2008 — أبناء الوالد الواحد أكثر بين المشردين",
+  "ot": "\"This article presents the main findings from Australia's third national census of homeless school students ... Three groups of students were overrepresented in the homeless population: Indigenous (native) students, youth from single-parent and blended families, and teens who had been under government care and protection.\"",
+  "ltr": true,
+  "tt": "«يعرض هذا المقال النتائج الرئيسة للتعداد الوطني الثالث في أستراليا للطلاب المشردين ... ثلاث فئات من الطلاب كانت نسبتها بين المشردين أعلى من نسبتها في المجتمع: طلاب السكان الأصليين، والشباب من الأسر ذات الوالد الواحد والأسر المعاد تكوينها [بزواج أحد الوالدين من جديد]، والمراهقون الذين كانوا تحت رعاية الدولة وحمايتها.»",
+  "src": {
+   "author": "MacKenzie D, Chamberlain C",
+   "year": "2008",
+   "jur": "أستراليا — التعداد الوطني للطلاب المشردين",
+   "title_latin": "Youth Homelessness 2006",
+   "sw": "",
+   "where": "Youth Studies Australia 27(1): 17–25",
+   "latin": true
+  },
+  "about": "ماكنزي وتشامبرلين هما الباحثان اللذان أعدا التعدادات الوطنية الأسترالية للطلاب المشردين (2001 و2006) وتعتمد عليها الجهات الرسمية هناك؛ والملخص مفهرس في المكتبة الرقمية لوزارة العدل الأمريكية.",
+  "level": "تعداد وطني",
+  "links": [
+   {
+    "url": "https://ojp.gov/ncjrs/virtual-library/abstracts/youth-homelessness-2006",
+    "label": "ملخص البحث",
+    "site": "المكتبة الرقمية لوزارة العدل الأمريكية",
+    "domain": "ojp.gov"
+   }
+  ],
+  "arg": "تعداد وطني للطلاب المشردين في أستراليا يبين أن أبناء الأسر ذات الوالد الواحد أكثر تعرضا للتشرد من غيرهم؛ فانقطاع الولد عن أحد والديه عامل خطر، وهذا يدعو إلى حفظ صلته بوالديه كليهما بعد الفرقة.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-087",
+  "sec": "harm",
+  "icon": "dk",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الدنمارك — السجل الوطني لأطفال الطب النفسي",
+  "title": "السجل الوطني للطب النفسي للأطفال في الدنمارك 2008 — نصف المرضى فقط يعيشون مع والديهم مقابل ثلاثة أرباع عامة الأطفال",
+  "ot": "\"METHODS: Data was derived from a national register on children referred to psychiatric facilities in Denmark ... RESULTS: Regardless of age significantly fewer children with psychiatric illnesses lived with both biological parents as compared to the background population (51.1% vs 73.3%). ... CONCLUSIONS: Psychiatrically ill children are at increased risk of not living with both biological parents independent of age of the child.\"",
+  "ltr": true,
+  "tt": "«المنهج: أخذت البيانات من سجل وطني للأطفال المحالين إلى مرافق الطب النفسي في الدنمارك ... النتائج: أيا كان العمر، كان عدد الأطفال المرضى نفسيا الذين يعيشون مع والديهم الحقيقيين كليهما أقل بفارق واضح مقارنة بعامة السكان (51.1% مقابل 73.3%) ... الخلاصة: الأطفال المرضى نفسيا أكثر عرضة لأن يكونوا لا يعيشون مع والديهم الحقيقيين كليهما، بصرف النظر عن عمر الطفل.»",
+  "src": {
+   "author": "Esbjørn BH, Levin E, Høyer M, Dyrborg J",
+   "year": "2008",
+   "jur": "الدنمارك — السجل الوطني لأطفال الطب النفسي",
+   "title_latin": "Child and adolescent psychiatry and family status: a nationwide register-based study",
+   "sw": "",
+   "where": "European Child & Adolescent Psychiatry 17(8): 484–490",
+   "latin": true
+  },
+  "about": "دراسة على السجل الوطني الدنماركي لكل الأطفال المحالين إلى الطب النفسي، من فريق مركز الطب النفسي للأطفال في منطقة العاصمة الدنماركية، منشورة في المجلة الأوروبية لطب الأطفال والمراهقين النفسي.",
+  "level": "دراسة سجلات وطنية",
+  "links": [
+   {
+    "url": "https://research.regionh.dk/en/publications/child-and-adolescent-psychiatry-and-family-status-a-nationwide-re/",
+    "label": "ملخص الدراسة",
+    "site": "مستشفيات منطقة العاصمة الدنماركية",
+    "domain": "research.regionh.dk"
+   }
+  ],
+  "arg": "نحو نصف أطفال الطب النفسي في الدنمارك كلها لا يعيشون مع الأب والأم معا، مقابل ربع الأطفال فقط في عامة السكان؛ فقطع الطفل عن أحد والديه يرتبط بحاجته إلى الطب النفسي، وهذا حجة لإبقاء الأب حاضرا في حياة ولده.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-088",
+  "sec": "harm",
+  "icon": "fi",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "فنلندا — جماعة مواليد 1981 الوطنية",
+  "title": "جماعة مواليد فنلندا 1981 — الصبي الذي لا يعيش مع أبيه وأمه في الثامنة أكثر عرضة لخطر الانتحار في شبابه",
+  "ot": "\"What happens to 8-year-old boys who do not live with both biological parents, misbehave, and are very anxious? They may be more likely to kill themselves once they become adolescents or young adults ... Among the males at age 8, not living with both biological parents, engaging in misconduct, being hyperactive, or being anxious predicted suicide by age 24.\"",
+  "ltr": true,
+  "tt": "«ماذا يحدث لصبيان في الثامنة لا يعيشون مع والديهم الحقيقيين كليهما، ويسيئون السلوك، وشديدي القلق؟ قد يكونون أكثر عرضة لقتل أنفسهم حين يصيرون مراهقين أو شبابا ... فعند الذكور في الثامنة، كان عدم العيش مع الوالدين الحقيقيين كليهما، وسوء السلوك، وفرط الحركة، أو القلق، منبئا بالانتحار حتى سن 24.»",
+  "src": {
+   "author": "Sourander A, Klomek AB, et al.",
+   "year": "2009",
+   "jur": "فنلندا — جماعة مواليد 1981 الوطنية",
+   "title_latin": "Childhood Predictors of Completed and Severe Suicide Attempts: Findings From the Finnish 1981 Birth Cohort Study",
+   "sw": "",
+   "where": "Archives of General Psychiatry 66(4): 398–406 — reported in Psychiatric News (American Psychiatric Association)",
+   "latin": true
+  },
+  "about": "دراسة فنلندية تتبعت نحو 5300 طفل من سن الثامنة (1989) حتى 24 سنة، نشرت في مجلة الجمعية الطبية الأمريكية للطب النفسي العام، ونقل نتائجها خبر في صحيفة الجمعية الأمريكية للطب النفسي.",
+  "level": "دراسة متابعة لجماعة مواليد وطنية",
+  "links": [
+   {
+    "url": "https://psychnews.psychiatryonline.org/doi/10.1176/pn.44.11.0019",
+    "label": "خبر الجمعية الأمريكية للطب النفسي",
+    "site": "الجمعية الأمريكية للطب النفسي",
+    "domain": "psychnews.psychiatryonline.org"
+   }
+  ],
+  "arg": "عدم عيش الصبي ابن الثامنة مع أبيه وأمه معا كان من منبئات انتحاره قبل الرابعة والعشرين؛ وهذا يؤيد أن الصبي في سن التمييز يحتاج أباه حاضرا في حياته اليومية لا غائبا عنها.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-089",
+  "sec": "harm",
+  "icon": "se",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "السويد — سجل الأدوية الوطني",
+  "title": "سجل الأدوية الوطني السويدي 2010 — أطفال الوالد الواحد أكثر علاجا من نقص الانتباه وفرط الحركة بنسبة 54%",
+  "ot": "\"Swedish experts teamed up to carry out what they believe is the first study of risk factors for ADHD in a national cohort of school children, based on 1.16 million children on the country's Prescribed Drug Register. ... Children were 54 per cent more likely to be on ADHD medication if they came from a single parent family rather than having both parents at home.\"",
+  "ltr": true,
+  "tt": "«تعاون خبراء سويديون على إجراء ما يرون أنه أول دراسة لعوامل خطر اضطراب نقص الانتباه وفرط الحركة في جماعة وطنية من أطفال المدارس، اعتمادا على 1.16 مليون طفل في سجل الأدوية الموصوفة في البلاد ... وكان الأطفال أكثر احتمالا بنسبة 54% لأن يتناولوا دواء نقص الانتباه وفرط الحركة إذا كانوا من أسرة ذات والد واحد بدلا من وجود الوالدين كليهما في البيت.»",
+  "src": {
+   "author": "Hjern A, Weitoft GR, Lindblad F",
+   "year": "2010",
+   "jur": "السويد — سجل الأدوية الوطني",
+   "title_latin": "Social adversity predicts ADHD-medication in school children – a national cohort study",
+   "sw": "",
+   "where": "Acta Paediatrica 99(6): 920 — reported by ScienceDaily",
+   "latin": true
+  },
+  "about": "دراسة من معهد كارولينسكا ومجلس الصحة والرعاية السويدي على السجل الوطني للأدوية لكل أطفال المدارس في السويد، منشورة في مجلة Acta Paediatrica، ونقلها موقع ScienceDaily عن بيان الناشر.",
+  "level": "دراسة سجلات وطنية",
+  "links": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2010/06/100601072634.htm",
+    "label": "خبر الدراسة",
+    "site": "ScienceDaily",
+    "domain": "www.sciencedaily.com"
+   }
+  ],
+  "arg": "غياب أحد الوالدين عن بيت الطفل رفع احتمال علاجه بدواء نقص الانتباه وفرط الحركة بنسبة 54% في أكثر من مليون طفل سويدي؛ فحضور الوالدين معا في حياة الطفل حماية لصحته النفسية.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
+ },
+ {
+  "id": "A4-090",
+  "sec": "harm",
+  "icon": "uk",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "المملكة المتحدة — مكتب الإحصاء الوطني",
+  "title": "مكتب الإحصاء الوطني البريطاني 2019 — أطفال الوالد الواحد أكثر إصابة بالاضطرابات النفسية",
+  "ot": "\"... school aged children (aged 5 to 16 years) from lone parent families experience greater rates of mental disorder, compared with those who live with married parents. This was most noticeable in secondary school aged children (11 to 16 years) of single lone parents (who have never been married). [Chart:] Secondary school aged children from single lone parent families experience higher rates of mental disorders\"",
+  "ltr": true,
+  "tt": "«... أطفال سن المدرسة (من 5 إلى 16 سنة) في أسر الوالد الواحد يعانون معدلات أعلى من الاضطراب النفسي، مقارنة بمن يعيشون مع والدين متزوجين. وكان هذا أوضح ما يكون في أطفال المرحلة الثانوية (من 11 إلى 16 سنة) لدى الوالد المنفرد الذي لم يتزوج قط. [عنوان الرسم:] أطفال المرحلة الثانوية في أسر الوالد المنفرد يعانون معدلات أعلى من الاضطرابات النفسية.»",
+  "src": {
+   "author": "Office for National Statistics",
+   "year": "2019",
+   "jur": "المملكة المتحدة — مكتب الإحصاء الوطني",
+   "title_latin": "Children whose families struggle to get on are more likely to have mental disorders",
+   "sw": "",
+   "where": "ONS article, 26 March 2019 — Mental Health of Children and Young People in England, 2017",
+   "latin": true
+  },
+  "about": "مقال رسمي لمكتب الإحصاء الوطني البريطاني يحلل المسح الوطني لصحة الأطفال النفسية في إنجلترا لعام 2017.",
+  "level": "إحصاء رسمي للدولة",
+  "links": [
+   {
+    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/childrenwhosefamiliesstruggletogetonaremorelikelytohavementaldisorders/2019-03-26",
+    "label": "نص التقرير الرسمي",
+    "site": "مكتب الإحصاء الوطني البريطاني",
+    "domain": "www.ons.gov.uk"
+   }
+  ],
+  "arg": "الإحصاء الرسمي البريطاني يثبت أن أطفال أسر الوالد الواحد أكثر إصابة بالاضطرابات النفسية من أطفال الوالدين المتزوجين، وأن الفرق أوضح في سن المراهقة؛ فبقاء الطفل موصولا بوالديه معا حماية لصحته النفسية.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "harm2": true
  }
 ]
