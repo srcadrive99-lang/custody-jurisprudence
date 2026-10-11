@@ -10173,5 +10173,149 @@
   "fam": "west",
   "axis": 4,
   "hujaj": true
+ },
+ {
+  "id": "A5-215",
+  "sec": "law",
+  "icon": "de",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "ألمانيا — القانون المدني الاتحادي",
+  "title": "القانون المدني الألماني، المادة 1684 — على كل والد أن يمتنع عن كل ما يفسد علاقة الطفل بالوالد الآخر",
+  "ot": "\"Das Kind hat das Recht auf Umgang mit jedem Elternteil; jeder Elternteil ist zum Umgang mit dem Kind verpflichtet und berechtigt. ... Die Eltern haben alles zu unterlassen, was das Verhältnis des Kindes zum jeweils anderen Elternteil beeinträchtigt oder die Erziehung erschwert. ... Es kann die Beteiligten durch Anordnungen zur Erfüllung der in Absatz 2 geregelten Pflicht anhalten. Wird die Pflicht nach Absatz 2 dauerhaft oder wiederholt erheblich verletzt, kann das Familiengericht auch eine Pflegschaft für die Durchführung des Umgangs anordnen (Umgangspflegschaft).\"",
+  "ltr": true,
+  "tt": "«للطفل حق اللقاء بكل واحد من والديه، وكل واحد من الوالدين ملزم بلقاء الطفل وله الحق فيه ... وعلى الوالدين أن يمتنعا عن كل ما يضر بعلاقة الطفل بالوالد الآخر أو يعسر تربيته ... وللمحكمة أن تلزم الأطراف بأوامر تحملهم على أداء هذا الواجب. فإذا أخل به إخلالا جسيما دائما أو متكررا، جاز لمحكمة الأسرة أن تعين وصيا يتولى تنفيذ اللقاء.»",
+  "src": {
+   "author": "Bürgerliches Gesetzbuch (BGB)",
+   "year": "1998",
+   "jur": "ألمانيا — القانون المدني الاتحادي",
+   "title_latin": "§ 1684 Umgang des Kindes mit den Eltern",
+   "sw": "",
+   "where": "BGB § 1684 Abs. 1, Abs. 2 Satz 1, Abs. 3 Sätze 2–3",
+   "latin": true
+  },
+  "about": "القانون المدني الألماني نافذ في كل ألمانيا، والمادة 1684 هي أصل حق الطفل في لقاء والديه بعد الفرقة.",
+  "level": "تشريع اتحادي نافذ",
+  "links": [
+   {
+    "url": "https://gesetze.legal/bund/bgb/1684",
+    "label": "نص المادة",
+    "site": "gesetze.legal",
+    "domain": "gesetze.legal"
+   }
+  ],
+  "arg": "ألمانيا تلزم الحاضن بالامتناع عن كل ما يفسد علاقة الطفل بأبيه، وتعين المحكمة من ينفذ اللقاء إذا أخل به. فتحريض الطفل على أبيه وتخويفه منه مخالفة يحاسب عليها القانون هناك، والطفل يلقى أباه حقا له، لا ساعات تحت الرقابة.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v128": true
+ },
+ {
+  "id": "A5-216",
+  "sec": "law",
+  "icon": "fr",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "فرنسا — القانون المدني",
+  "title": "القانون المدني الفرنسي، المادة 373-2 — على كل والد أن يحفظ صلته بالطفل ويحترم صلة الطفل بالوالد الآخر",
+  "ot": "\"Chacun des père et mère doit maintenir des relations personnelles avec l'enfant et respecter les liens de celui-ci avec l'autre parent.\"",
+  "ltr": true,
+  "tt": "«على كل واحد من الأب والأم أن يحفظ صلته الشخصية بالطفل، وأن يحترم صلة الطفل بالوالد الآخر.»",
+  "src": {
+   "author": "Code civil (France), loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale",
+   "year": "2002",
+   "jur": "فرنسا — القانون المدني",
+   "title_latin": "Article 373-2 du Code civil",
+   "sw": "",
+   "where": "art. 373-2, alinéa 2",
+   "latin": true
+  },
+  "about": "المادة 373-2 من القانون المدني الفرنسي أدخلها قانون السلطة الأبوية سنة 2002، وهي نافذة في فرنسا كلها.",
+  "level": "تشريع نافذ",
+  "links": [
+   {
+    "url": "https://www.senat.fr/leg/tas01-023.html",
+    "label": "نص القانون كما أقره مجلس الشيوخ الفرنسي",
+    "site": "مجلس الشيوخ الفرنسي",
+    "domain": "www.senat.fr"
+   }
+  ],
+  "arg": "القانون الفرنسي يجعل احترام صلة الطفل بأبيه واجبا على الأم، كما يجعل احترام صلته بأمه واجبا على الأب. فقطع الطفل عن أبيه وتشويه صورته عنده إخلال بواجب قانوني.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v128": true
+ },
+ {
+  "id": "A5-217",
+  "sec": "law",
+  "icon": "fr",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "فرنسا — قانون العقوبات",
+  "title": "قانون العقوبات الفرنسي، المادة 227-5 — منع الطفل عمن له حق لقائه جريمة: سنة سجنا وغرامة 15 ألف يورو",
+  "ot": "\"Le fait de refuser indûment de représenter un enfant mineur à la personne qui a le droit de le réclamer est puni d'un an d'emprisonnement et de 15 000 euros d'amende.\"",
+  "ltr": true,
+  "tt": "«رفض تسليم الطفل القاصر بغير حق إلى من له حق المطالبة به يعاقب عليه بالسجن سنة وبغرامة 15 ألف يورو.»",
+  "src": {
+   "author": "Code pénal (France)",
+   "year": "1994",
+   "jur": "فرنسا — قانون العقوبات",
+   "title_latin": "Article 227-5 du Code pénal (non-représentation d'enfant)",
+   "sw": "",
+   "where": "art. 227-5",
+   "latin": true
+  },
+  "about": "المادة 227-5 من قانون العقوبات الفرنسي في باب الاعتداء على القصر والأسرة، وتسمى جريمة «عدم تسليم الطفل».",
+  "level": "تشريع نافذ",
+  "links": [
+   {
+    "url": "https://www.cabinetaci.com/non-representation-denfant-cadre-juridique-et-defense-penale/",
+    "label": "نص المادة وشرحها",
+    "site": "مكتب محاماة فرنسي",
+    "domain": "www.cabinetaci.com"
+   },
+   {
+    "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006165319/2009-05-05/",
+    "label": "باب المادة في الجريدة الرسمية الفرنسية",
+    "site": "Légifrance",
+    "domain": "www.legifrance.gouv.fr"
+   }
+  ],
+  "arg": "فرنسا تعاقب بالسجن من يمنع الطفل عمن له حق لقائه، أبا كان أو أما. فالعقوبة هناك على من يقطع الطفل عن والده، لا على الوالد الذي يطلب ولده.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v128": true
  }
 ]
