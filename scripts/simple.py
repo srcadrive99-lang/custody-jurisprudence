@@ -4,8 +4,10 @@ import json, re, sys, asyncio, html as H, io, segno
 sys.path.insert(0,'/home/claude/work')
 from assemble import SEC, mn_plain
 from playwright.async_api import async_playwright
-IDS=json.load(open('/home/claude/work/build/tools/short_ids.json',encoding='utf8'))
-J=json.load(open('/home/claude/work/build/nuqul_7_9.json',encoding='utf8'))
+import os
+REVIEW=os.environ.get('REVIEW')=='1'
+J=json.load(open('/home/claude/work/build/review.json' if REVIEW else '/home/claude/work/build/nuqul_7_9.json',encoding='utf8'))
+IDS=J['meta']['short_ids'] if REVIEW else json.load(open('/home/claude/work/build/tools/short_ids.json',encoding='utf8'))
 SN=J['meta']['sections']
 src=open('/home/claude/work/build/NUQUL_7_9_CARDS_MOBILE.html',encoding='utf8').read()
 FONTS=''.join(re.findall(r'@font-face\{[^}]*\}',src))
@@ -140,11 +142,11 @@ def card(e,style):
     s=SEC[e['section']]; n=e['card_number']
     ar=e['original']['lang']=='ar'
     return f'''<div class="c {style}" data-n="{n}" style="--a:{s['acc']};--ad:{s['accd']};--t1:{s['g'][0]};--k:24px">
-<div class="hd">{LOGO}<div class="nm"><div class="sec">{mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">بطاقة {n}</div></div>
+<div class="hd">{LOGO}<div class="nm"><div class="sec">{('للمراجعة · ' if REVIEW else '')+mn(H.escape(SN[e['section']]))}</div><div class="ttl">{PAGE} · حول سن الحضانة والرعاية المشتركة {MN}</div></div><div class="no">{'للمراجعة' if REVIEW else 'بطاقة'} {n}</div></div>
 <div class="rt">{mn(H.escape(e['title']))}</div>
 <div class="tx"><div class="q{' ar' if ar else ''}"><div class="wm">{WM}</div><div class="sl">{LOGO}</div><div class="qt">{hujaj_html(e) if e['section']=='hujaj' else (lambda _t,_w:('«' if _w else '')+mn(H.escape(_t))+('»' if _w else ''))(arabic_text(e),quoted(e) and '«' not in arabic_text(e) and '﴿' not in arabic_text(e))}</div></div></div>
 <div class="sr">{"" if e["section"]=="hujaj" else flag_span(flag_key(e),source(e))}{H.escape(source(e))}</div>{('<div class="sw"><b>الموضع:</b> '+locjoin(fullsrc(e))+'</div>') if fullsrc(e) else ''}{('<div class="id">'+H.escape(IDS.get(str(n),''))+'</div>') if IDS.get(str(n)) else ''}
-<div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>
+<div class="ag"><b>الدلالة: </b>{mn(H.escape(e['argument']))}</div>{('<div class="ag" style="background:#FFF4E5;border-color:#E07B00"><b>سبب المراجعة: </b>'+H.escape(e.get('review_reason',''))+' · رقمها في الإصدار 1.26.0: '+str(e.get('old_card_number',''))+'</div>') if REVIEW else ''}
 <div class="ft">{linkblk(e,n)}<span class="pg">{PQR}<span>{PAGE}<small>facebook.com/profile.php?id=61595080592206</small></span></span></div><div class="slog">لا للمظاهرات والثورات<i></i>لا لسيداو، ولا لتمييز المرأة على الرجل في الإجراءات والقرارات والقوانين<i></i>نعم لصلة الأرحام</div></div>'''
 FIT='''()=>{for(const c of document.querySelectorAll('.c')){let lo=13,hi=30;for(let i=0;i<14;i++){const m=(lo+hi)/2;c.style.setProperty('--k',m+'px');const over=c.scrollHeight>c.clientHeight+1||[...c.children].some(x=>!x.classList.contains('slog')&&x.scrollWidth>x.clientWidth+2);if(over)hi=m;else lo=m;}c.style.setProperty('--k',lo+'px');c.dataset.k=lo.toFixed(1);}}'''
 async def render(ns,style,outdir):

@@ -1,6 +1,6 @@
 # حول سن الحضانة والرعاية المشتركة بالمناصفة — النصوص والمصادر
 
-الإصدار 1.26.0 · 2026-10-11 · 455 بطاقة في 20 قسما · 478 مدخلا
+الإصدار 1.26.0 · 2026-10-11 · 447 بطاقة في 20 قسما · 470 مدخلا
 
 ## خبراء الطب
 
@@ -609,21 +609,7 @@
 **عن المصدر:** ريتشارد وارشاك أستاذ علم النفس العلاجي في المركز الطبي لجامعة تكساس الجنوبية الغربية، وصاحب تقرير إجماع 110 خبراء سنة 2014؛ ومجلة العلاقات الأسرية لسان المجلس الوطني لعلاقات الأسرة. — **درجة الدليل:** مراجعة علمية محكمة  
 - ملخص الدراسة: <https://doi.org/10.1111/j.1741-3729.2003.00373.x>
 
-### بطاقة 47 — وارشاك 2015 في مجلة الجمعية الأمريكية لعلم النفس — من المغالطات أن «رغبة المراهق المنفر هي التي تحسم الحضانة»
-**المؤلف/الجهة:** Warshak RA (2015)  
-**المصدر:** Ten Parental Alienation Fallacies That Compromise Decisions in Court and in Therapy · Professional Psychology: Research and Practice. 2015;46(4):235-249  
-**الجهة/المذهب:** الولايات المتحدة — المركز الطبي لجامعة تكساس الجنوبية الغربية  
-
-> "(a) children never unreasonably reject the parent with whom they spend the most time, (b) children never unreasonably reject mothers, ... (f) young children living with an alienating parent need no intervention, (g) alienated adolescents' stated preferences should dominate custody decisions, ... (j) separating children from an alienating parent is traumatic."
->
-> [من المغالطات العشر التي يعدها البحث أخطاء تفسد أحكام المحاكم والعلاج:] «(أ) أن الأطفال لا يرفضون بغير حق الوالد الذي يقضون معه أكثر الوقت، (ب) أن الأطفال لا يرفضون الأمهات بغير حق... (و) أن الأطفال الصغار الذين يعيشون مع والد يقوم بالتنفير لا يحتاجون إلى تدخل، (ز) أن الرغبات المعلنة للمراهقين الذين وقع عليهم التنفير ينبغي أن تهيمن على قرارات الحضانة... (ي) أن فصل الأطفال عن الوالد الذي يقوم بالتنفير صادم لهم».
-
-**الاستدلال:** العلم يسمي «تخيير المراهق الذي وقع عليه التنفير» مغالطة تفسد الأحكام، ويقرر أن الطفل قد يرفض بغير حق من يقضي معه أكثر الوقت ويرفض الأم كما يرفض الأب؛ فالتخيير بعد التغييب حكم لمن قام بالتنفير لا للطفل.  
-**عن المصدر:** ريتشارد وارشاك أستاذ علم النفس العلاجي في المركز الطبي لجامعة تكساس الجنوبية الغربية وصاحب تقرير إجماع 110 خبراء؛ والمجلة تصدرها الجمعية الأمريكية لعلم النفس، والقائمة منشورة بنصها في مكتبته العلمية. — **درجة الدليل:** مراجعة علمية محكمة  
-- صفحة الدراسة: <https://doi.org/10.1037/pro0000031>
-- نص المغالطات العشر: <https://www.warshak.com/e-libe/?p=1165>
-
-### بطاقة 48 — روين وإيمري 2014 — تشويه الوالد صورة الآخر عند الولد يضر الولد ويرتد على المشوه
+### بطاقة 47 — روين وإيمري 2014 — تشويه الوالد صورة الآخر عند الولد يضر الولد ويرتد على المشوه
 **المؤلف/الجهة:** Jenna Rowen & Robert E. Emery (2014)  
 **المصدر:** Examining parental denigration behaviors of co-parents as reported by young adults and their association with parent–child closeness · Couple and Family Psychology: Research and Practice, 2014  
 **الجهة/المذهب:** الولايات المتحدة — جامعة فرجينيا  
@@ -636,7 +622,7 @@
 **عن المصدر:** روبرت إيمري أستاذ علم النفس ومدير مركز الأطفال والأسر والقانون في جامعة فرجينيا، ومن أشهر الباحثين في الطلاق والأطفال. — **درجة الدليل:** دراسة محكمة في مجلة الجمعية الأمريكية لعلم النفس  
 - عرض البحث: <https://www.family-institute.org/sites/default/files/pdfs/csi_rowan_talking_badly_about_your_coparent.pdf>
 
-### بطاقة 49 — نمو التحكم المعرفي في اختبار النهار والليل حتى السابعة
+### بطاقة 48 — نمو التحكم المعرفي في اختبار النهار والليل حتى السابعة
 **المؤلف/الجهة:** Gerstadt CL, Hong YJ, Diamond A (1994)  
 **المصدر:** The relationship between cognition and action: performance of children 3 1/2–7 years old on a Stroop-like day-night test · Cognition. 1994;53(2):129–153. موضع النقل: الملخص في ص 129، والمناقشة العامة في ص 149–150  
 **الجهة/المذهب:** الولايات المتحدة — جامعة بنسلفانيا  
@@ -647,7 +633,7 @@
 **عن المصدر:** أديل دايموند من مؤسسي علم أعصاب نمو الإدراك عند الطفل، أستاذة في جامعة كولومبيا البريطانية وعضو الجمعية الملكية الكندية؛ ومجلة الإدراك من أرفع مجلات علم النفس المعرفي. — **درجة الدليل:** دراسة تجريبية  
 - الرابط: <https://devcogneuro.com/Publications/day-nightpaper1994.pdf>
 
-### بطاقة 50 — تطور تذكر التعليمات وضبط الاستجابة في الطفولة
+### بطاقة 49 — تطور تذكر التعليمات وضبط الاستجابة في الطفولة
 **المؤلف/الجهة:** Diamond A, Taylor C (1996)  
 **المصدر:** Development of an aspect of executive control: Development of the abilities to remember what I said and to "Do as I say, not as I do" · Developmental Psychobiology. 1996;29(4):315–334. موضع النقل: الملخص، ص 315  
 **الجهة/المذهب:** الولايات المتحدة — جامعة بنسلفانيا  
@@ -659,7 +645,7 @@
 - الرابط: <https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1098-2302(199605)29:4%3C315::AID-DEV2%3E3.0.CO;2-T>
 - الرابط: <https://devcogneuro.com/Publications/Diamond_%26_Taylor_1996_Development_of_an_aspect.pdf>
 
-### بطاقة 51 — علماء النمو — تحول الخامسة إلى السابعة
+### بطاقة 50 — علماء النمو — تحول الخامسة إلى السابعة
 **المؤلف/الجهة:** Sameroff AJ, Haith MM (eds.) (1996)  
 **المصدر:** The Five to Seven Year Shift: The Age of Reason and Responsibility · Chicago: University of Chicago Press  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -671,7 +657,7 @@
 **عن المصدر:** أرنولد ساميروف من جامعة ميشيغان ومارشال هيث من جامعة دنفر، جمعا في الكتاب بحوث كبار علماء النمو؛ وصدر عن مطبعة جامعة شيكاغو ضمن سلسلة مؤسسة ماك آرثر في النمو. — **درجة الدليل:** كتاب علمي جامع  
 - صفحة الكتاب: <https://openlibrary.org/works/OL18961824W>
 
-### بطاقة 52 — دراسة وايت — تحول الخامسة إلى السابعة
+### بطاقة 51 — دراسة وايت — تحول الخامسة إلى السابعة
 **المؤلف/الجهة:** White SH (1965)  
 **المصدر:** Evidence for a hierarchical arrangement of learning processes · Advances in Child Development and Behavior, vol. 2  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -683,7 +669,7 @@
 **عن المصدر:** شلدون وايت عالم نفس في جامعة هارفارد، وبحثه أصل القول بتحول الخامسة إلى السابعة في علم النمو، ونشر في سلسلة التقدم في نمو الطفل وسلوكه. — **درجة الدليل:** بحث علمي مؤسس  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1016/s0065-2407(08)60483-8>
 
-### بطاقة 53 — إريكسون — السادسة بداية طور جديد
+### بطاقة 52 — إريكسون — السادسة بداية طور جديد
 **المؤلف/الجهة:** Erikson EH (1950)  
 **المصدر:** Childhood and Society · New York: Norton  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -695,7 +681,7 @@
 **عن المصدر:** إريك إريكسون (1902–1994) أستاذ في جامعة هارفارد، صاحب نظرية مراحل النمو النفسي الاجتماعي، وكتابه الطفولة والمجتمع من أوسع كتب علم النفس انتشارا. — **درجة الدليل:** نظرية علمية مؤسسة  
 - صفحة الكتاب: <https://openlibrary.org/works/OL1194364W>
 
-### بطاقة 54 — مراجعة منهجية 2019 — انخراط الأب يرفع المهارات المعرفية للطفل
+### بطاقة 53 — مراجعة منهجية 2019 — انخراط الأب يرفع المهارات المعرفية للطفل
 **المؤلف/الجهة:** Rollè L, Gullotta G, Trombetta T, Curti L, Gerino E, Brustia P, et al. (2019)  
 **المصدر:** Father involvement and cognitive development in early and middle childhood: a systematic review · Frontiers in Psychology. 2019;10:2405  
 **الجهة/المذهب:** إيطاليا — جامعة تورينو  
@@ -708,7 +694,7 @@
 **عن المصدر:** مراجعة منهجية وفق معايير بريزما لأربعين بحثا من قواعد PubMed وEBSCO، لفريق قسم علم النفس بجامعة تورينو؛ والمجلة محكمة مفتوحة الإتاحة. — **درجة الدليل:** مراجعة منهجية  
 - النص الكامل: <https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02405/full>
 
-### بطاقة 55 — مينينغ 2006 — المراهق الأكثر صلة بأبيه غير المقيم أقل إقبالا على التدخين: المسح الوطني لصحة المراهقين
+### بطاقة 54 — مينينغ 2006 — المراهق الأكثر صلة بأبيه غير المقيم أقل إقبالا على التدخين: المسح الوطني لصحة المراهقين
 **المؤلف/الجهة:** Menning CL (2006)  
 **المصدر:** Nonresident fathers' involvement and adolescents' smoking · Journal of Health and Social Behavior. 2006;47(1):32-46  
 **الجهة/المذهب:** الولايات المتحدة — جامعة بول ستيت  
@@ -722,7 +708,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/16583774/>
 - صفحة الدراسة: <https://doi.org/10.1177/002214650604700103>
 
-### بطاقة 56 — أنماط التعلق بالوالدين والمشكلات السلوكية
+### بطاقة 55 — أنماط التعلق بالوالدين والمشكلات السلوكية
 **المؤلف/الجهة:** Dagan O, Schuengel C, Verhage ML, van IJzendoorn MH, Sagi-Schwartz A, Madigan S, Duschinsky R, Roisman GI, Bernard K, Bakermans-Kranenburg M, Bureau JF, Volling BL, Wong MS, Colonnesi C, Brown GL, Eiden RD, Fearon RMP, Oosterman M, Aviezer O, Cummings EM; Collaboration on Attachment to Multiple Parents and Outcomes Synthesis (2021)  
 **المصدر:** Configurations of mother-child and father-child attachment as predictors of internalizing and externalizing behavioral problems: An individual participant data (IPD) meta-analysis · New Directions for Child and Adolescent Development. 2021;2021(180):67-94  
 **الجهة/المذهب:** تعاون دولي — الولايات المتحدة وهولندا والمملكة المتحدة وإسرائيل وكندا  
@@ -733,7 +719,7 @@
 **عن المصدر:** تحليل جامع لعدة دراسات لبيانات المشاركين الأفراد أجراه تعاون دولي في التعلق بالوالدين، من أعضائه ماريان باكرمانز كراننبرغ ومارينوس فان آيزندورن من هولندا، وهما من أكثر علماء التعلق أثرا في العالم. — **درجة الدليل:** تحليل جامع لبيانات الأفراد: أقوى أنواع التحليل الجامع للدراسات  
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/35005834/>
 
-### بطاقة 57 — حساسية الوالدين وأمان تعلق الطفل
+### بطاقة 56 — حساسية الوالدين وأمان تعلق الطفل
 **المؤلف/الجهة:** Madigan S, Deneault AA, Duschinsky R, Bakermans-Kranenburg MJ, Schuengel C, van IJzendoorn MH, Ly A, Fearon RMP, Eirich R, Verhage ML (2024)  
 **المصدر:** Maternal and paternal sensitivity: Key determinants of child attachment security examined through meta-analysis · Psychological Bulletin. 2024;150(7):839-872  
 **الجهة/المذهب:** كندا — جامعة كالغاري؛ تعاون مع جامعات في المملكة المتحدة وهولندا والبرتغال  
@@ -745,7 +731,7 @@
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/38709619/>
 - الرابط: <https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Psychol+Bull%22%5BTitle+Abbreviation%5D>
 
-### بطاقة 58 — التعلق بالأب والأم والصداقات المتبادلة
+### بطاقة 57 — التعلق بالأب والأم والصداقات المتبادلة
 **المؤلف/الجهة:** Veríssimo M, Santos AJ, Vaughn BE, Torres N, Monteiro L, Santos O (2011)  
 **المصدر:** Quality of attachment to father and mother and number of reciprocal friends · Early Child Development and Care، 2011، 181(1):27–38  
 **الجهة/المذهب:** البرتغال — معهد علم النفس التطبيقي في لشبونة  
@@ -757,7 +743,7 @@
 - الرابط: <https://repositorio.ispa.pt/bitstreams/4af28ec7-f774-43ce-b5a0-a9b48f6630da/download>
 - الرابط: <https://www.tandfonline.com/doi/abs/10.1080/03004430903211208>
 
-### بطاقة 59 — الآباء والدون أيضا: توسيع البحث في نمو الطفل
+### بطاقة 58 — الآباء والدون أيضا: توسيع البحث في نمو الطفل
 **المؤلف/الجهة:** Cabrera NJ, Volling BL, Barr R (2018)  
 **المصدر:** Fathers Are Parents, Too! Widening the Lens on Parenting for Children's Development · Child Development Perspectives، 2018؛ 12(3):152–157  
 **الجهة/المذهب:** الولايات المتحدة — جامعات ماريلاند وميشيغان وجورجتاون  
@@ -769,7 +755,7 @@
 - الرابط: <https://onlinelibrary.wiley.com/doi/abs/10.1111/cdep.12275>
 - الرابط: <https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/ca4f01b5-f910-47fd-9159-f28d21425602/content>
 
-### بطاقة 60 — بداية الأبوة في الأيام الألف الأولى
+### بطاقة 59 — بداية الأبوة في الأيام الألف الأولى
 **المؤلف/الجهة:** Bakermans-Kranenburg MJ, Lotz A, Alyousefi-van Dijk K, van IJzendoorn M (2019)  
 **المصدر:** Birth of a Father: Fathering in the First 1,000 Days · Child Development Perspectives، 2019؛ 13(4):247–253  
 **الجهة/المذهب:** هولندا — الجامعة الحرة بأمستردام وجامعة إيراسموس  
@@ -781,7 +767,7 @@
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/31894183/>
 - الرابط: <https://pmc.ncbi.nlm.nih.gov/articles/PMC6919930/>
 
-### بطاقة 61 — استجابة دماغ الأب لخبرة رعاية الطفل
+### بطاقة 60 — استجابة دماغ الأب لخبرة رعاية الطفل
 **المؤلف/الجهة:** Abraham E, Hendler T, Shapira-Lichter I, Kanat-Maymon Y, Zagoory-Sharon O, Feldman R (2014)  
 **المصدر:** Father's brain is sensitive to childcare experiences · Proceedings of the National Academy of Sciences of the United States of America، 2014؛ 111(27):9792–9797  
 **الجهة/المذهب:** إسرائيل — جامعة بار إيلان وجامعة تل أبيب  
@@ -792,7 +778,7 @@
 **عن المصدر:** روث فيلدمان من جامعة بار إيلان، من أبرز الباحثين في الأساس العصبي والهرموني للرابطة بين الوالد وولده؛ ومجلة وقائع الأكاديمية الوطنية للعلوم من أرفع المجلات العلمية في العالم. — **درجة الدليل:** دراسة تجريبية بالتصوير الوظيفي للدماغ  
 - الرابط: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4103311/>
 
-### بطاقة 62 — الأبوة رعاية يومية ومعرفية وعاطفية
+### بطاقة 61 — الأبوة رعاية يومية ومعرفية وعاطفية
 **المؤلف/الجهة:** Flouri E (2005)  
 **المصدر:** Fathering and Child Outcomes · الفصل الأول: Fathering: A Changing Perspective؛ قسم What Is Fathering?  
 **الجهة/المذهب:** المملكة المتحدة — جامعة أكسفورد ودار وايلي  
@@ -804,7 +790,7 @@
 - الرابط: <https://catalogimages.wiley.com/images/db/pdf/0470861681.01.pdf>
 - الرابط: <https://onlinelibrary.wiley.com/doi/book/10.1002/9780470713228>
 
-### بطاقة 63 — شافر وإمرسون 1964 — الرضيع يتعلق بأبيه
+### بطاقة 62 — شافر وإمرسون 1964 — الرضيع يتعلق بأبيه
 **المؤلف/الجهة:** Schaffer HR, Emerson PE (1964)  
 **المصدر:** The development of social attachments in infancy · Monographs of the Society for Research in Child Development 29(3):1–77  
 **الجهة/المذهب:** المملكة المتحدة — غلاسكو  
@@ -816,7 +802,7 @@
 **عن المصدر:** رودولف شافر من رواد علم نفس النمو في بريطانيا، ودراسته من أشهر الدراسات في نظرية التعلق، وتصدر سلسلتها جمعية البحث في نمو الطفل، أعرق جمعيات التخصص. — **درجة الدليل:** دراسة متابعة طويلة مؤسسة  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/14151332/>
 
-### بطاقة 64 — مايكل لامب — دور الأب في نمو الطفل
+### بطاقة 63 — مايكل لامب — دور الأب في نمو الطفل
 **المؤلف/الجهة:** Lamb ME (ed.) (2010)  
 **المصدر:** The Role of the Father in Child Development · 5th ed. · Hoboken: Wiley  
 **الجهة/المذهب:** المملكة المتحدة — جامعة كامبريدج  
@@ -828,7 +814,7 @@
 **عن المصدر:** مايكل لامب أستاذ علم النفس في جامعة كامبريدج، ورأس قبلها قسم النمو الاجتماعي والانفعالي في المعهد الوطني الأمريكي لصحة الطفل؛ وكتابه هذا المرجع الجامع في الموضوع منذ طبعته الأولى سنة 1976. — **درجة الدليل:** مرجع علمي جامع  
 - صفحة الكتاب: <https://openlibrary.org/works/OL18346510W>
 
-### بطاقة 65 — مجلة نمو الطفل 2000 — الأبوة في القرن الحادي والعشرين
+### بطاقة 64 — مجلة نمو الطفل 2000 — الأبوة في القرن الحادي والعشرين
 **المؤلف/الجهة:** Cabrera NJ, Tamis-LeMonda CS, Bradley RH, Hofferth S, Lamb ME (2000)  
 **المصدر:** Fatherhood in the twenty-first century · Child Development 71(1):127–136  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -842,7 +828,7 @@
 **عن المصدر:** مجلة نمو الطفل تصدرها جمعية البحث في نمو الطفل، وهي أرفع مجلات علم نفس النمو؛ ومن مؤلفي البحث مايكل لامب من جامعة كامبريدج وناتاشا كابريرا من جامعة ماريلاند. — **درجة الدليل:** مراجعة علمية محكمة  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/10836566/>
 
-### بطاقة 66 — جوان كيلي 2007 — ما يريده الأطفال بعد الانفصال
+### بطاقة 65 — جوان كيلي 2007 — ما يريده الأطفال بعد الانفصال
 **المؤلف/الجهة:** Kelly JB (2007)  
 **المصدر:** Children's living arrangements following separation and divorce: insights from empirical and clinical research · Family Process 46(1):35–52  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -856,7 +842,7 @@
 **عن المصدر:** جوان كيلي عالمة نفس علاجية أمريكية، من رواد البحث في أحوال أبناء الطلاق منذ سبعينيات القرن العشرين؛ ومجلة العمليات الأسرية من أعرق مجلات العلاج الأسري، تأسست سنة 1962. — **درجة الدليل:** مراجعة علمية محكمة  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/17375727/>
 
-### بطاقة 67 — لامب وكيلي 2001 — خطط الرعاية للصغار
+### بطاقة 66 — لامب وكيلي 2001 — خطط الرعاية للصغار
 **المؤلف/الجهة:** Lamb ME, Kelly JB (2001)  
 **المصدر:** Using the empirical literature to guide the development of parenting plans for young children: a rejoinder to Solomon and Biringen · Family Court Review 39(4):365–371  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -870,7 +856,7 @@
 **عن المصدر:** مايكل لامب من جامعة كامبريدج، وجوان كيلي من رواد بحوث الطلاق؛ ومجلة مراجعة محاكم الأسرة لسان رابطة محاكم الأسرة والمصالحة، يكتب فيها القضاة وعلماء النفس. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1111/j.174-1617.2001.tb00618.x>
 
-### بطاقة 68 — والرستين وكيلي 1980 — شوق الأبناء إلى الأب الغائب
+### بطاقة 67 — والرستين وكيلي 1980 — شوق الأبناء إلى الأب الغائب
 **المؤلف/الجهة:** Wallerstein JS, Kelly JB (1980)  
 **المصدر:** Surviving the Breakup: How Children and Parents Cope with Divorce · New York: Basic Books  
 **الجهة/المذهب:** الولايات المتحدة — كاليفورنيا  
@@ -882,7 +868,7 @@
 **عن المصدر:** جوديث والرستين (1921–2012) صاحبة أطول دراسة متابعة طويلة في أبناء الطلاق، تابعت فيها أسرا من كاليفورنيا خمسا وعشرين سنة؛ وجوان كيلي من رواد بحوث الطلاق. — **درجة الدليل:** دراسة متابعة طويلة مؤسسة  
 - صفحة الكتاب: <https://openlibrary.org/works/OL3244770W>
 
-### بطاقة 69 — ماين وويستون 1981 — رابطتان مستقلتان
+### بطاقة 68 — ماين وويستون 1981 — رابطتان مستقلتان
 **المؤلف/الجهة:** Main M, Weston DR (1981)  
 **المصدر:** The quality of the toddler's relationship to mother and to father · Child Development 52(3):932–940  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -894,7 +880,7 @@
 **عن المصدر:** ماري ماين من جامعة كاليفورنيا في بيركلي، من أعلام نظرية التعلق ومبتكرة مقابلة التعلق عند الراشدين؛ ومجلة نمو الطفل أرفع مجلات التخصص. — **درجة الدليل:** دراسة ملاحظة تجريبية  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.2307/1129097>
 
-### بطاقة 70 — غروسمان 2002 — أثر لعب الأب حتى المراهقة
+### بطاقة 69 — غروسمان 2002 — أثر لعب الأب حتى المراهقة
 **المؤلف/الجهة:** Grossmann K, Grossmann KE, Fremmer-Bombik E, Kindler H, Scheuerer-Englisch H, Zimmermann P (2002)  
 **المصدر:** The uniqueness of the child–father attachment relationship: fathers' sensitive and challenging play as a pivotal variable in a 16-year longitudinal study · Social Development 11(3):301–337  
 **الجهة/المذهب:** ألمانيا  
@@ -908,7 +894,7 @@
 **عن المصدر:** كلاوس وكارين غروسمان من جامعة ريغنسبورغ الألمانية، أصحاب أطول دراسات المتابعة الطويلة في التعلق في أوروبا؛ والمجلة تصدرها دار وايلي. — **درجة الدليل:** دراسة متابعة ست عشرة سنة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1111/1467-9507.00202>
 
-### بطاقة 71 — باكيت 2004 — الأب علاقة تنشيط
+### بطاقة 70 — باكيت 2004 — الأب علاقة تنشيط
 **المؤلف/الجهة:** Paquette D (2004)  
 **المصدر:** Theorizing the father–child relationship: mechanisms and developmental outcomes · Human Development 47(4):193–219  
 **الجهة/المذهب:** كندا  
@@ -922,7 +908,7 @@
 **عن المصدر:** دانيال باكيت أستاذ في جامعة مونتريال، صاحب نظرية علاقة التنشيط بين الأب وولده؛ ومجلة النمو الإنساني تصدرها دار كارغر السويسرية. — **درجة الدليل:** مراجعة نظرية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1159/000078723>
 
-### بطاقة 72 — فلوري وبوكانان 2003 — الأب وصحة الولد النفسية
+### بطاقة 71 — فلوري وبوكانان 2003 — الأب وصحة الولد النفسية
 **المؤلف/الجهة:** Flouri E, Buchanan A (2003)  
 **المصدر:** The role of father involvement in children's later mental health · Journal of Adolescence 26(1):63–78  
 **الجهة/المذهب:** المملكة المتحدة  
@@ -936,7 +922,7 @@
 **عن المصدر:** إيريني فلوري أستاذة في كلية لندن الجامعية، وآن بوكانان من جامعة أكسفورد؛ والدراسة على متابعة الدراسة الوطنية لنمو الطفل في بريطانيا، المولودين سنة 1958. — **درجة الدليل:** دراسة متابعة وطنية طويلة  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/12550822/>
 
-### بطاقة 73 — رونر وفينيزيانو 2001 — أهمية محبة الأب
+### بطاقة 72 — رونر وفينيزيانو 2001 — أهمية محبة الأب
 **المؤلف/الجهة:** Rohner RP, Veneziano RA (2001)  
 **المصدر:** The importance of father love: history and contemporary evidence · Review of General Psychology 5(4):382–405  
 **الجهة/المذهب:** الولايات المتحدة — جامعة كونيتيكت  
@@ -950,7 +936,7 @@
 **عن المصدر:** رونالد رونر أستاذ في جامعة كونيتيكت، مؤسس نظرية القبول والرفض بين الأشخاص؛ ومجلة المراجعة العامة في علم النفس تصدرها جمعية علم النفس الأمريكية. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1037/1089-2680.5.4.382>
 
-### بطاقة 74 — كايل برويت — حاجة الطفل إلى أبيه
+### بطاقة 73 — كايل برويت — حاجة الطفل إلى أبيه
 **المؤلف/الجهة:** Pruett KD (2000)  
 **المصدر:** Fatherneed: Why Father Care Is as Essential as Mother Care for Your Child · New York: Free Press  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ييل  
@@ -962,7 +948,7 @@
 **عن المصدر:** كايل برويت أستاذ طبي للطب النفسي للأطفال في مركز دراسة الطفل بجامعة ييل، من أرفع مراكز طب الأطفال النفسي في العالم. — **درجة الدليل:** كتاب علمي لعالم مرجع  
 - صفحة الكتاب: <https://openlibrary.org/works/OL86374W>
 
-### بطاقة 75 — روس باركي — الأبوة
+### بطاقة 74 — روس باركي — الأبوة
 **المؤلف/الجهة:** Parke RD (1996)  
 **المصدر:** Fatherhood · Cambridge, MA: Harvard University Press  
 **الجهة/المذهب:** الولايات المتحدة — جامعة كاليفورنيا  
@@ -974,7 +960,7 @@
 **عن المصدر:** روس باركي أستاذ متميز في جامعة كاليفورنيا، من رواد البحث في الأبوة منذ سبعينيات القرن العشرين؛ والكتاب صادر عن مطبعة جامعة هارفارد. — **درجة الدليل:** كتاب علمي لعالم مرجع  
 - صفحة الكتاب: <https://openlibrary.org/works/OL1962315W>
 
-### بطاقة 76 — لامب 2012 — العبرة بجودة الصلة لا بجنس الحاضن
+### بطاقة 75 — لامب 2012 — العبرة بجودة الصلة لا بجنس الحاضن
 **المؤلف/الجهة:** Lamb ME (2012)  
 **المصدر:** Mothers, fathers, families, and circumstances: factors affecting children's adjustment · Applied Developmental Science 16(2):98–111  
 **الجهة/المذهب:** المملكة المتحدة — جامعة كامبريدج  
@@ -988,7 +974,7 @@
 **عن المصدر:** مايكل لامب أستاذ علم النفس في جامعة كامبريدج، أوسع الباحثين أثرا في علم نفس الأبوة؛ والمجلة تصدرها دار تايلور وفرانسيس. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10888691.2012.667344>
 
-### بطاقة 77 — هنري بيلر — الآباء والأسر
+### بطاقة 76 — هنري بيلر — الآباء والأسر
 **المؤلف/الجهة:** Biller HB (1993)  
 **المصدر:** Fathers and Families: Paternal Factors in Child Development · Westport, CT: Auburn House  
 **الجهة/المذهب:** الولايات المتحدة — جامعة رود آيلاند  
@@ -1000,7 +986,7 @@
 **عن المصدر:** هنري بيلر أستاذ علم النفس في جامعة رود آيلاند، من أوائل من درسوا أثر الأب في نمو الطفل. — **درجة الدليل:** كتاب علمي  
 - صفحة الكتاب: <https://openlibrary.org/works/OL3949182W>
 
-### بطاقة 78 — مايكل لامب 2018 — الأطفال ينتفعون حين تحفظ خطط الرعاية صلتهم بالوالدين معا
+### بطاقة 77 — مايكل لامب 2018 — الأطفال ينتفعون حين تحفظ خطط الرعاية صلتهم بالوالدين معا
 **المؤلف/الجهة:** Lamb ME (2018)  
 **المصدر:** Does shared parenting by separated parents affect the adjustment of young children? · Journal of Child Custody 15(1):16–25  
 **الجهة/المذهب:** المملكة المتحدة — جامعة كامبريدج  
@@ -1014,7 +1000,7 @@
 **عن المصدر:** مايكل لامب أستاذ علم النفس في جامعة كامبريدج، أوسع الباحثين أثرا في علم نفس الأبوة؛ ومجلة حضانة الطفل مجلة محكمة متخصصة. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/15379418.2018.1425105>
 
-### بطاقة 79 — دراسة بلجيكية 2012 — تربية الأب وتقدير الولد لنفسه
+### بطاقة 78 — دراسة بلجيكية 2012 — تربية الأب وتقدير الولد لنفسه
 **المؤلف/الجهة:** Bastaits K, Ponnet K, Mortelmans D (2012)  
 **المصدر:** Parenting of divorced fathers and the association with children's self-esteem · Journal of Youth and Adolescence 41(12):1643–1656  
 **الجهة/المذهب:** بلجيكا — جامعة أنتويرب  
@@ -1028,7 +1014,7 @@
 **عن المصدر:** الدراسة من جامعة أنتويرب البلجيكية على بيانات مشروع الطلاق في فلاندرز؛ ومجلة الشباب والمراهقة من أرفع مجلات التخصص، تصدرها دار سبرينغر. — **درجة الدليل:** دراسة مسحية واسعة  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/22739936/>
 
-### بطاقة 80 — رامتشانداني 2013 — انسحاب الأب في الشهر الثالث ينبئ بمشكلات السلوك في السنة الأولى
+### بطاقة 79 — رامتشانداني 2013 — انسحاب الأب في الشهر الثالث ينبئ بمشكلات السلوك في السنة الأولى
 **المؤلف/الجهة:** Ramchandani PG, Domoney J, Sethna V, Psychogiou L, Vlachos H, Murray L (2013)  
 **المصدر:** Do early father-infant interactions predict the onset of externalising behaviours in young children? Findings from a longitudinal cohort study · Journal of Child Psychology and Psychiatry. 2013;54(1):56-64  
 **الجهة/المذهب:** المملكة المتحدة — جامعة أكسفورد  
@@ -1042,7 +1028,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/22808985/>
 - النص الكامل: <https://pmc.ncbi.nlm.nih.gov/articles/PMC3562489/>
 
-### بطاقة 81 — سيثنا 2017 — انخراط الأب في اللعب يرفع ذكاء الولد مستقلا عن أثر الأم
+### بطاقة 80 — سيثنا 2017 — انخراط الأب في اللعب يرفع ذكاء الولد مستقلا عن أثر الأم
 **المؤلف/الجهة:** Sethna V, Perry E, Domoney J, Iles J, Psychogiou L, Rowbotham NEL, et al. (2017)  
 **المصدر:** Father-child interactions at 3 months and 24 months: contributions to children's cognitive development at 24 months · Infant Mental Health Journal. 2017;38(3):378-390  
 **الجهة/المذهب:** المملكة المتحدة — كلية كينغز لندن وجامعة أكسفورد  
@@ -1056,7 +1042,7 @@
 - النص الكامل: <https://spiral.imperial.ac.uk/bitstreams/2e1a884a-be05-43fd-96e4-02fba6b2cd67/download>
 - صفحة الدراسة: <https://onlinelibrary.wiley.com/doi/10.1002/imhj.21642>
 
-### بطاقة 82 — فيلدمان 2003 — الرضيع ينظم انفعاله مع أبيه كما ينظمه مع أمه
+### بطاقة 81 — فيلدمان 2003 — الرضيع ينظم انفعاله مع أبيه كما ينظمه مع أمه
 **المؤلف/الجهة:** Feldman R (2003)  
 **المصدر:** Infant-mother and infant-father synchrony: the coregulation of positive arousal · Infant Mental Health Journal. 2003;24(1):1-23  
 **الجهة/المذهب:** إسرائيل — جامعة بار إيلان  
@@ -1070,7 +1056,7 @@
 - سجل الدراسة: <https://cris.biu.ac.il/en/publications/infant-mother-and-infant-father-synchrony-the-coregulation-of-pos/>
 - صفحة الدراسة: <https://onlinelibrary.wiley.com/doi/10.1002/imhj.10041>
 
-### بطاقة 83 — تاميس-ليموندا ولامب 2004 — الأب يسهم في لغة الطفل وعقله إسهاما مستقلا
+### بطاقة 82 — تاميس-ليموندا ولامب 2004 — الأب يسهم في لغة الطفل وعقله إسهاما مستقلا
 **المؤلف/الجهة:** Tamis-LeMonda CS, Shannon JD, Cabrera NJ, Lamb ME (2004)  
 **المصدر:** Fathers and mothers at play with their 2- and 3-year-olds: contributions to language and cognitive development · Child Development. 2004;75(6):1806-1820  
 **الجهة/المذهب:** الولايات المتحدة — جامعة نيويورك  
@@ -1084,7 +1070,7 @@
 - سجل الدراسة: <https://eric.ed.gov/?id=EJ685646>
 - صفحة الدراسة: <https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2004.00818.x>
 
-### بطاقة 84 — فلوري وبوكانان 2004 — انخراط الأب في السابعة ينبئ بالتحصيل في العشرين
+### بطاقة 83 — فلوري وبوكانان 2004 — انخراط الأب في السابعة ينبئ بالتحصيل في العشرين
 **المؤلف/الجهة:** Flouri E, Buchanan A (2004)  
 **المصدر:** Early father's and mother's involvement and child's later educational outcomes · British Journal of Educational Psychology. 2004;74(2):141-153  
 **الجهة/المذهب:** المملكة المتحدة — جامعة أكسفورد  
@@ -1098,7 +1084,7 @@
 - سجل الدراسة: <https://eric.ed.gov/?id=EJ695672>
 - صفحة الدراسة: <https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/000709904773839806>
 
-### بطاقة 85 — تحليل جامع لعدة دراسات 2015 — 66 دراسة على أثر الأب في التحصيل الدراسي
+### بطاقة 84 — تحليل جامع لعدة دراسات 2015 — 66 دراسة على أثر الأب في التحصيل الدراسي
 **المؤلف/الجهة:** Jeynes WH (2015)  
 **المصدر:** A meta-analysis: the relationship between father involvement and student academic achievement · Urban Education. 2015;50(4):387-423  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية كاليفورنيا  
@@ -1111,7 +1097,7 @@
 **عن المصدر:** ويليام جينز من أكثر الباحثين استشهادا في التحاليل الجامعة للدراسات لمشاركة الوالدين في التعليم؛ والمجلة محكمة تصدرها دار سيج. — **درجة الدليل:** تحليل جامع لعدة دراسات: أعلى درجات الدليل  
 - صفحة الدراسة: <https://journals.sagepub.com/doi/10.1177/0042085914525789>
 
-### بطاقة 86 — بويس 2006 — قلة انخراط الأب في الرضاعة تجعل الطفل عرضة للمرض النفسي نحو السابعة
+### بطاقة 85 — بويس 2006 — قلة انخراط الأب في الرضاعة تجعل الطفل عرضة للمرض النفسي نحو السابعة
 **المؤلف/الجهة:** Boyce WT, Essex MJ, Alkon A, Goldsmith HH, Kraemer HC, Kupfer DJ (2006)  
 **المصدر:** Early father involvement moderates biobehavioral susceptibility to mental health problems in middle childhood · Journal of the American Academy of Child and Adolescent Psychiatry. 2006;45(12):1510-1520  
 **الجهة/المذهب:** الولايات المتحدة — جامعة كاليفورنيا  
@@ -1125,7 +1111,7 @@
 - ملخص الدراسة: <https://www.em-consulte.com/article/352611/early-father-involvement-moderates-biobehavioral-s>
 - صفحة الدراسة: <https://www.jaacap.org/article/S0890-8567(09)61657-9/fulltext>
 
-### بطاقة 87 — كينغ وسوبوليفسكي 2006 — صلة المراهق بأبيه غير المقيم تحميه ولو ضعفت صلته بأمه
+### بطاقة 86 — كينغ وسوبوليفسكي 2006 — صلة المراهق بأبيه غير المقيم تحميه ولو ضعفت صلته بأمه
 **المؤلف/الجهة:** King V, Sobolewski JM (2006)  
 **المصدر:** Nonresident fathers' contributions to adolescent well-being · Journal of Marriage and Family. 2006;68(3):537-557  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية بنسلفانيا  
@@ -1139,7 +1125,7 @@
 - سجل الدراسة: <https://pure.psu.edu/en/publications/nonresident-fathers-contributions-to-adolescent-well-being>
 - صفحة الدراسة: <https://onlinelibrary.wiley.com/doi/10.1111/j.1741-3737.2006.00274.x>
 
-### بطاقة 88 — برونتي-تينكيو 2008 — انخراط الأب يقلل احتمال تأخر الرضيع المعرفي في تسعة أشهر
+### بطاقة 87 — برونتي-تينكيو 2008 — انخراط الأب يقلل احتمال تأخر الرضيع المعرفي في تسعة أشهر
 **المؤلف/الجهة:** Bronte-Tinkew J, Carrano J, Horowitz A, Kinukawa A (2008)  
 **المصدر:** Involvement among resident fathers and links to infant cognitive outcomes · Journal of Family Issues. 2008;29(9):1211-1244  
 **الجهة/المذهب:** الولايات المتحدة — مركز تشايلد تريندز  
@@ -1152,34 +1138,7 @@
 **عن المصدر:** تحليل لعينة وطنية ممثلة للسكان من دراسة المتابعة الأمريكية الطويلة للمواليد التابعة لوزارة التعليم، أجراه مركز تشايلد تريندز أبرز مركز بحثي غير ربحي لدراسات الطفولة في الولايات المتحدة. — **درجة الدليل:** دراسة متابعة وطنية  
 - صفحة الدراسة: <https://journals.sagepub.com/doi/10.1177/0192513X08318145>
 
-### بطاقة 89 — كيلي وجونستون 2001 — الطفل المنفر يرفض والدا لم يستحق الرفض
-**المؤلف/الجهة:** Kelly JB, Johnston JR (2001)  
-**المصدر:** The alienated child: a reformulation of parental alienation syndrome · Family Court Review. 2001;39(3):249-266  
-**الجهة/المذهب:** الولايات المتحدة — رابطة محاكم الأسرة والمصالحة  
-
-> "An alienated child is defined here as one who expresses, freely and persistently, unreasonable negative feelings and beliefs (such as anger, hatred, rejection, and/or fear) toward a parent that are significantly disproportionate to the child's actual experience with that parent. ... Most often ... rejected parents have had at least an adequate relationship with these children, and the angry rejection is not merited"
->
-> «يعرف الطفل المنفر هنا بأنه من يعبر، بحرية وإصرار، عن مشاعر ومعتقدات سلبية غير معقولة (كالغضب والكراهية والرفض أو الخوف) تجاه أحد والديه، لا تتناسب البتة مع تجربة الطفل الفعلية مع ذلك الوالد... وفي الأغلب... كانت للوالد المرفوض علاقة مقبولة على الأقل بهؤلاء الأطفال، ولم يكن الرفض الغاضب مستحقا».
-
-**الاستدلال:** رفض الولد أباه بعد سنين من الانفراد به رفض مصنوع لا يعبر عن تجربته الحقيقية مع أبيه، فالتخيير بعد التغييب تخيير بين أم حاضرة وأب شوه في عين ولده.  
-**عن المصدر:** جوان كيلي شريكة والرستين في أشهر دراسة متابعة طويلة لأبناء الطلاق، وجانيت جونستون أستاذة في جامعة سان خوسيه؛ وهذا البحث أكثر بحوث التنفير استشهادا في مجلة رابطة محاكم الأسرة والمصالحة. — **درجة الدليل:** مراجعة طبية مرجعية  
-- صفحة الدراسة: <https://doi.org/10.1111/j.174-1617.2001.tb00609.x>
-- النص الكامل: <https://bhekisisa.org/wp-content/uploads/2023/07/The-Alienated-Child-kelly-johnson.pdf>
-
-### بطاقة 90 — برنيت وبيكر 2013 — التنفير: تحالف الطفل مع والد ورفض الآخر بلا مسوغ
-**المؤلف/الجهة:** Bernet W, Baker AJL (2013)  
-**المصدر:** Parental alienation, DSM-5, and ICD-11: response to critics · Journal of the American Academy of Psychiatry and the Law. 2013;41(1):98-104  
-**الجهة/المذهب:** الولايات المتحدة — جامعة فاندربيلت  
-
-> "our definition of PA is a mental condition in which a child, usually one whose parents are engaged in a high-conflict separation or divorce, allies himself strongly with one parent (the preferred parent) and rejects a relationship with the other parent (the alienated parent) without legitimate justification."
->
-> «تعريفنا للتنفير الوالدي أنه حالة نفسية يتحالف فيها الطفل، وغالبا ما يكون والداه في انفصال أو طلاق شديد النزاع، تحالفا قويا مع أحد الوالدين (الوالد المفضل) ويرفض العلاقة بالوالد الآخر (الوالد المنفر عنه) بلا مسوغ مشروع».
-
-**الاستدلال:** الطب النفسي الشرعي يسمي رفض الولد أباه بلا مسوغ حالة نفسية لها تعريف وعلامات، فاختيار الولد بعد سنين من الانفراد به ليس إرادة حرة بل عرض مرضي.  
-**عن المصدر:** ويليام برنيت أستاذ فخري للطب النفسي في جامعة فاندربيلت وقائد مقترحات إدراج التنفير في الدليل التشخيصي DSM-5 والتصنيف الدولي ICD-11؛ والمجلة لسان الأكاديمية الأمريكية للطب النفسي والقانون. — **درجة الدليل:** مرجع في الطب النفسي الشرعي  
-- النص الكامل: <https://jaapl.org/content/41/1/98>
-
-### بطاقة 91 — لومان-بيلينغز وإيمري 2000 — قلة رؤية الأب ألم يبقى إلى الرشد
+### بطاقة 88 — لومان-بيلينغز وإيمري 2000 — قلة رؤية الأب ألم يبقى إلى الرشد
 **المؤلف/الجهة:** Laumann-Billings L, Emery RE (2000)  
 **المصدر:** Distress among young adults from divorced families · Journal of Family Psychology. 2000;14(4):671-687  
 **الجهة/المذهب:** الولايات المتحدة — جامعة فرجينيا  
@@ -1192,7 +1151,7 @@
 **عن المصدر:** روبرت إيمري أستاذ علم النفس ومدير مركز الأطفال والأسر والقانون في جامعة فرجينيا، من أبرز باحثي الطلاق في العالم؛ والمجلة تصدرها جمعية علم النفس الأمريكية. — **درجة الدليل:** دراسة ميدانية في عينتين  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/11132488/>
 
-### بطاقة 92 — دن 2004 — كلما تواتر لقاء الأب غير المقيم قلت مشكلات الولد
+### بطاقة 89 — دن 2004 — كلما تواتر لقاء الأب غير المقيم قلت مشكلات الولد
 **المؤلف/الجهة:** Dunn J, Cheng H, O'Connor TG, Bridges L (2004)  
 **المصدر:** Children's perspectives on their relationships with their nonresident fathers: influences, outcomes and implications · Journal of Child Psychology and Psychiatry. 2004;45(3):553-566  
 **الجهة/المذهب:** المملكة المتحدة — كلية كينغز لندن وجامعة بريستول  
@@ -1206,7 +1165,7 @@
 - البيان الرسمي للدراسة: <https://bristol.ac.uk/alspac/news/2004/85.html>
 - صفحة الدراسة: <https://doi.org/10.1111/j.1469-7610.2004.00245.x>
 
-### بطاقة 93 — بانكسوفار 2010 — كلام الأب لرضيعه في الشهر السادس ينبئ بلغة الطفل في الثالثة، مستقلا عن الأم
+### بطاقة 90 — بانكسوفار 2010 — كلام الأب لرضيعه في الشهر السادس ينبئ بلغة الطفل في الثالثة، مستقلا عن الأم
 **المؤلف/الجهة:** Pancsofar N, Vernon-Feagans L; The Family Life Project Investigators (2010)  
 **المصدر:** Fathers' Early Contributions to Children's Language Development in Families from Low-income Rural Communities · Early Childhood Research Quarterly. 2010;25(4):450-463  
 **الجهة/المذهب:** الولايات المتحدة — جامعة نورث كارولاينا وكلية نيوجيرسي  
@@ -1220,7 +1179,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/21057648/>
 - صفحة الدراسة: <https://doi.org/10.1016/j.ecresq.2010.02.001>
 
-### بطاقة 94 — تشاكو 2018 — تجربة مضبوطة: تدريب الآباء على القراءة مع أطفالهم يحسن لغة الأطفال وسلوكهم
+### بطاقة 91 — تشاكو 2018 — تجربة مضبوطة: تدريب الآباء على القراءة مع أطفالهم يحسن لغة الأطفال وسلوكهم
 **المؤلف/الجهة:** Chacko A, Fabiano GA, Doctoroff GL, Fortson B (2018)  
 **المصدر:** Engaging Fathers in Effective Parenting for Preschool Children Using Shared Book Reading: A Randomized Controlled Trial · Journal of Clinical Child and Adolescent Psychology. 2018;47(1):79-93  
 **الجهة/المذهب:** الولايات المتحدة — جامعة نيويورك وجامعة بافالو  
@@ -1234,7 +1193,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/28103110/>
 - صفحة الدراسة: <https://doi.org/10.1080/15374416.2016.1266648>
 
-### بطاقة 95 — كولي وميديروس 2007 — انخراط الأب غير المقيم يخفض جنوح المراهقين: متابعة 647 مراهقا في مجلة نمو الطفل
+### بطاقة 92 — كولي وميديروس 2007 — انخراط الأب غير المقيم يخفض جنوح المراهقين: متابعة 647 مراهقا في مجلة نمو الطفل
 **المؤلف/الجهة:** Coley RL, Medeiros BL (2007)  
 **المصدر:** Reciprocal longitudinal relations between nonresident father involvement and adolescent delinquency · Child Development. 2007;78(1):132-147  
 **الجهة/المذهب:** الولايات المتحدة — كلية بوسطن  
@@ -1250,7 +1209,7 @@
 
 ## المدرسة والتعليم
 
-### بطاقة 96 — اليونسكو — التصنيف الدولي للتعليم: سن دخول المدرسة الابتدائية بين 5 و7
+### بطاقة 93 — اليونسكو — التصنيف الدولي للتعليم: سن دخول المدرسة الابتدائية بين 5 و7
 **المؤلف/الجهة:** UNESCO Institute for Statistics (2011)  
 **المصدر:** International Standard Classification of Education: ISCED 2011 · paragraph 122  
 **الجهة/المذهب:** الأمم المتحدة — اليونسكو  
@@ -1263,7 +1222,7 @@
 **عن المصدر:** التصنيف الدولي للتعليم هو المعيار الرسمي الذي تعتمده اليونسكو ودول العالم في إحصاءات التعليم. — **درجة الدليل:** تعريف رسمي لهيئة أممية  
 - النص الرسمي للتصنيف: <https://unesdoc.unesco.org/ark:/48223/pf0000219109>
 
-### بطاقة 97 — وزارة التعليم الأمريكية 1997 — مشاركة الأب في المدرسة ترفع درجات الأولاد
+### بطاقة 94 — وزارة التعليم الأمريكية 1997 — مشاركة الأب في المدرسة ترفع درجات الأولاد
 **المؤلف/الجهة:** U.S. Department of Education, National Center for Education Statistics (1997)  
 **المصدر:** Fathers' Involvement in Their Children's Schools — press release, October 2, 1997 · NHES 1996 — 16,910 students  
 **الجهة/المذهب:** الولايات المتحدة — وزارة التعليم، المركز الوطني لإحصاءات التعليم  
@@ -1277,7 +1236,7 @@
 - البيان الرسمي: <https://nces.ed.gov/pressrelease/father.asp>
 - ملخص الدراسة: <https://nces.ed.gov/pubs98/web/98121.asp>
 
-### بطاقة 98 — بركات وبنغتسون 2018 — سن دخول المدرسة في العالم استقر على السادسة
+### بطاقة 95 — بركات وبنغتسون 2018 — سن دخول المدرسة في العالم استقر على السادسة
 **المؤلف/الجهة:** Barakat B, Bengtsson S (2018)  
 **المصدر:** What do we mean by school entry age? Conceptual ambiguity and its implications: the example of Indonesia · Comparative Education. 2018;54(2):203-224  
 **الجهة/المذهب:** النمسا — أكاديمية العلوم النمساوية  
@@ -1293,7 +1252,7 @@
 
 ## خبراء علوم المجتمع والإنسان
 
-### بطاقة 99 — الإحصاء الإسباني الرسمي 2025 — الحضانة المشتركة في أكثر من نصف حالات الطلاق: 50.8%
+### بطاقة 96 — الإحصاء الإسباني الرسمي 2025 — الحضانة المشتركة في أكثر من نصف حالات الطلاق: 50.8%
 **المؤلف/الجهة:** Instituto Nacional de Estadística (INE) — España (2026)  
 **المصدر:** Estadística de Nulidades, Separaciones y Divorcios (ENSD). Año 2025 — Nota de prensa · Nota de prensa del INE, 23 de julio de 2026 — «Principales resultados» y sección «Número de hijos, custodia y pensiones»; gráfico «Custodias de hijos menores en  
 **الجهة/المذهب:** إسبانيا — المعهد الوطني للإحصاء (INE)  
@@ -1307,7 +1266,7 @@
 - البيان الرسمي: <https://www.ine.es/dyngs/Prensa/ENSD2025.htm>
 - المصدر الثاني: <https://www.ine.es/jaxiT3/files/t/es/csv_bdsc/20692.csv?nocab=1>
 
-### بطاقة 100 — بوغن 1997 — الطفولة تنتهي نحو السابعة
+### بطاقة 97 — بوغن 1997 — الطفولة تنتهي نحو السابعة
 **المؤلف/الجهة:** Bogin B (1997)  
 **المصدر:** Evolutionary hypotheses for human childhood · Yearbook of Physical Anthropology 40:63–89  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ميشيغان  
@@ -1318,7 +1277,7 @@
 **عن المصدر:** باري بوغن عالم إنسان في جامعة لفبرة البريطانية، من أبرز الباحثين في تطور النمو البشري وأطوار حياة الإنسان؛ والكتاب السنوي لعلم الإنسان الطبيعي تصدره الجمعية الأمريكية لعلم الإنسان الطبيعي. — **درجة الدليل:** مراجعة علمية محكمة  
 - الرابط: <https://deepblue.lib.umich.edu/items/589f9ed8-a5a1-438d-b3d6-8ac5a735472b>
 
-### بطاقة 101 — بوغن وسميث 1996 — الأنثى تسبق الذكر بسنتين
+### بطاقة 98 — بوغن وسميث 1996 — الأنثى تسبق الذكر بسنتين
 **المؤلف/الجهة:** Bogin B, Smith BH (1996)  
 **المصدر:** Evolution of the human life cycle · American Journal of Human Biology 8(6):703–716  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -1329,7 +1288,7 @@
 **عن المصدر:** باري بوغن، ومعه هولي سميث من جامعة ميشيغان، من أعلام علم تطور النمو البشري؛ والمجلة الأمريكية لعلم الأحياء البشري لسان جمعية علم الأحياء البشري. — **درجة الدليل:** مراجعة علمية محكمة  
 - الرابط: <https://doi.org/10.1002/(SICI)1520-6300(1996)8:6%3C703::AID-AJHB2%3E3.0.CO;2-U>
 
-### بطاقة 102 — روغوف ووايت 1975 — خمسون ثقافة تكلف الطفل في السابعة
+### بطاقة 99 — روغوف ووايت 1975 — خمسون ثقافة تكلف الطفل في السابعة
 **المؤلف/الجهة:** Rogoff B, Sellers MJ, Pirrotta S, Fox N, White SH (1975)  
 **المصدر:** Age of assignment of roles and responsibilities to children: a cross-cultural survey · Human Development. 1975;18(5):353-369  
 **الجهة/المذهب:** الولايات المتحدة — جامعة هارفارد  
@@ -1343,7 +1302,7 @@
 - ملخص الدراسة: <https://karger.com/hde/article-abstract/18/5/353/156330/Age-of-Assignment-of-Roles-and-Responsibilities-to>
 - سجل الدراسة: <https://hraf.yale.edu/documents/722>
 
-### بطاقة 103 — هيئة الإحصاء السويدية 2023 — المناصفة أشيع ترتيب لأبناء المنفصلين، وأكثر ما تكون بين السادسة والتاسعة
+### بطاقة 100 — هيئة الإحصاء السويدية 2023 — المناصفة أشيع ترتيب لأبناء المنفصلين، وأكثر ما تكون بين السادسة والتاسعة
 **المؤلف/الجهة:** Statistics Sweden (SCB) — Statistical news (2023)  
 **المصدر:** Shared residence is common among children with parents living apart · بيان إحصائي رسمي بتاريخ 18 أكتوبر 2023، عن تقرير «إقامة الأطفال وإعالتهم عند الوالدين المنفصلين»  
 **الجهة/المذهب:** السويد — هيئة الإحصاء السويدية  
@@ -1356,7 +1315,7 @@
 **عن المصدر:** هيئة الإحصاء السويدية هي الجهاز الإحصائي الرسمي للدولة، وبيانها مبني على مسح شمل 50 ألف طفل في خريف 2022 لوالدين لا يسكنان معا، مع سجلات السكان الرسمية. — **درجة الدليل:** إحصاء رسمي للدولة  
 - البيان الإحصائي الرسمي: <https://www.scb.se/en/finding-statistics/statistics-by-subject-area/population-and-living-conditions/living-conditions/children-and-their-families/pong/statistical-news/children-and-their-families-residence-and-support-of-children-with-parents-living-apart>
 
-### بطاقة 104 — هيئة الإحصاء النرويجية 2022 — الإقامة المشتركة قفزت من 25% إلى 43% من أبناء المنفصلين في ثماني سنوات
+### بطاقة 101 — هيئة الإحصاء النرويجية 2022 — الإقامة المشتركة قفزت من 25% إلى 43% من أبناء المنفصلين في ثماني سنوات
 **المؤلف/الجهة:** Statistisk sentralbyrå (SSB) — Rapporter 2022/53 (2022)  
 **المصدر:** Delt bosted for barn etter samlivsbrudd. Nye utviklingstrekk og kjennetegn · تقرير رسمي منشور في 16 ديسمبر 2022 عن مسح الصحبة والإقامة لسنة 2020  
 **الجهة/المذهب:** النرويج — هيئة الإحصاء النرويجية  
@@ -1369,7 +1328,7 @@
 **عن المصدر:** هيئة الإحصاء النرويجية هي الجهاز الإحصائي الرسمي للدولة، والتقرير مبني على مسحها الوطني لسنة 2020 عن إقامة الأطفال بعد انفصال الوالدين. — **درجة الدليل:** إحصاء رسمي للدولة  
 - صفحة التقرير الرسمي: <https://www.ssb.no/befolkning/barn-familier-og-husholdninger/artikler/delt-bosted-for-barn-etter-samlivsbrudd.nye-utviklingstrekk-og-kjennetegn>
 
-### بطاقة 105 — المكتب المركزي للإحصاء الهولندي 2020 — أكثر من ربع المطلقين يختارون التناوب في رعاية الأطفال، و80% منهم يستمرون عليه
+### بطاقة 102 — المكتب المركزي للإحصاء الهولندي 2020 — أكثر من ربع المطلقين يختارون التناوب في رعاية الأطفال، و80% منهم يستمرون عليه
 **المؤلف/الجهة:** Centraal Bureau voor de Statistiek (CBS) — Statistische Trends (2020)  
 **المصدر:** Meerderheid gescheiden ouders blijft bij elkaar in de buurt · تقرير الاتجاهات الإحصائية، 30 يونيو 2020، الفقرة التمهيدية  
 **الجهة/المذهب:** هولندا — المكتب المركزي للإحصاء  
@@ -1382,7 +1341,7 @@
 **عن المصدر:** المكتب المركزي للإحصاء هو الجهاز الإحصائي الرسمي للدولة الهولندية، والتقرير من سلسلته الرسمية للاتجاهات الإحصائية. — **درجة الدليل:** إحصاء رسمي للدولة  
 - التقرير الرسمي: <https://www.cbs.nl/nl-nl/longread/statistische-trends/2020/meerderheid-gescheiden-ouders-blijft-bij-elkaar-in-de-buurt/1-inleiding>
 
-### بطاقة 106 — الإحصاء الإسباني الرسمي 2023 — لأول مرة تتقدم الحضانة المشتركة على حضانة الأم
+### بطاقة 103 — الإحصاء الإسباني الرسمي 2023 — لأول مرة تتقدم الحضانة المشتركة على حضانة الأم
 **المؤلف/الجهة:** Instituto Nacional de Estadística (INE) — España (2024)  
 **المصدر:** Estadística de Nulidades, Separaciones y Divorcios (ENSD). Año 2023 — Nota de prensa · Nota de prensa del INE, 11 de julio de 2024 — «Principales resultados» y sección «Número de hijos, custodia y pensiones»; gráfico «Custodias de hijos menores en  
 **الجهة/المذهب:** إسبانيا — المعهد الوطني للإحصاء (INE)  
@@ -1396,7 +1355,7 @@
 - البيان الرسمي: <https://www.ine.es/dyngs/Prensa/ENSD2023.htm>
 - بيان 2024: <https://www.ine.es/dyngs/Prensa/ENSD2024.htm>
 
-### بطاقة 107 — الإحصاء الإسباني الرسمي 2010 — الحضانة المشتركة 10.5% فقط، فتضاعفت خمس مرات في خمس عشرة سنة
+### بطاقة 104 — الإحصاء الإسباني الرسمي 2010 — الحضانة المشتركة 10.5% فقط، فتضاعفت خمس مرات في خمس عشرة سنة
 **المؤلف/الجهة:** Instituto Nacional de Estadística (INE) — España (2011)  
 **المصدر:** Estadística de Nulidades, Separaciones y Divorcios. Año 2010 — Nota de prensa (19 de septiembre de 2011) · Nota de prensa del INE (np673), 19 de septiembre de 2011, página 3 (custodia de los hijos menores); y Nota de prensa ENSD Año 2014 (np927), 15 de septiembre de   
 **الجهة/المذهب:** إسبانيا — المعهد الوطني للإحصاء (INE)  
@@ -1410,7 +1369,7 @@
 - البيان الرسمي: <https://www.ine.es/prensa/np673.pdf>
 - بيان 2014: <https://www.ine.es/prensa/np927.pdf>
 
-### بطاقة 108 — الإحصاء الإسباني الرسمي 2025 — الحضانة المشتركة أغلبية في تسعة أقاليم: كتالونيا 63%
+### بطاقة 105 — الإحصاء الإسباني الرسمي 2025 — الحضانة المشتركة أغلبية في تسعة أقاليم: كتالونيا 63%
 **المؤلف/الجهة:** Instituto Nacional de Estadística (INE) — España (2026)  
 **المصدر:** Divorcios entre cónyuges de diferente sexo según cónyuge que debe ejercer la custodia — Resultados por comunidades y ciudades autónomas. Año 2025 (INEbase, tabla 21549) · INEbase — Estadística de Nulidades, Separaciones y Divorcios 2025, tabla 21549 (descarga CSV), periodo 2025  
 **الجهة/المذهب:** إسبانيا — المعهد الوطني للإحصاء (INE)  
@@ -1424,7 +1383,7 @@
 - جدول الإحصاء الرسمي: <https://www.ine.es/jaxiT3/files/t/es/csv_bdsc/21549.csv?nocab=1>
 - المصدر الثاني: <https://www.ine.es/jaxiT3/Tabla.htm?t=21549&L=0>
 
-### بطاقة 109 — دراسة نمساوية 2012 — الحضانة المشتركة خفضت الطلاق ورفعت الزواج والمواليد وزادت ما تتلقاه الأمهات بعد الطلاق
+### بطاقة 106 — دراسة نمساوية 2012 — الحضانة المشتركة خفضت الطلاق ورفعت الزواج والمواليد وزادت ما تتلقاه الأمهات بعد الطلاق
 **المؤلف/الجهة:** Böheim R, Francesconi M, Halla M (2012)  
 **المصدر:** Does Custody Law Affect Family Behavior In and Out of Marriage? · IZA Discussion Paper No. 7064, December 2012  
 **الجهة/المذهب:** النمسا — جامعة لينز وجامعة إسكس ومعهد اقتصاديات العمل  
@@ -1435,7 +1394,7 @@
 **عن المصدر:** رينيه بوهايم أستاذ الاقتصاد في جامعة لينز، وماركو فرانشيسكوني أستاذ الاقتصاد في جامعة إسكس، ومارتن هالا أستاذ الاقتصاد في جامعة فيينا للاقتصاد؛ والورقة من سلسلة معهد اقتصاديات العمل في بون، أكبر شبكة لاقتصاديي العمل في العالم. — **درجة الدليل:** دراسة على سجلات الدولة الإدارية الشاملة  
 - نص الدراسة: <https://docs.iza.org/dp7064.pdf>
 
-### بطاقة 110 — برينيغ وآلن 2000 — توقع الفوز بالحضانة من دوافع رفع دعوى الطلاق
+### بطاقة 107 — برينيغ وآلن 2000 — توقع الفوز بالحضانة من دوافع رفع دعوى الطلاق
 **المؤلف/الجهة:** Brinig MF, Allen DW (2000)  
 **المصدر:** 'These boots are made for walking': why most divorce filers are women · American Law and Economics Review. 2000;2(1):126-169  
 **الجهة/المذهب:** الولايات المتحدة — جامعة أيوا وجامعة سايمون فريزر  
@@ -1448,7 +1407,7 @@
 **عن المصدر:** مارغريت برينيغ أستاذة القانون في جامعة أيوا ثم نوتردام، ودوغلاس آلن أستاذ الاقتصاد في جامعة سايمون فريزر، من رواد اقتصاديات قانون الأسرة؛ والمجلة تصدرها مطبعة جامعة أكسفورد للجمعية الأمريكية للقانون والاقتصاد. — **درجة الدليل:** دراسة محكمة على سجلات الطلاق  
 - ملخص الدراسة: <https://doi.org/10.1093/aler/2.1.126>
 
-### بطاقة 111 — كانسيان وماير 2014 — في ويسكونسن هبطت حضانة الأم المنفردة هبوطا كبيرا وارتفعت الحضانة المشتركة ارتفاعا هائلا بين 1988 و2008
+### بطاقة 108 — كانسيان وماير 2014 — في ويسكونسن هبطت حضانة الأم المنفردة هبوطا كبيرا وارتفعت الحضانة المشتركة ارتفاعا هائلا بين 1988 و2008
 **المؤلف/الجهة:** Cancian M, Meyer DR, Brown PR, Cook ST (2014)  
 **المصدر:** Who gets custody now? Dramatic changes in children's living arrangements after divorce · Demography. 2014;51(4):1381-1396  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ويسكونسن في ماديسون  
@@ -1462,7 +1421,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/24811135/>
 - صفحة الدراسة: <https://doi.org/10.1007/s13524-014-0307-8>
 
-### بطاقة 112 — راج تشيتي وزملاؤه، هارفارد وبيركلي 2014 — بنية الأسرة أقوى ما يتنبأ بارتقاء الأبناء
+### بطاقة 109 — راج تشيتي وزملاؤه، هارفارد وبيركلي 2014 — بنية الأسرة أقوى ما يتنبأ بارتقاء الأبناء
 **المؤلف/الجهة:** Chetty R, Hendren N, Kline P, Saez E (2014)  
 **المصدر:** Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States · Quarterly Journal of Economics 129(4) — Executive Summary, January 2014  
 **الجهة/المذهب:** الولايات المتحدة — جامعة هارفارد وجامعة كاليفورنيا في بيركلي  
@@ -1476,7 +1435,7 @@
 - الملخص التنفيذي للدراسة: <https://eml.berkeley.edu/%7Esaez/geosummary.pdf>
 - عرض الدراسة: <https://cepr.org/voxeu/columns/where-land-opportunity-intergenerational-mobility-us>
 
-### بطاقة 113 — راج تشيتي وزملاؤه 2018 — كثرة الآباء الحاضرين في الحي ترفع مستقبل الأولاد ولو غاب أبوهم
+### بطاقة 110 — راج تشيتي وزملاؤه 2018 — كثرة الآباء الحاضرين في الحي ترفع مستقبل الأولاد ولو غاب أبوهم
 **المؤلف/الجهة:** Chetty R, Hendren N, Jones MR, Porter SR (2018/2020)  
 **المصدر:** Race and Economic Opportunity in the United States: An Intergenerational Perspective · Quarterly Journal of Economics 135(2), 2020 — abstract and introduction  
 **الجهة/المذهب:** الولايات المتحدة — جامعة هارفارد ومكتب الإحصاء الأمريكي  
@@ -1490,7 +1449,7 @@
 - صفحة الدراسة: <https://opportunityinsights.org/paper/race/>
 - نص الدراسة: <https://opportunityinsights.org/wp-content/uploads/2018/04/race_paper.pdf>
 
-### بطاقة 114 — هونغ كونغ — حق الطفل في والديه بعد الطلاق
+### بطاقة 111 — هونغ كونغ — حق الطفل في والديه بعد الطلاق
 **المؤلف/الجهة:** جمعية خدمات الأسرة والرفاه في هونغ كونغ  
 **المصدر:** Impact of Co-parenting Approaches on Children's Well-being in Post-divorce Families in Hong Kong  
 **الجهة/المذهب:** الصين — هونغ كونغ  
@@ -1501,7 +1460,7 @@
 **عن المصدر:** جمعية خدمات الأسرة والرفاه في هونغ كونغ من أقدم هيئات الخدمة الاجتماعية الأسرية هناك، تأسست سنة 1949. — **درجة الدليل:** دراسة ميدانية لهيئة اجتماعية  
 - الرابط: <https://www.hkfws.org.hk/assets/files/reserch_reports/study-report_impact-of-co-parenting-approaches-on-childrens-well-being-in-post-divorce-families-in-hk.pdf>
 
-### بطاقة 115 — تقبل الأب والتوافق النفسي في 23 دولة
+### بطاقة 112 — تقبل الأب والتوافق النفسي في 23 دولة
 **المؤلف/الجهة:** Ali S, Khaleque A, Rohner RP (2015)  
 **المصدر:** Pancultural Gender Differences in the Relation Between Perceived Parental Acceptance and Psychological Adjustment of Children and Adult Offspring: A Meta-Analytic Review of Worldwide Research · Journal of Cross-Cultural Psychology. 2015;46(8):1059–1080  
 **الجهة/المذهب:** الولايات المتحدة — جامعة كونيتيكت؛ عينات من 23 دولة  
@@ -1512,7 +1471,7 @@
 **عن المصدر:** رونالد رونر مؤسس نظرية القبول والرفض بين الأشخاص، ومعه عبد الخالق من جامعة كونيتيكت؛ ومجلة علم النفس عبر الثقافات لسان الرابطة الدولية لعلم النفس عبر الثقافات. — **درجة الدليل:** تحليل جامع لعدة دراسات: أعلى درجات الدليل  
 - الرابط: <https://journals.sagepub.com/doi/10.1177/0022022115597754>
 
-### بطاقة 116 — التقبل والرفض الوالديان ونتائج الطفل في 9 دول
+### بطاقة 113 — التقبل والرفض الوالديان ونتائج الطفل في 9 دول
 **المؤلف/الجهة:** Putnick DL, Bornstein MH, Lansford JE, Malone PS, Pastorelli C, Skinner AT, Sorbring E, Tapanya S, Uribe Tirado LM, Zelli A, Alampay LP, Al-Hassan SM, Bacchini D, Bombi AS, Chang L, Deater-Deckard K, Di Giunta L, Dodge KA, Oburu P (2015)  
 **المصدر:** Perceived mother and father acceptance-rejection predict four unique aspects of child adjustment across nine countries · Journal of Child Psychology and Psychiatry. 2015;56(8):923–932  
 **الجهة/المذهب:** الصين، كولومبيا، إيطاليا، الأردن، كينيا، الفلبين، السويد، تايلاند، الولايات المتحدة  
@@ -1524,7 +1483,7 @@
 - الرابط: <https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.12366>
 - الرابط: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4465055/>
 
-### بطاقة 117 — مشاركة الأب في اللعب والتعلم في 38 دولة
+### بطاقة 114 — مشاركة الأب في اللعب والتعلم في 38 دولة
 **المؤلف/الجهة:** Jeong J, McCoy DC, Yousafzai AK, Salhi C, Fink G (2016)  
 **المصدر:** Paternal Stimulation and Early Child Development in Low- and Middle-Income Countries · Pediatrics. 2016;138(4):e20161357  
 **الجهة/المذهب:** الولايات المتحدة وباكستان — هارفارد وآغا خان ونورث إيسترن؛ بيانات من 38 دولة  
@@ -1536,7 +1495,7 @@
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/27600319/>
 - الرابط: <https://publications.aap.org/pediatrics/article/138/4/e20161357/52343/Paternal-Stimulation-and-Early-Child-Development>
 
-### بطاقة 118 — سارة هردي — الأم والآخرون
+### بطاقة 115 — سارة هردي — الأم والآخرون
 **المؤلف/الجهة:** Hrdy SB (2009)  
 **المصدر:** Mothers and Others: The Evolutionary Origins of Mutual Understanding · Cambridge, MA: Harvard University Press  
 **الجهة/المذهب:** الولايات المتحدة — جامعة هارفارد  
@@ -1548,7 +1507,7 @@
 **عن المصدر:** سارة بلافر هردي عالمة إنسان أمريكية، أستاذة فخرية في جامعة كاليفورنيا في ديفيس، وعضو الأكاديمية الوطنية للعلوم في الولايات المتحدة؛ وكتابها صادر عن مطبعة جامعة هارفارد. — **درجة الدليل:** كتاب علمي لعالمة مرجع  
 - صفحة الكتاب: <https://openlibrary.org/works/OL18805358W>
 
-### بطاقة 119 — حالة آباء العالم 2015 — تقرير عالمي
+### بطاقة 116 — حالة آباء العالم 2015 — تقرير عالمي
 **المؤلف/الجهة:** Levtov R, van der Gaag N, Greene M, Kaufman M, Barker G (2015)  
 **المصدر:** State of the World's Fathers: A MenCare Advocacy Publication · Washington, DC: Promundo, Rutgers, Save the Children, Sonke Gender Justice  
 **الجهة/المذهب:** عالمي — الولايات المتحدة وأوروبا وإفريقيا  
@@ -1562,7 +1521,7 @@
 **عن المصدر:** تقرير تشترك فيه منظمات من الولايات المتحدة وهولندا والمملكة المتحدة وجنوب إفريقيا، ومنها منظمة إنقاذ الطفولة. — **درجة الدليل:** تقرير دولي  
 - نص التقرير: <https://www.equimundo.org/wp-content/uploads/2015/06/State-of-the-Worlds-Fathers-Full-Report-2015.pdf>
 
-### بطاقة 120 — أماتو 2005 — أثر بنية الأسرة في أجيالها
+### بطاقة 117 — أماتو 2005 — أثر بنية الأسرة في أجيالها
 **المؤلف/الجهة:** Amato PR (2005)  
 **المصدر:** The impact of family formation change on the cognitive, social, and emotional well-being of the next generation · The Future of Children 15(2):75–96  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية بنسلفانيا  
@@ -1576,7 +1535,7 @@
 **عن المصدر:** بول أماتو أستاذ علم الاجتماع في جامعة ولاية بنسلفانيا، من أوسع علماء الأسرة أثرا؛ والمجلة يصدرها مركز في جامعة برنستون مع مؤسسة بروكينغز. — **درجة الدليل:** مراجعة علمية محكمة  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/16158731/>
 
-### بطاقة 121 — آباء قوم أكا — أقرب آباء العالم إلى رضعهم
+### بطاقة 118 — آباء قوم أكا — أقرب آباء العالم إلى رضعهم
 **المؤلف/الجهة:** Hewlett BS (1991)  
 **المصدر:** Intimate Fathers: The Nature and Context of Aka Pygmy Paternal Infant Care · Ann Arbor: University of Michigan Press  
 **الجهة/المذهب:** وسط إفريقيا — قوم أكا  
@@ -1588,7 +1547,7 @@
 **عن المصدر:** باري هيولت أستاذ علم الإنسان في جامعة ولاية واشنطن، من رواد دراسة الأبوة في المجتمعات التقليدية؛ وكتابه صادر عن مطبعة جامعة ميشيغان. — **درجة الدليل:** دراسة ميدانية بالمعايشة  
 - صفحة الكتاب: <https://openlibrary.org/works/OL4480763W>
 
-### بطاقة 122 — برافر وزملاؤه 2011 — عامة الناس يختارون المناصفة حين يعرض عليهم الأمر مجردا
+### بطاقة 119 — برافر وزملاؤه 2011 — عامة الناس يختارون المناصفة حين يعرض عليهم الأمر مجردا
 **المؤلف/الجهة:** Braver SL, Ellman IM, Votruba AM, Fabricius WV (2011)  
 **المصدر:** Lay judgments about child custody after divorce · Psychology, Public Policy, and Law. 2011;17(2):212-240  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية أريزونا  
@@ -1600,7 +1559,7 @@
 - ملخص الدراسة: <https://doi.org/10.1037/a0023194>
 - بيان جامعة ولاية أريزونا: <https://news.asu.edu/content/studies-public-favors-equal-custody-children-divorce>
 
-### بطاقة 123 — برينيغ وباكلي 1998 — قوانين الحضانة المشتركة ترتبط ارتباطا واضحا بانخفاض معدلات الطلاق في الولايات الأمريكية
+### بطاقة 120 — برينيغ وباكلي 1998 — قوانين الحضانة المشتركة ترتبط ارتباطا واضحا بانخفاض معدلات الطلاق في الولايات الأمريكية
 **المؤلف/الجهة:** Brinig MF, Buckley FH (1998)  
 **المصدر:** Joint Custody: Bonding and Monitoring Theories · Indiana Law Journal. 1998;73(2):393-427 (ص 393 و425)  
 **الجهة/المذهب:** الولايات المتحدة — جامعة أيوا وجامعة جورج ميسون  
@@ -1613,7 +1572,7 @@
 **عن المصدر:** مارغريت برينيغ أستاذة القانون وفرانك باكلي أستاذ القانون في جامعة جورج ميسون، من رواد تحليل قانون الأسرة اقتصاديا، على بيانات الولايات الأمريكية؛ ومجلة إنديانا للقانون من المجلات القانونية الجامعية المحكمة. — **درجة الدليل:** دراسة قانونية اقتصادية محكمة  
 - نص الدراسة: <https://ilj.law.indiana.edu/articles/73/73_2_Brinig.pdf>
 
-### بطاقة 124 — عطار شوارتز وزملاؤها 2009 — انخراط الأجداد يقلل مشكلات المراهقين، وأقوى أثره في الأسر المنفصلة
+### بطاقة 121 — عطار شوارتز وزملاؤها 2009 — انخراط الأجداد يقلل مشكلات المراهقين، وأقوى أثره في الأسر المنفصلة
 **المؤلف/الجهة:** Attar-Schwartz S, Tan JP, Buchanan A, Flouri E, Griggs J (2009)  
 **المصدر:** Grandparenting and Adolescent Adjustment in Two-Parent Biological, Lone-Parent, and Step-Families · Journal of Family Psychology 23(1): 67–75  
 **الجهة/المذهب:** المملكة المتحدة — جامعة أكسفورد  
@@ -1628,49 +1587,7 @@
 
 ## أضرار حرمان الطفل من أبيه
 
-### بطاقة 125 — دراسة مواليد شمال فنلندا 2001 — النشأة بلا أحد الوالدين ترفع وفيات الرجال وانتحارهم
-**المؤلف/الجهة:** Sauvola A (كما في سجل OpenAlex؛ المقال المطبوع له مؤلفون مشاركون من فريق أولو لم يتحقق منهم في هذه الجلسة) (2001)  
-**المصدر:** Mortality of young adults in relation to single-parent family background. A prospective study of the Northern Finland 1966 birth cohort · European Journal of Public Health 11(3): 284–286  
-**الجهة/المذهب:** فنلندا — مواليد شمال فنلندا 1966 وسجل الوفيات الوطني  
-
-> "… the Northern Finland 1966 birth cohort which is linked with the national death register. … the general mortality risk for males with a single-parent family background was significantly increased compared with males from a two-parent family background (odds ratio 1.8 and 95% confidence interval: 1.1-2.9). The risk of committing suicide was significantly increased among young adult males with a single-parent family background (OR 2.5 and 95% CI: 1.1-5.8). … more preventative mental health support for children and adolescents living in broken homes."
->
-> «... مواليد شمال فنلندا 1966 المربوطون بسجل الوفيات الوطني. ... كان خطر الوفاة العام عند الذكور من خلفية أسرة الوالد الواحد أعلى بدلالة إحصائية منه عند الذكور من خلفية أسرة الوالدين معا (نسبة الخطر 1.8، وفاصل الثقة 95%: 1.1-2.9). وكان خطر الانتحار أعلى بدلالة إحصائية عند الشباب الذكور من خلفية أسرة الوالد الواحد (نسبة الخطر 2.5، وفاصل الثقة 95%: 1.1-5.8). ... [تدعو النتيجة إلى] مزيد من الدعم النفسي الوقائي للأطفال والمراهقين الذين يعيشون في بيوت مفككة.»
-
-**الاستدلال:** سجلات وطنية تبين أن الفتى الذي نشأ في أسرة والد واحد يموت شابا بنسبة أعلى (1.8 ضعفا) وينتحر بنسبة أعلى (2.5 ضعفا)؛ فتفكك البيت وحرمان الولد من أحد والديه خطر على حياته لا على نفسيته فحسب.  
-**عن المصدر:** آنو ساوفولا وفريق مجموعة مواليد شمال فنلندا 1966 بجامعة أولو، في المجلة الأوروبية للصحة العامة المحكمة (دار جامعة أكسفورد)، بمتابعة 11017 مولودا من 16 إلى 28 سنة بعد مراعاة التشخيص النفسي والطبقة الاجتماعية للوالدين. تنبيه: سجل OpenAlex لا يذكر إلا المؤلفة الأولى، وصفحة الناشر وملف PDF محجوبان في هذه الجلسة. — **درجة الدليل:** دراسة سجلات وطنية  
-- صفحة الدراسة: <https://doi.org/10.1093/eurpub/11.3.284>
-- المصدر الثاني: <https://api.openalex.org/works/doi:10.1093/eurpub/11.3.284>
-
-### بطاقة 126 — كومانور وفيليبس 2002 — وجود الأب في البيت أهم عامل في وقاية الولد من الجنوح، والدخل أقل أثرا
-**المؤلف/الجهة:** Comanor WS, Phillips L (2002)  
-**المصدر:** The Impact of Income and Family Structure on Delinquency · Journal of Applied Economics 5(2): 209–232  
-**الجهة/المذهب:** الولايات المتحدة — المسح الوطني الممتد للشباب (NLSY)  
-
-> "Using data from the National Longitudinal Survey of Youth, we estimate the impact of family income and various dimensions of family structure on a youth's contact with the criminal justice system between the ages of 14 and 22. From this analysis, we conclude that the single most important factor affecting these measures of delinquency is the presence of his father in the home. All other factors, including family income, are much less important."
->
-> «باستعمال بيانات المسح الوطني الأمريكي الممتد للشباب، نقدر أثر دخل الأسرة وأبعاد مختلفة من بنية الأسرة في احتكاك الشاب بنظام العدالة الجنائية بين سن 14 و22. ونخلص من هذا التحليل إلى أن العامل الأهم على الإطلاق المؤثر في مقاييس الجنوح هذه هو وجود أبيه [الشاب] في البيت. أما العوامل الأخرى كلها، ومنها دخل الأسرة، فأقل أهمية بكثير.»
-
-**الاستدلال:** تقطع الدراسة بأن وجود الأب في البيت هو العامل الأول في وقاية الفتى من الجنوح والوقوع في يد العدالة الجنائية، وأن الدخل أقل أثرا بكثير؛ فحرمان الولد من أبيه ضرر لا يعوضه المال ولا النفقة.  
-**عن المصدر:** ويليام كومانور ولاد فيليبس أستاذا الاقتصاد بجامعة كاليفورنيا في سانتا باربرا، في مجلة الاقتصاد التطبيقي المحكمة التي تصدرها جامعة سيما الأرجنتينية وتنشرها دار تايلور وفرانسيس. تنبيه: صفحة الناشر محجوبة في هذه الجلسة، والنص مأخوذ حرفيا من ملخص الناشر المودع في قاعدة OpenAlex. — **درجة الدليل:** دراسة محكمة على مسح وطني ممتد  
-- صفحة الدراسة: <https://doi.org/10.1080/15140326.2002.12040577>
-- المصدر الثاني: <https://api.openalex.org/works/doi:10.1080/15140326.2002.12040577>
-
-### بطاقة 127 — أنتيكول وبيدار 2007 — كل خمس سنين إضافية مع الأب تخفض التدخين والمخدرات والإدانات
-**المؤلف/الجهة:** Antecol H, Bedard K (2007)  
-**المصدر:** Does single parenthood increase the probability of teenage promiscuity, substance use, and crime? · Journal of Population Economics 20(1): 55–71  
-**الجهة/المذهب:** الولايات المتحدة — المسح الوطني الممتد للشباب وملحق الشباب البالغين (NLSY)  
-
-> "There is longstanding evidence that youths raised by single parents are more likely to perform poorly in school and partake in “deviant” behaviors such as smoking, sex, substance use, and crime. … Using the National Longitudinal Survey of Youth and its Young Adult Supplement, we find that an additional 5 years with the biological father decreases the probability of smoking, drinking, engaging in sexual activity, marijuana use, and conviction by approximately 5.3, 1.2, 3.4, 2.2 and 0.3 percentage points, respectively."
->
-> «ثمة أدلة قديمة على أن اليافعين الذين يربيهم والد واحد أكثر عرضة لضعف الأداء المدرسي وللسلوك «المنحرف» كالتدخين والجنس وتعاطي المواد والجريمة. ... وباستعمال المسح الوطني الممتد للشباب وملحقه الخاص بالشباب البالغين نجد أن كل 5 سنوات إضافية يقضيها الولد مع أبيه البيولوجي تخفض احتمال التدخين وشرب الخمر وممارسة الجنس وتعاطي الماريجوانا والإدانة الجنائية بنحو 5.3 و1.2 و3.4 و2.2 و0.3 نقطة مئوية على الترتيب.»
-
-**الاستدلال:** تبين الدراسة أن طول مدة إقامة الولد مع أبيه يخفض التدخين والخمر والجنس المبكر والمخدرات والإدانة الجنائية خفضا مقيسا بالأرقام؛ فكل سنة يحرم فيها الولد من أبيه خسارة محسوبة في سلوكه ومستقبله.  
-**عن المصدر:** هيذر أنتيكول أستاذة الاقتصاد بكلية كليرمونت ماكينا وكيلي بيدار أستاذة الاقتصاد بجامعة كاليفورنيا في سانتا باربرا، في مجلة اقتصاد السكان وهي من أبرز المجلات المحكمة في بابها (دار شبرينغر). قرئ الملخص كاملا على صفحة الناشر؛ وسجل OpenAlex لهذه الورقة تعذر قراءته بسبب تقييد الطلبات. — **درجة الدليل:** دراسة محكمة على مسح وطني ممتد  
-- صفحة الدراسة: <https://link.springer.com/article/10.1007/s00148-005-0019-x>
-- المصدر الثاني: <https://doi.org/10.1007/s00148-005-0019-x>
-
-### بطاقة 128 — مجلة طب الأطفال الأمريكية 2002 — وجود رجل غريب في بيت الطفل يضاعف خطر موته بالإيذاء 8 مرات
+### بطاقة 122 — مجلة طب الأطفال الأمريكية 2002 — وجود رجل غريب في بيت الطفل يضاعف خطر موته بالإيذاء 8 مرات
 **المؤلف/الجهة:** Stiffman MN, Schnitzer PG, Adam P, Kruse RL, Ewigman BG (2002)  
 **المصدر:** Household composition and risk of fatal child maltreatment · Pediatrics 109(4): 615  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ميزوري  
@@ -1684,7 +1601,49 @@
 - البحث في المجلة: <https://doi.org/10.1542/peds.109.4.615>
 - ملخص البحث: <https://www.healthpartners.com/knowledgeexchange/display/document-rn18442>
 
-### بطاقة 129 — دالي وويلسون — زوج الأم يقتل الأطفال الصغار ضربا بمعدل يزيد على 100 ضعف الأب
+### بطاقة 123 — دراسة مواليد شمال فنلندا 2001 — النشأة بلا أحد الوالدين ترفع وفيات الرجال وانتحارهم
+**المؤلف/الجهة:** Sauvola A (كما في سجل OpenAlex؛ المقال المطبوع له مؤلفون مشاركون من فريق أولو لم يتحقق منهم في هذه الجلسة) (2001)  
+**المصدر:** Mortality of young adults in relation to single-parent family background. A prospective study of the Northern Finland 1966 birth cohort · European Journal of Public Health 11(3): 284–286  
+**الجهة/المذهب:** فنلندا — مواليد شمال فنلندا 1966 وسجل الوفيات الوطني  
+
+> "… the Northern Finland 1966 birth cohort which is linked with the national death register. … the general mortality risk for males with a single-parent family background was significantly increased compared with males from a two-parent family background (odds ratio 1.8 and 95% confidence interval: 1.1-2.9). The risk of committing suicide was significantly increased among young adult males with a single-parent family background (OR 2.5 and 95% CI: 1.1-5.8). … more preventative mental health support for children and adolescents living in broken homes."
+>
+> «... مواليد شمال فنلندا 1966 المربوطون بسجل الوفيات الوطني. ... كان خطر الوفاة العام عند الذكور من خلفية أسرة الوالد الواحد أعلى بدلالة إحصائية منه عند الذكور من خلفية أسرة الوالدين معا (نسبة الخطر 1.8، وفاصل الثقة 95%: 1.1-2.9). وكان خطر الانتحار أعلى بدلالة إحصائية عند الشباب الذكور من خلفية أسرة الوالد الواحد (نسبة الخطر 2.5، وفاصل الثقة 95%: 1.1-5.8). ... [تدعو النتيجة إلى] مزيد من الدعم النفسي الوقائي للأطفال والمراهقين الذين يعيشون في بيوت مفككة.»
+
+**الاستدلال:** سجلات وطنية تبين أن الفتى الذي نشأ في أسرة والد واحد يموت شابا بنسبة أعلى (1.8 ضعفا) وينتحر بنسبة أعلى (2.5 ضعفا)؛ فتفكك البيت وحرمان الولد من أحد والديه خطر على حياته لا على نفسيته فحسب.  
+**عن المصدر:** آنو ساوفولا وفريق مجموعة مواليد شمال فنلندا 1966 بجامعة أولو، في المجلة الأوروبية للصحة العامة المحكمة (دار جامعة أكسفورد)، بمتابعة 11017 مولودا من 16 إلى 28 سنة بعد مراعاة التشخيص النفسي والطبقة الاجتماعية للوالدين. تنبيه: سجل OpenAlex لا يذكر إلا المؤلفة الأولى، وصفحة الناشر وملف PDF محجوبان في هذه الجلسة. — **درجة الدليل:** دراسة سجلات وطنية  
+- صفحة الدراسة: <https://doi.org/10.1093/eurpub/11.3.284>
+- المصدر الثاني: <https://api.openalex.org/works/doi:10.1093/eurpub/11.3.284>
+
+### بطاقة 124 — كومانور وفيليبس 2002 — وجود الأب في البيت أهم عامل في وقاية الولد من الجنوح، والدخل أقل أثرا
+**المؤلف/الجهة:** Comanor WS, Phillips L (2002)  
+**المصدر:** The Impact of Income and Family Structure on Delinquency · Journal of Applied Economics 5(2): 209–232  
+**الجهة/المذهب:** الولايات المتحدة — المسح الوطني الممتد للشباب (NLSY)  
+
+> "Using data from the National Longitudinal Survey of Youth, we estimate the impact of family income and various dimensions of family structure on a youth's contact with the criminal justice system between the ages of 14 and 22. From this analysis, we conclude that the single most important factor affecting these measures of delinquency is the presence of his father in the home. All other factors, including family income, are much less important."
+>
+> «باستعمال بيانات المسح الوطني الأمريكي الممتد للشباب، نقدر أثر دخل الأسرة وأبعاد مختلفة من بنية الأسرة في احتكاك الشاب بنظام العدالة الجنائية بين سن 14 و22. ونخلص من هذا التحليل إلى أن العامل الأهم على الإطلاق المؤثر في مقاييس الجنوح هذه هو وجود أبيه [الشاب] في البيت. أما العوامل الأخرى كلها، ومنها دخل الأسرة، فأقل أهمية بكثير.»
+
+**الاستدلال:** تقطع الدراسة بأن وجود الأب في البيت هو العامل الأول في وقاية الفتى من الجنوح والوقوع في يد العدالة الجنائية، وأن الدخل أقل أثرا بكثير؛ فحرمان الولد من أبيه ضرر لا يعوضه المال ولا النفقة.  
+**عن المصدر:** ويليام كومانور ولاد فيليبس أستاذا الاقتصاد بجامعة كاليفورنيا في سانتا باربرا، في مجلة الاقتصاد التطبيقي المحكمة التي تصدرها جامعة سيما الأرجنتينية وتنشرها دار تايلور وفرانسيس. تنبيه: صفحة الناشر محجوبة في هذه الجلسة، والنص مأخوذ حرفيا من ملخص الناشر المودع في قاعدة OpenAlex. — **درجة الدليل:** دراسة محكمة على مسح وطني ممتد  
+- صفحة الدراسة: <https://doi.org/10.1080/15140326.2002.12040577>
+- المصدر الثاني: <https://api.openalex.org/works/doi:10.1080/15140326.2002.12040577>
+
+### بطاقة 125 — أنتيكول وبيدار 2007 — كل خمس سنين إضافية مع الأب تخفض التدخين والمخدرات والإدانات
+**المؤلف/الجهة:** Antecol H, Bedard K (2007)  
+**المصدر:** Does single parenthood increase the probability of teenage promiscuity, substance use, and crime? · Journal of Population Economics 20(1): 55–71  
+**الجهة/المذهب:** الولايات المتحدة — المسح الوطني الممتد للشباب وملحق الشباب البالغين (NLSY)  
+
+> "There is longstanding evidence that youths raised by single parents are more likely to perform poorly in school and partake in “deviant” behaviors such as smoking, sex, substance use, and crime. … Using the National Longitudinal Survey of Youth and its Young Adult Supplement, we find that an additional 5 years with the biological father decreases the probability of smoking, drinking, engaging in sexual activity, marijuana use, and conviction by approximately 5.3, 1.2, 3.4, 2.2 and 0.3 percentage points, respectively."
+>
+> «ثمة أدلة قديمة على أن اليافعين الذين يربيهم والد واحد أكثر عرضة لضعف الأداء المدرسي وللسلوك «المنحرف» كالتدخين والجنس وتعاطي المواد والجريمة. ... وباستعمال المسح الوطني الممتد للشباب وملحقه الخاص بالشباب البالغين نجد أن كل 5 سنوات إضافية يقضيها الولد مع أبيه البيولوجي تخفض احتمال التدخين وشرب الخمر وممارسة الجنس وتعاطي الماريجوانا والإدانة الجنائية بنحو 5.3 و1.2 و3.4 و2.2 و0.3 نقطة مئوية على الترتيب.»
+
+**الاستدلال:** تبين الدراسة أن طول مدة إقامة الولد مع أبيه يخفض التدخين والخمر والجنس المبكر والمخدرات والإدانة الجنائية خفضا مقيسا بالأرقام؛ فكل سنة يحرم فيها الولد من أبيه خسارة محسوبة في سلوكه ومستقبله.  
+**عن المصدر:** هيذر أنتيكول أستاذة الاقتصاد بكلية كليرمونت ماكينا وكيلي بيدار أستاذة الاقتصاد بجامعة كاليفورنيا في سانتا باربرا، في مجلة اقتصاد السكان وهي من أبرز المجلات المحكمة في بابها (دار شبرينغر). قرئ الملخص كاملا على صفحة الناشر؛ وسجل OpenAlex لهذه الورقة تعذر قراءته بسبب تقييد الطلبات. — **درجة الدليل:** دراسة محكمة على مسح وطني ممتد  
+- صفحة الدراسة: <https://link.springer.com/article/10.1007/s00148-005-0019-x>
+- المصدر الثاني: <https://doi.org/10.1007/s00148-005-0019-x>
+
+### بطاقة 126 — دالي وويلسون — زوج الأم يقتل الأطفال الصغار ضربا بمعدل يزيد على 100 ضعف الأب
 **المؤلف/الجهة:** Martin Daly & Margo Wilson (2001)  
 **المصدر:** The "Cinderella effect": Elevated mistreatment of stepchildren in comparison to those living with genetic parents · Annales Zoologici Fennici 38: 287–296; Center for Evolutionary Psychology, UC Santa Barbara  
 **الجهة/المذهب:** كندا — جامعة ماكماستر  
@@ -1697,7 +1656,7 @@
 **عن المصدر:** مارتن دالي ومارغو ويلسون من جامعة ماكماستر الكندية، أشهر من درس خطر زوج الأم على الطفل، على سجلات الشرطة والوفيات الرسمية في كندا وإنجلترا وأستراليا والولايات المتحدة. — **درجة الدليل:** بحوث محكمة على سجلات رسمية في عدة دول  
 - نص البحث: <https://cep.ucsb.edu/wp-content/uploads/2023/05/cinderella-effect-facts.pdf>
 
-### بطاقة 130 — راسل 1984 — البنات اللاتي ربين مع زوج الأم تعرض 17% منهن للاعتداء منه، مقابل 2% مع الأب
+### بطاقة 127 — راسل 1984 — البنات اللاتي ربين مع زوج الأم تعرض 17% منهن للاعتداء منه، مقابل 2% مع الأب
 **المؤلف/الجهة:** Diana E. H. Russell (1984)  
 **المصدر:** The prevalence and seriousness of incestuous abuse: Stepfathers vs. biological fathers · Child Abuse & Neglect 8(1): 15–22  
 **الجهة/المذهب:** الولايات المتحدة — عينة احتمالية من 930 امرأة في سان فرانسيسكو  
@@ -1710,7 +1669,7 @@
 **عن المصدر:** ديانا راسل باحثة اجتماعية أمريكية، ودراستها منشورة في مجلة «إيذاء الأطفال وإهمالهم» المحكمة، ومسجلة في المكتبة الوطنية للعدالة الجنائية الأمريكية. — **درجة الدليل:** دراسة محكمة على عينة احتمالية  
 - ملخص البحث: <https://ojp.gov/ncjrs/virtual-library/abstracts/prevalence-and-seriousness-incestuous-abuse-stepfathers-vs>
 
-### بطاقة 131 — مكتب إحصاءات العدالة الأمريكي 1988 — 7 من كل 10 أحداث محتجزين نشؤوا بلا والديهم معا، وأكثرهم مع الأم وحدها
+### بطاقة 128 — مكتب إحصاءات العدالة الأمريكي 1988 — 7 من كل 10 أحداث محتجزين نشؤوا بلا والديهم معا، وأكثرهم مع الأم وحدها
 **المؤلف/الجهة:** Beck AJ, Kline SA, Greenfeld LA — Bureau of Justice Statistics (1988)  
 **المصدر:** Survey of Youth in Custody, 1987 · BJS Special Report NCJ-113365, September 1988 — Table 2  
 **الجهة/المذهب:** الولايات المتحدة — وزارة العدل، مكتب إحصاءات العدالة  
@@ -1724,7 +1683,7 @@
 - نص التقرير الرسمي: <https://bjs.ojp.gov/content/pub/pdf/syc87.pdf>
 - صفحة التقرير: <https://bjs.ojp.gov/library/publications/survey-youth-custody-1987-0>
 
-### بطاقة 132 — مكتب قضاء الأحداث الأمريكي 2010 — خطر احتجاز الحدث الذي يعيش مع والد واحد 3.6 أضعاف خطره مع والديه
+### بطاقة 129 — مكتب قضاء الأحداث الأمريكي 2010 — خطر احتجاز الحدث الذي يعيش مع والد واحد 3.6 أضعاف خطره مع والديه
 **المؤلف/الجهة:** Sedlak AJ, Bruce C — OJJDP (2010)  
 **المصدر:** Youth's Characteristics and Backgrounds: Findings From the Survey of Youth in Residential Placement · OJJDP Juvenile Justice Bulletin NCJ 227730, December 2010, p. 6 and Table 4  
 **الجهة/المذهب:** الولايات المتحدة — وزارة العدل، مكتب قضاء الأحداث ومنع الجنوح  
@@ -1738,7 +1697,7 @@
 - نص النشرة الرسمية: <https://www.ojp.gov/pdffiles1/ojjdp/227730.pdf>
 - صفحة النشرة: <https://ojjdp.ojp.gov/library/publications/survey-youth-residential-placement-youth-characteristics-and-backgrounds>
 
-### بطاقة 133 — التقرير الوطني الأمريكي عن الأحداث 2006 — من عاشوا مع أبيهم وأمهم معا أقل مخالفة للقانون
+### بطاقة 130 — التقرير الوطني الأمريكي عن الأحداث 2006 — من عاشوا مع أبيهم وأمهم معا أقل مخالفة للقانون
 **المؤلف/الجهة:** Snyder HN, Sickmund M — OJJDP (2006)  
 **المصدر:** Juvenile Offenders and Victims: 2006 National Report · Juvenile Offenders and Victims: 2006 National Report (NCJ 212906), Chapter 3, p. 72  
 **الجهة/المذهب:** الولايات المتحدة — وزارة العدل، مكتب قضاء الأحداث ومنع الجنوح  
@@ -1752,7 +1711,7 @@
 - خلاصة التقرير الرسمي: <https://ojjdp.ojp.gov/ojstatbb/nr2006/downloads/nr2006_hl.pdf>
 - صفحة التقرير: <https://ojp.gov/index%2ephp/node/1146836>
 
-### بطاقة 134 — مكتب الإحصاء الوطني البريطاني 2019 — أطفال الوالد الواحد أكثر إصابة بالاضطرابات النفسية
+### بطاقة 131 — مكتب الإحصاء الوطني البريطاني 2019 — أطفال الوالد الواحد أكثر إصابة بالاضطرابات النفسية
 **المؤلف/الجهة:** Office for National Statistics (2019)  
 **المصدر:** Children whose families struggle to get on are more likely to have mental disorders · ONS article, 26 March 2019 — Mental Health of Children and Young People in England, 2017  
 **الجهة/المذهب:** المملكة المتحدة — مكتب الإحصاء الوطني  
@@ -1765,7 +1724,7 @@
 **عن المصدر:** مقال رسمي لمكتب الإحصاء الوطني البريطاني يحلل المسح الوطني لصحة الأطفال النفسية في إنجلترا لعام 2017. — **درجة الدليل:** إحصاء رسمي للدولة  
 - نص التقرير الرسمي: <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/childrenwhosefamiliesstruggletogetonaremorelikelytohavementaldisorders/2019-03-26>
 
-### بطاقة 135 — علم الاجتماع 2013 — غياب الأب سبب للضرر
+### بطاقة 132 — علم الاجتماع 2013 — غياب الأب سبب للضرر
 **المؤلف/الجهة:** McLanahan S, Tach L, Schneider D (2013)  
 **المصدر:** The causal effects of father absence · Annual Review of Sociology 39:399–427  
 **الجهة/المذهب:** الولايات المتحدة — جامعة برنستون  
@@ -1776,7 +1735,7 @@
 **عن المصدر:** سارة ماكلاناهان (1940–2021) أستاذة علم الاجتماع في جامعة برنستون، مؤسسة دراسة الأسر الهشة ورفاه الطفل؛ والمراجعة السنوية لعلم الاجتماع من أرفع منشورات التخصص. — **درجة الدليل:** مراجعة منهجية للأدلة السببية  
 - الرابط: <https://ffcws.princeton.edu/publications/causal-effects-father-absence>
 
-### بطاقة 136 — تحليل جامع لـ33 دراسة 2014 — غياب الأب يبكر حيض البنات
+### بطاقة 133 — تحليل جامع لـ33 دراسة 2014 — غياب الأب يبكر حيض البنات
 **المؤلف/الجهة:** Webster GD, Graber JA, Gesselman AN, Crosier BS, Orozco Schember T (2014)  
 **المصدر:** A Life History Theory of Father Absence and Menarche: A Meta-Analysis · Evolutionary Psychology 12(2): 273–294  
 **الجهة/المذهب:** دولي — تحليل جامع ل33 دراسة  
@@ -1790,7 +1749,7 @@
 - صفحة الدراسة: <https://journals.sagepub.com/doi/10.1177/147470491401200202>
 - المصدر الثاني: <https://api.openalex.org/works/doi:10.1177/147470491401200202>
 
-### بطاقة 137 — مراجعة 48 دراسة 2021 — النشأة مع والد واحد ترفع خطر جريمة المراهقين
+### بطاقة 134 — مراجعة 48 دراسة 2021 — النشأة مع والد واحد ترفع خطر جريمة المراهقين
 **المؤلف/الجهة:** Kroese J, Bernasco W, Liefbroer AC, Rouwendal J (2021)  
 **المصدر:** Growing up in single-parent families and the criminal involvement of adolescents: a systematic review · Psychology, Crime & Law 27(1): 61–75  
 **الجهة/المذهب:** هولندا — المعهد الهولندي لدراسة الجريمة وإنفاذ القانون  
@@ -1803,7 +1762,7 @@
 **عن المصدر:** مراجعة منظمة جامعة لـ 48 دراسة، أعدها باحثون في المعهد الهولندي لدراسة الجريمة وإنفاذ القانون وجامعة فريه أمستردام، ونشرت في مجلة علم النفس والجريمة والقانون. — **درجة الدليل:** مراجعة منظمة للدراسات  
 - ملخص المراجعة: <https://pure.knaw.nl/portal/nl/publications/growing-up-in-single-parent-families-and-the-criminal-involvement/>
 
-### بطاقة 138 — مجلة لانسيت 2003 — أطفال الوالد الواحد أكثر عرضة للمرض النفسي والانتحار والإدمان
+### بطاقة 135 — مجلة لانسيت 2003 — أطفال الوالد الواحد أكثر عرضة للمرض النفسي والانتحار والإدمان
 **المؤلف/الجهة:** Weitoft GR, Hjern A, Haglund B, Rosén M (2003)  
 **المصدر:** Mortality, severe morbidity, and injury in children living with single parents in Sweden: a population-based study · The Lancet 361(9354):289–295  
 **الجهة/المذهب:** السويد — معهد كارولينسكا  
@@ -1814,7 +1773,7 @@
 **عن المصدر:** الدراسة من المجلس الوطني للصحة والرعاية في السويد ومعهد كارولينسكا، على سجلات قرابة مليون طفل؛ ومجلة لانسيت أعرق المجلات الطبية البريطانية وأوسعها أثرا، تأسست سنة 1823. — **درجة الدليل:** دراسة سجلات وطنية  
 - الرابط: <https://anhoriga.se/Artiklar-och-rapporter/2003/mortality-severe-morbidity-and-injury-in-children-living-with-single-parents-in-sweden-a-population-based-study>
 
-### بطاقة 139 — استقرار السكن مع الوالدين والإدانات العنيفة اللاحقة
+### بطاقة 136 — استقرار السكن مع الوالدين والإدانات العنيفة اللاحقة
 **المؤلف/الجهة:** Mok PLH, Astrup A, Carr MJ, Antonsen S, Webb RT, Pedersen CB (2018)  
 **المصدر:** Experience of Child–Parent Separation and Later Risk of Violent Criminality · American Journal of Preventive Medicine. 2018;55(2):178–186  
 **الجهة/المذهب:** الدنمارك — السجلات الوطنية  
@@ -1826,7 +1785,7 @@
 - الرابط: <https://pmc.ncbi.nlm.nih.gov/articles/PMC6057277/>
 - الرابط: <https://pure.au.dk/ws/files/179343194/Experience_of_child_parent_separation_and_later_risk_of_violent_criminality_VOR18.pdf>
 
-### بطاقة 140 — الطلاق والاضطرابات النفسية المشخصة في جماعة ميلاد فنلندية
+### بطاقة 137 — الطلاق والاضطرابات النفسية المشخصة في جماعة ميلاد فنلندية
 **المؤلف/الجهة:** Paananen R, Ristikari T, Merikukka M, Gissler M (2013)  
 **المصدر:** Social determinants of mental health: a Finnish nationwide follow-up study on mental disorders · Journal of Epidemiology and Community Health. 2013;67(12):1025–1031  
 **الجهة/المذهب:** فنلندا؛ المعهد الوطني للصحة والرفاه  
@@ -1838,7 +1797,7 @@
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/23908462/>
 - الرابط: <https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23908462&format=json&resultType=core>
 
-### بطاقة 141 — دراسة مواليد شمال فنلندا 1998 — الحرمان من الأب قبل الرابعة عشرة يضاعف اضطرابات الشخصية في الرشد
+### بطاقة 138 — دراسة مواليد شمال فنلندا 1998 — الحرمان من الأب قبل الرابعة عشرة يضاعف اضطرابات الشخصية في الرشد
 **المؤلف/الجهة:** Mäkikyrö T, Sauvola A, Moring J, Veijola JM, Nieminen PA, Järvelin MR, Isohanni MK (1998)  
 **المصدر:** Hospital-Treated Psychiatric Disorders in Adults with a Single-Parent and Two-Parent Family Background: A 28-Year Follow-up of the 1966 Northern Finland Birth Cohort · Family Process 37(3): 335–344  
 **الجهة/المذهب:** فنلندا — مواليد شمال فنلندا 1966 وسجلات المستشفيات الوطنية  
@@ -1852,7 +1811,7 @@
 - صفحة الدراسة: <https://doi.org/10.1111/j.1545-5300.1998.00335.x>
 - المصدر الثاني: <https://api.openalex.org/works/doi:10.1111/j.1545-5300.1998.00335.x>
 
-### بطاقة 142 — فلوري وبوكانان 2002 — انخراط الأب في سن السابعة يقي الأولاد من مشاكل الشرطة في المراهقة
+### بطاقة 139 — فلوري وبوكانان 2002 — انخراط الأب في سن السابعة يقي الأولاد من مشاكل الشرطة في المراهقة
 **المؤلف/الجهة:** Flouri E, Buchanan A (2002)  
 **المصدر:** Father Involvement in Childhood and Trouble With the Police in Adolescence: Findings From the 1958 British Cohort · Journal of Interpersonal Violence 17(6): 689–701  
 **الجهة/المذهب:** المملكة المتحدة — دراسة مواليد بريطانيا 1958 (NCDS)  
@@ -1866,7 +1825,7 @@
 - صفحة الدراسة: <https://journals.sagepub.com/doi/10.1177/0886260502017006006>
 - المصدر الثاني: <https://api.openalex.org/works/doi:10.1177/0886260502017006006>
 
-### بطاقة 143 — سجلات هولندا الوطنية 2022 — النشأة مع الأم وحدها أخطر في الجريمة من النشأة مع الأب وحده
+### بطاقة 140 — سجلات هولندا الوطنية 2022 — النشأة مع الأم وحدها أخطر في الجريمة من النشأة مع الأب وحده
 **المؤلف/الجهة:** Kroese J — Vrije Universiteit Amsterdam (2022)  
 **المصدر:** Broken homes and crime: Differential effects of parental separation, parental decease, and being born to a single parent on the criminal involvement in offspring · PhD thesis, Vrije Universiteit Amsterdam, 19 May 2022 — Statistics Netherlands register data  
 **الجهة/المذهب:** هولندا — جامعة فريه أمستردام، السجلات الوطنية لهيئة الإحصاء الهولندية  
@@ -1880,7 +1839,7 @@
 - ملخص الرسالة: <https://research.vu.nl/en/publications/broken-homes-and-crime-differential-effects-of-parental-separatio/>
 - خبر المعهد الهولندي لدراسة الجريمة: <https://nscr.nl/en/higher-risk-of-criminal-behaviour-with-children-growing-up-in-a-single-parent-family/>
 
-### بطاقة 144 — السجل الوطني للطب النفسي للأطفال في الدنمارك 2008 — نصف المرضى فقط يعيشون مع والديهم مقابل ثلاثة أرباع عامة الأطفال
+### بطاقة 141 — السجل الوطني للطب النفسي للأطفال في الدنمارك 2008 — نصف المرضى فقط يعيشون مع والديهم مقابل ثلاثة أرباع عامة الأطفال
 **المؤلف/الجهة:** Esbjørn BH, Levin E, Høyer M, Dyrborg J (2008)  
 **المصدر:** Child and adolescent psychiatry and family status: a nationwide register-based study · European Child & Adolescent Psychiatry 17(8): 484–490  
 **الجهة/المذهب:** الدنمارك — السجل الوطني لأطفال الطب النفسي  
@@ -1893,7 +1852,7 @@
 **عن المصدر:** دراسة على السجل الوطني الدنماركي لكل الأطفال المحالين إلى الطب النفسي، من فريق مركز الطب النفسي للأطفال في منطقة العاصمة الدنماركية، منشورة في المجلة الأوروبية لطب الأطفال والمراهقين النفسي. — **درجة الدليل:** دراسة سجلات وطنية  
 - ملخص الدراسة: <https://research.regionh.dk/en/publications/child-and-adolescent-psychiatry-and-family-status-a-nationwide-re/>
 
-### بطاقة 145 — سجل الأدوية الوطني السويدي 2010 — أطفال الوالد الواحد أكثر علاجا من نقص الانتباه وفرط الحركة بنسبة 54%
+### بطاقة 142 — سجل الأدوية الوطني السويدي 2010 — أطفال الوالد الواحد أكثر علاجا من نقص الانتباه وفرط الحركة بنسبة 54%
 **المؤلف/الجهة:** Hjern A, Weitoft GR, Lindblad F (2010)  
 **المصدر:** Social adversity predicts ADHD-medication in school children – a national cohort study · Acta Paediatrica 99(6): 920 — reported by ScienceDaily  
 **الجهة/المذهب:** السويد — سجل الأدوية الوطني  
@@ -1906,7 +1865,7 @@
 **عن المصدر:** دراسة من معهد كارولينسكا ومجلس الصحة والرعاية السويدي على السجل الوطني للأدوية لكل أطفال المدارس في السويد، منشورة في مجلة Acta Paediatrica، ونقلها موقع ScienceDaily عن بيان الناشر. — **درجة الدليل:** دراسة سجلات وطنية  
 - خبر الدراسة: <https://www.sciencedaily.com/releases/2010/06/100601072634.htm>
 
-### بطاقة 146 — هاربر وماكلاناهان 2004 — غياب الأب وسجن الفتيان
+### بطاقة 143 — هاربر وماكلاناهان 2004 — غياب الأب وسجن الفتيان
 **المؤلف/الجهة:** Harper CC, McLanahan SS (2004)  
 **المصدر:** Father absence and youth incarceration · Journal of Research on Adolescence 14(3):369–397  
 **الجهة/المذهب:** الولايات المتحدة — جامعة برنستون  
@@ -1917,40 +1876,7 @@
 **عن المصدر:** سينثيا هاربر من جامعة كاليفورنيا، وسارة ماكلاناهان من جامعة برنستون؛ ومجلة بحوث المراهقة لسان جمعية بحوث المراهقة، والدراسة مدرجة في المكتبة الافتراضية لوزارة العدل الأمريكية. — **درجة الدليل:** دراسة متابعة طويلة وطنية  
 - الرابط: <https://ojp.gov/ncjrs/virtual-library/abstracts/father-absence-and-youth-incarceration>
 
-### بطاقة 147 — النشرة النفسية 2018 — تنفير الطفل من أحد والديه عنف أسري
-**المؤلف/الجهة:** Harman JJ, Kruk E, Hines DA (2018)  
-**المصدر:** Parental alienating behaviors: an unacknowledged form of family violence · Psychological Bulletin 144(12):1275–1299  
-**الجهة/المذهب:** الولايات المتحدة وكندا  
-
-> مضمونه: تنفير الطفل من أحد والديه سلوك عدواني طويل يقصد به إفساد علاقة الطفل بالوالد الآخر أو إيذاء ذلك الوالد، وهو صورة من صور العنف الأسري لها عواقب خطيرة على الطفل والأسرة.
-
-**الاستدلال:** أرفع مجلات علم النفس تعد تنفير الطفل من أبيه عنفا أسريا؛ وهو ما سماه فقهاؤنا التغييب والإغراء بالعقوق وقطيعة الرحم، فالقانون الذي يمكن منه شريك في هذا العنف.  
-**عن المصدر:** جينيفر هارمن أستاذة علم النفس في جامعة ولاية كولورادو، ومعها إدوارد كروك من جامعة كولومبيا البريطانية؛ والنشرة النفسية أرفع مجلات جمعية علم النفس الأمريكية. — **درجة الدليل:** مراجعة علمية في مجلة كبرى  
-- الرابط: <https://pubmed.ncbi.nlm.nih.gov/30475019/>
-
-### بطاقة 148 — مجلة الاتجاهات الحالية 2019 — اتفاق الباحثين على خطر التنفير
-**المؤلف/الجهة:** Harman JJ, Bernet W, Harman J (2019)  
-**المصدر:** Parental alienation: the blossoming of a field of study · Current Directions in Psychological Science 28(2):212–217  
-**الجهة/المذهب:** الولايات المتحدة  
-
-> مضمونه: صار بين الباحثين اتفاق على ماهية سلوكيات تنفير الطفل من أحد والديه وأثرها في الطفل والأسرة، وهي صورة خطيرة من صور العنف الأسري.
-
-**الاستدلال:** اتفاق الباحثين على أن تنفير الطفل من أبيه عنف خطير يوجب على المشرع أن يمنعه، لا أن يجعل الانفراد الذي يمكن منه أصلا.  
-**عن المصدر:** ويليام برنيت أستاذ فخري للطب النفسي في جامعة فاندربيلت؛ والمجلة تصدرها جمعية العلوم النفسية الأمريكية. — **درجة الدليل:** مراجعة علمية محكمة  
-- الرابط: <https://timarit.is/page/7810373?lang=da>
-
-### بطاقة 149 — إدوارد كروك 2018 — التنفير إيذاء عاطفي للطفل
-**المؤلف/الجهة:** Kruk E (2018)  
-**المصدر:** Parental alienation as a form of emotional child abuse: current state of knowledge and future directions for research · Family Science Review 22(4):141–164  
-**الجهة/المذهب:** كندا — جامعة كولومبيا البريطانية  
-
-> مضمونه: تنفير الطفل من أحد والديه صورة من صور إيذاء الطفل العاطفي، ومن غير المقبول مهنيا تجاهله في قضايا الحضانة.
-
-**الاستدلال:** تنفير الطفل من أبيه إيذاء عاطفي للطفل نفسه، فالحضانة التي تتخذ وسيلة إليه تفقد مسوغها.  
-**عن المصدر:** إدوارد كروك أستاذ الخدمة الاجتماعية في جامعة كولومبيا البريطانية بكندا، متخصص في سياسات الأسرة والطفل. — **درجة الدليل:** مراجعة علمية محكمة  
-- الرابط: <https://www.psychologytoday.com/us/blog/co-parenting-after-divorce/201901/parental-alienation-child-abuse-and-family-violence>
-
-### بطاقة 150 — بناء الأسرة وجرائم الأبناء في متابعة فنلندية
+### بطاقة 144 — بناء الأسرة وجرائم الأبناء في متابعة فنلندية
 **المؤلف/الجهة:** Sauvola A, Koskinen O, Jokelainen J, Hakko H, Järvelin MR, Räsänen P (2002)  
 **المصدر:** Family Type and Criminal Behaviour of Male Offspring: the Northern Finland 1966 Birth Cohort Study · International Journal of Social Psychiatry. 2002;48(2):115–121  
 **الجهة/المذهب:** فنلندا — متابعة مواليد شمال فنلندا 1966  
@@ -1962,7 +1888,7 @@
 - الرابط: <https://journals.sagepub.com/doi/10.1177/002076402128783163>
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/12182506/>
 
-### بطاقة 151 — طلاق الوالدين والصحة النفسية لاحقا: تحليل 54 دراسة
+### بطاقة 145 — طلاق الوالدين والصحة النفسية لاحقا: تحليل 54 دراسة
 **المؤلف/الجهة:** Auersperg F, Vlasak T, Ponocny I, Barth A (2019)  
 **المصدر:** Long-term effects of parental divorce on mental health – A meta-analysis · Journal of Psychiatric Research. 2019;119:107–115  
 **الجهة/المذهب:** دراسات متعددة البلدان؛ فريق بحثي من النمسا  
@@ -1974,7 +1900,7 @@
 - الرابط: <https://www.sfu.ac.at/en/news/new-publication-long-term-effects-of-parental-divorce-on-mental-health/>
 - الرابط: <https://research.sfu.ac.at/en/publications/long-term-effects-of-parental-divorce-on-mental-health-a-meta-ana/>
 
-### بطاقة 152 — الأعراض النفسية والسلوكية قبل الانفصال وبعده في هولندا
+### بطاقة 146 — الأعراض النفسية والسلوكية قبل الانفصال وبعده في هولندا
 **المؤلف/الجهة:** Tullius JM, De Kroon MLA, Almansa J, Reijneveld SA (2022)  
 **المصدر:** Adolescents’ mental health problems increase after parental divorce, not before, and persist until adulthood: a longitudinal TRAILS study · European Child and Adolescent Psychiatry. 2022;31(6):969–978  
 **الجهة/المذهب:** هولندا؛ شمال البلاد وجامعة خرونينغن  
@@ -1985,21 +1911,7 @@
 **عن المصدر:** دراسة تريلز الممتدة سنوات من جامعة خرونينغن في هولندا، تتابع المشاركين من الطفولة إلى الرشد؛ والمجلة لسان الجمعية الأوروبية للطب النفسي للأطفال والمراهقين. — **درجة الدليل:** دراسة متابعة طويلة سكانية  
 - الرابط: <https://link.springer.com/article/10.1007/s00787-020-01715-0>
 
-### بطاقة 153 — إيمي بيكر 2005 — آثار التنفير تمتد إلى الرشد
-**المؤلف/الجهة:** Baker AJL (2005)  
-**المصدر:** The long-term effects of parental alienation on adult children: a qualitative research study · American Journal of Family Therapy 33(4):289–302  
-**الجهة/المذهب:** الولايات المتحدة  
-**الموضع:** المطابقة 1.20.0: Abstract (sentences 1 and 5), American Journal of Family Therapy 33(4):289-302 (2005), doi:10.1080/01926180590962129; text obtained from the OpenAlex record (https://api.openalex.org/works/doi:10.1080/01926180590962129) — Gist accurate. Small retrospective qualitative sample (38 adults, one-hour semi-structured interviews), which limits generalization. Note: the 'Baker.pdf' on bhekisisa.org that search engines return is a different 2005 Baker article (Cultic Studies Review 4(1)), not this one. Publisher (T&F) blocked.  
-
-> A qualitative retrospective study was conducted on 38 adults who experienced parental alienation as a child. [...] Results revealed seven major areas of impact: (1) low self-esteem, (2) depression, (3) drug/alcohol abuse, (4) lack of trust, (5) alienation from own children, (6) divorce, and (7) other.
->
-> «أجريت دراسة وصفية استرجاعية على 38 بالغا عانوا في طفولتهم من التنفير من أحد الوالدين. [...] وكشفت النتائج عن سبعة مجالات رئيسية للأثر: (1) تدني تقدير الذات، (2) الاكتئاب، (3) تعاطي المخدرات أو الكحول، (4) انعدام الثقة، (5) الانفصال عن أبنائهم هم، (6) الطلاق، (7) آثار أخرى.»
-
-**الاستدلال:** أثر تنفير الطفل من أبيه يلازمه إلى رشده، فيورثه الاكتئاب والإدمان وضعف الثقة، وينتقل إلى الجيل الذي بعده.  
-**عن المصدر:** إيمي بيكر عالمة نفس أمريكية، من أبرز الباحثين في تنفير الطفل من أحد والديه؛ والمجلة الأمريكية للعلاج الأسري مجلة محكمة تصدرها دار تايلور وفرانسيس. — **درجة الدليل:** دراسة ميدانية بالمقابلات  
-- صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/01926180590962129>
-
-### بطاقة 154 — دراسة أمريكية نيوزيلندية 2003 — غياب الأب يعرض البنات للخطر
+### بطاقة 147 — دراسة أمريكية نيوزيلندية 2003 — غياب الأب يعرض البنات للخطر
 **المؤلف/الجهة:** Ellis BJ, Bates JE, Dodge KA, Fergusson DM, Horwood LJ, Pettit GS, Woodward L (2003)  
 **المصدر:** Does father absence place daughters at special risk for early sexual activity and teenage pregnancy? · Child Development 74(3):801–821  
 **الجهة/المذهب:** الولايات المتحدة ونيوزيلندا  
@@ -2013,7 +1925,7 @@
 **عن المصدر:** بروس إليس أستاذ في جامعة يوتا، ومعه كينيث دودج من جامعة ديوك وديفيد فيرغسون من جامعة أوتاغو في نيوزيلندا؛ ومجلة نمو الطفل أرفع مجلات علم نفس النمو. — **درجة الدليل:** دراسة متابعة طويلة في بلدين  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/12795391/>
 
-### بطاقة 155 — كروك 1989 — علاقة «الزيارة» تحول الأب إلى ثاكل وتقطع صلته بولده
+### بطاقة 148 — كروك 1989 — علاقة «الزيارة» تحول الأب إلى ثاكل وتقطع صلته بولده
 **المؤلف/الجهة:** Kruk E (1989)  
 **المصدر:** Impact of divorce on non-custodial fathers: psychological and structural factors contributing to disengagement · رسالة دكتوراه، جامعة إدنبرة 1989؛ نشرت في Journal of Divorce and Remarriage. 1991;16(3-4):195-227  
 **الجهة/المذهب:** المملكة المتحدة — جامعة إدنبرة  
@@ -2027,7 +1939,7 @@
 - سجل الرسالة: <https://era.ed.ac.uk/items/4055a1d5-5b2c-4574-a08e-35327568d085/full>
 - صفحة الدراسة: <https://doi.org/10.1300/J087v16n03_03>
 
-### بطاقة 156 — برافر وإلمان وفابريشيوس 2003 — إبعاد الولد عن أحد والديه يضره في معظم النتائج
+### بطاقة 149 — برافر وإلمان وفابريشيوس 2003 — إبعاد الولد عن أحد والديه يضره في معظم النتائج
 **المؤلف/الجهة:** Braver SL, Ellman IM, Fabricius WV (2003)  
 **المصدر:** Relocation of children after divorce and children's best interests: new evidence and legal considerations · Journal of Family Psychology. 2003;17(2):206-219  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية أريزونا  
@@ -2041,7 +1953,7 @@
 - سجل الدراسة: <https://asu.elsevierpure.com/en/publications/relocation-of-children-after-divorce-and-childrens-best-interests>
 - صفحة الدراسة: <https://doi.org/10.1037/0893-3200.17.2.206>
 
-### بطاقة 157 — دراسة المسح الوطني لصحة الأطفال 2007 — أطفال الأسر بلا أب أسوأ صحة، وأسر الآباء المنفردين كالأسر المجتمعة
+### بطاقة 150 — دراسة المسح الوطني لصحة الأطفال 2007 — أطفال الأسر بلا أب أسوأ صحة، وأسر الآباء المنفردين كالأسر المجتمعة
 **المؤلف/الجهة:** Bramlett MD, Blumberg SJ (2007)  
 **المصدر:** Family Structure And Children's Physical And Mental Health · Health Affairs 26(2): 549–558  
 **الجهة/المذهب:** الولايات المتحدة — المسح الوطني لصحة الأطفال 2003، المركز الوطني للإحصاءات الصحية (CDC)  
@@ -2055,7 +1967,7 @@
 - صفحة الدراسة: <https://doi.org/10.1377/hlthaff.26.2.549>
 - المصدر الثاني: <https://api.openalex.org/works/doi:10.1377/hlthaff.26.2.549>
 
-### بطاقة 158 — كارلسون 2006 — انخراط الأب يفسر جانبا كبيرا من ضرر غيابه، وأنفعه حين يعيش مع ولده
+### بطاقة 151 — كارلسون 2006 — انخراط الأب يفسر جانبا كبيرا من ضرر غيابه، وأنفعه حين يعيش مع ولده
 **المؤلف/الجهة:** Carlson MJ (2006)  
 **المصدر:** Family Structure, Father Involvement, and Adolescent Behavioral Outcomes · Journal of Marriage and Family 68(1): 137–154  
 **الجهة/المذهب:** الولايات المتحدة — المسح الوطني الممتد للشباب 1979  
@@ -2069,7 +1981,7 @@
 - صفحة الدراسة: <https://doi.org/10.1111/j.1741-3737.2006.00239.x>
 - المصدر الثاني: <https://api.crossref.org/works/10.1111/j.1741-3737.2006.00239.x>
 
-### بطاقة 159 — سامبسون 1987 — تفكك الأسرة يرفع القتل والسرقة بالإكراه عند الأحداث مهما كان الدخل
+### بطاقة 152 — سامبسون 1987 — تفكك الأسرة يرفع القتل والسرقة بالإكراه عند الأحداث مهما كان الدخل
 **المؤلف/الجهة:** Sampson RJ (1987)  
 **المصدر:** Urban Black Violence: The Effect of Male Joblessness and Family Disruption · American Journal of Sociology 93(2): 348–383  
 **الجهة/المذهب:** الولايات المتحدة — مجلة علم الاجتماع الأمريكية (جامعة شيكاغو)  
@@ -2083,7 +1995,7 @@
 - نص البحث في مستودع جامعة هارفارد: <https://dash.harvard.edu/handle/1/3226953>
 - ملخص البحث: <https://ojp.gov/ncjrs/virtual-library/abstracts/urban-black-violence-effect-male-joblessness-and-family-disruption>
 
-### بطاقة 160 — تين إيك وزملاؤه 2023 — غياب الأب في أي مرحلة يلازمه الإجرام والقبض لاحقا
+### بطاقة 153 — تين إيك وزملاؤه 2023 — غياب الأب في أي مرحلة يلازمه الإجرام والقبض لاحقا
 **المؤلف/الجهة:** TenEyck MF, Knox KN, El Sayed SA (2023)  
 **المصدر:** Absent Father Timing and its Impact on Adolescent and Adult Criminal Behavior · American Journal of Criminal Justice 48: 193–217  
 **الجهة/المذهب:** الولايات المتحدة — المجلة الأمريكية للعدالة الجنائية  
@@ -2096,7 +2008,7 @@
 **عن المصدر:** دراسة محكمة في المجلة الأمريكية للعدالة الجنائية (مجلة الأكاديمية الجنوبية للعدالة الجنائية)، مبنية على المسح الوطني الأمريكي لصحة المراهقين حتى الرشد (Add Health) الذي يتابع الأفراد سنوات طويلة. — **درجة الدليل:** دراسة محكمة على عينة وطنية  
 - صفحة الدراسة: <https://link.springer.com/doi/10.1007/s12103-021-09640-x>
 
-### بطاقة 161 — التعداد الوطني للطلاب المشردين في أستراليا 2008 — أبناء الوالد الواحد أكثر بين المشردين
+### بطاقة 154 — التعداد الوطني للطلاب المشردين في أستراليا 2008 — أبناء الوالد الواحد أكثر بين المشردين
 **المؤلف/الجهة:** MacKenzie D, Chamberlain C (2008)  
 **المصدر:** Youth Homelessness 2006 · Youth Studies Australia 27(1): 17–25  
 **الجهة/المذهب:** أستراليا — التعداد الوطني للطلاب المشردين  
@@ -2109,7 +2021,7 @@
 **عن المصدر:** ماكنزي وتشامبرلين هما الباحثان اللذان أعدا التعدادات الوطنية الأسترالية للطلاب المشردين (2001 و2006) وتعتمد عليها الجهات الرسمية هناك؛ والملخص مفهرس في المكتبة الرقمية لوزارة العدل الأمريكية. — **درجة الدليل:** تعداد وطني  
 - ملخص البحث: <https://ojp.gov/ncjrs/virtual-library/abstracts/youth-homelessness-2006>
 
-### بطاقة 162 — جماعة مواليد فنلندا 1981 — الصبي الذي لا يعيش مع أبيه وأمه في الثامنة أكثر عرضة لخطر الانتحار في شبابه
+### بطاقة 155 — جماعة مواليد فنلندا 1981 — الصبي الذي لا يعيش مع أبيه وأمه في الثامنة أكثر عرضة لخطر الانتحار في شبابه
 **المؤلف/الجهة:** Sourander A, Klomek AB, et al. (2009)  
 **المصدر:** Childhood Predictors of Completed and Severe Suicide Attempts: Findings From the Finnish 1981 Birth Cohort Study · Archives of General Psychiatry 66(4): 398–406 — reported in Psychiatric News (American Psychiatric Association)  
 **الجهة/المذهب:** فنلندا — جماعة مواليد 1981 الوطنية  
@@ -2124,7 +2036,7 @@
 
 ## الدراسات العلمية في الرعاية المشتركة بالمناصفة
 
-### بطاقة 163 — تحليل جامع للدراسات 2002 — توافق أطفال الحضانة المشتركة
+### بطاقة 156 — تحليل جامع للدراسات 2002 — توافق أطفال الحضانة المشتركة
 **المؤلف/الجهة:** Bauserman R (2002)  
 **المصدر:** Child Adjustment in Joint-Custody Versus Sole-Custody Arrangements: A Meta-Analytic Review · J Fam Psychol 16(1):91–102  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2138,7 +2050,7 @@
 **عن المصدر:** روبرت باوزرمان جمع في تحليله ثلاثا وثلاثين دراسة؛ ومجلة علم نفس الأسرة تصدرها جمعية علم النفس الأمريكية. — **درجة الدليل:** تحليل جامع لعدة دراسات: أعلى درجات الدليل  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/11915414/>
 
-### بطاقة 164 — هيرن 2021 — متابعة ممتدة سنوات لأكثر من 31 ألف طفل دنماركي
+### بطاقة 157 — هيرن 2021 — متابعة ممتدة سنوات لأكثر من 31 ألف طفل دنماركي
 **المؤلف/الجهة:** Hjern A, Urhoj SK, Fransson E, Bergström M (2021)  
 **المصدر:** Mental health in schoolchildren in joint physical custody: a longitudinal study · Children (Basel). 2021;8(6):473  
 **الجهة/المذهب:** الدنمارك — متابعة المواليد الوطنية الدنماركية  
@@ -2152,7 +2064,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/34199778/>
 - النص الكامل: <https://pmc.ncbi.nlm.nih.gov/articles/PMC8229623/>
 
-### بطاقة 165 — بيرغستروم 2013 — مسح وطني لأكثر من 164 ألف تلميذ في الثانية عشرة والخامسة عشرة
+### بطاقة 158 — بيرغستروم 2013 — مسح وطني لأكثر من 164 ألف تلميذ في الثانية عشرة والخامسة عشرة
 **المؤلف/الجهة:** Bergström M, Modin B, Fransson E, Rajmil L, Berlin M, Gustafsson PA, Hjern A (2013)  
 **المصدر:** Living in two homes - a Swedish national survey of wellbeing in 12 and 15 year olds with joint physical custody · BMC Public Health. 2013;13:868  
 **الجهة/المذهب:** السويد — جامعة ستوكهولم ومعهد كارولينسكا  
@@ -2166,7 +2078,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/24053116/>
 - النص الكامل: <https://pmc.ncbi.nlm.nih.gov/articles/PMC3848933/>
 
-### بطاقة 166 — فرانسون وهيرن وبيرغستروم 2018 — حصيلة البحوث في الرعاية المشتركة بالمناصفة بعد الانفصال
+### بطاقة 159 — فرانسون وهيرن وبيرغستروم 2018 — حصيلة البحوث في الرعاية المشتركة بالمناصفة بعد الانفصال
 **المؤلف/الجهة:** Fransson E, Hjern A, Bergström M (2018)  
 **المصدر:** What can we say regarding shared parenting arrangements for Swedish children? · J Divorce & Remarriage 59(5):349–358  
 **الجهة/المذهب:** السويد — جامعة ستوكهولم  
@@ -2180,7 +2092,7 @@
 **عن المصدر:** إيما فرانسون وأندرس هيرن ومالين بيرغستروم من مركز دراسات العدالة الصحية في جامعة ستوكهولم ومعهد كارولينسكا، أصحاب أوسع بحوث الإقامة المشتركة في السويد. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10502556.2018.1454198>
 
-### بطاقة 167 — دراسة 2018 — الأثر السببي للحضانة المشتركة
+### بطاقة 160 — دراسة 2018 — الأثر السببي للحضانة المشتركة
 **المؤلف/الجهة:** Braver SL, Votruba AM (2018)  
 **المصدر:** Does joint physical custody 'cause' children's better outcomes? · J Divorce & Remarriage 59(5):452–468  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2194,7 +2106,7 @@
 **عن المصدر:** سانفورد برافر أستاذ علم النفس في جامعة ولاية أريزونا، من رواد البحث في آثار الطلاق على الآباء والأبناء؛ ومجلة الطلاق والزواج الثاني مجلة محكمة متخصصة. — **درجة الدليل:** مراجعة تحليلية  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10502556.2018.1454203>
 
-### بطاقة 168 — نيلسن 2017 — النزاع لا يبطل الرعاية المشتركة بالمناصفة
+### بطاقة 161 — نيلسن 2017 — النزاع لا يبطل الرعاية المشتركة بالمناصفة
 **المؤلف/الجهة:** Nielsen L (2017)  
 **المصدر:** Re-examining the research on parental conflict, coparenting, and custody arrangements · Psychology, Public Policy, and Law 23(2):211–231  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2208,7 +2120,7 @@
 **عن المصدر:** ليندا نيلسن أستاذة في جامعة ويك فورست؛ والمجلة تصدرها جمعية علم النفس الأمريكية، تعنى بصلة علم النفس بالقانون والسياسات العامة. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1037/law0000109>
 
-### بطاقة 169 — فابريشيوس 2020 — أمان الولد مع أبيه يزداد مع كل زيادة في وقته معه حتى المناصفة
+### بطاقة 162 — فابريشيوس 2020 — أمان الولد مع أبيه يزداد مع كل زيادة في وقته معه حتى المناصفة
 **المؤلف/الجهة:** Fabricius WV (2020)  
 **المصدر:** Equal parenting time: the case for a legal presumption · In: Dwyer JG (ed.) The Oxford Handbook of Children and the Law. Oxford University Press; 2020. pp. 453-475  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية أريزونا  
@@ -2222,7 +2134,7 @@
 - صفحة الفصل: <https://doi.org/10.1093/oxfordhb/9780190694395.013.22>
 - النص الكامل: <https://fad.lu/wp-content/uploads/2020/08/equal-parenting-time-the-case-for-a-legal-presumption_695.pdf>
 
-### بطاقة 170 — المعهد النرويجي للصحة العامة 2022 — رضا الأطفال
+### بطاقة 163 — المعهد النرويجي للصحة العامة 2022 — رضا الأطفال
 **المؤلف/الجهة:** Norwegian Institute of Public Health (FHI) (2022)  
 **المصدر:** Custody and living arrangements after parents separate  
 **الجهة/المذهب:** النرويج  
@@ -2233,7 +2145,7 @@
 **عن المصدر:** المعهد النرويجي للصحة العامة الهيئة الحكومية المختصة بالبحث في الصحة العامة، ويعد المراجعات المنهجية التي تعتمد عليها الوزارات. — **درجة الدليل:** مراجعة منهجية حكومية  
 - الرابط: <https://www.fhi.no/en/publ/2022/Custody-and-living-arrangements-after-parents-separate-implications-for-children-and-adolescents/>
 
-### بطاقة 171 — إشراك الآباء في برامج تربية الأطفال: مراجعة الأدلة العالمية
+### بطاقة 164 — إشراك الآباء في برامج تربية الأطفال: مراجعة الأدلة العالمية
 **المؤلف/الجهة:** Panter-Brick C, Burgess A, Eggerman M, McAllister F, Pruett K, Leckman JF (2014)  
 **المصدر:** Practitioner review: Engaging fathers—recommendations for a game change in parenting interventions based on a systematic review of the global evidence · Journal of Child Psychology and Psychiatry. 2014;55(11):1187–1212. موضع الاستناد: الملخص الرسمي الكامل  
 **الجهة/المذهب:** الولايات المتحدة والمملكة المتحدة — جامعة ييل ومعهد الأبوة  
@@ -2244,7 +2156,7 @@
 **عن المصدر:** كاثرين بانتر بريك وجيمس ليكمان من جامعة ييل، ومعهما أدريان بيرجس من معهد الأبوة؛ ومجلة علم نفس الطفل والطب النفسي من أرفع مجلات التخصص. — **درجة الدليل:** مراجعة منهجية: أعلى درجات الدليل  
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/24980187/>
 
-### بطاقة 172 — مراجعة 39 دراسة — أطفال الرعاية المشتركة بالمناصفة كأطفال الأسرة المجتمعة
+### بطاقة 165 — مراجعة 39 دراسة — أطفال الرعاية المشتركة بالمناصفة كأطفال الأسرة المجتمعة
 **المؤلف/الجهة:** Vowels LM, Comolli CL, Bernardi L, Chacón-Mendoza D, Darwiche J (2023)  
 **المصدر:** Systematic review and theoretical comparison of children’s outcomes in post-separation living arrangements · PLOS ONE. 2023;18(6):e0288112  
 **الجهة/المذهب:** مراجعة لدراسات من بلدان غربية؛ المؤسسات: سويسرا وإيطاليا وكوستاريكا  
@@ -2256,7 +2168,7 @@
 - الرابط: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288112>
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/37390081/>
 
-### بطاقة 173 — مشاركة الأب والتحصيل المدرسي: تقرير جامعة ليدز
+### بطاقة 166 — مشاركة الأب والتحصيل المدرسي: تقرير جامعة ليدز
 **المؤلف/الجهة:** Norman H, Davies J (2023)  
 **المصدر:** What a difference a dad makes: Paternal Involvement and its Effects on Children’s Education (PIECE) · University of Leeds / PIECE study، التقرير النهائي 2023. موضع الاستناد: القسم 2 (المنهج)، والقسم 3 (النتائج)، ص 10–21 المطبوعة  
 **الجهة/المذهب:** إنجلترا — جامعة ليدز؛ متابعة الألفية والسجلات التعليمية  
@@ -2268,7 +2180,7 @@
 - الرابط: <https://piecestudy.org/wp-content/uploads/2023/09/PIECE-Final-Report-1.pdf>
 - الرابط: <https://business.leeds.ac.uk/dir-record/research-projects/1821/does-fathers-childcare-involvement-increase-children-s-educational-attainment-at-primary-school>
 
-### بطاقة 174 — سيلتزر 1998 في مجلة الديموغرافيا — الولاية المشتركة بنص القانون تزيد لقاء الأب بأولاده ومبيتهم عنده
+### بطاقة 167 — سيلتزر 1998 في مجلة الديموغرافيا — الولاية المشتركة بنص القانون تزيد لقاء الأب بأولاده ومبيتهم عنده
 **المؤلف/الجهة:** Seltzer JA (1998)  
 **المصدر:** Father by law: effects of joint legal custody on nonresident fathers' involvement with children · Demography. 1998;35(2):135-146  
 **الجهة/المذهب:** الولايات المتحدة — جامعة كاليفورنيا في لوس أنجلوس  
@@ -2281,7 +2193,7 @@
 **عن المصدر:** جوديث سيلتزر أستاذة علم الاجتماع في جامعة كاليفورنيا بلوس أنجلوس، على المسح الوطني الأمريكي للأسر والأسر المعيشية بموجتيه؛ ومجلة الديموغرافيا لسان الجمعية الأمريكية للسكان. — **درجة الدليل:** دراسة متابعة وطنية  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/9622777/>
 
-### بطاقة 175 — دراسة سويدية وطنية 2015 — صحة أطفال الإقامة المشتركة
+### بطاقة 168 — دراسة سويدية وطنية 2015 — صحة أطفال الإقامة المشتركة
 **المؤلف/الجهة:** Bergström M, et al. (2015)  
 **المصدر:** Fifty moves a year · J Epidemiol Community Health 69(8):769–774  
 **الجهة/المذهب:** السويد  
@@ -2292,7 +2204,7 @@
 **عن المصدر:** الدراسة من مركز دراسات العدالة الصحية في جامعة ستوكهولم ومعهد كارولينسكا، على عينة وطنية من تلاميذ السويد؛ والمجلة من إصدارات مجموعة المجلة الطبية البريطانية. — **درجة الدليل:** دراسة وطنية واسعة  
 - الرابط: <https://jech.bmj.com/content/69/8/769>
 
-### بطاقة 176 — دراسة سويدية — أطفال ما قبل المدرسة
+### بطاقة 169 — دراسة سويدية — أطفال ما قبل المدرسة
 **المؤلف/الجهة:** Bergström M, Fransson E, Fabian H, Hjern A, Sarkadi A, Salari R  
 **المصدر:** Preschool children living in joint physical custody arrangements show less psychological symptoms than those living mostly or only with one parent  
 **الجهة/المذهب:** السويد  
@@ -2304,7 +2216,7 @@
 **عن المصدر:** الدراسة من فريق مركز دراسات العدالة الصحية في ستوكهولم ومعهد كارولينسكا وجامعة أوبسالا؛ ونشرتها مجلة أكتا بيدياتريكا لطب الأطفال. — **درجة الدليل:** دراسة سكانية  
 - الرابط: <https://medicalresearch.com/joint-physical-custody-better-for-childrens-psychological-health/>
 
-### بطاقة 177 — تقرير إجماع 110 خبراء 2014 — المبيت عند الأب
+### بطاقة 170 — تقرير إجماع 110 خبراء 2014 — المبيت عند الأب
 **المؤلف/الجهة:** Warshak RA (+110 endorsers) (2014)  
 **المصدر:** Social Science and Parenting Plans for Young Children: A Consensus Report · Psychology, Public Policy, and Law 20(1):46–67  
 **الجهة/المذهب:** الولايات المتحدة (دولي التأييد)  
@@ -2315,7 +2227,7 @@
 **عن المصدر:** ريتشارد ورشاك أستاذ طبي للطب النفسي في جامعة تكساس الجنوبية الغربية، وأيد تقريره مئة وعشرة من الباحثين والممارسين في العالم؛ والمجلة تصدرها جمعية علم النفس الأمريكية. — **درجة الدليل:** تقرير إجماع علمي  
 - الرابط: <http://psycnet.apa.org/journals/law/20/1/46/>
 
-### بطاقة 178 — تحليل جامع لعدة دراسات 2016 — تسع عشرة دراسة: أطفال الحضانة المشتركة أحسن توافقا
+### بطاقة 171 — تحليل جامع لعدة دراسات 2016 — تسع عشرة دراسة: أطفال الحضانة المشتركة أحسن توافقا
 **المؤلف/الجهة:** Baude A, Pearson J, Drapeau S (2016)  
 **المصدر:** Child Adjustment in Joint Physical Custody Versus Sole Custody: A Meta-Analytic Review · Journal of Divorce and Remarriage. 2016;57(5):338-360  
 **الجهة/المذهب:** كندا — جامعة لافال في كيبيك  
@@ -2326,7 +2238,7 @@
 **عن المصدر:** أماندين بود وسيلفي درابو من كلية علم النفس بجامعة لافال في كيبيك، وجيسيكا بيرسون مديرة مركز أبحاث السياسات في دنفر؛ والتحليل الجامع للدراسات يجمع نتائج الدراسات في حكم واحد، وهو أعلى درجات الدليل. — **درجة الدليل:** تحليل جامع لعدة دراسات  
 - ملخص الدراسة: <https://doi.org/10.1080/10502556.2016.1185203>
 
-### بطاقة 179 — دراسة أمريكية 2017 — مبيت الصغير عند أبيه
+### بطاقة 172 — دراسة أمريكية 2017 — مبيت الصغير عند أبيه
 **المؤلف/الجهة:** Fabricius WV, Suh GW (2017)  
 **المصدر:** Should infants and toddlers have frequent overnight parenting time with fathers? The policy debate and new data · Psychology, Public Policy, and Law 23(1):68–84 · doi:10.1037/law0000108  
 **الجهة/المذهب:** الولايات المتحدة — ولاية أريزونا  
@@ -2338,7 +2250,7 @@
 - الرابط: <https://www.sciencedaily.com/releases/2017/02/170202090823.htm>
 - الرابط: <https://asu.elsevierpure.com/en/publications/should-infants-and-toddlers-have-frequent-overnight-parenting-tim>
 
-### بطاقة 180 — تحليل جامع للدراسات 2012 — النزاع والتقاضي
+### بطاقة 173 — تحليل جامع للدراسات 2012 — النزاع والتقاضي
 **المؤلف/الجهة:** Bauserman R (2012)  
 **المصدر:** A Meta-analysis of Parental Satisfaction, Adjustment, and Conflict in Joint Custody and Sole Custody Following Divorce · J Divorce & Remarriage 53(6):464–488  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2349,7 +2261,7 @@
 **عن المصدر:** روبرت باوزرمان صاحب أشهر تحليلين جامعين للدراسات في الحضانة المشتركة؛ ومجلة الطلاق والزواج الثاني مجلة محكمة متخصصة تصدرها دار تايلور وفرانسيس. — **درجة الدليل:** تحليل جامع لعدة دراسات: أعلى درجات الدليل  
 - الرابط: <https://mdsoar.org/handle/11603/5660>
 
-### بطاقة 181 — خلاصة 40 دراسة 2014 — الحضانة المشتركة
+### بطاقة 174 — خلاصة 40 دراسة 2014 — الحضانة المشتركة
 **المؤلف/الجهة:** Nielsen L (2014)  
 **المصدر:** Shared physical custody: Summary of 40 studies on outcomes for children · J Divorce & Remarriage 55(8):613–635  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2360,7 +2272,7 @@
 **عن المصدر:** ليندا نيلسن أستاذة علم النفس التربوي في جامعة ويك فورست، وقد استمعت إلى شهادتها مجالس تشريعية أمريكية عدة؛ ومجلة الطلاق والزواج الثاني مجلة محكمة متخصصة. — **درجة الدليل:** خلاصة بحوث  
 - الرابط: <https://ohiohouse.gov/members/rodney-creech/in-the-news/proposed-statehouse-bill-could-change-child-custody-in-divorce-cases-895>
 
-### بطاقة 182 — دراسة سويدية 2013 — الإقامة المشتركة تحمي المراهقين
+### بطاقة 175 — دراسة سويدية 2013 — الإقامة المشتركة تحمي المراهقين
 **المؤلف/الجهة:** Carlsund Å, Eriksson U, Löfstedt P, Sellström E (2013)  
 **المصدر:** Risk behaviour in Swedish adolescents: is shared physical custody after divorce a risk or a protective factor? · European Journal of Public Health 23(1):3–8  
 **الجهة/المذهب:** السويد — جامعة وسط السويد  
@@ -2371,7 +2283,7 @@
 **عن المصدر:** الدراسة من جامعة وسط السويد على بيانات المسح الدولي لسلوك الأطفال الصحي في سن المدرسة؛ والمجلة الأوروبية للصحة العامة لسان الجمعية الأوروبية للصحة العامة. — **درجة الدليل:** دراسة مسحية واسعة  
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/22383476/>
 
-### بطاقة 183 — دراسة بريطانية وطنية 2016 — انخراط الأب وسلوك الطفل
+### بطاقة 176 — دراسة بريطانية وطنية 2016 — انخراط الأب وسلوك الطفل
 **المؤلف/الجهة:** Kroll ME, Carson C, Redshaw M, Quigley MA (2016)  
 **المصدر:** Early father involvement and subsequent child behaviour: prospective analysis of the UK Millennium Cohort Study · PLoS One 11(9):e0162339  
 **الجهة/المذهب:** المملكة المتحدة — جامعة أكسفورد  
@@ -2382,7 +2294,7 @@
 **عن المصدر:** الدراسة من وحدة علم الأوبئة الوطنية للولادة في جامعة أكسفورد، على دراسة متابعة الألفية، إحدى أكبر دراسات المتابعة الطويلة الوطنية في بريطانيا. — **درجة الدليل:** دراسة متابعة وطنية  
 - الرابط: <https://doi.org/10.1371/journal.pone.0162339>
 
-### بطاقة 184 — نيلسن 2011 — خلاصة بحوث الإقامة المشتركة
+### بطاقة 177 — نيلسن 2011 — خلاصة بحوث الإقامة المشتركة
 **المؤلف/الجهة:** Nielsen L (2011)  
 **المصدر:** Shared parenting after divorce: a review of shared residential parenting research · J Divorce & Remarriage 52(8):586–609  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ويك فورست  
@@ -2393,7 +2305,7 @@
 **عن المصدر:** ليندا نيلسن أستاذة علم النفس التربوي في جامعة ويك فورست؛ ومجلة الطلاق والزواج الثاني مجلة محكمة متخصصة. — **درجة الدليل:** خلاصة بحوث  
 - الرابط: <https://vaderkenniscentrum.nl/669-gedeeld-ouderschap-na-scheiding-analyse-van-het-beschikbare-onderzoek-naar-verblijfsco-ouderschap-linda-nielsen-2011/>
 
-### بطاقة 185 — قرينة المناصفة القابلة للدحض: مقترح كروك
+### بطاقة 178 — قرينة المناصفة القابلة للدحض: مقترح كروك
 **المؤلف/الجهة:** Kruk E (2013)  
 **المصدر:** The Equal Parent Presumption: Social Justice in the Legal Determination of Parenting after Divorce · الفصل الأول: Equal Parenting: Rights and Responsibilities؛ المقترح في ص8، وتعريفه في ص4، وسياق الحماية في ص3 و6  
 **الجهة/المذهب:** كندا — دار نشر جامعتي مكغيل وكوينز  
@@ -2405,7 +2317,7 @@
 - الرابط: <https://api.pageplace.de/preview/DT0400.9780773590090_A23657912/preview-9780773590090_A23657912.pdf>
 - الرابط: <https://www.jstor.org/stable/j.ctt32b7wj>
 
-### بطاقة 186 — كيف تؤثر ترتيبات الحضانة في رعاية الأب بعد الطلاق؟
+### بطاقة 179 — كيف تؤثر ترتيبات الحضانة في رعاية الأب بعد الطلاق؟
 **المؤلف/الجهة:** Stevenson MM, Braver SL, Ellman IM, Votruba AM (2013)  
 **المصدر:** Fathers, Divorce, and Child Custody · الفصل 21 من Handbook of Father Involvement: Multidisciplinary Perspectives؛ تحرير Natasha J. Cabrera وCatherine S. Tamis-LeMonda. موضع النقل: الملخص الأصلي المعروض في سجل الفصل  
 **الجهة/المذهب:** الولايات المتحدة — جامعة أريزونا الحكومية ومستودع جامعة نبراسكا في لينكولن  
@@ -2417,7 +2329,7 @@
 - الرابط: <https://digitalcommons.unl.edu/psychfacpub/963/>
 - الرابط: <https://www.taylorfrancis.com/chapters/edit/10.4324/9780203101414-27/chapter-21-fathers-divorce-child-custody-matthew-stevenson-sanford-braver-ira-ellman-ashley-votruba>
 
-### بطاقة 187 — وقت التعليم مع الأب والنتائج المعرفية في أستراليا
+### بطاقة 180 — وقت التعليم مع الأب والنتائج المعرفية في أستراليا
 **المؤلف/الجهة:** Cano T, Perales F, Baxter J (2019)  
 **المصدر:** A Matter of Time: Father Involvement and Child Cognitive Outcomes · Journal of Marriage and Family. 2019;81(1):164–184  
 **الجهة/المذهب:** أستراليا — Longitudinal Study of Australian Children  
@@ -2429,7 +2341,7 @@
 - الرابط: <https://onlinelibrary.wiley.com/doi/10.1111/jomf.12532>
 - الرابط: <https://library.parenthelp.eu/wp-content/uploads/2017/05/A-Matter-of-Time_Father-Involvement-and-Child-Cognitive-Outcomes.pdf>
 
-### بطاقة 188 — مشاركة الأب والفوارق في التحصيل الدراسي
+### بطاقة 181 — مشاركة الأب والفوارق في التحصيل الدراسي
 **المؤلف/الجهة:** Miller DP, Thomas MMC, Waller MR, Nepomnyaschy L, Emory AD (2020)  
 **المصدر:** Father Involvement and Socioeconomic Disparities in Child Academic Outcomes · Journal of Marriage and Family. 2020;82(2):515–533  
 **الجهة/المذهب:** الولايات المتحدة — العينة الوطنية ECLS-K  
@@ -2440,7 +2352,7 @@
 **عن المصدر:** دانيال ميلر من جامعة بوسطن، ومورين والر من جامعة كورنيل، ولينا نيبومنياشي من جامعة روتجرز، على العينة الوطنية الممتدة سنوات للطفولة المبكرة؛ ومجلة الزواج والأسرة لسان المجلس الوطني لعلاقات الأسرة. — **درجة الدليل:** دراسة متابعة طويلة وطنية  
 - الرابط: <https://onlinelibrary.wiley.com/doi/10.1111/jomf.12666>
 
-### بطاقة 189 — صلة الأب وتقليص الفوارق في سلوك الأبناء
+### بطاقة 182 — صلة الأب وتقليص الفوارق في سلوك الأبناء
 **المؤلف/الجهة:** Nepomnyaschy L, Miller DP, Waller MR, Emory AD (2020)  
 **المصدر:** The Role of Fathers in Reducing Socioeconomic Inequalities in Adolescent Behavioral Outcomes · Social Service Review. 2020;94(3):521–566  
 **الجهة/المذهب:** الولايات المتحدة — Fragile Families and Child Wellbeing Study  
@@ -2452,7 +2364,7 @@
 - الرابط: <https://www.journals.uchicago.edu/doi/10.1086/710546>
 - الرابط: <https://ffcws.princeton.edu/publications/role-fathers-reducing-socioeconomic-inequalities-adolescent-behavioral-outcomes>
 
-### بطاقة 190 — النرويج: المشاركة والشكاوى الجسدية لدى اليافعين
+### بطاقة 183 — النرويج: المشاركة والشكاوى الجسدية لدى اليافعين
 **المؤلف/الجهة:** Nilsen SA, Hysing M, Breivik K, Heradstveit O, Sunde EV, Stormark KM, Bøe T (2020)  
 **المصدر:** Complex families and health complaints among adolescents: A population-based cross-sectional study · Scandinavian Journal of Public Health. 2020;48(7):733–742  
 **الجهة/المذهب:** النرويج — هوردالاند؛ مشاركون بعمر 16–19 سنة  
@@ -2464,7 +2376,7 @@
 - الرابط: <https://journals.sagepub.com/doi/10.1177/1403494819893903>
 - الرابط: <https://pubmed.ncbi.nlm.nih.gov/31830876/>
 
-### بطاقة 191 — دراسة 2018 — التفوق مستقل عن الدخل والنزاع
+### بطاقة 184 — دراسة 2018 — التفوق مستقل عن الدخل والنزاع
 **المؤلف/الجهة:** Nielsen L (2018)  
 **المصدر:** Joint versus sole physical custody: Outcomes for children independent of family income or parental conflict · J Child Custody 15(1):35–54  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2478,7 +2390,7 @@
 **عن المصدر:** ليندا نيلسن أستاذة في جامعة ويك فورست، من أكثر الباحثين كتابة في الرعاية المشتركة بالمناصفة؛ ومجلة حضانة الطفل مجلة محكمة يكتب فيها القضاة وعلماء النفس والباحثون. — **درجة الدليل:** خلاصة بحوث  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/15379418.2017.1422414>
 
-### بطاقة 192 — دراسة 2000 — تعلق الصغار بالوالدين معا
+### بطاقة 185 — دراسة 2000 — تعلق الصغار بالوالدين معا
 **المؤلف/الجهة:** Kelly JB, Lamb ME (2000)  
 **المصدر:** Using child development research to make appropriate custody and access decisions for young children · Family Court Review 38(3):297–311  
 **الجهة/المذهب:** الولايات المتحدة  
@@ -2490,7 +2402,7 @@
 **عن المصدر:** جوان كيلي ومايكل لامب من كبار باحثي الطلاق والأبوة؛ ومجلة مراجعة محاكم الأسرة لسان رابطة محاكم الأسرة والمصالحة. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1111/j.174-1617.2000.tb00577.x>
 
-### بطاقة 193 — دراسة أمريكية 2007 — وقت الأب بعد الطلاق
+### بطاقة 186 — دراسة أمريكية 2007 — وقت الأب بعد الطلاق
 **المؤلف/الجهة:** Fabricius WV, Luecken LJ (2007)  
 **المصدر:** Postdivorce living arrangements, parent conflict, and long-term physical health correlates for children of divorce · J Fam Psychol 21(2):195–205  
 **الجهة/المذهب:** الولايات المتحدة — ولاية أريزونا  
@@ -2504,7 +2416,7 @@
 **عن المصدر:** وليام فابريشيوس ولين لوكن من جامعة ولاية أريزونا؛ ومجلة علم نفس الأسرة تصدرها جمعية علم النفس الأمريكية. — **درجة الدليل:** دراسة ميدانية  
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/17605542/>
 
-### بطاقة 194 — دراسة في 36 دولة 2011 — التواصل مع الآباء
+### بطاقة 187 — دراسة في 36 دولة 2011 — التواصل مع الآباء
 **المؤلف/الجهة:** Bjarnason T, Arnarsson AM (2011)  
 **المصدر:** Joint physical custody and communication with parents: A cross-national study of children in 36 western countries · J Comparative Family Studies 42(6):871–890  
 **الجهة/المذهب:** 36 دولة غربية  
@@ -2518,7 +2430,7 @@
 **عن المصدر:** ثورولفور بيارناسون من جامعة أكوريري في آيسلندا، على المسح الدولي لسلوك الأطفال الصحي في سن المدرسة بإشراف منظمة الصحة العالمية؛ ومجلة دراسات الأسرة المقارنة مجلة محكمة. — **درجة الدليل:** دراسة دولية مقارنة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.3138/jcfs.42.6.871>
 
-### بطاقة 195 — دراسة سويدية 2017 — ضغوط أقل في الإقامة المشتركة
+### بطاقة 188 — دراسة سويدية 2017 — ضغوط أقل في الإقامة المشتركة
 **المؤلف/الجهة:** Turunen J (2017)  
 **المصدر:** Shared physical custody and children's experiences of stress · J Divorce & Remarriage 58(5):371–392  
 **الجهة/المذهب:** السويد  
@@ -2532,7 +2444,7 @@
 **عن المصدر:** يان تورونن باحث في وحدة الديموغرافيا بجامعة ستوكهولم؛ ومجلة الطلاق والزواج الثاني مجلة محكمة متخصصة. — **درجة الدليل:** دراسة سكانية  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10502556.2017.1325648>
 
-### بطاقة 196 — فابريشيوس 2003 — ماذا يقول أبناء الطلاق
+### بطاقة 189 — فابريشيوس 2003 — ماذا يقول أبناء الطلاق
 **المؤلف/الجهة:** Fabricius WV (2003)  
 **المصدر:** Listening to children of divorce: new findings that diverge from Wallerstein, Lewis, and Blakeslee · Family Relations 52(4):385–396  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية أريزونا  
@@ -2546,7 +2458,7 @@
 **عن المصدر:** وليام فابريشيوس أستاذ علم النفس في جامعة ولاية أريزونا؛ ومجلة العلاقات الأسرية يصدرها المجلس الوطني لعلاقات الأسرة في الولايات المتحدة. — **درجة الدليل:** دراسة ميدانية  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1111/j.1741-3729.2003.00385.x>
 
-### بطاقة 197 — إدوارد كروك 2012 — المسؤولية المتساوية أصلا
+### بطاقة 190 — إدوارد كروك 2012 — المسؤولية المتساوية أصلا
 **المؤلف/الجهة:** Kruk E (2012)  
 **المصدر:** Arguments for an equal parental responsibility presumption in contested child custody · American Journal of Family Therapy 40(1):33–55  
 **الجهة/المذهب:** كندا — جامعة كولومبيا البريطانية  
@@ -2558,7 +2470,7 @@
 **عن المصدر:** إدوارد كروك أستاذ الخدمة الاجتماعية في جامعة كولومبيا البريطانية بكندا، متخصص في سياسات الأسرة والطفل؛ والمجلة الأمريكية للعلاج الأسري مجلة محكمة. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/01926187.2011.575344>
 
-### بطاقة 198 — دراسة هولندية 2010 — الإقامة المشتركة
+### بطاقة 191 — دراسة هولندية 2010 — الإقامة المشتركة
 **المؤلف/الجهة:** Spruijt E, Duindam V (2010)  
 **المصدر:** Joint physical custody in the Netherlands and the well-being of children · Journal of Divorce & Remarriage 51(1):65–82  
 **الجهة/المذهب:** هولندا — جامعة أوترخت  
@@ -2572,7 +2484,7 @@
 **عن المصدر:** إد سبرويت باحث في علم الاجتماع بجامعة أوترخت الهولندية، من أعرق الجامعات الأوروبية؛ ومجلة الطلاق والزواج الثاني مجلة محكمة متخصصة. — **درجة الدليل:** دراسة مسحية  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10502550903423362>
 
-### بطاقة 199 — وارشاك 2018 — مراجعة القيود العامة على مبيت الصغار عند آبائهم
+### بطاقة 192 — وارشاك 2018 — مراجعة القيود العامة على مبيت الصغار عند آبائهم
 **المؤلف/الجهة:** Warshak RA (2018)  
 **المصدر:** Night shifts: revisiting blanket restrictions on children's overnights with separated parents · J Divorce & Remarriage 59(4):282–323  
 **الجهة/المذهب:** الولايات المتحدة — جامعة تكساس  
@@ -2586,7 +2498,7 @@
 **عن المصدر:** ريتشارد ورشاك أستاذ طبي للطب النفسي في جامعة تكساس الجنوبية الغربية، صاحب تقرير الإجماع الذي أيده مئة وعشرة من الباحثين. — **درجة الدليل:** مراجعة علمية محكمة  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10502556.2018.1454193>
 
-### بطاقة 200 — برافر ولامب 2018 — آراء الخبراء في الرعاية المشتركة بالمناصفة بعد الانفصال
+### بطاقة 193 — برافر ولامب 2018 — آراء الخبراء في الرعاية المشتركة بالمناصفة بعد الانفصال
 **المؤلف/الجهة:** Braver SL, Lamb ME (2018)  
 **المصدر:** Shared parenting after parental separation: the views of 12 experts · J Divorce & Remarriage 59(5):372–387  
 **الجهة/المذهب:** الولايات المتحدة والمملكة المتحدة  
@@ -2598,7 +2510,7 @@
 **عن المصدر:** سانفورد برافر من جامعة ولاية أريزونا، ومايكل لامب من جامعة كامبريدج، جمعا آراء اثني عشر خبيرا من كبار الباحثين. — **درجة الدليل:** خلاصة آراء الخبراء  
 - صفحة الدراسة لدى الناشر: <https://doi.org/10.1080/10502556.2018.1454195>
 
-### بطاقة 201 — لوفتمان 2014 — أبناء المناصفة يلجؤون إلى والديهم كليهما وصحتهم أفضل
+### بطاقة 194 — لوفتمان 2014 — أبناء المناصفة يلجؤون إلى والديهم كليهما وصحتهم أفضل
 **المؤلف/الجهة:** Låftman SB, Bergström M, Modin B, Östberg V (2014)  
 **المصدر:** Joint physical custody, turning to parents for emotional support, and subjective health: a study of adolescents in Stockholm, Sweden · Scandinavian Journal of Public Health. 2014;42(5):456-462  
 **الجهة/المذهب:** السويد — جامعة ستوكهولم ومعهد كارولينسكا  
@@ -2612,7 +2524,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/24662307/>
 - صفحة الدراسة: <https://doi.org/10.1177/1403494814526798>
 
-### بطاقة 202 — فرانسون 2016 — شكاوى نفسية أقل عند أبناء المناصفة لا تفسر بصحة الوالدين ولا بالدخل
+### بطاقة 195 — فرانسون 2016 — شكاوى نفسية أقل عند أبناء المناصفة لا تفسر بصحة الوالدين ولا بالدخل
 **المؤلف/الجهة:** Fransson E, Turunen J, Hjern A, Östberg V, Bergström M (2016)  
 **المصدر:** Psychological complaints among children in joint physical custody and other family types: considering parental factors · Scandinavian Journal of Public Health. 2016;44(2):177-183  
 **الجهة/المذهب:** السويد — جامعة ستوكهولم ومعهد كارولينسكا  
@@ -2626,7 +2538,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/26553250/>
 - النص الكامل: <https://pmc.ncbi.nlm.nih.gov/articles/PMC4735678/>
 
-### بطاقة 203 — هاغكفيست 2016 — في الخامسة عشرة لا فرق بين أبناء الإقامة المتناوبة وأبناء البيت الواحد
+### بطاقة 196 — هاغكفيست 2016 — في الخامسة عشرة لا فرق بين أبناء الإقامة المتناوبة وأبناء البيت الواحد
 **المؤلف/الجهة:** Hagquist C (2016)  
 **المصدر:** Family residency and psychosomatic problems among adolescents in Sweden: the impact of child-parent relations · Scandinavian Journal of Public Health. 2016;44(1):36-46  
 **الجهة/المذهب:** السويد — جامعة كارلستاد  
@@ -2640,7 +2552,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/26487762/>
 - صفحة الدراسة: <https://doi.org/10.1177/1403494815610664>
 
-### بطاقة 204 — تورونن 2017 — تقدير الذات ينخفض عند أبناء الانفراد لا عند أبناء المناصفة
+### بطاقة 197 — تورونن 2017 — تقدير الذات ينخفض عند أبناء الانفراد لا عند أبناء المناصفة
 **المؤلف/الجهة:** Turunen J, Fransson E, Bergström M (2017)  
 **المصدر:** Self-esteem in children in joint physical custody and other living arrangements · Public Health. 2017;149:106-112  
 **الجهة/المذهب:** السويد — جامعة ستوكهولم  
@@ -2654,7 +2566,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/28595062/>
 - صفحة الدراسة: <https://doi.org/10.1016/j.puhe.2017.04.009>
 
-### بطاقة 205 — تحليل جامع لعدة دراسات 2013 — 52 دراسة على انخراط الأب غير المقيم
+### بطاقة 198 — تحليل جامع لعدة دراسات 2013 — 52 دراسة على انخراط الأب غير المقيم
 **المؤلف/الجهة:** Adamsons K, Johnson SK (2013)  
 **المصدر:** An updated and expanded meta-analysis of nonresident fathering and child well-being · Journal of Family Psychology. 2013;27(4):589-599  
 **الجهة/المذهب:** الولايات المتحدة — جامعة كونيتيكت  
@@ -2668,7 +2580,7 @@
 - ملخص الدراسة: <https://pubmed.ncbi.nlm.nih.gov/23978321/>
 - صفحة الدراسة: <https://doi.org/10.1037/a0033786>
 
-### بطاقة 206 — المعهد الأسترالي لدراسات الأسرة 2010 — المراهقون في الرعاية المتساوية يبقون قريبين من والديهم كليهما
+### بطاقة 199 — المعهد الأسترالي لدراسات الأسرة 2010 — المراهقون في الرعاية المتساوية يبقون قريبين من والديهم كليهما
 **المؤلف/الجهة:** Lodge J, Alexander M — Australian Institute of Family Studies (2010)  
 **المصدر:** Views of adolescents in separated families: a study of adolescents' experiences after the 2006 reforms to the family law system · Melbourne: AIFS, 2010; pp. vi-vii and 21  
 **الجهة/المذهب:** أستراليا — المعهد الأسترالي لدراسات الأسرة  
@@ -2681,7 +2593,7 @@
 **عن المصدر:** تقرير رسمي للمعهد الأسترالي لدراسات الأسرة، الهيئة البحثية الحكومية للأسرة في أستراليا، بتكليف من وزارة العدل الاتحادية، على مقابلات منظمة مع 623 مراهقا من 12 إلى 18 سنة. — **درجة الدليل:** تقرير حكومي رسمي  
 - صفحة التقرير: <https://aifs.gov.au/research/commissioned-reports/views-adolescents-separated-families>
 
-### بطاقة 207 — فابريشيوس — الأبناء أنفسهم بعد أن كبروا: العيش مع كل والد وقتا متساويا هو الأصلح
+### بطاقة 200 — فابريشيوس — الأبناء أنفسهم بعد أن كبروا: العيش مع كل والد وقتا متساويا هو الأصلح
 **المؤلف/الجهة:** Fabricius WV — Arizona State University (1990s/2020)  
 **المصدر:** Young adults' perspectives on living arrangements after divorce — reported by ASU News, March 2, 2020 · ASU News  
 **الجهة/المذهب:** الولايات المتحدة — جامعة ولاية أريزونا  
@@ -2696,7 +2608,7 @@
 
 ## المواثيق والهيئات الدولية
 
-### بطاقة 208 — اليونيسف — الأمم المتحدة تعرف المراهقين بمن هم بين العاشرة والتاسعة عشرة
+### بطاقة 201 — اليونيسف — الأمم المتحدة تعرف المراهقين بمن هم بين العاشرة والتاسعة عشرة
 **المؤلف/الجهة:** اليونيسف — شعبة البيانات والتحليل والتخطيط والرصد (2024)  
 **الجهة/المذهب:** الأمم المتحدة — اليونيسف  
 
@@ -2708,7 +2620,7 @@
 **عن المصدر:** الصفحة الإحصائية الرسمية لليونيسف، وكالة الأمم المتحدة للطفولة، وفيها تعريف الأمم المتحدة المعتمد في كل إحصاءاتها. — **درجة الدليل:** تعريف رسمي لهيئة أممية  
 - النص الرسمي: <https://data.unicef.org/topic/adolescents/overview/>
 
-### بطاقة 209 — اتفاقية حقوق الطفل — الصلة بكلا الوالدين
+### بطاقة 202 — اتفاقية حقوق الطفل — الصلة بكلا الوالدين
 **المؤلف/الجهة:** الأمم المتحدة (1989)  
 **المصدر:** Convention on the Rights of the Child · Art. 9(3)  
 **الجهة/المذهب:** الأمم المتحدة  
@@ -2722,7 +2634,7 @@
 **عن المصدر:** أوسع معاهدات حقوق الإنسان تصديقا في العالم، اعتمدتها الجمعية العامة للأمم المتحدة سنة 1989، وصدقت عليها مصر سنة 1990. — **درجة الدليل:** معاهدة دولية ملزمة  
 - الرابط: <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 
-### بطاقة 210 — مجلس أوروبا 2015 — الإقامة المشتركة أصلا
+### بطاقة 203 — مجلس أوروبا 2015 — الإقامة المشتركة أصلا
 **المؤلف/الجهة:** الجمعية البرلمانية لمجلس أوروبا (2015)  
 **المصدر:** Resolution 2079 (2015) · §5.5  
 **الجهة/المذهب:** مجلس أوروبا  
@@ -2736,7 +2648,7 @@
 - الرابط: <https://pace.coe.int/files/22220/html>
 - الرابط: <https://pace.coe.int/en/files/22220/pdf>
 
-### بطاقة 211 — لجنة حقوق الطفل الأممية، التعليق العام 13 — تخويف الطفل وترويعه وعزله عنف نفسي
+### بطاقة 204 — لجنة حقوق الطفل الأممية، التعليق العام 13 — تخويف الطفل وترويعه وعزله عنف نفسي
 **المؤلف/الجهة:** UN Committee on the Rights of the Child (2011)  
 **المصدر:** General Comment No. 13: The right of the child to freedom from all forms of violence · CRC/C/GC/13, paragraph 21  
 **الجهة/المذهب:** الأمم المتحدة — لجنة حقوق الطفل  
@@ -2749,7 +2661,7 @@
 **عن المصدر:** لجنة حقوق الطفل هي الهيئة الأممية المختصة بتفسير اتفاقية حقوق الطفل ومتابعة تطبيقها في الدول الأعضاء. — **درجة الدليل:** تفسير رسمي لهيئة أممية  
 - نص التعليق العام: <https://hrlibrary.umn.edu/crc/gencom13.html>
 
-### بطاقة 212 — اتفاقية حقوق الطفل — المسؤولية المشتركة للوالدين
+### بطاقة 205 — اتفاقية حقوق الطفل — المسؤولية المشتركة للوالدين
 **المؤلف/الجهة:** الأمم المتحدة (1989)  
 **المصدر:** Convention on the Rights of the Child · Art. 18(1)  
 **الجهة/المذهب:** الأمم المتحدة  
@@ -2763,7 +2675,7 @@
 **عن المصدر:** أوسع معاهدات حقوق الإنسان تصديقا في العالم، اعتمدتها الجمعية العامة للأمم المتحدة سنة 1989، وصدقت عليها مصر سنة 1990. — **درجة الدليل:** معاهدة دولية ملزمة  
 - الرابط: <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 
-### بطاقة 213 — الميثاق الإفريقي لحقوق الطفل — الصلة بالوالدين
+### بطاقة 206 — الميثاق الإفريقي لحقوق الطفل — الصلة بالوالدين
 **المؤلف/الجهة:** الاتحاد الإفريقي (1990)  
 **المصدر:** African Charter on the Rights and Welfare of the Child · Art. 19(2)  
 **الجهة/المذهب:** الاتحاد الإفريقي  
@@ -2777,7 +2689,7 @@
 **عن المصدر:** معاهدة إفريقية لحقوق الطفل، اعتمدتها منظمة الوحدة الإفريقية سنة 1990، ونفذت سنة 1999. — **درجة الدليل:** معاهدة إقليمية ملزمة  
 - الرابط: <https://au.int/en/treaties/african-charter-rights-and-welfare-child>
 
-### بطاقة 214 — اتفاقية حقوق الطفل — حق الطفل من ولادته في أن يعرف والديه ويتلقى رعايتهما
+### بطاقة 207 — اتفاقية حقوق الطفل — حق الطفل من ولادته في أن يعرف والديه ويتلقى رعايتهما
 **المؤلف/الجهة:** الأمم المتحدة (1989)  
 **الجهة/المذهب:** الأمم المتحدة  
 
@@ -2789,7 +2701,7 @@
 **عن المصدر:** أوسع معاهدات حقوق الإنسان تصديقا في العالم (196 دولة طرفا)، وصدقت عليها مصر سنة 1990؛ والنص من الموقع الرسمي للمفوضية السامية لحقوق الإنسان. — **درجة الدليل:** معاهدة دولية ملزمة  
 - النص الرسمي: <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 
-### بطاقة 215 — منظمة التعاون الإسلامي — عهد حقوق الطفل في الإسلام 2005: لا يحرم الطفل من صلته بوالديه
+### بطاقة 208 — منظمة التعاون الإسلامي — عهد حقوق الطفل في الإسلام 2005: لا يحرم الطفل من صلته بوالديه
 **المؤلف/الجهة:** Organisation of Islamic Cooperation (OIC) (2005)  
 **المصدر:** Covenant on the Rights of the Child in Islam · Articles 8(2), 8(3), 11(1)  
 **الجهة/المذهب:** دولي — منظمة التعاون الإسلامي (57 دولة)  
@@ -2803,7 +2715,7 @@
 - نص العهد: <https://bdrive.oic-oci.org/index.php/s/8Czb8kFGRJJydgT/download>
 - سجل العهد: <https://www.refworld.org/docid/44eaf0e4a.html>
 
-### بطاقة 216 — الأمم المتحدة — ابن الخامسة عشرة «شاب» في كل إحصاءاتها منذ 1981
+### بطاقة 209 — الأمم المتحدة — ابن الخامسة عشرة «شاب» في كل إحصاءاتها منذ 1981
 **المؤلف/الجهة:** الأمم المتحدة — القضايا العالمية: الشباب (1981)  
 **الجهة/المذهب:** الأمم المتحدة  
 
@@ -2815,7 +2727,7 @@
 **عن المصدر:** الصفحة الرسمية للأمم المتحدة، والتعريف مقر بقرار من الجمعية العامة، وتعمل به كل الكتب الإحصائية الأممية عن الشباب. — **درجة الدليل:** تعريف رسمي بقرار أممي  
 - النص الرسمي: <https://www.un.org/en/global-issues/youth>
 
-### بطاقة 217 — مجلس أوروبا 2015 — أن يتيح قانون الأسرة الإقامة المتناوبة بعد الانفصال
+### بطاقة 210 — مجلس أوروبا 2015 — أن يتيح قانون الأسرة الإقامة المتناوبة بعد الانفصال
 **المؤلف/الجهة:** الجمعية البرلمانية لمجلس أوروبا (2013)  
 **المصدر:** Resolution 1921 (2013) · كما نقله القرار 2079، §3  
 **الجهة/المذهب:** مجلس أوروبا  
@@ -2828,7 +2740,7 @@
 **عن المصدر:** الجمعية البرلمانية لمجلس أوروبا، تضم نوابا من برلمانات ست وأربعين دولة أوروبية. — **درجة الدليل:** قرار برلماني دولي  
 - الرابط: <https://pace.coe.int/files/22220/html>
 
-### بطاقة 218 — مجلس أوروبا 2015 — تجاوز الصور النمطية
+### بطاقة 211 — مجلس أوروبا 2015 — تجاوز الصور النمطية
 **المؤلف/الجهة:** الجمعية البرلمانية لمجلس أوروبا (2015)  
 **المصدر:** Resolution 2079 (2015) · §4  
 **الجهة/المذهب:** مجلس أوروبا  
@@ -2841,7 +2753,7 @@
 **عن المصدر:** الجمعية البرلمانية لمجلس أوروبا، تضم نوابا من برلمانات ست وأربعين دولة أوروبية. — **درجة الدليل:** قرار برلماني دولي  
 - الرابط: <https://pace.coe.int/files/22220/html>
 
-### بطاقة 219 — لجنة حقوق الطفل الأممية 2013 — المسؤوليات المشتركة للأبوين في مصلحة الطفل غالبا
+### بطاقة 212 — لجنة حقوق الطفل الأممية 2013 — المسؤوليات المشتركة للأبوين في مصلحة الطفل غالبا
 **المؤلف/الجهة:** لجنة حقوق الطفل (2013)  
 **المصدر:** General Comment No. 14 · CRC/C/GC/14, para. 67  
 **الجهة/المذهب:** الأمم المتحدة — لجنة حقوق الطفل  
@@ -2854,7 +2766,7 @@
 **عن المصدر:** لجنة حقوق الطفل هيئة من ثمانية عشر خبيرا مستقلا تراقب تنفيذ اتفاقية حقوق الطفل، وتعليقاتها العامة التفسير المعتمد لنصوص الاتفاقية. — **درجة الدليل:** تفسير رسمي لهيئة أممية  
 - الرابط: <https://digitallibrary.un.org/record/778523>
 
-### بطاقة 220 — الأمم المتحدة 2002 — عالم صالح للأطفال
+### بطاقة 213 — الأمم المتحدة 2002 — عالم صالح للأطفال
 **المؤلف/الجهة:** الجمعية العامة للأمم المتحدة (2002)  
 **المصدر:** Resolution S-27/2: A world fit for children  
 **الجهة/المذهب:** الأمم المتحدة  
@@ -2868,7 +2780,7 @@
 **عن المصدر:** وثيقة عالم صالح للأطفال اعتمدتها الجمعية العامة للأمم المتحدة في دورتها الاستثنائية الخاصة بالطفل سنة 2002، بحضور رؤساء الدول والحكومات. — **درجة الدليل:** وثيقة أممية  
 - الرابط: <https://pace.coe.int/files/22022/html>
 
-### بطاقة 221 — لجنة بمجلس أوروبا — نفع الأطراف جميعا
+### بطاقة 214 — لجنة بمجلس أوروبا — نفع الأطراف جميعا
 **المؤلف/الجهة:** لجنة الشؤون الاجتماعية بمجلس أوروبا — رأي على Doc. 13870 (2015)  
 **المصدر:** Equality and shared parental responsibility: the role of fathers · Opinion  
 **الجهة/المذهب:** مجلس أوروبا  
@@ -2882,7 +2794,7 @@
 **عن المصدر:** لجنة الشؤون الاجتماعية والصحة في الجمعية البرلمانية لمجلس أوروبا، ورأيها جزء من الوثائق الرسمية للقرار 2079. — **درجة الدليل:** رأي لجنة برلمانية دولية  
 - الرابط: <https://digitallibrary.un.org/record/778523>
 
-### بطاقة 222 — اليونيسف 2018 — الآباء من أفضل موارد نمو الطفل وأقلها استعمالا
+### بطاقة 215 — اليونيسف 2018 — الآباء من أفضل موارد نمو الطفل وأقلها استعمالا
 **المؤلف/الجهة:** اليونيسف — بيان صحفي رسمي، على لسان بيا بريتو رئيسة نماء الطفل في سنواته الأولى (2018)  
 **الجهة/المذهب:** الأمم المتحدة — اليونيسف  
 
@@ -2894,7 +2806,7 @@
 **عن المصدر:** بيان رسمي صادر عن مقر اليونيسف في نيويورك ومنشور على مواقعها القطرية؛ وبيا بريتو رئيسة نماء الطفل في سنواته الأولى في اليونيسف ومن مؤلفي سلسلة لانسيت عن نماء الطفل. — **درجة الدليل:** بيان رسمي لهيئة أممية  
 - النص الرسمي: <https://www.unicef.org/india/press-releases/fathers-are-one-best-yet-most-underutilized-child-development-resources-unicef>
 
-### بطاقة 223 — المؤتمر الدولي السادس للرعاية المشتركة بالمناصفة 2023 — المناصفة هي الأمثل لنمو الطفل
+### بطاقة 216 — المؤتمر الدولي السادس للرعاية المشتركة بالمناصفة 2023 — المناصفة هي الأمثل لنمو الطفل
 **المؤلف/الجهة:** International Council on Shared Parenting (ICSP) (2023)  
 **المصدر:** Conclusions of the 6th International Conference on Shared Parenting, Athens, May 5–7, 2023 · Conclusions 1 and 7  
 **الجهة/المذهب:** دولي — المجلس الدولي للرعاية المشتركة بالمناصفة (34 دولة)  
@@ -2909,7 +2821,7 @@
 
 ## التشريعات المقارنة
 
-### بطاقة 224 — قانون الأسرة الإسلامي في ماليزيا 1984 — حضانة النساء تنتهي بسبع للذكر وتسع للأنثى
+### بطاقة 217 — قانون الأسرة الإسلامي في ماليزيا 1984 — حضانة النساء تنتهي بسبع للذكر وتسع للأنثى
 **المؤلف/الجهة:** ماليزيا — الأقاليم الاتحادية (1984)  
 **الجهة/المذهب:** ماليزيا — قانون الأسرة الإسلامي  
 
@@ -2921,7 +2833,7 @@
 **عن المصدر:** القانون الذي تطبقه المحاكم الشرعية في العاصمة كوالالمبور والأقاليم الاتحادية الماليزية، وعلى منواله قوانين الولايات الماليزية الأخرى؛ وماليزيا دولة ذات أغلبية مسلمة تطبق الفقه الشافعي في الأحوال الشخصية. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للقانون: <https://www.ius.uzh.ch/dam/jcr:00000000-573e-dcae-0000-00004dd0afc8/Act303.pdf>
 
-### بطاقة 225 — أبوظبي — الحضانة المشتركة أصلا
+### بطاقة 218 — أبوظبي — الحضانة المشتركة أصلا
 **المؤلف/الجهة:** الإمارات (أبوظبي) (2021/2022)  
 **المصدر:** قانون الأحوال الشخصية المدنية لغير المسلمين  
 **الجهة/المذهب:** الإمارات — أبوظبي  
@@ -2933,7 +2845,7 @@
 **عن المصدر:** قانون صادر في إمارة أبوظبي سنة 2021 لتنظيم الأحوال الشخصية المدنية، تطبقه محكمة أبوظبي للأسرة. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي في الجريدة الرسمية: <https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf>
 
-### بطاقة 226 — قانون ولاية أركنساس الأمريكية 2021 — افتراض الحضانة المشتركة
+### بطاقة 219 — قانون ولاية أركنساس الأمريكية 2021 — افتراض الحضانة المشتركة
 **المؤلف/الجهة:** أركنساس، الولايات المتحدة (2021)  
 **المصدر:** Act 604 of 2021 · Ark. Code § 9-13-101  
 **الجهة/المذهب:** الولايات المتحدة — ولاية أركنساس  
@@ -2947,7 +2859,7 @@
 **عن المصدر:** قانون ولاية أركنساس لسنة 2021، جعل الحضانة المشتركة أصلا لا ينقض إلا بدليل واضح مقنع. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2021R%2FPublic%2F&file=604.pdf&ddBienniumSession=2021%2F2021R>
 
-### بطاقة 227 — جدول دوسلدورف الألماني 2025 — النفقة تحسب على صافي دخل الأب، ويحفظ له ما يعيش به
+### بطاقة 220 — جدول دوسلدورف الألماني 2025 — النفقة تحسب على صافي دخل الأب، ويحفظ له ما يعيش به
 **المؤلف/الجهة:** Oberlandesgericht Düsseldorf (2025)  
 **المصدر:** Düsseldorfer Tabelle (Stand: 1. Januar 2025) · Tabelle; Anmerkung A. VII  
 **الجهة/المذهب:** ألمانيا — محكمة الاستئناف العليا في دوسلدورف  
@@ -2961,7 +2873,7 @@
 - الجدول الرسمي: <https://www.justiz.nrw/BS/broschueren_hilfen/dtabelle/duesseldorfer-tabelle-2025>
 - الجدول بصيغة PDF: <https://familienportal.nrw/sites/default/files/2024-12/Duesseldorfer-Tabelle-01_01_2025.pdf>
 
-### بطاقة 228 — قانون حضانة الصغار الإنجليزي 1839 — أول حق للأم في الحضانة كان إلى السابعة فقط
+### بطاقة 221 — قانون حضانة الصغار الإنجليزي 1839 — أول حق للأم في الحضانة كان إلى السابعة فقط
 **المؤلف/الجهة:** UK Parliament — Living Heritage: Custody rights and domestic violence (1839)  
 **المصدر:** Custody of Infants Act 1839 (2 & 3 Vict. c. 54) · صفحة التراث الحي على موقع البرلمان البريطاني، فقرة قانون حضانة الصغار 1839  
 **الجهة/المذهب:** المملكة المتحدة — برلمان المملكة المتحدة  
@@ -2974,7 +2886,7 @@
 **عن المصدر:** الموقع الرسمي لبرلمان المملكة المتحدة في سلسلة «التراث الحي» التي تؤرخ لتشريعاته؛ والقانون هو أول قانون إنجليزي يعطي الأم حقا في حضانة أطفالها. — **درجة الدليل:** وثيقة تشريعية رسمية  
 - صفحة البرلمان البريطاني: <https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/overview/custodyrights/>
 
-### بطاقة 229 — القانون الروماني — سن عدم التمييز تنتهي بقاعدة قاطعة عند تمام السابعة
+### بطاقة 222 — القانون الروماني — سن عدم التمييز تنتهي بقاعدة قاطعة عند تمام السابعة
 **المؤلف/الجهة:** George Long, in: William Smith (ed.) — A Dictionary of Greek and Roman Antiquities, art. "Infans" (1875)  
 **المصدر:** لندن، جون موراي، الصفحة 636؛ نسخة جامعة شيكاغو  
 **الجهة/المذهب:** القانون الروماني  
@@ -2987,7 +2899,7 @@
 **عن المصدر:** أشهر معجم كلاسيكي للمؤسسات اليونانية والرومانية، والمادة بقلم جورج لونغ زميل كلية ترينيتي في كامبريدج ومن كبار شراح القانون الروماني في عصره؛ وتستند المادة إلى نصوص الديجستا ومدونة جستنيان مباشرة. — **درجة الدليل:** مرجع كلاسيكي معتمد  
 - نص المادة: <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Infans.html>
 
-### بطاقة 230 — التلمود — إدخال الأطفال إلى المعلمين في السادسة والسابعة
+### بطاقة 223 — التلمود — إدخال الأطفال إلى المعلمين في السادسة والسابعة
 **المؤلف/الجهة:** التلمود البابلي — بابا بترا 21أ (نحو 500 م)  
 **الجهة/المذهب:** الشريعة اليهودية  
 
@@ -2999,7 +2911,7 @@
 **عن المصدر:** التلمود البابلي النص المركزي للشريعة اليهودية، والطبعة المنقول عنها هي الطبعة الإنجليزية المعتمدة المتاحة في مكتبة سيفاريا؛ والنص يحكي أول نظام للتعليم العام في القرن الأول الميلادي. — **درجة الدليل:** نص شرعي مؤسس  
 - النص في مصدره: <https://www.sefaria.org/Bava_Batra.21a.4?lang=bi>
 
-### بطاقة 231 — القانون السويدي — صلة الطفل بكلا والديه
+### بطاقة 224 — القانون السويدي — صلة الطفل بكلا والديه
 **المؤلف/الجهة:** السويد  
 **المصدر:** Föräldrabalken (SFS 1949:381) · 6 kap. 2 a §  
 **الجهة/المذهب:** السويد  
@@ -3012,7 +2924,7 @@
 **عن المصدر:** قانون الوالدين والأولاد السويدي هو التشريع الجامع لأحكام الطفل والوالدين في السويد؛ والسويد من أعلى دول العالم في نسبة الإقامة المتناوبة بعد الفرقة. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://data.riksdagen.se/dokument/GN01LU15.html>
 
-### بطاقة 232 — القانون البلجيكي 2006 — أولوية الإقامة المتساوية
+### بطاقة 225 — القانون البلجيكي 2006 — أولوية الإقامة المتساوية
 **المؤلف/الجهة:** بلجيكا (2006)  
 **المصدر:** Code civil · art. 374 §2 (loi du 18 juillet 2006)  
 **الجهة/المذهب:** بلجيكا  
@@ -3025,7 +2937,7 @@
 **عن المصدر:** قانون 18 يوليو 2006 البلجيكي أدخل في القانون المدني تقديم الإقامة المتساوية عند طلب أحد الوالدين، وكان من أوائل القوانين الأوروبية في ذلك. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.dekamer.be/FLWB/Pdf/51/1673/51K1673019.pdf>
 
-### بطاقة 233 — قانون ولاية كنتاكي الأمريكية 2018 — افتراض الحضانة المشتركة
+### بطاقة 226 — قانون ولاية كنتاكي الأمريكية 2018 — افتراض الحضانة المشتركة
 **المؤلف/الجهة:** كنتاكي، الولايات المتحدة (2018)  
 **المصدر:** HB 528 (KRS 403.270)  
 **الجهة/المذهب:** الولايات المتحدة — ولاية كنتاكي  
@@ -3039,7 +2951,7 @@
 **عن المصدر:** كنتاكي أول ولاية أمريكية جعلت الحضانة المشتركة والوقت المتساوي أصلا مفترضا في كل قضايا الحضانة، بقانون أقره مجلسا الولاية بأغلبية ساحقة. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://en.wikipedia.org/wiki/Kentucky_House_Bill_528>
 
-### بطاقة 234 — القانون الكندي 2021 — أكبر وقت مع كل والد
+### بطاقة 227 — القانون الكندي 2021 — أكبر وقت مع كل والد
 **المؤلف/الجهة:** كندا (2021)  
 **المصدر:** Divorce Act (R.S.C. 1985) · s. 16(6)  
 **الجهة/المذهب:** كندا  
@@ -3052,7 +2964,7 @@
 **عن المصدر:** قانون الطلاق الكندي قانون اتحادي يسري في كل المقاطعات، وتعديله سنة 2021 أول تعديل جوهري لأحكام الرعاية منذ أكثر من عشرين عاما. — **درجة الدليل:** تشريع اتحادي نافذ  
 - الرابط: <https://laws-lois.justice.gc.ca/eng/acts/d-3.4/section-16.html>
 
-### بطاقة 235 — القانون البريطاني 2014 — افتراض مشاركة كل والد
+### بطاقة 228 — القانون البريطاني 2014 — افتراض مشاركة كل والد
 **المؤلف/الجهة:** المملكة المتحدة (2014)  
 **المصدر:** Children Act 1989 · s. 1(2A), inserted by Children and Families Act 2014, s. 11  
 **الجهة/المذهب:** المملكة المتحدة — إنجلترا وويلز  
@@ -3065,7 +2977,7 @@
 **عن المصدر:** قانون الأطفال والأسر البريطاني لسنة 2014 عدل قانون الأطفال لسنة 1989، التشريع الجامع لأحكام الطفل في إنجلترا وويلز. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.legislation.gov.uk/ukpga/1989/41/section/1>
 
-### بطاقة 236 — قانون ولاية أريزونا 2012 — تعظيم وقت كل والد
+### بطاقة 229 — قانون ولاية أريزونا 2012 — تعظيم وقت كل والد
 **المؤلف/الجهة:** أريزونا، الولايات المتحدة (2012)  
 **المصدر:** Arizona Revised Statutes · § 25-403.02  
 **الجهة/المذهب:** الولايات المتحدة — ولاية أريزونا  
@@ -3078,7 +2990,7 @@
 **عن المصدر:** قانون ولاية أريزونا المعدل سنة 2012، وتطبقه محاكم الأسرة في الولاية. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.azleg.gov/legtext/50leg/2r/laws/0309.htm>
 
-### بطاقة 237 — قانون ولاية أريزونا — تواصل كبير ومستمر
+### بطاقة 230 — قانون ولاية أريزونا — تواصل كبير ومستمر
 **المؤلف/الجهة:** أريزونا، الولايات المتحدة  
 **المصدر:** Arizona Revised Statutes · § 25-403.01  
 **الجهة/المذهب:** الولايات المتحدة — ولاية أريزونا  
@@ -3091,7 +3003,7 @@
 **عن المصدر:** قانون ولاية أريزونا في الحضانة، وتطبقه محاكم الأسرة في الولاية. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://azleg.gov/legtext/57leg/1r/bills/hb2296h.htm>
 
-### بطاقة 238 — لجنة القانون في الهند 2015 — المساواة بين الوالدين والحضانة المشتركة
+### بطاقة 231 — لجنة القانون في الهند 2015 — المساواة بين الوالدين والحضانة المشتركة
 **المؤلف/الجهة:** لجنة القانون في الهند (2015)  
 **المصدر:** Reforms in Guardianship and Custody Laws in India · Report No. 257  
 **الجهة/المذهب:** الهند — لجنة القانون  
@@ -3102,7 +3014,7 @@
 **عن المصدر:** لجنة القانون في الهند هيئة حكومية دائمة تقترح إصلاح التشريعات، وقدم تقريرها هذا رئيسها القاضي أجيت براكاش شاه إلى وزير القانون والعدل. — **درجة الدليل:** تقرير هيئة حكومية تشريعية  
 - الرابط: <https://delhihighcourt.nic.in/files/reports/257.pdf>
 
-### بطاقة 239 — القانون الفرنسي — الإقامة المتناوبة
+### بطاقة 232 — القانون الفرنسي — الإقامة المتناوبة
 **المؤلف/الجهة:** فرنسا (2002)  
 **المصدر:** Code civil · art. 373-2-9  
 **الجهة/المذهب:** فرنسا  
@@ -3116,7 +3028,7 @@
 **عن المصدر:** القانون المدني الفرنسي أصل القوانين المدنية في أوروبا والعالم العربي، وأدخل الإقامة المتناوبة بقانون 4 مارس 2002. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://hal.umontpellier.fr/hal-01870997v1/document>
 
-### بطاقة 240 — القانون الإيطالي — الصلة بالوالدين والأقارب
+### بطاقة 233 — القانون الإيطالي — الصلة بالوالدين والأقارب
 **المؤلف/الجهة:** إيطاليا (2006/2013)  
 **المصدر:** Codice civile · art. 337-ter (ex art. 155, L. 54/2006)  
 **الجهة/المذهب:** إيطاليا  
@@ -3130,7 +3042,7 @@
 **عن المصدر:** القانون المدني الإيطالي، ونص الحضانة المشتركة فيه مقرر بقانون سنة 2006. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://brocardi.it/codice-civile/libro-primo/titolo-ix/capo-ii/art337ter.html>
 
-### بطاقة 241 — القانون الألماني — التواصل مع الوالدين والأرحام
+### بطاقة 234 — القانون الألماني — التواصل مع الوالدين والأرحام
 **المؤلف/الجهة:** ألمانيا  
 **المصدر:** BGB · § 1626 Abs. 3  
 **الجهة/المذهب:** ألمانيا  
@@ -3144,7 +3056,7 @@
 **عن المصدر:** القانون المدني الألماني من أشهر التقنينات المدنية في العالم، نافذ منذ سنة 1900. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.gesetze-im-internet.de/bgb/__1626.html>
 
-### بطاقة 242 — القانون الألماني — حق الطفل في كل والد
+### بطاقة 235 — القانون الألماني — حق الطفل في كل والد
 **المؤلف/الجهة:** ألمانيا  
 **المصدر:** BGB · § 1684 Abs. 1  
 **الجهة/المذهب:** ألمانيا  
@@ -3158,7 +3070,7 @@
 **عن المصدر:** القانون المدني الألماني من أشهر التقنينات المدنية في العالم، نافذ منذ سنة 1900. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.gesetze-im-internet.de/bgb/__1684.html>
 
-### بطاقة 243 — القانون البرازيلي — الحضانة المشتركة قاعدة
+### بطاقة 236 — القانون البرازيلي — الحضانة المشتركة قاعدة
 **المؤلف/الجهة:** البرازيل (2014)  
 **المصدر:** Código Civil · art. 1.584 §2 (Lei 13.058/2014)  
 **الجهة/المذهب:** البرازيل  
@@ -3172,7 +3084,7 @@
 **عن المصدر:** قانون اتحادي برازيلي صدر سنة 2014، جعل الحضانة المشتركة القاعدة في البلاد كلها. — **درجة الدليل:** تشريع اتحادي نافذ  
 - الرابط: <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13058.htm>
 
-### بطاقة 244 — القانون الأرجنتيني — الحضانة المشتركة خيار أول يلزم به القاضي
+### بطاقة 237 — القانون الأرجنتيني — الحضانة المشتركة خيار أول يلزم به القاضي
 **المؤلف/الجهة:** الأرجنتين (2015)  
 **المصدر:** Código Civil y Comercial · art. 651  
 **الجهة/المذهب:** الأرجنتين  
@@ -3186,7 +3098,7 @@
 **عن المصدر:** القانون المدني والتجاري الأرجنتيني الموحد، نافذ منذ سنة 2015. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm>
 
-### بطاقة 245 — اليابان — إقرار الولاية المشتركة بعد الطلاق
+### بطاقة 238 — اليابان — إقرار الولاية المشتركة بعد الطلاق
 **المؤلف/الجهة:** اليابان (2024)  
 **المصدر:** تعديل القانون المدني · الولاية المشتركة بعد الطلاق  
 **الجهة/المذهب:** اليابان  
@@ -3198,7 +3110,7 @@
 **عن المصدر:** تعديل القانون المدني الياباني أقره البرلمان سنة 2024، وهو أول تغيير لأحكام الولاية بعد الطلاق منذ نحو ثمانية عقود. — **درجة الدليل:** تشريع نافذ  
 - الصفحة الرسمية للقانون: <https://www.moj.go.jp/MINJI/minji07_00357.html>
 
-### بطاقة 246 — القانون الهولندي — حق الطفل في رعاية وتربية متكافئتين من الوالدين بعد الانفصال
+### بطاقة 239 — القانون الهولندي — حق الطفل في رعاية وتربية متكافئتين من الوالدين بعد الانفصال
 **المؤلف/الجهة:** هولندا (2009)  
 **المصدر:** Burgerlijk Wetboek · Boek 1, art. 247 lid 3 (Wet bevordering voortgezet ouderschap en zorgvuldige scheiding)  
 **الجهة/المذهب:** هولندا  
@@ -3212,7 +3124,7 @@
 **عن المصدر:** القانون المدني الهولندي، ونص التوزيع المتكافئ للرعاية فيه مقرر بقانون تعزيز استمرار دور الوالدين سنة 2009. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://wetten.overheid.nl/BWBR0002656/>
 
-### بطاقة 247 — القانون السويسري — النظر في الحضانة المتناوبة
+### بطاقة 240 — القانون السويسري — النظر في الحضانة المتناوبة
 **المؤلف/الجهة:** سويسرا (2017)  
 **المصدر:** Code civil suisse · art. 298 al. 2ter  
 **الجهة/المذهب:** سويسرا  
@@ -3226,7 +3138,7 @@
 **عن المصدر:** القانون المدني السويسري من أدق التقنينات المدنية الأوروبية، ونص النظر في الحضانة المتناوبة فيه نافذ منذ سنة 2017. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/fr>
 
-### بطاقة 248 — القانون الإسباني — الحضانة المشتركة بطلب أحد الوالدين
+### بطاقة 241 — القانون الإسباني — الحضانة المشتركة بطلب أحد الوالدين
 **المؤلف/الجهة:** إسبانيا  
 **المصدر:** Código Civil · art. 92.8  
 **الجهة/المذهب:** إسبانيا  
@@ -3240,7 +3152,7 @@
 **عن المصدر:** القانون المدني الإسباني، ويفسره قضاء المحكمة العليا الإسبانية التي جعلت الحضانة المشتركة هي الأصل. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763>
 
-### بطاقة 249 — القانون البرتغالي 2020 — الإقامة المتناوبة
+### بطاقة 242 — القانون البرتغالي 2020 — الإقامة المتناوبة
 **المؤلف/الجهة:** البرتغال (2020)  
 **المصدر:** Código Civil · art. 1906.º, n.º 6 (Lei n.º 65/2020)  
 **الجهة/المذهب:** البرتغال  
@@ -3254,21 +3166,7 @@
 **عن المصدر:** قانون برتغالي صدر سنة 2020، أجاز للمحكمة تقرير الإقامة المتناوبة مراعاة لمصلحة الطفل. — **درجة الدليل:** تشريع نافذ  
 - الرابط: <https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis>
 
-### بطاقة 250 — قانون البرازيل 2010 — تنفير الطفل من أحد والديه انتهاك لحقه
-**المؤلف/الجهة:** البرازيل (2010)  
-**المصدر:** Lei nº 12.318/2010 (Alienação Parental) · art. 3º  
-**الجهة/المذهب:** البرازيل  
-**الموضع:** المطابقة 1.20.0: Lei nº 12.318, de 26 de agosto de 2010 (alienação parental), art. 3º — Exact match on planalto.gov.br (found_text gives the full article; the entry quotes its opening clause with an ellipsis). The page states that its text does not replace the version published in the DOU and its accented characters are mis-encoded in the HTML, but the words are identical. Supportive neighbours: art. 2º (definition of alienação parental as interference in the child's psychological formation to make the child repudiate a parent or harm bonds with that parent); art. 6º, V (the judge may order a change to guarda compartilhada or its reversal); art. 7º («A atribuição ou alteração da guarda dar-se-á por preferência ao genitor que viabiliza a efetiva convivência da criança ou adolescente com o outro genitor nas hipóteses em que seja inviável a guarda compartilhada.»). No undermining passage found. Note: a 2024  
-
-> «A prática de ato de alienação parental fere direito fundamental da criança ou do adolescente de convivência familiar saudável…»
->
-> «ممارسة أي فعل من أفعال تنفير الطفل من أحد والديه تنتهك حقا أساسيا للطفل أو المراهق في حياة أسرية سليمة…».
-
-**الاستدلال:** جعل القانون البرازيلي تنفير الطفل من أحد والديه انتهاكا لحق أساسي للطفل؛ وهو المعنى الذي سماه فقهاؤنا التغييب والإغراء بالعقوق وقطيعة الرحم.  
-**عن المصدر:** قانون اتحادي برازيلي خاص بمكافحة تنفير الطفل من أحد والديه، من أوائل القوانين في العالم في هذا الباب. — **درجة الدليل:** تشريع اتحادي نافذ  
-- الرابط: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm>
-
-### بطاقة 251 — قانون ولاية فلوريدا 2023 — قرينة المناصفة في وقت الرعاية
+### بطاقة 243 — قانون ولاية فلوريدا 2023 — قرينة المناصفة في وقت الرعاية
 **المؤلف/الجهة:** فلوريدا، الولايات المتحدة (2023)  
 **الجهة/المذهب:** الولايات المتحدة — ولاية فلوريدا  
 
@@ -3280,7 +3178,7 @@
 **عن المصدر:** تشريع نافذ منذ 1 يوليو 2023 في ثالث أكبر ولايات أمريكا سكانا، منشور على الموقع الرسمي للهيئة التشريعية للولاية. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للمادة: <http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/Sections/0061.13.html>
 
-### بطاقة 252 — قانون فرجينيا الغربية 2022 — قرينة التقسيم بالمناصفة 50-50
+### بطاقة 244 — قانون فرجينيا الغربية 2022 — قرينة التقسيم بالمناصفة 50-50
 **المؤلف/الجهة:** فرجينيا الغربية، الولايات المتحدة (2022)  
 **الجهة/المذهب:** الولايات المتحدة — ولاية فرجينيا الغربية  
 
@@ -3292,7 +3190,7 @@
 **عن المصدر:** تشريع نافذ منشور على الموقع الرسمي لمدونة قوانين الولاية، وهو من أصرح نصوص المناصفة في العالم إذ ينص على النسبة 50-50 بالأرقام. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للمادة: <https://code.wvlegislature.gov/48-9-102A/>
 
-### بطاقة 253 — قانون ميزوري 2023 — الاتصال المتكرر المستمر بالوالدين معا سياسة عامة وقرينة المناصفة
+### بطاقة 245 — قانون ميزوري 2023 — الاتصال المتكرر المستمر بالوالدين معا سياسة عامة وقرينة المناصفة
 **المؤلف/الجهة:** ميزوري، الولايات المتحدة (2023)  
 **الجهة/المذهب:** الولايات المتحدة — ولاية ميزوري  
 
@@ -3304,7 +3202,7 @@
 **عن المصدر:** تشريع نافذ منشور على موقع المراجع الرسمي لقوانين الولاية؛ والفقرة الرابعة إعلان سياسة عامة تطبقه محاكم الولاية في كل قضايا الحضانة. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للمادة: <https://revisor.mo.gov/main/OneSection.aspx?section=452.375>
 
-### بطاقة 254 — قانون لويزيانا — الحضانة المادية تقسم بالتساوي ما لم يتعذر
+### بطاقة 246 — قانون لويزيانا — الحضانة المادية تقسم بالتساوي ما لم يتعذر
 **المؤلف/الجهة:** لويزيانا، الولايات المتحدة (2024)  
 **الجهة/المذهب:** الولايات المتحدة — ولاية لويزيانا  
 
@@ -3316,7 +3214,7 @@
 **عن المصدر:** تشريع نافذ منشور على الموقع الرسمي للهيئة التشريعية للولاية، ولويزيانا من أقدم الولايات الأمريكية في تقرير الحضانة المشتركة أصلا مفترضا. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للمادة: <https://legis.la.gov/Legis/Law.aspx?d=107527>
 
-### بطاقة 255 — قانون الأسرة في كاليفورنيا — الاتصال المتكرر المستمر بالوالدين معا سياسة الولاية
+### بطاقة 247 — قانون الأسرة في كاليفورنيا — الاتصال المتكرر المستمر بالوالدين معا سياسة الولاية
 **المؤلف/الجهة:** كاليفورنيا، الولايات المتحدة (2024)  
 **الجهة/المذهب:** الولايات المتحدة — ولاية كاليفورنيا  
 
@@ -3328,7 +3226,7 @@
 **عن المصدر:** تشريع نافذ في أكبر ولايات أمريكا سكانا، منشور على الموقع الرسمي للمعلومات التشريعية للولاية، وتستشهد به محاكمها في كل أحكام الحضانة. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للمادة: <https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=3020.>
 
-### بطاقة 256 — قانون الأقلية والولاية الهندوسي 1956 — الأب هو الولي الطبيعي، وحضانة الأم عادة إلى تمام الخامسة
+### بطاقة 248 — قانون الأقلية والولاية الهندوسي 1956 — الأب هو الولي الطبيعي، وحضانة الأم عادة إلى تمام الخامسة
 **المؤلف/الجهة:** الهند — قانون الأقلية والولاية الهندوسي رقم 32 لسنة 1956 (1956)  
 **المصدر:** The Hindu Minority and Guardianship Act, 1956 — Section 6 · المادة 6 (أ): الأولياء الطبيعيون للقاصر الهندوسي  
 **الجهة/المذهب:** الهند — البرلمان الهندي  
@@ -3341,7 +3239,7 @@
 **عن المصدر:** قانون اتحادي هندي نافذ منذ 1956 يحكم ولاية وحضانة الأطفال الهندوس، وهم أكثر من مليار إنسان؛ وتطبقه المحاكم الهندية إلى اليوم. — **درجة الدليل:** تشريع نافذ  
 - نص القانون: <https://www.indiacode.nic.in/handle/123456789/1649>
 
-### بطاقة 257 — وزارة العدل الكندية — تعليل النص
+### بطاقة 249 — وزارة العدل الكندية — تعليل النص
 **المؤلف/الجهة:** وزارة العدل الكندية (2021)  
 **المصدر:** The Divorce Act Changes Explained · s. 16(6) — Reason for the change  
 **الجهة/المذهب:** كندا  
@@ -3354,7 +3252,7 @@
 **عن المصدر:** شرح رسمي صادر عن وزارة العدل الكندية لتعليل نصوص قانون الطلاق المعدل. — **درجة الدليل:** شرح حكومي رسمي  
 - الرابط: <https://justice.gc.ca/eng/fl-df/cfl-mdf/dace-clde/div72.html>
 
-### بطاقة 258 — الحكومة الاتحادية الأمريكية 2018 — توجيه رسمي بإشراك الآباء أيا كان وضع الحضانة
+### بطاقة 250 — الحكومة الاتحادية الأمريكية 2018 — توجيه رسمي بإشراك الآباء أيا كان وضع الحضانة
 **المؤلف/الجهة:** إدارة الأطفال والأسر — وزارة الصحة والخدمات الإنسانية الأمريكية (2018)  
 **الجهة/المذهب:** الولايات المتحدة — وزارة الصحة والخدمات الإنسانية  
 
@@ -3368,7 +3266,7 @@
 
 ## سن التمييز في قوانين العالم
 
-### بطاقة 259 — مدونة القانون الكنسي 1983 — بتمام السابعة يفترض استعمال العقل
+### بطاقة 251 — مدونة القانون الكنسي 1983 — بتمام السابعة يفترض استعمال العقل
 **المؤلف/الجهة:** الكنيسة الكاثوليكية — مدونة القانون الكنسي (1983)  
 **الجهة/المذهب:** الفاتيكان — القانون الكنسي  
 
@@ -3380,7 +3278,7 @@
 **عن المصدر:** المدونة القانونية الملزمة للكنيسة الكاثوليكية في العالم كله، أصدرها البابا يوحنا بولس الثاني سنة 1983، والنص من الترجمة الرسمية على موقع الكرسي الرسولي. — **درجة الدليل:** نص قانوني ملزم لأكثر من مليار إنسان  
 - النص الرسمي: <https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib1-cann96-123_en.html>
 
-### بطاقة 260 — قانون العقوبات الهندي 2023 — التمييز يبدأ من السابعة
+### بطاقة 252 — قانون العقوبات الهندي 2023 — التمييز يبدأ من السابعة
 **المؤلف/الجهة:** الهند — برلمان الهند (2023)  
 **الجهة/المذهب:** الهند — القانون الجنائي  
 
@@ -3392,7 +3290,7 @@
 **عن المصدر:** قانون نافذ منذ 1 يوليو 2024 لأكثر من مليار وأربعمئة مليون إنسان، منشور على موقع وزارة الداخلية الهندية، ويعيد قاعدة قانون العقوبات الهندي لسنة 1860 في المادتين 82 و83. — **درجة الدليل:** تشريع نافذ  
 - النص الرسمي للقانون: <https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf>
 
-### بطاقة 261 — القانون المدني الألماني، المادة 104 — من لم يتم سبع سنين عديم الأهلية
+### بطاقة 253 — القانون المدني الألماني، المادة 104 — من لم يتم سبع سنين عديم الأهلية
 **المؤلف/الجهة:** Bürgerliches Gesetzbuch (BGB) (1896/2002)  
 **المصدر:** § 104 Geschäftsunfähigkeit · BGB § 104 Nr. 1  
 **الجهة/المذهب:** ألمانيا — القانون المدني الاتحادي  
@@ -3406,7 +3304,7 @@
 - النص الرسمي للمادة: <https://www.gesetze-im-internet.de/bgb/__104.html>
 - نص المادة وشرحها: <https://bgb.kommentar.de/Geschaeftsunfaehigkeit>
 
-### بطاقة 262 — القانون المدني الألماني، المادة 828 — من لم يتم سبع سنين لا يسأل عن ضرر يحدثه
+### بطاقة 254 — القانون المدني الألماني، المادة 828 — من لم يتم سبع سنين لا يسأل عن ضرر يحدثه
 **المؤلف/الجهة:** Bürgerliches Gesetzbuch (BGB) (1896/2002)  
 **المصدر:** § 828 Minderjährige · BGB § 828 Abs. 1  
 **الجهة/المذهب:** ألمانيا — القانون المدني الاتحادي  
@@ -3420,7 +3318,7 @@
 - النص الرسمي للمادة: <https://www.gesetze-im-internet.de/bgb/__828.html>
 - نص المادة: <https://gesetze.legal/bund/bgb/828>
 
-### بطاقة 263 — قانون العقوبات الباكستاني، المادة 82 — لا جريمة على طفل دون السابعة
+### بطاقة 255 — قانون العقوبات الباكستاني، المادة 82 — لا جريمة على طفل دون السابعة
 **المؤلف/الجهة:** Pakistan Penal Code (Act XLV of 1860) (1860)  
 **المصدر:** Section 82 — Act of a child under seven years of age · PPC s. 82  
 **الجهة/المذهب:** باكستان — قانون العقوبات النافذ  
@@ -3433,7 +3331,7 @@
 **عن المصدر:** قانون العقوبات الباكستاني نافذ في أكبر بلد إسلامي في جنوب آسيا، والمادة 82 منه في باب الاستثناءات العامة. — **درجة الدليل:** تشريع نافذ  
 - نص القانون: <https://policehumanrightsresources.org/content/uploads/2016/07/Penal-Code-Pakistan-1860.pdf?x19059>
 
-### بطاقة 264 — القانون الجنائي النيجيري، المادة 30 — من لم يبلغ السابعة لا يسأل جنائيا
+### بطاقة 256 — القانون الجنائي النيجيري، المادة 30 — من لم يبلغ السابعة لا يسأل جنائيا
 **المؤلف/الجهة:** Criminal Code Act (Nigeria) (1916/1990)  
 **المصدر:** Criminal Code, Part I, Chapter 5, section 30 · s. 30  
 **الجهة/المذهب:** نيجيريا — القانون الجنائي النافذ  
@@ -3446,7 +3344,7 @@
 **عن المصدر:** القانون الجنائي النيجيري نافذ في أكبر دولة إفريقية سكانا؛ والنص منقول في قاعدة بيانات جامعة نوتنغهام البريطانية لقوانين الدول. — **درجة الدليل:** تشريع نافذ  
 - نص المادة: <https://cjad.nottingham.ac.uk/en/state/100/keyword/566/>
 
-### بطاقة 265 — قانون العقوبات في بنغلاديش، المادة 82 — لا جريمة على طفل دون التاسعة
+### بطاقة 257 — قانون العقوبات في بنغلاديش، المادة 82 — لا جريمة على طفل دون التاسعة
 **المؤلف/الجهة:** The Penal Code, 1860 (Bangladesh) (1860)  
 **المصدر:** Section 82 — Act of a child under nine years of age · s. 82  
 **الجهة/المذهب:** بنغلاديش — قانون العقوبات النافذ  
@@ -3459,7 +3357,7 @@
 **عن المصدر:** قانون العقوبات النافذ في بنغلاديش، وهي من أكبر الدول الإسلامية سكانا؛ والنص في قاعدة بيانات جامعة نوتنغهام. — **درجة الدليل:** تشريع نافذ  
 - نص القانون: <https://cjad.nottingham.ac.uk/documents/implementations/pdf/Bangladesh-Penal_Code.pdf>
 
-### بطاقة 266 — الكرسي الرسولي 1977 — سن التمييز هو سن بدء العقل نحو السابعة
+### بطاقة 258 — الكرسي الرسولي 1977 — سن التمييز هو سن بدء العقل نحو السابعة
 **المؤلف/الجهة:** مجمع الأسرار ومجمع الإكليروس — الكرسي الرسولي (1977)  
 **الجهة/المذهب:** الفاتيكان — القانون الكنسي  
 
@@ -3471,7 +3369,7 @@
 **عن المصدر:** وثيقة رسمية صادرة عن مجمعين من مجامع الكرسي الرسولي بموافقة البابا بولس السادس، تعيد تقرير المرسوم البابوي الذي يحكم سن التمييز عند الكاثوليك منذ سنة 1910. — **درجة الدليل:** وثيقة رسمية للكرسي الرسولي  
 - النص الرسمي: <https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_19770331_penance-communion_en.html>
 
-### بطاقة 267 — قانون الأطفال والشباب في إنجلترا وويلز، المادة 50 — المسؤولية الجنائية تبدأ من العاشرة
+### بطاقة 259 — قانون الأطفال والشباب في إنجلترا وويلز، المادة 50 — المسؤولية الجنائية تبدأ من العاشرة
 **المؤلف/الجهة:** Children and Young Persons Act 1933 (1933/1963)  
 **المصدر:** Section 50 — Age of criminal responsibility · s. 50  
 **الجهة/المذهب:** المملكة المتحدة — إنجلترا وويلز  
@@ -3486,7 +3384,7 @@
 
 ## القضاء
 
-### بطاقة 268 — المحكمة الأوروبية 2009 — منح الأم الحضانة وحدها بلا رقابة قضائية تمييز
+### بطاقة 260 — المحكمة الأوروبية 2009 — منح الأم الحضانة وحدها بلا رقابة قضائية تمييز
 **المؤلف/الجهة:** European Court of Human Rights — Zaunegger v. Germany, no. 22028/04 (2009)  
 **المصدر:** حكم 3 ديسمبر 2009، الفقرتان 38 و63؛ قضت بانتهاك المادة 14 مع المادة 8  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3499,7 +3397,7 @@
 **عن المصدر:** محكمة دولية في ستراسبورغ أحكامها ملزمة لست وأربعين دولة؛ وبعد هذا الحكم عدلت ألمانيا قانونها المدني سنة 2013 ليتاح للأب طلب الحضانة المشتركة. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - نص الحكم: <https://hudoc.echr.coe.int/eng?i=001-96020>
 
-### بطاقة 269 — محكمة العدل الاتحادية الألمانية 2017 — الإقامة المتناوبة بالمناصفة تقضى رغم رفض أحد الوالدين
+### بطاقة 261 — محكمة العدل الاتحادية الألمانية 2017 — الإقامة المتناوبة بالمناصفة تقضى رغم رفض أحد الوالدين
 **المؤلف/الجهة:** Bundesgerichtshof — Beschluss XII ZB 601/15 (2017)  
 **المصدر:** قرار 1 فبراير 2017، البيان الصحفي الرسمي رقم 25/2017  
 **الجهة/المذهب:** ألمانيا — محكمة العدل الاتحادية  
@@ -3512,7 +3410,7 @@
 **عن المصدر:** أعلى محكمة مدنية في ألمانيا، وقرارها هذا هو القرار المرجعي في جواز فرض الإقامة المتناوبة بالمناصفة بطلب الأب رغم اعتراض الأم. — **درجة الدليل:** حكم محكمة عليا  
 - البيان الرسمي للحكم: <https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2017/2017025.html>
 
-### بطاقة 270 — المحكمة العليا الإسبانية 2013 — الحضانة المشتركة هي الأصل
+### بطاقة 262 — المحكمة العليا الإسبانية 2013 — الحضانة المشتركة هي الأصل
 **المؤلف/الجهة:** إسبانيا — المحكمة العليا (2013)  
 **المصدر:** STS 257/2013 · 29 abril 2013  
 **الجهة/المذهب:** إسبانيا  
@@ -3525,7 +3423,7 @@
 **عن المصدر:** أعلى هيئة قضائية في إسبانيا في غير المسائل الدستورية، وأحكامها تنشئ الاجتهاد الذي تتبعه المحاكم. — **درجة الدليل:** حكم قضائي ملزم  
 - الرابط: <https://www.iberley.es/jurisprudencia/guarda-custodia-compartida-interes-menores-sentencia-civil-n-257-2013-ts-sala-civil-sec-1-rec-2525-2011-29-04-2013-11970411>
 
-### بطاقة 271 — المحكمة الأوروبية (الدائرة الكبرى) 2000 — رفض الطفل ابن الخامسة لأبيه لا يحسم بلا خبير نفسي: انتهاك لحق الأب
+### بطاقة 263 — المحكمة الأوروبية (الدائرة الكبرى) 2000 — رفض الطفل ابن الخامسة لأبيه لا يحسم بلا خبير نفسي: انتهاك لحق الأب
 **المؤلف/الجهة:** European Court of Human Rights [GC] — Elsholz v. Germany, no. 25735/94 (2000)  
 **المصدر:** حكم الدائرة الكبرى في 13 يوليو 2000، الفقرتان 51 و52؛ وقضت بانتهاك المادة 8 والمادة 6  
 **الجهة/المذهب:** المحكمة الأوروبية لحقوق الإنسان — الدائرة الكبرى، قضية ضد ألمانيا  
@@ -3538,7 +3436,7 @@
 **عن المصدر:** أعلى درجات المحكمة الأوروبية لحقوق الإنسان، وأحكامها ملزمة لسبع وأربعين دولة؛ والقضية مرجع في أن أقوال الطفل الصغير برفض أبيه لا تؤخذ مجردة. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - نص الحكم: <https://hudoc.echr.coe.int/eng?i=001-58763>
 
-### بطاقة 272 — محكمة أندرا براديش العليا 1982 — في الشريعة الإسلامية: بعد السابعة الأب هو المستحق لحضانة الولد
+### بطاقة 264 — محكمة أندرا براديش العليا 1982 — في الشريعة الإسلامية: بعد السابعة الأب هو المستحق لحضانة الولد
 **المؤلف/الجهة:** High Court of Andhra Pradesh (Division Bench, Letters Patent Appeal) — judgment by Raghuvir J. (1982)  
 **المصدر:** Mohammed Jameel Ahmed Ansari v. Ishrath Sajeeda and others · Letters Patent Appeal, judgment of 5 October 1982; AIR 1983 AP 106  
 **الجهة/المذهب:** الهند — محكمة أندرا براديش العليا (دائرة من قاضيين)  
@@ -3552,7 +3450,7 @@
 - نص الحكم: <https://indiankanoon.org/doc/991616/>
 - المصدر الثاني: <https://indiankanoon.org/doc/116184888/>
 
-### بطاقة 273 — محكمة تلنكانا العليا 2024 — تقرير القاعدة: الأب مستحق الحضانة بعد السابعة وهو الولي الطبيعي
+### بطاقة 265 — محكمة تلنكانا العليا 2024 — تقرير القاعدة: الأب مستحق الحضانة بعد السابعة وهو الولي الطبيعي
 **المؤلف/الجهة:** High Court for the State of Telangana (Division Bench) — P. Sam Koshy and Sambasivarao Naidu JJ. (2024)  
 **المصدر:** Khusro Vilayatullah Khan v. Syed Mustafa Abdul Khader · Family Court Appeal Nos. 157 and 158 of 2024; judgment of 8 July 2024  
 **الجهة/المذهب:** الهند — محكمة تيلانغانا العليا (دائرة من قاضيين)  
@@ -3566,7 +3464,7 @@
 - نص الحكم: <https://indiankanoon.org/doc/82098008/>
 - المصدر الثاني: <https://indiankanoon.org/doc/90433711/>
 
-### بطاقة 274 — محكمة بومباي العليا 2007 — حضانة الذكر فوق السابعة تعطى للأب، ورغبة الصغير ليست حاسمة
+### بطاقة 266 — محكمة بومباي العليا 2007 — حضانة الذكر فوق السابعة تعطى للأب، ورغبة الصغير ليست حاسمة
 **المؤلف/الجهة:** High Court of Judicature at Bombay — V.R. Kingaonkar J. (2007)  
 **المصدر:** Syyad Sabdarali Sy. Nyajali v. Shahistabegum w/o Sayyad Sabdarali · Appeal against the order of the IVth Ad-hoc Additional District Judge, Jalgaon, in Misc. C.A. No. 108 of 2005; judgment of 3 August 2007; 2007(5) Bom CR 36; 200  
 **الجهة/المذهب:** الهند — محكمة بومباي العليا  
@@ -3579,7 +3477,7 @@
 **عن المصدر:** أب مسلم له ثلاثة أبناء أعمارهم عند رفع الدعوى سنة 2005: 7 و4 و2، قضت المحكمة الابتدائية بحضانة الأم للثلاثة؛ فعدلت المحكمة العليا الحكم: الابن الذي جاوز السابعة يسلم إلى الأب بشرط إلحاقه بمدرسة نظامية مع زيارة الأم له يوم الأحد، والصغيران يبقيان عند الأم. أي قسمة بحسب السن تطابق قاعدة الفقه حرفيا. — **درجة الدليل:** حكم محكمة عليا إقليمية (High Court)  
 - نص الحكم: <https://indiankanoon.org/doc/225602/>
 
-### بطاقة 275 — المحكمة الأوروبية لحقوق الإنسان 2019 — الدولة ملزمة باليقظة الاستثنائية لحفظ صلة الطفل بوالده
+### بطاقة 267 — المحكمة الأوروبية لحقوق الإنسان 2019 — الدولة ملزمة باليقظة الاستثنائية لحفظ صلة الطفل بوالده
 **المؤلف/الجهة:** European Court of Human Rights (2019)  
 **المصدر:** Pisică v. the Republic of Moldova, no. 23641/17, 29 October 2019 · §§ 63, 66  
 **الجهة/المذهب:** أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3592,7 +3490,7 @@
 **عن المصدر:** المحكمة الأوروبية لحقوق الإنسان تفصل في التزام 46 دولة بالاتفاقية الأوروبية، وأحكامها ملزمة لها. — **درجة الدليل:** حكم قضائي نهائي  
 - نص الحكم: <https://www.iri.edu.ar/wp-content/uploads/2019/12/ri57SGJurisprudencia7lCASO-DE-PISIC%C4%82-v.-LA-REPUBLICA-DE-MOLDOVA.pdf>
 
-### بطاقة 276 — محكمة مدراس العليا 1951 — حضانة الأم للذكر تنتهي بتمام السابعة لاستغنائه، ثم يحتاج التعليم
+### بطاقة 268 — محكمة مدراس العليا 1951 — حضانة الأم للذكر تنتهي بتمام السابعة لاستغنائه، ثم يحتاج التعليم
 **المؤلف/الجهة:** High Court of Madras — Krishnaswami Nayudu J. (1951)  
 **المصدر:** Zynab Bi alias Bibijan v. Mohammad Ghouse Mohideen · Judgment of 17 May 1951; AIR 1952 Mad 284  
 **الجهة/المذهب:** الهند — محكمة مدراس العليا  
@@ -3605,7 +3503,7 @@
 **عن المصدر:** نزاع بين أب وأم مطلقة على بنت في نحو الخامسة وولد دون الثانية؛ قررت المحكمة القاعدة الحنفية بنصها ونقلت علتها من ترجمة هاملتون للهداية (استغناء الصبي بنفسه في السابعة ثم حاجته إلى التعليم)، ثم طبقتها كما هي: الولدان دون السن عند الأم مع زيارة الأب مرتين في الأسبوع. — **درجة الدليل:** حكم محكمة عليا إقليمية (High Court)  
 - نص الحكم: <https://indiankanoon.org/doc/919708/>
 
-### بطاقة 277 — المحكمة الأوروبية لحقوق الإنسان — صحبة الوالد وولده
+### بطاقة 269 — المحكمة الأوروبية لحقوق الإنسان — صحبة الوالد وولده
 **المؤلف/الجهة:** المحكمة الأوروبية لحقوق الإنسان (الدائرة الكبرى)  
 **المصدر:** قضاء مستقر على المادة 8 · Strand Lobben and Others v. Norway وما قبله  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3619,7 +3517,7 @@
 - الرابط: <https://ks.echr.coe.int/documents/d/echr-ks/contact-rights>
 - الرابط: <https://www.hrw.org/news/2020/07/03/submission-european-court-human-rights-am-v-russia>
 
-### بطاقة 278 — المحكمة الأوروبية — واجب الجمع بين الوالد وولده
+### بطاقة 270 — المحكمة الأوروبية — واجب الجمع بين الوالد وولده
 **المؤلف/الجهة:** المحكمة الأوروبية لحقوق الإنسان  
 **المصدر:** قضاء مستقر على المادة 8 في قضايا التواصل  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3632,7 +3530,7 @@
 **عن المصدر:** محكمة دولية في ستراسبورغ أنشأها مجلس أوروبا سنة 1959، وأحكامها ملزمة لست وأربعين دولة. — **درجة الدليل:** قضاء دولي مستقر  
 - الرابط: <https://cora.ucc.ie/bitstreams/cf6d89a2-f27b-4f29-a1b9-0499d9dea3f9/download>
 
-### بطاقة 279 — المحكمة العليا لألاباما 1981 — تفضيل الأم في «سن الحنان» تمييز غير دستوري
+### بطاقة 271 — المحكمة العليا لألاباما 1981 — تفضيل الأم في «سن الحنان» تمييز غير دستوري
 **المؤلف/الجهة:** Supreme Court of Alabama — Ex parte Devine, 398 So. 2d 686 (1981)  
 **المصدر:** حكم 27 مارس 1981، القضية رقم 79-546  
 **الجهة/المذهب:** الولايات المتحدة — المحكمة العليا لولاية ألاباما  
@@ -3645,7 +3543,7 @@
 **عن المصدر:** أعلى محكمة في ولاية ألاباما، وحكمها هذا هو الحكم المرجعي الذي أسقط «قرينة سن الحنان» في الولايات المتحدة، وتستشهد به المحاكم الأمريكية إلى اليوم. — **درجة الدليل:** حكم محكمة عليا  
 - نص الحكم: <https://law.justia.com/cases/alabama/supreme-court/1981/398-so-2d-686-1.html>
 
-### بطاقة 280 — المحكمة العليا ليوتا 1986 — لا تفضيل لوالد بسبب جنسه
+### بطاقة 272 — المحكمة العليا ليوتا 1986 — لا تفضيل لوالد بسبب جنسه
 **المؤلف/الجهة:** Supreme Court of Utah — Pusey v. Pusey, 728 P.2d 117 (1986)  
 **المصدر:** حكم 18 أغسطس 1986، القضية رقم 20365  
 **الجهة/المذهب:** الولايات المتحدة — المحكمة العليا لولاية يوتا  
@@ -3658,7 +3556,7 @@
 **عن المصدر:** أعلى محكمة في ولاية يوتا، ويستشهد بحكمها مع حكم ألاباما على أن القضاء الأمريكي هجر تفضيل الأم لمجرد كونها أما. — **درجة الدليل:** حكم محكمة عليا  
 - نص الحكم: <https://law.justia.com/cases/utah/supreme-court/1986/20365-0.html>
 
-### بطاقة 281 — المحكمة الأوروبية 2011 — مرور الوقت يدمر صلة الولد بوالده الذي لا يعيش معه
+### بطاقة 273 — المحكمة الأوروبية 2011 — مرور الوقت يدمر صلة الولد بوالده الذي لا يعيش معه
 **المؤلف/الجهة:** European Court of Human Rights — Gluhaković v. Croatia, no. 21188/09 (2011)  
 **المصدر:** حكم 12 أبريل 2011، الفقرتان 59 و84، والبند 3 من المنطوق  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3671,7 +3569,7 @@
 **عن المصدر:** محكمة دولية في ستراسبورغ أحكامها ملزمة لست وأربعين دولة؛ وفي هذا الحكم ألزمت الدولة بأن تضمن لأب لقاءات فعلية بابنته في وقت يناسب عمله وفي مكان لائق، بعد أن كانت لقاءاته تعقد في مطبخ مركز اجتماعي. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - نص الحكم: <https://hudoc.echr.coe.int/eng?i=001-104491>
 
-### بطاقة 282 — المحكمة الأوروبية 2011 — الحضانة المشتركة رغم إرادة الأم ليست ضد مصلحة الطفل
+### بطاقة 274 — المحكمة الأوروبية 2011 — الحضانة المشتركة رغم إرادة الأم ليست ضد مصلحة الطفل
 **المؤلف/الجهة:** European Court of Human Rights — Sporer v. Austria, no. 35637/03 (2011)  
 **المصدر:** حكم 3 فبراير 2011، الفقرتان 87 و89؛ قضت بانتهاك المادة 14 مع المادة 8  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3684,7 +3582,7 @@
 **عن المصدر:** محكمة دولية في ستراسبورغ أحكامها ملزمة لست وأربعين دولة؛ وقد قررت هنا صراحة أن اعتراض الأم لا يكفي لمنع الحضانة المشتركة. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - نص الحكم: <https://hudoc.echr.coe.int/eng?i=001-103234>
 
-### بطاقة 283 — المحكمة الأوروبية 1994 — عدم تنفيذ حق الأب في رؤية ابنته انتهاك للحياة الأسرية
+### بطاقة 275 — المحكمة الأوروبية 1994 — عدم تنفيذ حق الأب في رؤية ابنته انتهاك للحياة الأسرية
 **المؤلف/الجهة:** European Court of Human Rights — Hokkanen v. Finland, no. 19823/92 (1994)  
 **المصدر:** حكم 23 سبتمبر 1994، الفقرتان 61 و62، والبند 1 من المنطوق بالإجماع  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3697,7 +3595,7 @@
 **عن المصدر:** من أقدم أحكام المحكمة الأوروبية في حق الوالد في الصلة بولده، ويستشهد به في كل أحكامها اللاحقة في واجب الدولة تنفيذ أحكام الرؤية والحضانة. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - نص الحكم: <https://hudoc.echr.coe.int/eng?i=001-57911>
 
-### بطاقة 284 — المحكمة الأوروبية 2002 — على الدولة أن تمكن الرابطة بين الوالد وولده من النمو
+### بطاقة 276 — المحكمة الأوروبية 2002 — على الدولة أن تمكن الرابطة بين الوالد وولده من النمو
 **المؤلف/الجهة:** European Court of Human Rights — Kutzner v. Germany, no. 46544/99 (2002)  
 **المصدر:** حكم 26 فبراير 2002، الفقرة 61؛ قضت بانتهاك المادة 8  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3710,7 +3608,7 @@
 **عن المصدر:** محكمة دولية في ستراسبورغ أحكامها ملزمة لست وأربعين دولة، والفقرة المنقولة قاعدة مستقرة تكررها المحكمة في أحكام الحضانة والرؤية. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - نص الحكم: <https://hudoc.echr.coe.int/eng?i=001-60163>
 
-### بطاقة 285 — محكمة البلدان الأمريكية 2012 — حرمان الأب من ابنته انتهاك لحق حماية الأسرة
+### بطاقة 277 — محكمة البلدان الأمريكية 2012 — حرمان الأب من ابنته انتهاك لحق حماية الأسرة
 **المؤلف/الجهة:** Corte Interamericana de Derechos Humanos — Fornerón e hija vs. Argentina (2012)  
 **المصدر:** حكم 27 أبريل 2012، السلسلة C رقم 242، الفقرتان 52 و124  
 **الجهة/المذهب:** منظمة الدول الأمريكية — محكمة البلدان الأمريكية لحقوق الإنسان  
@@ -3723,7 +3621,7 @@
 **عن المصدر:** المحكمة الإقليمية لحقوق الإنسان في الأمريكتين ومقرها كوستاريكا، وأحكامها ملزمة للدول الأطراف؛ وقد ألزمت الأرجنتين في هذا الحكم بإجراءات لإعادة الصلة بين الأب وابنته. — **درجة الدليل:** حكم قضاء دولي ملزم  
 - ملخص الحكم الرسمي: <https://www.corteidh.or.cr/tablas/fichas/forneron.pdf>
 
-### بطاقة 286 — المحكمة العليا في الهند 2020 — للطفل حق إنساني في محبة والديه معا
+### بطاقة 278 — المحكمة العليا في الهند 2020 — للطفل حق إنساني في محبة والديه معا
 **المؤلف/الجهة:** Supreme Court of India — Yashita Sahu v. State of Rajasthan, 2020 INSC 58 (2020)  
 **المصدر:** حكم 20 يناير 2020، الفقرات 19 إلى 21، القاضيان ديباك غوبتا وأنيرودها بوس  
 **الجهة/المذهب:** الهند — المحكمة العليا  
@@ -3736,7 +3634,7 @@
 **عن المصدر:** أعلى محكمة في الهند، وأحكامها ملزمة لمحاكم البلاد كلها بنص الدستور؛ والحكم من أحكامها المرجعية في الحضانة. — **درجة الدليل:** حكم محكمة عليا  
 - نص الحكم: <https://order.law/library/courts/supreme-court/2020/jan/scin010280832019-5mmu5/yashita-sahu-vs-the-state-of-rajasthan>
 
-### بطاقة 287 — المحكمة العليا للعدل في البرازيل 2011 — الحضانة المشتركة هي المثل الأعلى ولو فرضت
+### بطاقة 279 — المحكمة العليا للعدل في البرازيل 2011 — الحضانة المشتركة هي المثل الأعلى ولو فرضت
 **المؤلف/الجهة:** Superior Tribunal de Justiça — REsp 1.251.000/MG, Rel. Min. Nancy Andrighi (2011)  
 **المصدر:** حكم الدائرة الثالثة، الفقرتان 3/1 و4 من الأسباب  
 **الجهة/المذهب:** البرازيل — المحكمة العليا للعدل  
@@ -3749,7 +3647,7 @@
 **عن المصدر:** المحكمة العليا للعدل أعلى محكمة في البرازيل في غير المسائل الدستورية، والقاضية نانسي أندريغي من أشهر قضاتها في قانون الأسرة؛ وقد صار هذا الاجتهاد قانونا اتحاديا سنة 2014. — **درجة الدليل:** حكم محكمة عليا  
 - نص الحكم: <https://www.sitios.scjn.gob.mx/derecho-familiar/sites/default/files/jurisprudencias/2021-04/6.%20Resp%201251000.pdf>
 
-### بطاقة 288 — المحكمة العليا لبنسلفانيا 1977 — مذهب «سن الحنان» بكل صوره مناف لمبدأ المساواة الدستوري بين الجنسين
+### بطاقة 280 — المحكمة العليا لبنسلفانيا 1977 — مذهب «سن الحنان» بكل صوره مناف لمبدأ المساواة الدستوري بين الجنسين
 **المؤلف/الجهة:** Supreme Court of Pennsylvania — Commonwealth ex rel. Spriggs v. Carson, 470 Pa. 290, 368 A.2d 635 (1977)  
 **المصدر:** حكم 28 يناير 1977، ونقضت به حكم محكمة الاستئناف الذي أعطى الحضانة للأم بمذهب سن الحنان  
 **الجهة/المذهب:** الولايات المتحدة — المحكمة العليا لولاية بنسلفانيا  
@@ -3762,7 +3660,7 @@
 **عن المصدر:** أعلى محكمة في ولاية بنسلفانيا، وحكمها هذا من الأحكام المؤسسة التي أسقطت تفضيل الأم بالاستناد إلى المساواة الدستورية بين الجنسين، واستشهدت به المحكمة العليا لألاباما سنة 1981. — **درجة الدليل:** حكم محكمة عليا  
 - نص الحكم: <https://www.courtlistener.com/opinion/2268645/commonwealth-ex-rel-spriggs-v-carson/>
 
-### بطاقة 289 — المحكمة الأوروبية 2017 — انقطاع الصلة بطفل صغير جدا يفسد علاقته بوالده تدريجيا، وعلى الدولة معاقبة الحاضن الممتنع
+### بطاقة 281 — المحكمة الأوروبية 2017 — انقطاع الصلة بطفل صغير جدا يفسد علاقته بوالده تدريجيا، وعلى الدولة معاقبة الحاضن الممتنع
 **المؤلف/الجهة:** Cour européenne des droits de l'homme — Improta c. Italie, no 66396/14 (2017)  
 **المصدر:** حكم 4 مايو 2017، الفقرات 53 إلى 58؛ وقضت بانتهاك المادة 8  
 **الجهة/المذهب:** المحكمة الأوروبية لحقوق الإنسان — قضية ضد إيطاليا  
@@ -3776,7 +3674,7 @@
 - نص الحكم بالفرنسية: <https://hudoc.echr.coe.int/fre?i=001-173368>
 - الترجمة الإنجليزية: <https://hudoc.echr.coe.int/eng?i=001-173581>
 
-### بطاقة 290 — المحكمة الأوروبية 2011 ضد تركيا — أب شكا عشر مرات وحرم من ابنه سنتين: على الدولة أن تعاقب الحاضن المخالف
+### بطاقة 282 — المحكمة الأوروبية 2011 ضد تركيا — أب شكا عشر مرات وحرم من ابنه سنتين: على الدولة أن تعاقب الحاضن المخالف
 **المؤلف/الجهة:** Cour européenne des droits de l'homme — Cengiz Kılıç c. Turquie, no 16192/06 (2011)  
 **المصدر:** حكم 6 ديسمبر 2011، الفقرات 127 إلى 134؛ وقضت بانتهاك المادة 8 والمادة 6 والمادة 13  
 **الجهة/المذهب:** المحكمة الأوروبية لحقوق الإنسان — قضية ضد تركيا  
@@ -3790,7 +3688,7 @@
 - نص الحكم بالفرنسية: <https://hudoc.echr.coe.int/fre?i=001-107718>
 - الترجمة الإنجليزية: <https://hudoc.echr.coe.int/eng?i=001-107719>
 
-### بطاقة 291 — المحكمة الأوروبية — الصحبة حق رغم انهيار الزوجية
+### بطاقة 283 — المحكمة الأوروبية — الصحبة حق رغم انهيار الزوجية
 **المؤلف/الجهة:** المحكمة الأوروبية لحقوق الإنسان (2002)  
 **المصدر:** Hoppe v. Germany · Application no. 28422/95  
 **الجهة/المذهب:** مجلس أوروبا — المحكمة الأوروبية لحقوق الإنسان  
@@ -3803,7 +3701,7 @@
 **عن المصدر:** محكمة دولية في ستراسبورغ أنشأها مجلس أوروبا سنة 1959، وأحكامها ملزمة لست وأربعين دولة. — **درجة الدليل:** حكم قضائي دولي ملزم  
 - الرابط: <https://vlex.co.uk/vid/hoppe-v-germany-849758494>
 
-### بطاقة 292 — تدريب قضاة الأسرة في ولاية أمريكية 2023 — المبيت عند الأب
+### بطاقة 284 — تدريب قضاة الأسرة في ولاية أمريكية 2023 — المبيت عند الأب
 **المؤلف/الجهة:** المحكمة العليا لولاية West Virginia — مواد تدريب القضاة (2023)  
 **المصدر:** Impact of Separation on Family Bonds  
 **الجهة/المذهب:** الولايات المتحدة — ولاية فرجينيا الغربية  
@@ -3814,7 +3712,7 @@
 **عن المصدر:** المحكمة العليا للاستئناف في ولاية فرجينيا الغربية أعلى محاكم الولاية، وتتولى تدريب قضاتها؛ والمادة منشورة على موقعها الرسمي. — **درجة الدليل:** مادة تدريب قضائي رسمية  
 - الرابط: <https://www.courtswv.gov/sites/default/pubfilesmnt/2023-06/ImpactSeparationFamily%20BondSAAR.pdf>
 
-### بطاقة 293 — المحكمة العليا الأمريكية 1972 — مصلحة الأب في أولاده تستوجب الحماية
+### بطاقة 285 — المحكمة العليا الأمريكية 1972 — مصلحة الأب في أولاده تستوجب الحماية
 **المؤلف/الجهة:** Supreme Court of the United States — Stanley v. Illinois, 405 U.S. 645 (1972)  
 **المصدر:** حكم 3 أبريل 1972، الصفحة 651  
 **الجهة/المذهب:** الولايات المتحدة — المحكمة العليا الاتحادية  
@@ -3827,7 +3725,7 @@
 **عن المصدر:** أعلى محكمة في الولايات المتحدة، وحكمها هذا من أحكامها المؤسسة في حقوق الآباء، قضى بأن حرمان الأب من أولاده دون سماعه مخالف للدستور. — **درجة الدليل:** حكم المحكمة العليا الاتحادية  
 - نص الحكم: <https://supreme.justia.com/cases/federal/us/405/645/>
 
-### بطاقة 294 — محكمة الاستئناف الإنجليزية 2011 — الصلة بين الوالد وولده تكاد تكون دائما في مصلحة الطفل
+### بطاقة 286 — محكمة الاستئناف الإنجليزية 2011 — الصلة بين الوالد وولده تكاد تكون دائما في مصلحة الطفل
 **المؤلف/الجهة:** Court of Appeal (England and Wales) — Re C (A Child) [2011] EWCA Civ 521 (2011)  
 **المصدر:** حكم 6 مايو 2011، تلخيص اللورد القاضي مانبي للمبادئ المستقرة، نقلا عن حكم Re O سنة 1995  
 **الجهة/المذهب:** المملكة المتحدة — محكمة الاستئناف في إنجلترا وويلز  
@@ -3840,7 +3738,7 @@
 **عن المصدر:** محكمة الاستئناف ثاني أعلى محكمة في إنجلترا وويلز، والقاضي مانبي صار بعدها رئيس قسم الأسرة في القضاء الإنجليزي؛ والمبادئ المنقولة هي القواعد المستقرة التي تطبقها محاكم الأسرة الإنجليزية. — **درجة الدليل:** حكم محكمة استئناف عليا  
 - نص الحكم: <https://caselaw.nationalarchives.gov.uk/ewca/civ/2011/521>
 
-### بطاقة 295 — محكمة الأسرة في نيويورك 1973 — «قرينة سن الحنان» صورة نمطية بالية، وكون المرأة أما لا يعني بذاته رعاية أفضل من الأب
+### بطاقة 287 — محكمة الأسرة في نيويورك 1973 — «قرينة سن الحنان» صورة نمطية بالية، وكون المرأة أما لا يعني بذاته رعاية أفضل من الأب
 **المؤلف/الجهة:** Family Court of the State of New York — People ex rel. Watts v. Watts, 77 Misc. 2d 178, 350 N.Y.S.2d 285 (1973)  
 **المصدر:** حكم 8 أغسطس 1973، القاضية سيبل هارت كوبر؛ وقضت بالحضانة للأب  
 **الجهة/المذهب:** الولايات المتحدة — محكمة الأسرة في نيويورك  
@@ -3853,7 +3751,7 @@
 **عن المصدر:** حكم مرجعي من محكمة الأسرة في نيويورك استشهدت به محاكم أمريكية لاحقة في نبذ تفضيل الأم، وهو من أوائل الأحكام التي ردت «قرينة سن الحنان» إلى أصلها: صورة نمطية لا علم. — **درجة الدليل:** حكم محكمة أسرة مرجعي  
 - نص الحكم: <https://www.courtlistener.com/opinion/6353892/people-ex-rel-watts-v-watts/>
 
-### بطاقة 296 — محكمة استئناف واشنطن العاصمة بكامل هيئتها 1978 — لا قرينة لصالح الأم: «الصيغ السحرية لا مكان لها» في مصير الطفل
+### بطاقة 288 — محكمة استئناف واشنطن العاصمة بكامل هيئتها 1978 — لا قرينة لصالح الأم: «الصيغ السحرية لا مكان لها» في مصير الطفل
 **المؤلف/الجهة:** District of Columbia Court of Appeals (en banc) — Bazemore v. Davis, 394 A.2d 1377 (1978)  
 **المصدر:** حكم 1 ديسمبر 1978 بكامل هيئة المحكمة، والقاضية جوليا كوبر ماك  
 **الجهة/المذهب:** الولايات المتحدة — محكمة استئناف مقاطعة كولومبيا  
@@ -3866,7 +3764,7 @@
 **عن المصدر:** أعلى محكمة في مقاطعة كولومبيا (واشنطن العاصمة) مجتمعة بكامل هيئتها، وألغت بهذا الحكم قرينة تفضيل الأم في كل أحكامها السابقة. — **درجة الدليل:** حكم محكمة استئناف عليا بكامل هيئتها  
 - نص الحكم: <https://www.courtlistener.com/opinion/1499406/bazemore-v-davis/>
 
-### بطاقة 297 — المحكمة الدستورية الاتحادية الألمانية 2010 — إقصاء الأب من الولاية على ولده بلا رقابة قضائية ينتهك حقه الدستوري
+### بطاقة 289 — المحكمة الدستورية الاتحادية الألمانية 2010 — إقصاء الأب من الولاية على ولده بلا رقابة قضائية ينتهك حقه الدستوري
 **المؤلف/الجهة:** Bundesverfassungsgericht — Beschluss 1 BvR 420/09 (BVerfGE 127, 132) (2010)  
 **المصدر:** قرار 21 يوليو 2010، العنوان القضائي الأول؛ وأمرت المحكمة بتطبيق القانون مؤقتا بحيث تمنح محكمة الأسرة الولاية المشتركة بطلب أحد الوالدين متى كان ذلك موافقا لمصلحة الطفل  
 **الجهة/المذهب:** ألمانيا — المحكمة الدستورية الاتحادية  
@@ -3881,7 +3779,7 @@
 
 ## فتاوى الأزهر ودار الإفتاء المصرية
 
-### بطاقة 298 — فتوى مفتي الديار المصرية محمد بخيت 1917 — المادة 391: الغلام إلى أبيه في السابعة والصبية في التاسعة
+### بطاقة 290 — فتوى مفتي الديار المصرية محمد بخيت 1917 — المادة 391: الغلام إلى أبيه في السابعة والصبية في التاسعة
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي محمد بخيت (المطيعي)  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -3892,7 +3790,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/684>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 299 — فتوى مفتي الجمهورية أحمد هريدي 1967 — حق النساء في الحضانة محدد بسبع للصغير وتسع للصغيرة
+### بطاقة 291 — فتوى مفتي الجمهورية أحمد هريدي 1967 — حق النساء في الحضانة محدد بسبع للصغير وتسع للصغيرة
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي أحمد هريدي  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -3903,7 +3801,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/705>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 300 — الفتاوى المهدية — الأم منعت الأب من رؤية ابنه: يضمه أبوه في السابعة ولا يخير الصغير
+### بطاقة 292 — الفتاوى المهدية — الأم منعت الأب من رؤية ابنه: يضمه أبوه في السابعة ولا يخير الصغير
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3914,7 +3812,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA290>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA290&output=text>
 
-### بطاقة 301 — الفتاوى المهدية — البنت إلى أبيها في التاسعة ولا يمنع الأب أمها من رؤيتها
+### بطاقة 293 — الفتاوى المهدية — البنت إلى أبيها في التاسعة ولا يمنع الأب أمها من رؤيتها
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3925,7 +3823,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA299>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA299&output=text>
 
-### بطاقة 302 — الفتاوى المهدية — حضانة الأم إلى سن التمييز المقدر بسبع سنين
+### بطاقة 294 — الفتاوى المهدية — حضانة الأم إلى سن التمييز المقدر بسبع سنين
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3936,7 +3834,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA267>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA267&output=text>
 
-### بطاقة 303 — الفتاوى المهدية — بعد السابعة يضم الأب ابنه رضيت الحاضنة أو لم ترض
+### بطاقة 295 — الفتاوى المهدية — بعد السابعة يضم الأب ابنه رضيت الحاضنة أو لم ترض
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3947,7 +3845,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA265>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA265&output=text>
 
-### بطاقة 304 — الفتاوى المهدية — الغلام في السابعة يضمه أبوه جبرا
+### بطاقة 296 — الفتاوى المهدية — الغلام في السابعة يضمه أبوه جبرا
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3958,7 +3856,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA268>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA268&output=text>
 
-### بطاقة 305 — الفتاوى المهدية — البنت في التاسعة يضمها أبوها جبرا على الأم
+### بطاقة 297 — الفتاوى المهدية — البنت في التاسعة يضمها أبوها جبرا على الأم
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3969,7 +3867,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA319>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA319&output=text>
 
-### بطاقة 306 — الفتاوى المهدية — علامة الاستغناء: يأكل ويشرب ويلبس ويستنجي وحده
+### بطاقة 298 — الفتاوى المهدية — علامة الاستغناء: يأكل ويشرب ويلبس ويستنجي وحده
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3980,7 +3878,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA316>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA316&output=text>
 
-### بطاقة 307 — الفتاوى المهدية — تنتهي الحضانة ببلوغ الغلام سبع سنين والأنثى تسعا
+### بطاقة 299 — الفتاوى المهدية — تنتهي الحضانة ببلوغ الغلام سبع سنين والأنثى تسعا
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -3991,7 +3889,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA275>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA275&output=text>
 
-### بطاقة 308 — الفتاوى المهدية — لا تجاب الأم إلى أخذ البنت من أبيها بعد التاسعة
+### بطاقة 300 — الفتاوى المهدية — لا تجاب الأم إلى أخذ البنت من أبيها بعد التاسعة
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4002,7 +3900,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA291>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA291&output=text>
 
-### بطاقة 309 — الفتاوى المهدية — البنت لأبيها في التاسعة ولو لم تتزوج الأم
+### بطاقة 301 — الفتاوى المهدية — البنت لأبيها في التاسعة ولو لم تتزوج الأم
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4013,7 +3911,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA295>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA295&output=text>
 
-### بطاقة 310 — الفتاوى المهدية — الأم ادعت الحضانة حتى الزفاف: الجواب سبع للغلام وتسع للبنت
+### بطاقة 302 — الفتاوى المهدية — الأم ادعت الحضانة حتى الزفاف: الجواب سبع للغلام وتسع للبنت
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4024,7 +3922,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA323>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA323&output=text>
 
-### بطاقة 311 — الفتاوى المهدية — إذا بلغ الغلام سبع سنين فلا حق لأمه في حضانته
+### بطاقة 303 — الفتاوى المهدية — إذا بلغ الغلام سبع سنين فلا حق لأمه في حضانته
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4035,7 +3933,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA270>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA270&output=text>
 
-### بطاقة 312 — الفتاوى المهدية — البنت في التاسعة: ليس لأمها الامتناع عن تسليمها
+### بطاقة 304 — الفتاوى المهدية — البنت في التاسعة: ليس لأمها الامتناع عن تسليمها
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4046,7 +3944,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA274>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA274&output=text>
 
-### بطاقة 313 — الفتاوى المهدية — الأب يضم ابنه في السابعة وينفق على الصغيرين ويدفع أجرة حضانتهما
+### بطاقة 305 — الفتاوى المهدية — الأب يضم ابنه في السابعة وينفق على الصغيرين ويدفع أجرة حضانتهما
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4057,7 +3955,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA291>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA291&output=text>
 
-### بطاقة 314 — الفتاوى المهدية — لا حضانة للأم إذا بلغت البنت تسع سنين
+### بطاقة 306 — الفتاوى المهدية — لا حضانة للأم إذا بلغت البنت تسع سنين
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4068,7 +3966,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA266>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA266&output=text>
 
-### بطاقة 315 — فتوى مفتي الديار المصرية حسونة النواوي 1896 — حضانة البنت تستمر حتى تكمل تسع سنين
+### بطاقة 307 — فتوى مفتي الديار المصرية حسونة النواوي 1896 — حضانة البنت تستمر حتى تكمل تسع سنين
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي حسونة النواوي  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4079,7 +3977,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/670>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 316 — فتوى محمد بخيت 1916 — إذا بلغ الغلام سبعا سلم إلى العصبة ويقدم الأب
+### بطاقة 308 — فتوى محمد بخيت 1916 — إذا بلغ الغلام سبعا سلم إلى العصبة ويقدم الأب
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي محمد بخيت (المطيعي)  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4090,7 +3988,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/683>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 317 — فتوى محمد بخيت 1918 — علة انتهاء الحضانة: الغلام يحتاج الإعداد والتعليم، والصبية الحفظ والصيانة، والأب أقدر
+### بطاقة 309 — فتوى محمد بخيت 1918 — علة انتهاء الحضانة: الغلام يحتاج الإعداد والتعليم، والصبية الحفظ والصيانة، والأب أقدر
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي محمد بخيت (المطيعي)  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4101,7 +3999,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/680>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 318 — الفتاوى المهدية — بعد انتهاء الحضانة لا تمنع الأم من رؤية بنتها كل جمعة
+### بطاقة 310 — الفتاوى المهدية — بعد انتهاء الحضانة لا تمنع الأم من رؤية بنتها كل جمعة
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4112,7 +4010,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA283>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA283&output=text>
 
-### بطاقة 319 — الفتاوى المهدية — لا تنقل المطلقة البنت بعيدا عن أبيها بدون رضاه
+### بطاقة 311 — الفتاوى المهدية — لا تنقل المطلقة البنت بعيدا عن أبيها بدون رضاه
 **المؤلف/الجهة:** الشيخ محمد المهدي العباسي — مفتي الديار المصرية وشيخ الأزهر  
 **الجهة/المذهب:** مصر — مفتي الديار المصرية وشيخ الأزهر  
 
@@ -4123,7 +4021,7 @@
 - الفتوى في صفحتها من الكتاب: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA293>
 - نص الصفحة: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA293&output=text>
 
-### بطاقة 320 — فتوى الإمام محمد عبده 1900 — تجبر الحاضنة على العودة بالولد حيث يطالعه أبوه، حفظا لحق الأب
+### بطاقة 312 — فتوى الإمام محمد عبده 1900 — تجبر الحاضنة على العودة بالولد حيث يطالعه أبوه، حفظا لحق الأب
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي محمد عبده  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4134,7 +4032,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/675>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 321 — فتوى محمد بخيت 1915 — من بلغ تسعا انتهت حضانته فيضمه أبوه، ولا تنقل الحاضنة المحضون إلا بإذن أبيه
+### بطاقة 313 — فتوى محمد بخيت 1915 — من بلغ تسعا انتهت حضانته فيضمه أبوه، ولا تنقل الحاضنة المحضون إلا بإذن أبيه
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي محمد بخيت (المطيعي)  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4145,7 +4043,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/681>
 - المصدر الثاني: <https://shamela.ws/book/432>
 
-### بطاقة 322 — فتوى محمد بخيت 1920 — الولد عند أحد الأبوين لا يمنع الآخر من النظر إليه وتعهده
+### بطاقة 314 — فتوى محمد بخيت 1920 — الولد عند أحد الأبوين لا يمنع الآخر من النظر إليه وتعهده
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي محمد بخيت (1920)  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4156,7 +4054,7 @@
 - الفتوى في مصدرها: <https://shamela.ws/book/432/820>
 - المجموعة الرسمية لفتاوى دار الإفتاء: <https://shamela.ws/book/432>
 
-### بطاقة 323 — فتوى مفتي الجمهورية أحمد هريدي 1964 — بعد انتهاء الحضانة الأولاد عند أبيهم، ولا يمنع الأم من رؤيتهم
+### بطاقة 315 — فتوى مفتي الجمهورية أحمد هريدي 1964 — بعد انتهاء الحضانة الأولاد عند أبيهم، ولا يمنع الأم من رؤيتهم
 **المؤلف/الجهة:** دار الإفتاء المصرية — المفتي أحمد هريدي (1964)  
 **الجهة/المذهب:** مصر — دار الإفتاء المصرية (مفتي الديار المصرية)  
 
@@ -4169,7 +4067,7 @@
 
 ## فقه علماء مصر
 
-### بطاقة 324 — الأبياني — يسلم الولد إلى أبيه عند السابعة والتاسعة ويجبر عليه
+### بطاقة 316 — الأبياني — يسلم الولد إلى أبيه عند السابعة والتاسعة ويجبر عليه
 **المؤلف/الجهة:** محمد زيد الأبياني (ت 1355 هـ)  
 **المصدر:** مختصر شرح الأحكام الشرعية في الأحوال الشخصية · شرح كتاب قدري باشا، الطبعة الثانية، مصر 1912  
 **الجهة/المذهب:** مصر — المذهب الحنفي  
@@ -4181,7 +4079,7 @@
 - الرابط: <https://sites.dlib.nyu.edu/viewer/books/aub_aco001343/display?lang=ar>
 - الرابط: <http://mc.dlib.nyu.edu/files/books/aub_aco001343/aub_aco001343_lo.pdf>
 
-### بطاقة 325 — تقنين قدري باشا — سبع وتسع
+### بطاقة 317 — تقنين قدري باشا — سبع وتسع
 **المؤلف/الجهة:** محمد قدري باشا (ت 1888 م)  
 **المصدر:** الأحكام الشرعية في الأحوال الشخصية على مذهب الإمام أبي حنيفة · باب الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4192,7 +4090,7 @@
 **عن المصدر:** محمد قدري باشا (1821–1888) وزير الحقانية في مصر، قنن فقه الأحوال الشخصية على مذهب أبي حنيفة في مواد، فصار كتابه مرجع المحاكم الشرعية المصرية. — **درجة الدليل:** تقنين فقهي معتمد  
 - نص المادة 391 في فتوى رسمية: <https://shamela.ws/book/432/684>
 
-### بطاقة 326 — الشيخ محمد أبو زهرة — علة انتهاء حضانة النساء
+### بطاقة 318 — الشيخ محمد أبو زهرة — علة انتهاء حضانة النساء
 **المؤلف/الجهة:** محمد أبو زهرة (ت 1974 م)  
 **المصدر:** الأحوال الشخصية · باب الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4204,7 +4102,7 @@
 
 ## القرآن والسنة والآثار
 
-### بطاقة 327 — سورة النور — بلوغ الأطفال الحلم
+### بطاقة 319 — سورة النور — بلوغ الأطفال الحلم
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة النور · الآية 59  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4214,7 +4112,7 @@
 **الاستدلال:** جعل القرآن بلوغ الحلم حدا يخرج به الطفل من حكم الأطفال إلى حكم الرجال في الاستئذان، فالبلوغ نهاية الطفولة بنص الكتاب.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/24/59>
 
-### بطاقة 328 — سنن أبي داود — الأمر بالصلاة لسبع
+### بطاقة 320 — سنن أبي داود — الأمر بالصلاة لسبع
 **المؤلف/الجهة:** أبو داود السجستاني (ت 275 هـ)  
 **المصدر:** السنن · كتاب الصلاة، باب متى يؤمر الغلام بالصلاة · رقم 495  
 **الجهة/المذهب:** السنة النبوية  
@@ -4225,7 +4123,7 @@
 **الاستدلال:** جعل النبي صلى الله عليه وسلم السابعة أول سن يتوجه فيها الأمر إلى الصبي، ولا يؤمر إلا من يعقل الخطاب؛ فالسابعة سن التمييز في ميزان الشرع، ومن ميز احتاج إلى من يعلمه ويؤدبه، وذلك شأن الأب، فلا معنى لحبسه عن ولده في أول السن التي يفتقر فيها إليه.  
 - النص في مصدره: <https://sunnah.com/abudawud:495>
 
-### بطاقة 329 — سورة البقرة 233 — لا يضار الأب بولده ولا الأم بولدها
+### بطاقة 321 — سورة البقرة 233 — لا يضار الأب بولده ولا الأم بولدها
 **المؤلف/الجهة:** القرآن الكريم  
 **الجهة/المذهب:** القرآن الكريم  
 
@@ -4235,7 +4133,7 @@
 **عن المصدر:** آية الرضاعة في سورة البقرة، وفيها أحكام الولد بعد الفرقة: الرضاع والنفقة والتشاور بين الأبوين. — **درجة الدليل:** نص قطعي  
 - الآية في المصحف: <https://quran.com/2/233>
 
-### بطاقة 330 — سورة الطلاق 7 — النفقة على قدر الطاقة
+### بطاقة 322 — سورة الطلاق 7 — النفقة على قدر الطاقة
 **المؤلف/الجهة:** القرآن الكريم  
 **الجهة/المذهب:** القرآن الكريم  
 
@@ -4245,7 +4143,7 @@
 **عن المصدر:** الآية في سورة الطلاق، وهي أصل تقدير النفقة بعد الفرقة. — **درجة الدليل:** نص قطعي  
 - الآية في المصحف: <https://quran.com/65/7>
 
-### بطاقة 331 — جامع الترمذي — تعليم الصبي الصلاة لسبع
+### بطاقة 323 — جامع الترمذي — تعليم الصبي الصلاة لسبع
 **المؤلف/الجهة:** الترمذي (ت 279 هـ)  
 **المصدر:** الجامع · أبواب الصلاة، باب ما جاء متى يؤمر الصبي بالصلاة · رقم 407  
 **الجهة/المذهب:** السنة النبوية  
@@ -4256,7 +4154,7 @@
 **الاستدلال:** قرن الحديث التعليم بالسابعة، والتعليم فرع الإدراك؛ فمتى بلغ الصبي سنا يصلح فيها للتعليم فقد خرج من طور الحاجة إلى خدمة النساء إلى طور الحاجة إلى تأديب الرجال.  
 - النص في مصدره: <https://sunnah.com/tirmidhi:407>
 
-### بطاقة 332 — قضاء علي — تخيير ابن سبع أو ثمان
+### بطاقة 324 — قضاء علي — تخيير ابن سبع أو ثمان
 **المؤلف/الجهة:** عمارة بن ربيعة الجرمي عن علي رضي الله عنه  
 **المصدر:** الأم للشافعي؛ السنن الكبرى للبيهقي · كتاب النفقات، باب الأبوين إذا افترقا  
 **الجهة/المذهب:** آثار الصحابة  
@@ -4267,7 +4165,7 @@
 **الاستدلال:** قيد علي رضي الله عنه التخيير بسن السابعة أو الثامنة، وأخره عمن دونها، وليس للتقييد علة إلا أن السابعة مظنة التمييز؛ فمن لم يميز لا يخير، ومن ميز لم يعد في حكم من يكفله النساء وحدهن. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - النص في مصدره: <https://shamela.ws/book/7861/18022>
 
-### بطاقة 333 — حديث تخيير الغلام بين أبويه
+### بطاقة 325 — حديث تخيير الغلام بين أبويه
 **المؤلف/الجهة:** أبو داود / الترمذي  
 **المصدر:** السنن / الجامع · باب من أحق بالولد / باب ما جاء في تخيير الغلام · أبو داود 2277؛ الترمذي 1357  
 **الجهة/المذهب:** السنة النبوية  
@@ -4278,7 +4176,7 @@
 **الاستدلال:** لم يخير النبي صلى الله عليه وسلم إلا غلاما يستقي ويقضي حاجة أمه، أي مميزا مستغنيا بنفسه؛ فالتخيير قرين التمييز، وهو يدل على أن حضانة النساء تنتهي حين يعقل الصبي ما يختار. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - النص في مصدره: <https://sunnah.com/nasai:3496>
 
-### بطاقة 334 — سورة التحريم — وقاية الأب لأهله
+### بطاقة 326 — سورة التحريم — وقاية الأب لأهله
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة التحريم · الآية 6  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4288,7 +4186,7 @@
 **الاستدلال:** أمر الله الأب بوقاية أهله وولده، والوقاية تعليم وتأديب، ولا يتوجهان إلا إلى مميز يعقل؛ فإذا ميز الولد تعين على الأب القيام بهذا الواجب، ولا يقوم به من حيل بينه وبين ولده.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/66/6>
 
-### بطاقة 335 — قضاء عمر — تخيير الغلام بين أبويه
+### بطاقة 327 — قضاء عمر — تخيير الغلام بين أبويه
 **المؤلف/الجهة:** عمر بن الخطاب رضي الله عنه  
 **المصدر:** المصنف لعبد الرزاق؛ السنن لسعيد بن منصور · باب الحضانة / أي الأبوين أحق بالولد  
 **الجهة/المذهب:** آثار الصحابة  
@@ -4299,7 +4197,7 @@
 **الاستدلال:** قضاء عمر بالتخيير لا يكون إلا في غلام يعقل، فهو شاهد على أن الصغير إذا ميز صار له أن يلحق بأبيه، وأن حضانة الأم لا تمتد بعد التمييز حتما. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - النص في مصدره: <https://shamela.ws/book/84/3398>
 
-### بطاقة 336 — الصحيحان — الرجل راع في أهله
+### بطاقة 328 — الصحيحان — الرجل راع في أهله
 **المؤلف/الجهة:** البخاري ومسلم  
 **المصدر:** الصحيحان · كتاب الجمعة / كتاب الإمارة · البخاري 893؛ مسلم 1829  
 **الجهة/المذهب:** السنة النبوية  
@@ -4310,7 +4208,7 @@
 **الاستدلال:** الأب راع في أهله ومسؤول عن رعيته، والرعاية قيام دائم بالتربية والتوجيه؛ وهذه المسؤولية لا تسقط بالفرقة، ولا تؤدى بساعات معدودة في الأسبوع.  
 - النص في مصدره: <https://sunnah.com/bukhari:893>
 
-### بطاقة 337 — تفسير القرطبي — الطفل إلى البلوغ
+### بطاقة 329 — تفسير القرطبي — الطفل إلى البلوغ
 **المؤلف/الجهة:** القرطبي (ت 671 هـ)  
 **المصدر:** الجامع لأحكام القرآن · تفسير الحج 5  
 **الجهة/المذهب:** التفسير  
@@ -4320,7 +4218,7 @@
 
 **الاستدلال:** نص القرطبي على أن اسم الطفل يمتد من الولادة إلى البلوغ، فالبلوغ نهاية الطفولة قطعا.  
 
-### بطاقة 338 — الطحاوي — نهاية الطفولية بالحلم
+### بطاقة 330 — الطحاوي — نهاية الطفولية بالحلم
 **المؤلف/الجهة:** الطحاوي (ت 321 هـ)  
 **المصدر:** شرح مشكل الآثار  
 **الجهة/المذهب:** شروح الحديث  
@@ -4330,7 +4228,7 @@
 
 **الاستدلال:** جعل الطحاوي ما دون الحلم طفولية وما بعده ضدها، فلا طفولة بعد احتلام، ومن احتلم شاب.  
 
-### بطاقة 339 — سنن أبي داود — الصبي حتى يحتلم
+### بطاقة 331 — سنن أبي داود — الصبي حتى يحتلم
 **المؤلف/الجهة:** أبو داود (ت 275 هـ)  
 **المصدر:** السنن · كتاب الحدود · رقم 4403  
 **الجهة/المذهب:** السنة النبوية  
@@ -4341,7 +4239,7 @@
 **الاستدلال:** الصبا ينتهي بالاحتلام بنص الحديث، فلا صبا ولا طفولة بعده.  
 - النص في مصدره: <https://sunnah.com/abudawud:4403>
 
-### بطاقة 340 — سورة البقرة — نفي المضارة بالولد
+### بطاقة 332 — سورة البقرة — نفي المضارة بالولد
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة البقرة · الآية 233  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4351,7 +4249,7 @@
 **الاستدلال:** نفى الله المضارة عن الأب بولده كما نفاها عن الأم، فكل نظام يجعل الولد سلاحا في يد أحدهما على الآخر مخالف لهذا الأصل.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/2/233>
 
-### بطاقة 341 — سورة محمد — النهي عن قطع الأرحام
+### بطاقة 333 — سورة محمد — النهي عن قطع الأرحام
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة محمد · الآيتان 22–23  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4361,7 +4259,7 @@
 **الاستدلال:** عد القرآن قطع الأرحام إفسادا في الأرض، وقطع الصغير عن أبيه وأهل أبيه سنين أظهر صور هذا القطع.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/47/22>
 
-### بطاقة 342 — سورة النساء — والأرحام
+### بطاقة 334 — سورة النساء — والأرحام
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة النساء · الآية 1  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4371,7 +4269,7 @@
 **الاستدلال:** قرن الله الأرحام بتقواه، فصلة الولد بأبيه وأهل أبيه من التقوى، وقطعها خلافها.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/4/1>
 
-### بطاقة 343 — سورة الرعد — قطع ما أمر الله به أن يوصل
+### بطاقة 335 — سورة الرعد — قطع ما أمر الله به أن يوصل
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة الرعد · الآية 25  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4381,7 +4279,7 @@
 **الاستدلال:** قطع ما أمر الله بوصله قرين الإفساد في الأرض في كتاب الله، وقطع الولد عن أبيه من أظهر صوره.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/13/25>
 
-### بطاقة 344 — سورة لقمان — موعظة الأب ابنه
+### بطاقة 336 — سورة لقمان — موعظة الأب ابنه
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة لقمان · الآية 13  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4391,7 +4289,7 @@
 **الاستدلال:** جعل القرآن موعظة الأب ابنه مثلا يتلى، فالتعليم والوعظ والتأديب وظيفة الأب في كتاب الله، ولا يؤديها من حيل بينه وبين ولده.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/31/13>
 
-### بطاقة 345 — سورة البقرة — وصية إبراهيم ويعقوب بنيهم
+### بطاقة 337 — سورة البقرة — وصية إبراهيم ويعقوب بنيهم
 **المؤلف/الجهة:** القرآن الكريم  
 **المصدر:** سورة البقرة · الآية 132  
 **الجهة/المذهب:** القرآن الكريم  
@@ -4401,7 +4299,7 @@
 **الاستدلال:** وصية الأنبياء أبناءهم سنة الآباء في القرآن، فصلة الأب بولده صلة تعليم ووصية ممتدة، لا زيارة عابرة.  
 - الآية في المصحف مع تفسيرها: <https://quran.com/2/132>
 
-### بطاقة 346 — الصحيحان — لا يدخل الجنة قاطع
+### بطاقة 338 — الصحيحان — لا يدخل الجنة قاطع
 **المؤلف/الجهة:** البخاري ومسلم  
 **المصدر:** الصحيحان · كتاب الأدب / كتاب البر والصلة · البخاري 5984؛ مسلم 2556  
 **الجهة/المذهب:** السنة النبوية  
@@ -4412,7 +4310,7 @@
 **الاستدلال:** الوعيد على القاطع شديد، ولا يسلم منه تشريع يقطع الولد عن أبيه ورحمه ويجعل ذلك هو الأصل.  
 - النص في مصدره: <https://sunnah.com/bukhari:5984>
 
-### بطاقة 347 — صحيح مسلم — الرحم معلقة بالعرش
+### بطاقة 339 — صحيح مسلم — الرحم معلقة بالعرش
 **المؤلف/الجهة:** مسلم  
 **المصدر:** الصحيح · كتاب البر والصلة · 2555  
 **الجهة/المذهب:** السنة النبوية  
@@ -4423,7 +4321,7 @@
 **الاستدلال:** الرحم تدعو على من قطعها، فالنظام الذي يقطع الولد عن أبيه سنين واقع في هذه الدعوة، ولا يعتذر له بحسن القصد.  
 - النص في مصدره: <https://sunnah.com/muslim:2555>
 
-### بطاقة 348 — الصحيحان — صلة الرحم بركة
+### بطاقة 340 — الصحيحان — صلة الرحم بركة
 **المؤلف/الجهة:** البخاري ومسلم  
 **المصدر:** الصحيحان · كتاب الأدب / كتاب البر والصلة · البخاري 5986؛ مسلم 2557  
 **الجهة/المذهب:** السنة النبوية  
@@ -4434,7 +4332,7 @@
 **الاستدلال:** صلة الرحم سبب للبركة في الرزق والعمر، والتشريع الذي يقطعها يحرم الولد وأهله من ذلك.  
 - النص في مصدره: <https://sunnah.com/bukhari:2067>
 
-### بطاقة 349 — سنن أبي داود — إثم من يضيع من يقوت
+### بطاقة 341 — سنن أبي داود — إثم من يضيع من يقوت
 **المؤلف/الجهة:** أبو داود (ت 275 هـ)  
 **المصدر:** السنن · كتاب الزكاة، باب في صلة الرحم · رقم 1692  
 **الجهة/المذهب:** السنة النبوية  
@@ -4447,7 +4345,7 @@
 
 ## الفقه الحنفي
 
-### بطاقة 350 — الدر المختار — سبع وتسع وبه يفتى
+### بطاقة 342 — الدر المختار — سبع وتسع وبه يفتى
 **المؤلف/الجهة:** الحصكفي (ت 1088 هـ)  
 **المصدر:** الدر المختار شرح تنوير الأبصار · باب الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4458,7 +4356,7 @@
 **الاستدلال:** هذا هو المفتى به في المذهب المعمول به في مصر: سبع للغلام لأنها سن استغنائه بتمييزه، وتسع للجارية لأنها سن إدراكها وحاجتها إلى الصيانة؛ فالتقدير بالسنين ضبط لمعنيين معقولين، لا تحكم.  
 - النص في مصدره: <https://shamela.ws/book/21613/1848>
 
-### بطاقة 351 — البحر الرائق — الفتوى على السبع لأن الأب مأمور بأمره بالصلاة
+### بطاقة 343 — البحر الرائق — الفتوى على السبع لأن الأب مأمور بأمره بالصلاة
 **المؤلف/الجهة:** ابن نجيم  
 **المصدر:** البحر الرائق · 4 · 4/184  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4468,7 +4366,7 @@
 **الاستدلال:** صرح ابن نجيم بأن الفتوى على التقدير بالسبع، وعلل ذلك بأن الأب مأمور بأمر ولده بالصلاة إذا بلغها، ولا يكون ذلك إلا إذا كان الولد عنده؛ فالحديث النبوي علة الحكم الفقهي.  
 - الرابط: <https://islamweb.net/ar/library/content/29/2269/>
 
-### بطاقة 352 — الهداية — زوج الأم الأجنبي «يعطيه نزرا وينظر إليه شزرا»: تسقط حضانتها
+### بطاقة 344 — الهداية — زوج الأم الأجنبي «يعطيه نزرا وينظر إليه شزرا»: تسقط حضانتها
 **المؤلف/الجهة:** برهان الدين المرغيناني (ت 593هـ) — الفقه الحنفي  
 **الجهة/المذهب:** المذهب الحنفي  
 
@@ -4478,7 +4376,7 @@
 **عن المصدر:** الهداية للمرغيناني أعمدة كتب الفقه الحنفي، وعليها شروح المذهب الكبرى كفتح القدير والعناية والبناية، وهي المرجع الأول لقضاء الأحوال الشخصية في مصر منذ قرون. — **درجة الدليل:** متن معتمد في المذهب الحنفي  
 - النص في مصدره: <https://shamela.ws/book/11820/377>
 
-### بطاقة 353 — الهداية — إذا استغنى احتاج إلى التأدب والأب أقدر
+### بطاقة 345 — الهداية — إذا استغنى احتاج إلى التأدب والأب أقدر
 **المؤلف/الجهة:** المرغيناني  
 **المصدر:** الهداية · 2 · 2/284  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4488,7 +4386,7 @@
 **الاستدلال:** علل المرغيناني انتقال الغلام إلى أبيه بأنه إذا استغنى احتاج إلى آداب الرجال والأب أقدر على تأديبه، وانتقال الجارية بعد البلوغ بحاجتها إلى التحصين والحفظ؛ فالعلة الاستغناء والإدراك.  
 - الرابط: <https://shamela.ws/book/11820/378>
 
-### بطاقة 354 — الهداية — تقدير الاستغناء بسبع سنين
+### بطاقة 346 — الهداية — تقدير الاستغناء بسبع سنين
 **المؤلف/الجهة:** المرغيناني (ت 593 هـ)  
 **المصدر:** الهداية شرح بداية المبتدي · كتاب الطلاق، باب الولد من أحق به  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4499,7 +4397,7 @@
 **الاستدلال:** الاستغناء الذي جعله المذهب حدا لحضانة النساء هو أن يأكل الصبي ويلبس ويستنجي وحده، وهذه أفعال لا تستقيم إلا لمن ميز؛ فلما كان التمييز يغلب عند السابعة قدر الخصاف الاستغناء بها، فالسبع ضابط للعلة لا رقم مجرد.  
 - النص في مصدره: <https://shamela.ws/book/11820/378>
 
-### بطاقة 355 — بدائع الصنائع — تقدير الاستغناء بسبع
+### بطاقة 347 — بدائع الصنائع — تقدير الاستغناء بسبع
 **المؤلف/الجهة:** الكاساني (ت 587 هـ)  
 **المصدر:** بدائع الصنائع · كتاب الحضانة، فصل في وقت الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4510,7 +4408,7 @@
 **الاستدلال:** تقدير الخصاف بالسبع أو الثمان منقول في أصول المذهب قبل المتأخرين، وكلا الرقمين دائر حول سن التمييز؛ فالمعتبر عند الحنفية إدراك الصبي واستغناؤه، لا بلوغه.  
 - النص في مصدره: <https://shamela.ws/book/8183/952>
 
-### بطاقة 356 — بدائع الصنائع — بعد بلوغ حد الشهوة تحتاج إلى الصيانة
+### بطاقة 348 — بدائع الصنائع — بعد بلوغ حد الشهوة تحتاج إلى الصيانة
 **المؤلف/الجهة:** الكاساني  
 **المصدر:** بدائع الصنائع · 4 · 4/43  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4520,7 +4418,7 @@
 **الاستدلال:** علل الكاساني انتقال الجارية إلى أبيها بحاجتها إلى الحماية والصيانة إذا بلغت حد الشهوة، والرجال على ذلك أقدر؛ فالإدراك وحد الشهوة علة الحكم.  
 - الرابط: <https://www.islamweb.net/ar/library/content/12/1588/>
 
-### بطاقة 357 — العناية — بعد البلوغ تحتاج إلى التحصين، والأب أقوى وأهدى
+### بطاقة 349 — العناية — بعد البلوغ تحتاج إلى التحصين، والأب أقوى وأهدى
 **المؤلف/الجهة:** البابرتي  
 **المصدر:** العناية شرح الهداية  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4530,7 +4428,7 @@
 **الاستدلال:** علل البابرتي انتقال الجارية إلى أبيها بحاجتها إلى التحصين والحفظ، وبأن ولاية تزويجها لأبيها؛ فالإدراك علة صيانتها عند الأب.  
 - الرابط: <https://www.islamicbook.ws/asol/hanafi/alanait-shrh-alhdait-016.html>
 
-### بطاقة 358 — رد المحتار — الفتوى في الجارية
+### بطاقة 350 — رد المحتار — الفتوى في الجارية
 **المؤلف/الجهة:** ابن عابدين (ت 1252 هـ)  
 **المصدر:** رد المحتار على الدر المختار · باب الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4541,7 +4439,7 @@
 **الاستدلال:** أفتى المتأخرون بقول محمد في الجارية لما رأوا من حاجة المدركة إلى صيانة الأب في زمانهم، وحاجتها في زماننا أشد؛ فالتسع علة شرعية متعلقة بالإدراك، تقوى بفساد الزمان ولا تضعف.  
 - النص في مصدره: <https://shamela.ws/book/21613/1849>
 
-### بطاقة 359 — الهداية — أدنى سن بلوغ الجارية تسع
+### بطاقة 351 — الهداية — أدنى سن بلوغ الجارية تسع
 **المؤلف/الجهة:** المرغيناني (ت 593 هـ)  
 **المصدر:** الهداية · كتاب الحجر، فصل في حد البلوغ  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4552,7 +4450,7 @@
 **الاستدلال:** التاسعة أدنى سن يتصور فيه بلوغ الجارية، فإذا بلغتها دخلت في حد الإدراك الذي تتعلق به الصيانة، فوافق انتهاء حضانة النساء أول زمن يمكن فيه البلوغ.  
 - النص في مصدره: <https://shamela.ws/book/11820/921>
 
-### بطاقة 360 — تعليم المتعلم — جد الأب ركن في تعليم الولد
+### بطاقة 352 — تعليم المتعلم — جد الأب ركن في تعليم الولد
 **المؤلف/الجهة:** برهان الإسلام الزرنوجي  
 **المصدر:** تعليم المتعلم طريق التعلم · فصل في الجد والمواظبة والهمة، ص 88–89  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4563,7 +4461,7 @@
 - الرابط: <https://ibn-katheer.com/Book/detBooks/6/79/%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%85-%D9%81%D9%8A-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85>
 - الرابط: <https://darul-kutub.com/uploads/books/cbc792edbc63f5732fd1bc59cd83785e4864d4f8.pdf>
 
-### بطاقة 361 — المبسوط — علة الاستغناء وحاجة الغلام إلى أبيه
+### بطاقة 353 — المبسوط — علة الاستغناء وحاجة الغلام إلى أبيه
 **المؤلف/الجهة:** السرخسي (ت 483 هـ)  
 **المصدر:** المبسوط · كتاب النكاح، باب الولد من أحق به  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4574,7 +4472,7 @@
 **الاستدلال:** علل السرخسي تقديم الأم بعجز الصغير عن القيام بنفسه، فإذا استغنى زالت العلة، وحدثت حاجة أخرى هي التأدب بأخلاق الرجال؛ والحكم يدور مع علته، والاستغناء لا يكون إلا مع التمييز.  
 - النص في مصدره: <https://shamela.ws/book/5423/1119>
 
-### بطاقة 362 — التتارخانية — لا يمنع أحد الأبوين من النظر إلى ولده وتعهده
+### بطاقة 354 — التتارخانية — لا يمنع أحد الأبوين من النظر إلى ولده وتعهده
 **المؤلف/الجهة:** ابن عابدين، ناقلا عن التتارخانية ثم معلقا عليها  
 **المصدر:** رد المحتار على الدر المختار · 3/571، قوله: إخراجه  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4585,7 +4483,7 @@
 **الاستدلال:** أصل في المذهب المعمول به في مصر: الولد عند أي الأبوين كان لا يحجب عن الآخر نظرا ولا تعهدا، والتعهد قيام بالشأن لا لقاء عابر، فالرؤية المحدودة في مكان عام دون ما قرره الحنفية.  
 - الرابط: <https://www.islamweb.net/ar/library/content/27/2964/باب-الحضانة>
 
-### بطاقة 363 — رد المحتار — أن يبصر الأب ولده كل يوم
+### بطاقة 355 — رد المحتار — أن يبصر الأب ولده كل يوم
 **المؤلف/الجهة:** ابن عابدين  
 **المصدر:** رد المحتار على الدر المختار · 3/571  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4596,7 +4494,7 @@
 **الاستدلال:** جعل ابن عابدين مناط جواز انتقال الحاضنة أن يتمكن الأب من إبصار ولده كل يوم؛ فالحد الأدنى عند الحنفية صلة يومية، لا ساعات في الأسبوع.  
 - الرابط: <https://www.islamweb.net/ar/library/content/27/2964/باب-الحضانة>
 
-### بطاقة 364 — المبسوط — منع الإضرار بالأب بقطع ولده عنه
+### بطاقة 356 — المبسوط — منع الإضرار بالأب بقطع ولده عنه
 **المؤلف/الجهة:** السرخسي  
 **المصدر:** المبسوط · 6/169–170، باب الولد عند من يكون في الفرقة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4607,7 +4505,7 @@
 **الاستدلال:** سمى السرخسي قطع الولد عن أبيه إضرارا بالأب، ومنع الحاضنة منه؛ فالقطيعة ممنوعة في أصل المذهب، والضابط أن يطالع الأب ولده ويرجع قبل الليل.  
 - الرابط: <https://www.islamweb.net/ar/library/content/18/2362/باب-الولد-عند-من-يكون-في-الفرقة>
 
-### بطاقة 365 — البحر الرائق — الرؤية اليومية حق للأبوين كليهما
+### بطاقة 357 — البحر الرائق — الرؤية اليومية حق للأبوين كليهما
 **المؤلف/الجهة:** ابن نجيم، ناقلا عن الحاوي القدسي  
 **المصدر:** البحر الرائق شرح كنز الدقائق · 4/187–188، باب الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4618,7 +4516,7 @@
 **الاستدلال:** نص الحاوي القدسي على أن الحاضنة لا تنتقل بالولد إلا حيث لا تقطعه عن أبيه إذا أراد أن يبصره كل يوم، والحكم نفسه في الأب؛ فالصلة اليومية حق متبادل للأبوين.  
 - الرابط: <https://www.islamweb.net/ar/library/content/29/2278/باب-الحضانة>
 
-### بطاقة 366 — شرح النقاية — ضابط مطالعة الأب ولده في نهاره
+### بطاقة 358 — شرح النقاية — ضابط مطالعة الأب ولده في نهاره
 **المؤلف/الجهة:** ابن نجيم، ناقلا عن شرح النقاية  
 **المصدر:** البحر الرائق شرح كنز الدقائق · باب الحضانة، آخر مباحث انتقال الأم  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4628,7 +4526,7 @@
 **الاستدلال:** مدار الحكم عند الحنفية تمكن الأب من مطالعة ولده والرجوع في نهاره، فالقرب الذي يتيح الصلة اليومية هو المعتبر.  
 - الرابط: <https://www.islamweb.net/ar/library/content/29/2278/باب-الحضانة>
 
-### بطاقة 367 — رد المحتار عن التتارخانية — لا يمنع أحد الأبوين من النظر إلى ولده وتعهده
+### بطاقة 359 — رد المحتار عن التتارخانية — لا يمنع أحد الأبوين من النظر إلى ولده وتعهده
 **المؤلف/الجهة:** الحصكفي / ابن عابدين  
 **المصدر:** الدر المختار وحاشيته · باب الحضانة  
 **الجهة/المذهب:** المذهب الحنفي  
@@ -4641,7 +4539,7 @@
 
 ## الفقه المالكي
 
-### بطاقة 368 — المدونة — يؤدبه بالنهار ويبيت عند أمه
+### بطاقة 360 — المدونة — يؤدبه بالنهار ويبيت عند أمه
 **المؤلف/الجهة:** الإمام مالك، برواية ابن القاسم في المدونة  
 **المصدر:** المدونة · 2/258، ما جاء في حضانة الأم  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4652,7 +4550,7 @@
 **الاستدلال:** نص الإمام مالك نفسه في الرعاية المقسومة: النهار للأب يؤدب ويعلم، والليل للأم؛ وعلته أن التأديب يبدأ حين يعقل الصبي، فلا يتأتى إلا مع حضور الأب في يومه.  
 - الرابط: <https://www.islamweb.net/ar/library/content/30/2321/ما-جاء-في-حضانة-الأم>
 
-### بطاقة 369 — المختصر الفقهي لابن عرفة — حد الحضانة
+### بطاقة 361 — المختصر الفقهي لابن عرفة — حد الحضانة
 **المؤلف/الجهة:** ابن عرفة  
 **المصدر:** المختصر الفقهي · 5 · 5/49  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4662,7 +4560,7 @@
 **الاستدلال:** حد ابن عرفة الحضانة بحفظ الولد في مبيته ومؤنة طعامه ولباسه ونظافته، وهي خدمة يستغني عنها المميز؛ فإذا استغنى زال موجبها.  
 - الرابط: <https://shamela.ws/book/16968/2022>
 
-### بطاقة 370 — المختصر الفقهي — الكفالة حتى يقوم بنفسه
+### بطاقة 362 — المختصر الفقهي — الكفالة حتى يقوم بنفسه
 **المؤلف/الجهة:** ابن عرفة ناقلا عن ابن رشد والمتيطي  
 **المصدر:** المختصر الفقهي · 5 · 5/49  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4672,7 +4570,7 @@
 **الاستدلال:** نقل ابن عرفة الإجماع على أن الصغير يفتقر إلى كافل حتى يقوم بنفسه؛ فغاية الحاجة إلى الحضانة قيامه بنفسه، وهو الاستغناء الذي قدر بالسبع.  
 - الرابط: <https://shamela.ws/book/16968/2022>
 
-### بطاقة 371 — القابسي — تعليم الولد واجب على أبيه
+### بطاقة 363 — القابسي — تعليم الولد واجب على أبيه
 **المؤلف/الجهة:** أبو الحسن القابسي (ت 403 هـ)  
 **المصدر:** الرسالة المفصلة لأحوال المتعلمين وأحكام المعلمين والمتعلمين  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4683,7 +4581,7 @@
 **الاستدلال:** قرر القابسي، من أقدم من كتب في التربية في الإسلام، أن تعليم الولد وإرساله إلى المكتب واجب الأب، وهذا يبدأ بالتمييز؛ فلا يؤديه أب محجوب عن ولده.  
 - النص في مصدره: <https://archive.org/details/Resalh_Mofasalh>
 
-### بطاقة 372 — مختصر خليل — حق الأب في التعاهد والتأديب
+### بطاقة 364 — مختصر خليل — حق الأب في التعاهد والتأديب
 **المؤلف/الجهة:** خليل بن إسحاق (ت 776 هـ)  
 **المصدر:** المختصر · باب الحضانة  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4693,7 +4591,7 @@
 **الاستدلال:** حتى المالكية الذين أطالوا حضانة الأم جعلوا للأب تعاهد ولده وتأديبه وإرساله إلى الكتاب، لأن التعليم والتأديب يبدآن بالتمييز؛ فلم يقل أحد من الأئمة بقطع الأب عن ولده.  
 - الرابط: <https://shamela.ws/book/11355/185>
 
-### بطاقة 373 — آداب المعلمين — المعلم أجير الآباء
+### بطاقة 365 — آداب المعلمين — المعلم أجير الآباء
 **المؤلف/الجهة:** محمد بن سحنون (ت 256 هـ)  
 **المصدر:** آداب المعلمين · ما جاء في الختم وما يجب في ذلك للمعلم  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4704,7 +4602,7 @@
 - الرابط: <https://www.safahat.org/books/40635716/0.3/#sect3_10>
 - الرابط: <https://downloads.hindawi.org/books/40635716.pdf#page=305>
 
-### بطاقة 374 — ابن الماجشون — لا يمنع الابن من الاختلاف إلى أبيه
+### بطاقة 366 — ابن الماجشون — لا يمنع الابن من الاختلاف إلى أبيه
 **المؤلف/الجهة:** الباجي، ناقلا عن ابن حبيب عن ابن الماجشون؛ ثم تعليق ابن عرفة  
 **المصدر:** المختصر الفقهي · 5/49، كتاب الحضانة  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4715,7 +4613,7 @@
 **الاستدلال:** حتى في المذهب الذي أطال حضانة الأم: لا يمنع الابن من التردد إلى أبيه ليعلمه ويؤدبه، فالحضانة عند المالكية مأوى، والتعليم والتأديب للأب.  
 - الرابط: <https://shamela.ws/book/16968/2022>
 
-### بطاقة 375 — مواهب الجليل — للأب تعاهده وأدبه وبعثه للمكتب
+### بطاقة 367 — مواهب الجليل — للأب تعاهده وأدبه وبعثه للمكتب
 **المؤلف/الجهة:** خليل في المتن، والحطاب في الشرح ناقلا عن المدونة  
 **المصدر:** مواهب الجليل في شرح مختصر خليل · 4/215  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4725,7 +4623,7 @@
 **الاستدلال:** شرح الحطاب نص المدونة: للأب تعاهد ولده عند أمه وأدبه وبعثه للمكتب؛ فرعاية الأب قائمة في المذهب المالكي مع مبيت الولد عند أمه.  
 - الرابط: <https://www.islamweb.net/ar/library/content/19/2957/مسألة-إذا-عتقت-الأمة-على-أن-تركت-حضانة-ولدها>
 
-### بطاقة 376 — أبو الحسن الصغير — للأب القيام بجميع أمور ولده
+### بطاقة 368 — أبو الحسن الصغير — للأب القيام بجميع أمور ولده
 **المؤلف/الجهة:** أبو الحسن الصغير، نقله الحطاب؛ ثم نقل المشذالي عنه  
 **المصدر:** مواهب الجليل في شرح مختصر خليل · 4/215  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4736,7 +4634,7 @@
 **الاستدلال:** قرر أبو الحسن أن للأب القيام بجميع أمور ولده المحضون، يأخذه لشأنه ثم يرده؛ فالحضانة لا تسلب الأب ولايته على شؤون ولده.  
 - الرابط: <https://www.islamweb.net/ar/library/content/19/2957/مسألة-إذا-عتقت-الأمة-على-أن-تركت-حضانة-ولدها>
 
-### بطاقة 377 — الاستذكار — يتعاهد الغلام في كتابه والجارية عند أمها
+### بطاقة 369 — الاستذكار — يتعاهد الغلام في كتابه والجارية عند أمها
 **المؤلف/الجهة:** مالك، برواية ابن وهب، نقلها ابن عبد البر  
 **المصدر:** الاستذكار · 23/71–72، الفقرتان 33522–33523  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4747,7 +4645,7 @@
 **الاستدلال:** نقل ابن عبد البر عن مالك أن الأب يؤدب الغلام ويعلمه ويتعاهده في كتابه، ويتعاهد الجارية عند أمها؛ فالتعاهد حق للأب في الذكر والأنثى معا.  
 - الرابط: <https://www.islamweb.net/ar/library/content/93/3075/قصة-المخنث-الذي-كان-عند-أم-سلمة>
 
-### بطاقة 378 — مالك — لا يخرج بالولد إلى بلد بعيد عن أبيه وأهل بيته
+### بطاقة 370 — مالك — لا يخرج بالولد إلى بلد بعيد عن أبيه وأهل بيته
 **المؤلف/الجهة:** مالك كما نقله ابن عبد البر ضمن رواية ابن وهب  
 **المصدر:** الاستذكار · 23/72، الفقرة 33525  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4758,7 +4656,7 @@
 **الاستدلال:** منع مالك الأم والجدة من الخروج بالولد بعيدا عن أبيه وأهل بيته، فصلة الولد بأبيه ورحمه من جهته محفوظة في أصل المذهب.  
 - الرابط: <https://www.islamweb.net/ar/library/content/93/3075/قصة-المخنث-الذي-كان-عند-أم-سلمة>
 
-### بطاقة 379 — شرح الزرقاني — التعاهد يشمل المحضون ذكرا وأنثى
+### بطاقة 371 — شرح الزرقاني — التعاهد يشمل المحضون ذكرا وأنثى
 **المؤلف/الجهة:** الزرقاني شارحا مختصر خليل، ناقلا في آخره عن أبي الحسن  
 **المصدر:** شرح الزرقاني على مختصر خليل وحاشية البناني · صفحة الويب الداخلية 2024؛ ليست رقم الصفحة المطبوعة  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4769,7 +4667,7 @@
 **الاستدلال:** صرح الزرقاني بأن تعاهد الأب وتأديبه وبعثه للتعلم يشمل المحضون ذكرا كان أو أنثى، فالبنت كالابن في حقها في رعاية أبيها.  
 - الرابط: <https://books.islam-db.com/book/شرح_الزرقاني_علي_مختصر_خليل_وحاشيه_البناني/2024>
 
-### بطاقة 380 — منح الجليل — إرسال المحضون للتعلم مع بقاء الحضانة
+### بطاقة 372 — منح الجليل — إرسال المحضون للتعلم مع بقاء الحضانة
 **المؤلف/الجهة:** محمد عليش، شارحا متن خليل، ناقلا في آخره عن أبي الحسن  
 **المصدر:** منح الجليل شرح مختصر خليل · 4/421–422  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4780,7 +4678,7 @@
 **الاستدلال:** شرح عليش أن للأب تعاهد المحضون وتأديبه وإرساله إلى المعلم أو المعلمة؛ فالتعليم حق الأب ولو كان الولد في حضانة أمه.  
 - الرابط: <https://www.islamweb.net/ar/library/content/24/3550/فصل-نفقة-الرقيق-والدابة-والقريب-وخادمه-والحضانة-وما-يتعلق-بها>
 
-### بطاقة 381 — القرطبي — الحضانة لمن يحوط الصبي ويعلمه الخير
+### بطاقة 373 — القرطبي — الحضانة لمن يحوط الصبي ويعلمه الخير
 **المؤلف/الجهة:** القرطبي  
 **المصدر:** الجامع لأحكام القرآن · 3/152، تفسير البقرة: 233  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4791,7 +4689,7 @@
 **الاستدلال:** جعل القرطبي مناط الحضانة الأمانة والحرز وتعليم الخير، وقرر أنها حق الولد؛ فلا يستحقها من لا يحسن إليه في حفظه وتعليمه.  
 - الرابط: <https://www.islamweb.net/ar/library/content/48/832/قوله-تعالى-والوالدات-يرضعن-أولادهن-حولين-كاملين>
 
-### بطاقة 382 — لوامع الدرر — للأب أن يتعاهد المحضون ذكرا أو أنثى
+### بطاقة 374 — لوامع الدرر — للأب أن يتعاهد المحضون ذكرا أو أنثى
 **المؤلف/الجهة:** محمد بن سالم المجلسي  
 **المصدر:** لوامع الدرر · 7 · 7/758  
 **الجهة/المذهب:** المذهب المالكي  
@@ -4801,7 +4699,7 @@
 **الاستدلال:** فسر المجلسي التعاهد بالإتيان إلى المحضون لتفقد أحواله، وجعله للذكر والأنثى معا، وجعل للأب القيام بجميع أمور المحضون.  
 - الرابط: <https://shamela.ws/book/149697/5006>
 
-### بطاقة 383 — موهوب الجليل — تسقط الحضانة لما يلحق الأب من الضرر في تعاهد ولده
+### بطاقة 375 — موهوب الجليل — تسقط الحضانة لما يلحق الأب من الضرر في تعاهد ولده
 **المؤلف/الجهة:** كتاب موهوب الجليل في شرح مختصر خليل (2/463)  
 **الجهة/المذهب:** المذهب المالكي  
 
@@ -4812,7 +4710,7 @@
 
 ## الفقه الشافعي
 
-### بطاقة 384 — الحاوي الكبير — الحضانة دون السبع، والكفالة على الأب
+### بطاقة 376 — الحاوي الكبير — الحضانة دون السبع، والكفالة على الأب
 **المؤلف/الجهة:** الماوردي  
 **المصدر:** الحاوي الكبير · الجزء 11، باب أي الوالدين أحق بالولد  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4823,7 +4721,7 @@
 **الاستدلال:** فرق الماوردي بين زمانين: زمان الحضانة فيما دون السبع، وزمان الكفالة بعدها، وجعل الكفالة على الأب سواء اختاره الولد أو اختار أمه. والكفالة هنا ليست النفقة؛ فالنفقة واجبة على الأب من يوم الولادة، فلو كانت هي المراد لما كان لجعل السابعة حدا بين الزمانين معنى، وقد سمى الماوردي في الباب نفسه ما يبذله الأب من مال «مؤونة» لا كفالة. والكافل في لسان الشرع القائم بأمر المكفول، كما كفل زكريا مريم، وكما فسر النووي كافل اليتيم بأنه القائم بأموره من نفقة وكسوة وتأديب وتربية. ثم نص الماوردي على أن التعليم والتأديب مما يجب على الأب القيام به، وأن زمانه تسليم الولد إلى الكتاب أو الصنعة؛ فالقائم بالتربية بعد السابعة الأب، لا الحاضنة.  
 - الرابط: <https://www.islamweb.net/ar/library/content/94/6581/باب-أي-الوالدين-أحق-بالولد-من-كتب-عدة>
 
-### بطاقة 385 — مغني المحتاج — سن التمييز سبع
+### بطاقة 377 — مغني المحتاج — سن التمييز سبع
 **المؤلف/الجهة:** الخطيب الشربيني (ت 977 هـ)  
 **المصدر:** مغني المحتاج · فصل الحضانة  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4834,7 +4732,7 @@
 **الاستدلال:** قدر الشافعية سن التمييز بسبع أو ثمان، فالسن عندهم علامة على الإدراك لا علة مستقلة؛ وبهذا يتبين أن التحديد بالسابعة تحديد بالعقل الذي يتوجه إليه الخطاب.  
 - النص في مصدره: <https://shamela.ws/book/11444/2394>
 
-### بطاقة 386 — الأم للشافعي — التخيير في السابعة أو الثامنة إذا عقل
+### بطاقة 378 — الأم للشافعي — التخيير في السابعة أو الثامنة إذا عقل
 **المؤلف/الجهة:** الإمام الشافعي  
 **المصدر:** الأم · الجزء 5، باب أي الوالدين أحق بالولد  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4845,7 +4743,7 @@
 **الاستدلال:** علق الشافعي التخيير بسبع أو ثمان مع قيد «وهو يعقل»، فالعلة التمييز؛ ثم جعل للأب التأديب والنفقة والكتاب والصنعة ولو اختار أمه، فلا تنفرد الأم بالمميز. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - الرابط: <https://www.islamweb.net/ar/library/content/31/2599/باب-أي-الوالدين-أحق-بالولد>
 
-### بطاقة 387 — التنبيه — إذا بلغ سبعا وهو يعقل خير
+### بطاقة 379 — التنبيه — إذا بلغ سبعا وهو يعقل خير
 **المؤلف/الجهة:** أبو إسحاق الشيرازي  
 **المصدر:** التنبيه في الفقه الشافعي · ص211، باب الحضانة؛ الرقم 196 في الرابط رقم داخلي للموقع  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4856,7 +4754,7 @@
 **الاستدلال:** قيد الشيرازي التخيير بالسابعة مع العقل، وجعل الغلام عند أمه ليلا وعند أبيه نهارا، ولا يمنع من زيارة الآخر؛ فالتمييز علة، والرعاية المقسومة حكم. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - الرابط: <https://shamela.ws/book/7589/196>
 
-### بطاقة 388 — شرح النووي على مسلم — الكفالة تأديب وتربية لا نفقة فحسب
+### بطاقة 380 — شرح النووي على مسلم — الكفالة تأديب وتربية لا نفقة فحسب
 **المؤلف/الجهة:** النووي (ت 676 هـ)  
 **المصدر:** المنهاج شرح صحيح مسلم · 18/113  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4866,7 +4764,7 @@
 **الاستدلال:** فسر النووي، شيخ الشافعية، الكافل بأنه القائم بأمر المكفول من نفقة وكسوة وتأديب وتربية؛ فالكفالة في لسان الفقهاء رعاية وتربية وتأديب، لا مال فحسب. وبهذا يفسر قول الماوردي إن الكفالة بعد السبع على الأب: هي القيام بأمر الولد وتربيته، لا مجرد الإنفاق عليه.  
 - الرابط: <https://hadithprophet.com/hadith-52550.html>
 
-### بطاقة 389 — أدب الدنيا والدين — تأديب الولد في صغره لازم للأب
+### بطاقة 381 — أدب الدنيا والدين — تأديب الولد في صغره لازم للأب
 **المؤلف/الجهة:** أبو الحسن الماوردي (ت 450 هـ)  
 **المصدر:** أدب الدنيا والدين · أدب النفس، 1/233  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4877,7 +4775,7 @@
 - الرابط: <https://shamela.ws/book/765/217>
 - الرابط: <https://ibn-katheer.com/Book/detBooks/12/21/%D8%A3%D8%AF%D8%A8-%D8%A7%D9%84%D8%AF%D9%86%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86>
 
-### بطاقة 390 — منهاج الطالبين — تخيير المميز
+### بطاقة 382 — منهاج الطالبين — تخيير المميز
 **المؤلف/الجهة:** النووي (ت 676 هـ)  
 **المصدر:** منهاج الطالبين · كتاب النفقات، فصل الحضانة  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4888,7 +4786,7 @@
 **الاستدلال:** علق الشافعية التخيير بالتمييز لا بسن مجردة، فمتى عقل الصبي ما يختار خير؛ والتمييز يغلب في السابعة، فتنتهي عنده حضانة الأم المنفردة. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - النص في مصدره: <https://shamela.ws/book/12096/297>
 
-### بطاقة 391 — تذكرة السامع والمتكلم — الأب يوجه ابنه إلى العلم والأدب
+### بطاقة 383 — تذكرة السامع والمتكلم — الأب يوجه ابنه إلى العلم والأدب
 **المؤلف/الجهة:** بدر الدين ابن جماعة (ت 733 هـ)  
 **المصدر:** تذكرة السامع والمتكلم في أدب العالم والمتعلم · مقدمة المصنف، ص 2  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4899,7 +4797,7 @@
 - الرابط: <https://shamela.ws/book/151180/3>
 - الرابط: <https://shamela.ws/book/151180>
 
-### بطاقة 392 — الأم للشافعي — لا يمنع الولد من أمه ولا الأم من ولدها
+### بطاقة 384 — الأم للشافعي — لا يمنع الولد من أمه ولا الأم من ولدها
 **المؤلف/الجهة:** الإمام الشافعي  
 **المصدر:** الأم · الجزء 5، تتمة باب أي الوالدين أحق بالولد  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4909,7 +4807,7 @@
 **الاستدلال:** إذا كان الولد عند أبيه لم يكن له منعه من أمه؛ وعكسه أولى، فالشافعي يحفظ الصلة بالأبوين جميعا في كل حال.  
 - الرابط: <https://www.islamweb.net/ar/library/content/31/2599/باب-أي-الوالدين-أحق-بالولد>
 
-### بطاقة 393 — المهذب — المنع من زيارة الأم إغراء بالعقوق وقطع الرحم
+### بطاقة 385 — المهذب — المنع من زيارة الأم إغراء بالعقوق وقطع الرحم
 **المؤلف/الجهة:** أبو إسحاق الشيرازي؛ النص بعد «قال المصنف»  
 **المصدر:** المهذب، متنا ضمن المجموع مع تكملاته · المجموع مع تكملاته، موضع «قال المصنف رحمه الله تعالى» في الحضانة  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4920,7 +4818,7 @@
 **الاستدلال:** علل الشيرازي أخذ الأب الولد نهارا بحظ الولد، وجعل منع أحد الأبوين من الآخر إغراء بالعقوق وقطع الرحم؛ فالقطيعة محرمة في الاتجاهين.  
 - الرابط: <https://islamport.com/l/shf/3146/8845.htm>
 
-### بطاقة 394 — روضة الطالبين — ليس للأب إهماله، وإنما تقدم الأم فيما هو شأنها
+### بطاقة 386 — روضة الطالبين — ليس للأب إهماله، وإنما تقدم الأم فيما هو شأنها
 **المؤلف/الجهة:** النووي  
 **المصدر:** روضة الطالبين وعمدة المفتين · 9/105، فرع فيمن اختار أمه  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4931,7 +4829,7 @@
 **الاستدلال:** قرر النووي أن تقديم الأم إنما هو فيما يتأتى منها وما هو شأنها، وأن التأديب والتعليم واجب الأب لا يسقط؛ فليس للأم انفراد بما ليس من شأنها.  
 - الرابط: <https://www.islamweb.net/ar/library/content/95/1706/فصل-الأم-أحق-بالحضانة-من-الأب-في-حق-من-لا-تمييز-له-أصلا>
 
-### بطاقة 395 — روضة الطالبين — الابن عند الأب نهارا، والبنت يزورها الأب
+### بطاقة 387 — روضة الطالبين — الابن عند الأب نهارا، والبنت يزورها الأب
 **المؤلف/الجهة:** النووي  
 **المصدر:** روضة الطالبين وعمدة المفتين · 9/105  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4942,7 +4840,7 @@
 **الاستدلال:** جعل النووي الابن عند أبيه نهارا يؤدبه ويعلمه الدين والمعاش، وجعل للأب زيارة البنت على العادة، وكذلك قبل سن التخيير؛ فالأب حاضر في الطورين.  
 - الرابط: <https://www.islamweb.net/ar/library/content/95/1706/فصل-الأم-أحق-بالحضانة-من-الأب-في-حق-من-لا-تمييز-له-أصلا>
 
-### بطاقة 396 — نهاية المحتاج — تخرج البنت إلى أبيها ليتفقد حالها
+### بطاقة 388 — نهاية المحتاج — تخرج البنت إلى أبيها ليتفقد حالها
 **المؤلف/الجهة:** شمس الدين الرملي  
 **المصدر:** نهاية المحتاج إلى شرح المنهاج وحاشية الشبراملسي · 7/233، بعد «ويزورها الأب على العادة»  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4953,7 +4851,7 @@
 **الاستدلال:** إذا لم يتمكن الأب من الدخول أخرجت الحاضنة البنت إليه ليراها ويتفقد حالها ويقوم بمصالحها؛ فصلة الأب بابنته واجبة التمكين على الحاضنة.  
 - الرابط: <https://www.islamweb.net/ar/library/content/25/7388/فصل-في-الحضانة>
 
-### بطاقة 397 — فتوى ابن الصلاح — إذا سقط حظ الولد عند أمه فالحضانة للأب
+### بطاقة 389 — فتوى ابن الصلاح — إذا سقط حظ الولد عند أمه فالحضانة للأب
 **المؤلف/الجهة:** ابن الصلاح، نقل فتواه شمس الدين الرملي  
 **المصدر:** نهاية المحتاج إلى شرح المنهاج وحاشية الشبراملسي · 7/233  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4964,7 +4862,7 @@
 **الاستدلال:** جعل ابن الصلاح مصلحة الولد في تعليمه مقدمة على بقائه عند أمه، فالحضانة تدور مع حظ الولد لا مع جنس الحاضن.  
 - الرابط: <https://www.islamweb.net/ar/library/content/25/7388/فصل-في-الحضانة>
 
-### بطاقة 398 — تحفة المحتاج — قسمة الليل والنهار مبنية على الغالب
+### بطاقة 390 — تحفة المحتاج — قسمة الليل والنهار مبنية على الغالب
 **المؤلف/الجهة:** ابن حجر الهيتمي، شارحا منهاج الطالبين  
 **المصدر:** تحفة المحتاج وحاشيتا ابن قاسم العبادي والشرواني · 8/362  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4975,7 +4873,7 @@
 **الاستدلال:** نبه ابن حجر الهيتمي إلى أن قسمة الليل والنهار مبنية على الغالب وقد تنعكس، فالمقصود توزيع الرعاية بحسب حال الولد، لا توقيت جامد يحرم الأب.  
 - الرابط: <https://www.islamweb.net/ar/library/content/20/8775/فصل-في-الحضانة-وهل-انتهائها-في-الصغير-بالبلوغ-أم-بالتمييز>
 
-### بطاقة 399 — حاشية ابن قاسم — احتمال الإقامة المتناوبة يوما أو أسبوعا
+### بطاقة 391 — حاشية ابن قاسم — احتمال الإقامة المتناوبة يوما أو أسبوعا
 **المؤلف/الجهة:** أحمد ابن قاسم العبادي في حاشيته على تحفة المحتاج، ناقلا أولا عن الروض وشرحه ثم مستنبطا  
 **المصدر:** تحفة المحتاج وحاشيتا ابن قاسم العبادي والشرواني · 8/361، حاشية ابن قاسم  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4986,7 +4884,7 @@
 **الاستدلال:** استخرج ابن قاسم العبادي من تعليل التخيير احتمال أن يكون الولد عند كل من أبويه مدة كيوم أو أسبوع، وهو تصور فقهي قديم للإقامة المتناوبة التي تأخذ بها القوانين الحديثة.  
 - الرابط: <https://www.islamweb.net/ar/library/content/20/8775/فصل-في-الحضانة-وهل-انتهائها-في-الصغير-بالبلوغ-أم-بالتمييز>
 
-### بطاقة 400 — مغني المحتاج — يزور الأب غير المميز ويلاحظه
+### بطاقة 392 — مغني المحتاج — يزور الأب غير المميز ويلاحظه
 **المؤلف/الجهة:** الخطيب الشربيني في مغني المحتاج، نقله الشرواني في حاشية التحفة  
 **المصدر:** تحفة المحتاج وحاشيتا ابن قاسم العبادي والشرواني · 8/362، حاشية الشرواني عند «ويزورها الأب على العادة»  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -4997,7 +4895,7 @@
 **الاستدلال:** حتى غير المميز الذي يكون عند أمه ليلا ونهارا يزوره الأب ويلاحظه؛ فلا يغيب الأب عن ولده في أي سن.  
 - الرابط: <https://www.islamweb.net/ar/library/content/20/8775/فصل-في-الحضانة-وهل-انتهائها-في-الصغير-بالبلوغ-أم-بالتمييز>
 
-### بطاقة 401 — إعانة الطالبين — منع الزيارة سعي في العقوق وقطع الرحم
+### بطاقة 393 — إعانة الطالبين — منع الزيارة سعي في العقوق وقطع الرحم
 **المؤلف/الجهة:** البكري الدمياطي  
 **المصدر:** إعانة الطالبين · 4 · 4/117-118  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -5007,7 +4905,7 @@
 **الاستدلال:** صرح الدمياطي بأن منع أحد الأبوين ولده من الآخر سعي في العقوق وقطع الرحم، وأنه حرام؛ فالقانون الذي يحجب الأب سنين يقع في هذا التحريم.  
 - الرابط: <https://shamela.ws/book/963/1286>
 
-### بطاقة 402 — منهاج الطالبين — الليل عند الأم والنهار عند الأب
+### بطاقة 394 — منهاج الطالبين — الليل عند الأم والنهار عند الأب
 **المؤلف/الجهة:** النووي (ت 676 هـ)  
 **المصدر:** منهاج الطالبين · كتاب النفقات، فصل الحضانة  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -5018,7 +4916,7 @@
 **الاستدلال:** نص الشافعية على أن الذكر إن اختار أمه كان عندها ليلا وعند أبيه نهارا يؤدبه ويسلمه للكتاب أو الحرفة؛ فالرعاية المشتركة بالمناصفة مذهب مدون، وعلتها أن التأديب والتعليم يبدآن بالتمييز.  
 - النص في مصدره: <https://shamela.ws/book/12096/297>
 
-### بطاقة 403 — منهاج الطالبين — زيارة الأم لابنتها
+### بطاقة 395 — منهاج الطالبين — زيارة الأم لابنتها
 **المؤلف/الجهة:** النووي (ت 676 هـ)  
 **المصدر:** منهاج الطالبين · كتاب النفقات، فصل الحضانة  
 **الجهة/المذهب:** المذهب الشافعي  
@@ -5031,7 +4929,7 @@
 
 ## الفقه الحنبلي
 
-### بطاقة 404 — كشاف القناع — قيد بالسبع لأنها أول حال أمر الشرع فيها بمخاطبته بالصلاة
+### بطاقة 396 — كشاف القناع — قيد بالسبع لأنها أول حال أمر الشرع فيها بمخاطبته بالصلاة
 **المؤلف/الجهة:** منصور بن يونس البهوتي ت 1051 ه  
 **الجهة/المذهب:** الفقه الحنبلي (المعتمد في الفتوى)  
 
@@ -5041,7 +4939,7 @@
 **عن المصدر:** كشاف القناع للبهوتي هو عمدة الفتوى في المذهب الحنبلي المتأخر، والمتن (الإقناع للحجاوي) معتمد المذهب. النص يعلل ربط انتهاء حضانة النساء بالسابعة بأنها أول سن يخاطب فيها الصبي بالأمر بالصلاة، ويعلل تقديم الأم في الصغر بالحاجة إلى حمله وخدمته لا بأصل عام. — **درجة الدليل:** نص فقهي معتمد (عمدة الفتوى في المذهب الحنبلي)  
 - النص في مصدره: <https://shamela.ws/book/21642/2667>
 
-### بطاقة 405 — الكافي — الجارية في السابعة عند أبيها بلا تخيير
+### بطاقة 397 — الكافي — الجارية في السابعة عند أبيها بلا تخيير
 **المؤلف/الجهة:** ابن قدامة  
 **المصدر:** الكافي في فقه الإمام أحمد · 3 · 3/247  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5051,7 +4949,7 @@
 **الاستدلال:** علل ابن قدامة جعل الجارية عند أبيها في السابعة بحاجتها إلى الحفظ، وبأنها تقارب الصلاحية للتزويج وتخطب من أبيها؛ وهذا موافق لما يقرره علم الأحياء البشري من سبق الأنثى إلى البلوغ بنحو سنتين، فحاجتها إلى صيانة أبيها أسبق من حاجة الغلام.  
 - الرابط: <https://shamela.ws/book/21731/1137>
 
-### بطاقة 406 — الإقناع — الجارية إذا بلغت سبعا فعند أبيها
+### بطاقة 398 — الإقناع — الجارية إذا بلغت سبعا فعند أبيها
 **المؤلف/الجهة:** الحجاوي  
 **المصدر:** الإقناع · 4 · 4/160-161  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5061,7 +4959,7 @@
 **الاستدلال:** نص الحجاوي على أن الجارية إذا بلغت سبعا كانت عند أبيها وجوبا، ولا يمنع أحدهما من زيارتها؛ فالحنابلة ينقلون البنت إلى أبيها عند التمييز.  
 - الرابط: <https://shamela.ws/book/7360/1786>
 
-### بطاقة 407 — الروض المربع — أبو الأنثى أحق بها بعد السبع
+### بطاقة 399 — الروض المربع — أبو الأنثى أحق بها بعد السبع
 **المؤلف/الجهة:** البهوتي  
 **المصدر:** الروض المربع · ص 630  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5071,7 +4969,7 @@
 **الاستدلال:** نص البهوتي على أن أبا الأنثى أحق بها بعد السبع لأنه أحفظ لها وأحق بولايتها، ولا تمنع الأم من زيارتها؛ فالانتقال إلى الأب لا يقطع الأم.  
 - الرابط: <https://shamela.ws/book/1679/629>
 
-### بطاقة 408 — مختصر الخرقي — التخيير عند السابعة
+### بطاقة 400 — مختصر الخرقي — التخيير عند السابعة
 **المؤلف/الجهة:** الخرقي (ت 334 هـ)  
 **المصدر:** المختصر · باب الحضانة  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5082,7 +4980,7 @@
 **الاستدلال:** جعل الحنابلة السابعة حد التخيير في الغلام وحد انتقال الجارية إلى أبيها؛ لأن السابعة عندهم سن التمييز الذي يعقل فيه الصبي حظ نفسه، وتحتاج فيه الجارية إلى الحفظ. وقد وافقهم علم الأحياء البشري في أن الأنثى تسبق الذكر إلى البلوغ بنحو سنتين، فلا وجه لتأخيرها عن الغلام. والتخيير عند من قال به إنما يكون بين أبوين صحبهما الصغير جميعا، ولا يكون مع تغييب أو إضرار أو حرمان.  
 - النص في مصدره: <https://shamela.ws/book/2977/175>
 
-### بطاقة 409 — المغني — علة دفع الجارية إلى أبيها
+### بطاقة 401 — المغني — علة دفع الجارية إلى أبيها
 **المؤلف/الجهة:** ابن قدامة (ت 620 هـ)  
 **المصدر:** المغني · كتاب النفقات، باب الحضانة  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5093,7 +4991,7 @@
 **الاستدلال:** علل ابن قدامة نقل الجارية إلى أبيها في السابعة بحاجتها إلى الحفظ وبأن الأب وليها الذي تخطب منه. وهي حاجة تنشأ بالتمييز وتشتد بقرب البلوغ، والأنثى أسبق إليه من الذكر بنحو سنتين كما يقرر علم الأحياء البشري، فالتعليل الحنبلي موافق للعلم.  
 - النص في مصدره: <https://shamela.ws/book/8463/3617>
 
-### بطاقة 410 — المغني — لماذا السابعة
+### بطاقة 402 — المغني — لماذا السابعة
 **المؤلف/الجهة:** ابن قدامة (ت 620 هـ)  
 **المصدر:** المغني · كتاب النفقات، باب الحضانة  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5104,7 +5002,7 @@
 **الاستدلال:** صرح ابن قدامة بعلة السابعة: أنها أول سن خاطب فيها الشرع الصبي بالأمر بالصلاة، والخطاب لا يتوجه إلا إلى من يعقل؛ فالسابعة حد التمييز، وبه نيط التخيير وانتهاء حضانة الأم المنفردة.  
 - النص في مصدره: <https://shamela.ws/book/8463/3616>
 
-### بطاقة 411 — المغني — إذا بلغ الغلام سبعا خير، والأب أحق به عند أبي حنيفة إذا استقل، والأم حتى يثغر في رواية عن مالك
+### بطاقة 403 — المغني — إذا بلغ الغلام سبعا خير، والأب أحق به عند أبي حنيفة إذا استقل، والأم حتى يثغر في رواية عن مالك
 **المؤلف/الجهة:** ابن قدامة المقدسي ت 620 ه  
 **الجهة/المذهب:** الفقه الحنبلي، مع حكاية مذهب مالك ومذهب أبي حنيفة  
 
@@ -5115,7 +5013,7 @@
 - النص في مصدره: <https://shamela.ws/book/8463/3615>
 - المصدر الثاني: <https://shamela.ws/book/8463/3616>
 
-### بطاقة 412 — ابن تيمية — الأب يهذب ولده ويرزقه وينصره
+### بطاقة 404 — ابن تيمية — الأب يهذب ولده ويرزقه وينصره
 **المؤلف/الجهة:** ابن تيمية (ت 728 هـ)  
 **المصدر:** من كلامه في معنى اليتيم  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5125,7 +5023,7 @@
 **الاستدلال:** جعل ابن تيمية علة اليتم فقد الأب، لأن الأب هو الذي يهذب ولده ويرزقه وينصره؛ ففرق بين التهذيب والرزق، وجعلهما معا للأب بموجب الفطرة. فوظيفة الأب تهذيب وتربية لا نفقة وحدها، والولد المحجوب عن أبيه في حياته يلحقه من معنى اليتم ما يلحق من فقد أباه.  
 - الرابط: <https://www.alukah.net/hosnihamama/8/107788/%d9%81%d8%b6%d9%84-%d9%83%d9%81%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a3%d9%8a%d8%aa%d8%a7%d9%85/>
 
-### بطاقة 413 — الآداب الشرعية — التعليم واجب على الوالدين معا
+### بطاقة 405 — الآداب الشرعية — التعليم واجب على الوالدين معا
 **المؤلف/الجهة:** ابن مفلح (ت 763 هـ)  
 **المصدر:** الآداب الشرعية والمنح المرعية · 1/433، نقلا عن المستوعب  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5136,7 +5034,7 @@
 - الرابط: <https://www.islamweb.net/ar/library/content/43/169/%D9%81%D8%B5%D9%84-%D9%81%D9%8A-%D8%A8%D8%B1-%D8%A7%D9%84%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%88%D8%B7%D8%A7%D8%B9%D8%AA%D9%87%D9%85%D8%A7-%D9%88%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1-%D9%88%D8%A7%D9%84%D8%B2%D9%88%D8%AC-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D9%8A-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D8%B5%D9%8A%D8%A9>
 - الرابط: <https://www.islamweb.net/ar/library/bookinfo.php?bk_no=43>
 
-### بطاقة 414 — الآداب الشرعية — الأب يختار لابنه بداية تعليمه
+### بطاقة 406 — الآداب الشرعية — الأب يختار لابنه بداية تعليمه
 **المؤلف/الجهة:** ابن مفلح (ت 763 هـ)  
 **المصدر:** الآداب الشرعية والمنح المرعية · فصل في طلب العلم  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5147,7 +5045,7 @@
 - الرابط: <https://www.islamweb.net/ar/library/content/43/194/%D9%81%D8%B5%D9%84-%D9%81%D9%8A-%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D9%88%D9%85%D8%A7-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A8%D9%87-%D9%85%D9%86%D9%87-%D9%88%D9%85%D8%A7-%D9%87%D9%88-%D9%81%D8%B1%D9%8A%D8%B6%D8%A9-%D9%85%D9%86%D9%87-%D9%88%D9%81%D8%B6%D9%84-%D8%A3%D9%87%D9%84%D9%87>
 - الرابط: <https://www.islamweb.net/ar/library/bookinfo.php?bk_no=43>
 
-### بطاقة 415 — المغني — البعد يعطل الرؤية والتأديب والتعليم
+### بطاقة 407 — المغني — البعد يعطل الرؤية والتأديب والتعليم
 **المؤلف/الجهة:** ابن قدامة  
 **المصدر:** المغني · 8/193–194، فصل سفر أحد الأبوين  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5158,7 +5056,7 @@
 **الاستدلال:** جعل ابن قدامة علة تقديم الأب عند تباعد البلدين أن البعد يعطل رؤيته ولده وتأديبه وتعليمه؛ فمقصود الشرع بقاء هذه الوظائف للأب.  
 - الرابط: <https://www.islamweb.net/ar/library/content/15/5688/فصل-أي-الأبوين-أحق-بحضانة-الطفل-إذا-أراد-أحدهما-السفر>
 
-### بطاقة 416 — الكافي — عند الأم ليلا ويأخذه الأب نهارا
+### بطاقة 408 — الكافي — عند الأم ليلا ويأخذه الأب نهارا
 **المؤلف/الجهة:** ابن قدامة  
 **المصدر:** الكافي في فقه الإمام أحمد · 3/247  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5169,7 +5067,7 @@
 **الاستدلال:** نص ابن قدامة على الرعاية المقسومة في الغلام المميز، وعلل منع الزيارة بأنه إغراء بالعقوق وقطيعة الرحم؛ فالشركة في الرعاية مذهب الحنابلة.  
 - الرابط: <https://shamela.ws/book/21731/1137>
 
-### بطاقة 417 — الكافي — لا يمنع الولد من عيادة الوالد المريض
+### بطاقة 409 — الكافي — لا يمنع الولد من عيادة الوالد المريض
 **المؤلف/الجهة:** ابن قدامة  
 **المصدر:** الكافي في فقه الإمام أحمد · 3/247  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5180,7 +5078,7 @@
 **الاستدلال:** حفظ الحنابلة صلة الولد بالوالد الذي ليس عنده حتى في المرض، فالصلة بالأبوين قائمة في كل حال.  
 - الرابط: <https://shamela.ws/book/21731/1137>
 
-### بطاقة 418 — المبدع — التعليم والتأديب هو القصد من حفظ الولد
+### بطاقة 410 — المبدع — التعليم والتأديب هو القصد من حفظ الولد
 **المؤلف/الجهة:** برهان الدين إبراهيم ابن مفلح  
 **المصدر:** المبدع في شرح المقنع · باب الحضانة، شرح حكم تخيير الغلام  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5191,7 +5089,7 @@
 **الاستدلال:** صرح ابن مفلح بأن تعليم الولد وتأديبه هو القصد من حفظه، وهذا عمل الأب نهارا؛ فالحضانة وسيلة إلى هذا المقصد لا غاية تحجب الأب.  
 - الرابط: <https://www.islamicbook.ws/asol/hanbali/almbda-shrh-almqna-019.html>
 
-### بطاقة 419 — منار السبيل — زيارات متبادلة وتعليم الأب نهارا
+### بطاقة 411 — منار السبيل — زيارات متبادلة وتعليم الأب نهارا
 **المؤلف/الجهة:** إبراهيم ابن ضويان  
 **المصدر:** منار السبيل في شرح الدليل · فصل تخيير الصبي في باب الحضانة  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5202,7 +5100,7 @@
 **الاستدلال:** جعل ابن ضويان الصبي عند أبيه نهارا لئلا يضيع، ولأن النهار وقت التعلم والصنائع، ومنع المنع من الزيارة في الاتجاهين.  
 - الرابط: <https://www.islamicbook.ws/asol/hanbali/mnar-alsbil-004.html>
 
-### بطاقة 420 — الإنصاف — لا يجاب المضار المنتزع للولد
+### بطاقة 412 — الإنصاف — لا يجاب المضار المنتزع للولد
 **المؤلف/الجهة:** ابن القيم في الهدى، ثم ابن مفلح في الفروع، ثم تعقيب المرداوي في الإنصاف  
 **المصدر:** الإنصاف في معرفة الراجح من الخلاف · 9/427–428  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5213,7 +5111,7 @@
 **الاستدلال:** قرر ابن القيم والمرداوي أن من قصد مضارة الآخر وانتزاع الولد لا يجاب، وأن المدار مصلحة الطفل؛ فالحرمان المقصود لا يقره الشرع.  
 - الرابط: <https://www.islamweb.net/ar/library/content/26/4803/باب-الحضانة>
 
-### بطاقة 421 — الإنصاف — لا يقر الطفل بيد من لا يصونه ويصلحه
+### بطاقة 413 — الإنصاف — لا يقر الطفل بيد من لا يصونه ويصلحه
 **المؤلف/الجهة:** المرداوي  
 **المصدر:** الإنصاف في معرفة الراجح من الخلاف · آخر باب الحضانة، الفائدة الرابعة قبل كتاب الجنايات  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5223,7 +5121,7 @@
 **الاستدلال:** الصيانة والإصلاح شرط لبقاء يد الحاضن، فمن أهمل التأديب والتعليم أو قطع الطفل عن أبيه فقد ضيع شرط حضانته.  
 - الرابط: <https://www.islamicbook.ws/asol/hanbali/alinsaf-023.html>
 
-### بطاقة 422 — كشاف القناع — التعليم والتمريض والزيارة لا تسقط باختيار أحد الأبوين
+### بطاقة 414 — كشاف القناع — التعليم والتمريض والزيارة لا تسقط باختيار أحد الأبوين
 **المؤلف/الجهة:** البهوتي  
 **المصدر:** كشاف القناع عن متن الإقناع · باب الحضانة، بعد قوله: ولا يخير قبل سبع  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5234,7 +5132,7 @@
 **الاستدلال:** نص البهوتي على أن اختيار الغلام أحد أبويه لا يسقط حق الآخر في الزيارة ولا حق الأب في التعليم نهارا، وأن التخيير مشروط بأهلية الأبوين.  
 - الرابط: <https://www.islamweb.net/ar/library/content/16/8139/?idfrom=&idto=&start=>
 
-### بطاقة 423 — مجموع الفتاوى — ليس للأم أن تغيب الولد عن أبيه
+### بطاقة 415 — مجموع الفتاوى — ليس للأم أن تغيب الولد عن أبيه
 **المؤلف/الجهة:** ابن تيمية  
 **المصدر:** مجموع الفتاوى · 34/104  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5245,7 +5143,7 @@
 **الاستدلال:** قضى ابن تيمية بأن الأم إذا غيبت الولد عن أبيه بعد الحكم له لم يكن لها أن تطالبه بالنفقة؛ فالتغييب جناية على حق الأب يسقط بها ما كان لها، وهو شاهد لمعنى «لا تخيير مع تغييب».  
 - الرابط: <https://www.islamweb.net/ar/library/content/22/5855/مسألة-مطلقة-لها-ولد-وتزوجت-وكفلته-جدته-وغيبوه-سبع-سنين-هل-له-نفقة>
 
-### بطاقة 424 — مجموع الفتاوى — إذا عقل الأدب فوقت الأدب عند الأب
+### بطاقة 416 — مجموع الفتاوى — إذا عقل الأدب فوقت الأدب عند الأب
 **المؤلف/الجهة:** ابن تيمية، شارحا رواية حنبل عن أحمد بعد نقل أبي البركات  
 **المصدر:** مجموع الفتاوى · 34/113–114، فصل حضانة الصغير المميز  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5256,7 +5154,7 @@
 **الاستدلال:** رواية عن أحمد شرحها ابن تيمية: إذا كبر الصبي وصار يعقل الأدب كان وقت الأدب عند أبيه؛ فالعقل والتمييز علة انتقال الأدب إلى الأب.  
 - الرابط: <https://www.islamweb.net/ar/library/content/22/5869/فصل-في-حضانة-الصغير-المميز>
 
-### بطاقة 425 — مجموع الفتاوى — لا يقال كل أم أصلح من الأب
+### بطاقة 417 — مجموع الفتاوى — لا يقال كل أم أصلح من الأب
 **المؤلف/الجهة:** ابن تيمية  
 **المصدر:** مجموع الفتاوى · 34/121–122، سياق تخيير المميز وتكافؤ الأبوين  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5267,7 +5165,7 @@
 **الاستدلال:** نفى ابن تيمية أن تكون الأم أصلح مطلقا أو الأب أصلح مطلقا، فالحكم يدور مع المصلحة؛ وهذا يهدم دعوى تقديم الأم تقديما مطلقا إلى الخامسة عشرة.  
 - الرابط: <https://www.islamweb.net/ar/library/content/22/5869/فصل-في-حضانة-الصغير-المميز>
 
-### بطاقة 426 — الروض المربع — لا يقر محضون بيد من لا يصونه
+### بطاقة 418 — الروض المربع — لا يقر محضون بيد من لا يصونه
 **المؤلف/الجهة:** البهوتي  
 **المصدر:** الروض المربع · ص 630  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5277,7 +5175,7 @@
 **الاستدلال:** جمع البهوتي بين الرعاية المقسومة للغلام وبين قاعدة أن المحضون لا يقر بيد من لا يصونه ويصلحه؛ فالحضانة أمانة تسقط بالتضييع.  
 - الرابط: <https://shamela.ws/book/1679/629>
 
-### بطاقة 427 — الإقناع — التخيير مشروط بالسلامة من الفساد
+### بطاقة 419 — الإقناع — التخيير مشروط بالسلامة من الفساد
 **المؤلف/الجهة:** الحجاوي  
 **المصدر:** الإقناع، تقييد التخيير بالمصلحة  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5287,7 +5185,7 @@
 **الاستدلال:** نقل الحجاوي عن ابن عقيل أن الصبي إن اختار من يمكنه من الفساد ويكره الآخر للأدب لم يعمل باختياره؛ فالتخيير ليس هوى، وإنما يكون بين أبوين صالحين صحبهما الصبي.  
 - الرابط: <https://shamela.ws/book/7360/1786>
 
-### بطاقة 428 — المغني — الليل عند الأم والنهار عند الأب
+### بطاقة 420 — المغني — الليل عند الأم والنهار عند الأب
 **المؤلف/الجهة:** ابن قدامة (ت 620 هـ)  
 **المصدر:** المغني · كتاب النفقات، باب الحضانة  
 **الجهة/المذهب:** المذهب الحنبلي  
@@ -5300,7 +5198,7 @@
 
 ## الفقه المقارن والتربية الإسلامية
 
-### بطاقة 429 — الغزالي — لا يسامح الصبي في ترك الطهارة والصلاة إذا بلغ سن التمييز
+### بطاقة 421 — الغزالي — لا يسامح الصبي في ترك الطهارة والصلاة إذا بلغ سن التمييز
 **المؤلف/الجهة:** أبو حامد الغزالي (ت 505 هـ)  
 **المصدر:** إحياء علوم الدين · كتاب رياضة النفس، بيان الطريق في رياضة الصبيان  
 **الجهة/المذهب:** التراث التربوي الإسلامي  
@@ -5311,7 +5209,7 @@
 **الاستدلال:** يجعل الغزالي السابعة مبدأ أخذ الصبي بالطهارة والصلاة، لأنها سن يعقل فيها الأمر؛ وهذا التأديب من شأن الأب، فلا يستقيم أن يحجب عنه في السن التي يبدأ فيها.  
 - النص في مصدره: <https://shamela.ws/book/9472/819>
 
-### بطاقة 430 — تحفة المودود — إذا صار له سبع سنين دخل في سن التمييز وأمر بالصلاة
+### بطاقة 422 — تحفة المودود — إذا صار له سبع سنين دخل في سن التمييز وأمر بالصلاة
 **المؤلف/الجهة:** ابن قيم الجوزية ت 751 ه  
 **الجهة/المذهب:** الفقه الحنبلي (ابن القيم)  
 
@@ -5322,7 +5220,7 @@
 - النص في مصدره: <https://shamela.ws/book/6266/289>
 - المصدر الثاني: <https://shamela.ws/book/6266/290>
 
-### بطاقة 431 — لسان العرب — كانوا يحبون أن يعلموا الصبي الصلاة إذا اثغر: الإثغار سقوط الأسنان ونباتها
+### بطاقة 423 — لسان العرب — كانوا يحبون أن يعلموا الصبي الصلاة إذا اثغر: الإثغار سقوط الأسنان ونباتها
 **المؤلف/الجهة:** ابن منظور ت 711 ه، ناقلا عن أبي زيد الأنصاري وشمر بن حمدويه، وفيه أثر إبراهيم النخعي  
 **الجهة/المذهب:** اللغة وغريب الحديث (أثر عن التابعين)  
 
@@ -5333,7 +5231,7 @@
 - النص في مصدره: <https://shamela.ws/book/1687/2064>
 - النهاية لابن الأثير: <https://shamela.ws/book/23691/211>
 
-### بطاقة 432 — تقرير في شرط التخيير — لا تخيير بعد الحرمان
+### بطاقة 424 — تقرير في شرط التخيير — لا تخيير بعد الحرمان
 **المؤلف/الجهة:** تحقيق مستنبط من نصوص المذاهب  
 **المصدر:** تقرير في شرط التخيير  
 **الجهة/المذهب:** استنباط من نصوص المذاهب  
@@ -5342,7 +5240,7 @@
 
 **الاستدلال:** شرط التخيير معرفة الصغير بأبويه جميعا، ولا معرفة بلا صحبة؛ فالرعاية المشتركة بالمناصفة قبل السابعة شرط لصحة التخيير بعدها، لا منة يمن بها على الأب.  
 
-### بطاقة 433 — زاد المعاد — التخيير مقيد بمصلحة الولد
+### بطاقة 425 — زاد المعاد — التخيير مقيد بمصلحة الولد
 **المؤلف/الجهة:** ابن القيم (ت 751 هـ)  
 **المصدر:** زاد المعاد في هدي خير العباد · فصل في الحضانة  
 **الجهة/المذهب:** الفقه المقارن  
@@ -5353,7 +5251,7 @@
 **الاستدلال:** التخيير عند المحققين وسيلة إلى مصلحة الولد لا غاية في نفسه، فلا يصح أن يجري بين من يصلحه ومن يضره، ولا بعد أن يحرم الصغير من أحد أبويه فيختار من ألف دون من غيب عنه.  
 - النص في مصدره: <https://shamela.ws/book/21713/2312>
 
-### بطاقة 434 — إحياء علوم الدين — الصبي أمانة عند والديه
+### بطاقة 426 — إحياء علوم الدين — الصبي أمانة عند والديه
 **المؤلف/الجهة:** أبو حامد الغزالي (ت 505 هـ)  
 **المصدر:** إحياء علوم الدين · كتاب رياضة النفس، بيان الطريق في رياضة الصبيان  
 **الجهة/المذهب:** التراث التربوي الإسلامي  
@@ -5364,7 +5262,7 @@
 **الاستدلال:** جعل الغزالي الصبي أمانة عند والديه معا لا عند أحدهما، فالأمانة مشتركة، ولا يؤدي الأب أمانته ممنوعا من ولده.  
 - النص في مصدره: <https://shamela.ws/book/9472/818>
 
-### بطاقة 435 — تحفة المودود — إهمال تعليم الولد غاية الإساءة
+### بطاقة 427 — تحفة المودود — إهمال تعليم الولد غاية الإساءة
 **المؤلف/الجهة:** ابن القيم (ت 751 هـ)  
 **المصدر:** تحفة المودود بأحكام المولود · الباب السادس عشر، فصل في وجوب تأديب الأولاد  
 **الجهة/المذهب:** التراث التربوي الإسلامي  
@@ -5375,7 +5273,7 @@
 **الاستدلال:** جعل ابن القيم ترك تعليم الولد غاية الإساءة إليه، وتعليمه بعد التمييز عمل الأب؛ فحرمان الأب من ولده سنين إيقاع للولد في هذه الإساءة.  
 - النص في مصدره: <https://shamela.ws/book/6266/227>
 
-### بطاقة 436 — تحفة المودود — فساد الأولاد من إهمال الآباء
+### بطاقة 428 — تحفة المودود — فساد الأولاد من إهمال الآباء
 **المؤلف/الجهة:** ابن القيم (ت 751 هـ)  
 **المصدر:** تحفة المودود بأحكام المولود · باب في وجوب تأديب الأولاد  
 **الجهة/المذهب:** التراث التربوي الإسلامي  
@@ -5386,7 +5284,7 @@
 **الاستدلال:** جعل ابن القيم فساد أكثر الأولاد من قبل الآباء وإهمالهم، فدل على أن صلاح الولد منوط بقيام الأب على تعليمه بعد أن يميز؛ وإبعاد الأب عنه تعطيل لأعظم أسباب صلاحه.  
 - النص في مصدره: <https://shamela.ws/book/6266/227>
 
-### بطاقة 437 — لسان العرب — حد الطفل
+### بطاقة 429 — لسان العرب — حد الطفل
 **المؤلف/الجهة:** ابن منظور (ت 711 هـ)  
 **المصدر:** لسان العرب · مادة طفل  
 **الجهة/المذهب:** معاجم العربية  
@@ -5397,7 +5295,7 @@
 **الاستدلال:** حد الطفل في اللغة من الولادة إلى الاحتلام، فمن احتلم خرج من اسم الطفولة، ولا يبقى عليه شيء من أحكامها.  
 - النص في مصدره: <https://shamela.ws/book/1687/5580>
 
-### بطاقة 438 — الموسوعة الفقهية — الصغر إلى البلوغ
+### بطاقة 430 — الموسوعة الفقهية — الصغر إلى البلوغ
 **المؤلف/الجهة:** وزارة الأوقاف الكويتية  
 **المصدر:** الموسوعة الفقهية الكويتية · مادتا «صغر» و«طفل»  
 **الجهة/المذهب:** الكويت — وزارة الأوقاف  
@@ -5408,7 +5306,7 @@
 **الاستدلال:** تقطع الموسوعة الفقهية بأن الصغر وصف ينتهي بالبلوغ، فالحضانة التي تمتد بعد البلوغ حضانة لغير صغير.  
 - النص في مصدره: <https://shamela.ws/book/11430/16645>
 
-### بطاقة 439 — فقه اللغة — سقوط الأسنان ونباتها
+### بطاقة 431 — فقه اللغة — سقوط الأسنان ونباتها
 **المؤلف/الجهة:** الثعالبي (ت 429 هـ)  
 **المصدر:** فقه اللغة وسر العربية · باب في ترتيب سن الغلام  
 **الجهة/المذهب:** معاجم العربية  
@@ -5419,7 +5317,7 @@
 **الاستدلال:** ربطت العرب تبدل اسم الصبي بسقوط أسنانه ونباتها نحو السابعة، فعرفت اللغة حد التمييز قبل أن يقرره الفقه.  
 - النص في مصدره: <https://shamela.ws/book/11235/64>
 
-### بطاقة 440 — زاد المعاد — لا تقديم مطلق لأحد الأبوين
+### بطاقة 432 — زاد المعاد — لا تقديم مطلق لأحد الأبوين
 **المؤلف/الجهة:** ابن القيم ناقلا عن ابن تيمية (ت 751 هـ)  
 **المصدر:** زاد المعاد · فصل في الحضانة  
 **الجهة/المذهب:** الفقه المقارن  
@@ -5432,184 +5330,184 @@
 
 ## الأدلة المتضافرة
 
-### بطاقة 441 — القرآن والأمم المتحدة على حد واحد: الطفولة تنتهي بالبلوغ
+### بطاقة 433 — القرآن والأمم المتحدة على حد واحد: الطفولة تنتهي بالبلوغ
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> ﴿وَإِذَا بَلَغَ الْأَطْفَالُ مِنكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا كَمَا اسْتَأْذَنَ الَّذِينَ مِن قَبْلِهِمْ﴾ (سورة النور — بطاقة 327) ◆ «المراهقة هي طور الحياة الواقع بين الطفولة والرشد، من سن 10 إلى 19» (الأمم المتحدة · منظمة الصحة العالمية — بطاقة 1) ◆ «المراهقون، الذين تعرفهم الأمم المتحدة بمن هم بين سن 10 و19 سنة، يعيشون فترة انتقال بين الطفولة والرشد» (الأمم المتحدة · اليونيسف — بطاقة 208) ◆
+> ﴿وَإِذَا بَلَغَ الْأَطْفَالُ مِنكُمُ الْحُلُمَ فَلْيَسْتَأْذِنُوا كَمَا اسْتَأْذَنَ الَّذِينَ مِن قَبْلِهِمْ﴾ (سورة النور — بطاقة 319) ◆ «المراهقة هي طور الحياة الواقع بين الطفولة والرشد، من سن 10 إلى 19» (الأمم المتحدة · منظمة الصحة العالمية — بطاقة 1) ◆ «المراهقون، الذين تعرفهم الأمم المتحدة بمن هم بين سن 10 و19 سنة، يعيشون فترة انتقال بين الطفولة والرشد» (الأمم المتحدة · اليونيسف — بطاقة 201) ◆
 
 **الاستدلال:** القرآن جعل بلوغ الحلم حدا يخرج به الصغير من حكم الأطفال، ومنظمة الصحة العالمية واليونيسف تبدآن المراهقة من العاشرة. فمن جعل المراهق «طفلا» يحتاج حضانة النساء خالف نص القرآن، وخالف الهيئات الدولية التي يحتج بها هو نفسه.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- سورة النور — بطاقة 327: <https://quran.com/24/59>
+- سورة النور — بطاقة 319: <https://quran.com/24/59>
 - منظمة الصحة العالمية — بطاقة 1: <https://www.who.int/health-topics/adolescent-health>
-- اليونيسف — بطاقة 208: <https://data.unicef.org/topic/adolescents/overview/>
+- اليونيسف — بطاقة 201: <https://data.unicef.org/topic/adolescents/overview/>
 
-### بطاقة 442 — سن الأمر بالصلاة هو سن الانتقال إلى الأب: النبي أمر الآباء، والأب لا يأمر ولدا ليس عنده
+### بطاقة 434 — سن الأمر بالصلاة هو سن الانتقال إلى الأب: النبي أمر الآباء، والأب لا يأمر ولدا ليس عنده
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «مروا أولادكم بالصلاة وهم أبناء سبع سنين» (سنن أبي داود — بطاقة 328) ◆ «أن الفتوى على قول الخصاف من التقدير بالسبع؛ لأن الأب مأمور بأن يأمره بالصلاة إذا بلغها، وإنما يكون ذلك إذا كان الولد عنده.» (البحر الرائق — بطاقة 351) ◆ «وقيد بالسبع لأنها أول حال أمر الشرع فيها بمخاطبته بالصلاة بخلاف الأم فإنها قدمت في حال الصغر لحاجته إلى حمله ومباشرة خدمته» (كشاف القناع — بطاقة 404) ◆
+> «مروا أولادكم بالصلاة وهم أبناء سبع سنين» (سنن أبي داود — بطاقة 320) ◆ «أن الفتوى على قول الخصاف من التقدير بالسبع؛ لأن الأب مأمور بأن يأمره بالصلاة إذا بلغها، وإنما يكون ذلك إذا كان الولد عنده.» (البحر الرائق — بطاقة 343) ◆ «وقيد بالسبع لأنها أول حال أمر الشرع فيها بمخاطبته بالصلاة بخلاف الأم فإنها قدمت في حال الصغر لحاجته إلى حمله ومباشرة خدمته» (كشاف القناع — بطاقة 396) ◆
 
 **الاستدلال:** الأمر النبوي في السابعة موجه إلى الآباء، والفقهاء من الحنفية والحنابلة بنوا عليه حد الحضانة. فإبقاء الولد عند الحاضنة بعد السابعة يعطل على الأب واجبا شرعيا لا يقوم به إلا والولد عنده.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- سنن أبي داود — بطاقة 328: <https://sunnah.com/abudawud:495>
-- البحر الرائق — بطاقة 351: <https://islamweb.net/ar/library/content/29/2269/>
-- كشاف القناع — بطاقة 404: <https://shamela.ws/book/21642/2667>
+- سنن أبي داود — بطاقة 320: <https://sunnah.com/abudawud:495>
+- البحر الرائق — بطاقة 343: <https://islamweb.net/ar/library/content/29/2269/>
+- كشاف القناع — بطاقة 396: <https://shamela.ws/book/21642/2667>
 
-### بطاقة 443 — مصر نفسها أفتت بها: سبع وتسع ثم الأب، بفتوى شيخ الأزهر ومفتي الديار المصرية
+### بطاقة 435 — مصر نفسها أفتت بها: سبع وتسع ثم الأب، بفتوى شيخ الأزهر ومفتي الديار المصرية
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «تنتهي حضانة الذكر باستغنائه وقدر بسبع سنين على ما به يفتى فإذا بلغ سن الصغير المذكور سبع سنين يكون لأبيه أخذه وضمه إلى نفسه» (مصر · الفتاوى المهدية — بطاقة 300) ◆ «مدة حضانة الغلام تنتهى إذا بلغ سبع سنين ومدة حضانة الصبية ببلوغها تسع سنين وللأب حينئذ أخذهما من الحاضنة» (مصر · فتوى محمد بخيت 1917 — بطاقة 298) ◆ «حق الحضانة يثبت للنساء من حين ولادة الصغير إلى سن معينة حددت بسبع سنين بالنسبة للصغير وتسع سنين بالنسبة للصغيرة» (مصر · فتوى أحمد هريدي 1967 — بطاقة 299) ◆
+> «تنتهي حضانة الذكر باستغنائه وقدر بسبع سنين على ما به يفتى فإذا بلغ سن الصغير المذكور سبع سنين يكون لأبيه أخذه وضمه إلى نفسه» (مصر · الفتاوى المهدية — بطاقة 292) ◆ «مدة حضانة الغلام تنتهى إذا بلغ سبع سنين ومدة حضانة الصبية ببلوغها تسع سنين وللأب حينئذ أخذهما من الحاضنة» (مصر · فتوى محمد بخيت 1917 — بطاقة 290) ◆ «حق الحضانة يثبت للنساء من حين ولادة الصغير إلى سن معينة حددت بسبع سنين بالنسبة للصغير وتسع سنين بالنسبة للصغيرة» (مصر · فتوى أحمد هريدي 1967 — بطاقة 291) ◆
 
 **الاستدلال:** هذه فتوى مصر الرسمية في قضايا مصرية حقيقية، من شيخ الأزهر في القرن التاسع عشر إلى مفتي الجمهورية سنة 1967. فالسبع والتسع ليستا رأيا مستوردا ولا قولا شاذا، بل هما ما أفتى به أعلى مرجع ديني في مصر أكثر من قرن.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- الفتاوى المهدية — بطاقة 300: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA290>
-- فتوى محمد بخيت 1917 — بطاقة 298: <https://shamela.ws/book/432/684>
-- فتوى أحمد هريدي 1967 — بطاقة 299: <https://shamela.ws/book/432/705>
+- الفتاوى المهدية — بطاقة 292: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA290>
+- فتوى محمد بخيت 1917 — بطاقة 290: <https://shamela.ws/book/432/684>
+- فتوى أحمد هريدي 1967 — بطاقة 291: <https://shamela.ws/book/432/705>
 
-### بطاقة 444 — الفقه وعلم النفس على حد واحد: السابعة سن التمييز
+### بطاقة 436 — الفقه وعلم النفس على حد واحد: السابعة سن التمييز
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «سن السابعة إلى الثامنة، في المتوسط، يمثل نقطة تحول حاسمة في النمو» (سويسرا · بياجيه — بطاقة 41) ◆ «وقد وصفت في الأدبيات باسم أزمة السابعة قبل أن توصف المراحل العمرية الأخرى» (روسيا · فيجوتسكي — بطاقة 42) ◆ «حتى يستغني عن النساء وقدر بسبع وبه يفتى لأنه الغالب ولو اختلفا في سنه، فإن أكل وشرب ولبس واستنجى وحده دفع إليه» (الدر المختار — بطاقة 350) ◆
+> «سن السابعة إلى الثامنة، في المتوسط، يمثل نقطة تحول حاسمة في النمو» (سويسرا · بياجيه — بطاقة 41) ◆ «وقد وصفت في الأدبيات باسم أزمة السابعة قبل أن توصف المراحل العمرية الأخرى» (روسيا · فيجوتسكي — بطاقة 42) ◆ «حتى يستغني عن النساء وقدر بسبع وبه يفتى لأنه الغالب ولو اختلفا في سنه، فإن أكل وشرب ولبس واستنجى وحده دفع إليه» (الدر المختار — بطاقة 342) ◆
 
 **الاستدلال:** ما قدره الفقهاء بالسبع سماه بياجيه «نقطة تحول حاسمة» وسماه فيجوتسكي «أزمة السابعة». فمن طعن في السابعة طعن في الفقه وفي أعمدة علم نفس النمو معا.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
 - بياجيه — بطاقة 41: <https://archive.org/details/principlesofgene0000piag>
 - فيجوتسكي — بطاقة 42: <https://link.springer.com/book/10.1007/978-1-4615-5401-1>
-- الدر المختار — بطاقة 350: <https://shamela.ws/book/21613/1848>
+- الدر المختار — بطاقة 342: <https://shamela.ws/book/21613/1848>
 
-### بطاقة 445 — لا أفضلية فطرية للأم: الهرمون والتعلق وفقه ابن تيمية
+### بطاقة 437 — لا أفضلية فطرية للأم: الهرمون والتعلق وفقه ابن تيمية
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «ولم تكن هناك فروق بين أوكسيتوسين الأم وأوكسيتوسين الأب في أي نقطة زمنية» (إسرائيل · غوردون وفيلدمان 2010 — بطاقة 8) ◆ «لم يبد الرضع تفضيلا لأي من الوالدين في إظهار سلوكيات التعلق» (الولايات المتحدة · لامب 1977 — بطاقة 44) ◆ «فلا يمكن أن يقال: كل أب فهو أصلح للمميز من الأم ولا كل أم هي أصلح له من الأب» (ابن تيمية — بطاقة 425) ◆
+> «ولم تكن هناك فروق بين أوكسيتوسين الأم وأوكسيتوسين الأب في أي نقطة زمنية» (إسرائيل · غوردون وفيلدمان 2010 — بطاقة 8) ◆ «لم يبد الرضع تفضيلا لأي من الوالدين في إظهار سلوكيات التعلق» (الولايات المتحدة · لامب 1977 — بطاقة 44) ◆ «فلا يمكن أن يقال: كل أب فهو أصلح للمميز من الأم ولا كل أم هي أصلح له من الأب» (ابن تيمية — بطاقة 417) ◆
 
 **الاستدلال:** هرمون الارتباط عند الأب يساوي ما عند الأم، والرضيع يتعلق بأبويه معا، وشيخ الإسلام ينفي أن تكون كل أم أصلح من الأب. فدعوى أن الطفل للأم بطبعه تسقط بالطب وبالفقه معا.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
 - غوردون وفيلدمان 2010 — بطاقة 8: <https://pubmed.ncbi.nlm.nih.gov/20359699/>
 - لامب 1977 — بطاقة 44: <https://doi.org/10.2307/1128896>
-- ابن تيمية — بطاقة 425: <https://www.islamweb.net/ar/library/content/22/5869/فصل-في-حضانة-الصغير-المميز>
+- ابن تيمية — بطاقة 417: <https://www.islamweb.net/ar/library/content/22/5869/فصل-في-حضانة-الصغير-المميز>
 
-### بطاقة 446 — إقصاء الأب ليس مسألة رأي: الأرقام تثبت أنه يرفع الوفيات والانتحار
+### بطاقة 438 — إقصاء الأب ليس مسألة رأي: الأرقام تثبت أنه يرفع الوفيات والانتحار
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «بلغ معدل وفيات الرضع في الولادات مكتملة النمو للنساء المولودات في أمريكا 5.0 في الألف حين لم يقر الأب بالمولود، مقابل 2.0 في الألف حين أقر» (الولايات المتحدة · مستشفى لوري للأطفال 2023 — بطاقة 5) ◆ «ويمكن منع نحو 65–75% من الوفيات الزائدة بزيادة انخراط الأب» (الولايات المتحدة · أليو 2011 — بطاقة 6) ◆ «وكان خطر الانتحار أعلى بدلالة إحصائية عند الشباب الذكور من خلفية أسرة الوالد الواحد» (دراسة شمال فنلندا 2001 — بطاقة 125) ◆
+> «بلغ معدل وفيات الرضع في الولادات مكتملة النمو للنساء المولودات في أمريكا 5.0 في الألف حين لم يقر الأب بالمولود، مقابل 2.0 في الألف حين أقر» (الولايات المتحدة · مستشفى لوري للأطفال 2023 — بطاقة 5) ◆ «ويمكن منع نحو 65–75% من الوفيات الزائدة بزيادة انخراط الأب» (الولايات المتحدة · أليو 2011 — بطاقة 6) ◆ «وكان خطر الانتحار أعلى بدلالة إحصائية عند الشباب الذكور من خلفية أسرة الوالد الواحد» (دراسة شمال فنلندا 2001 — بطاقة 123) ◆
 
 **الاستدلال:** غياب الأب يرفع وفيات الرضع ويرفع انتحار الشباب في بيانات وطنية واسعة. فكل نظام يقطع الطفل عن أبيه يعرض حياته لخطر ثابت بالأرقام.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
 - مستشفى لوري للأطفال 2023 — بطاقة 5: <https://pubmed.ncbi.nlm.nih.gov/36372097/>
 - أليو 2011 — بطاقة 6: <https://pubmed.ncbi.nlm.nih.gov/20512407/>
-- دراسة شمال فنلندا 2001 — بطاقة 125: <https://doi.org/10.1093/eurpub/11.3.284>
+- دراسة شمال فنلندا 2001 — بطاقة 123: <https://doi.org/10.1093/eurpub/11.3.284>
 
-### بطاقة 447 — المناصفة أصلح للطفل: هذا ما تقوله أكبر الدراسات في العالم
+### بطاقة 439 — المناصفة أصلح للطفل: هذا ما تقوله أكبر الدراسات في العالم
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «كان الأطفال في الحضانة المشتركة، البدنية أو القانونية، أحسن توافقا من الأطفال في الحضانة المنفردة، ولم يختلفوا عن أطفال الأسر المتماسكة» (الولايات المتحدة · تحليل جامع 2002 — بطاقة 163) ◆ «وأفاد الأطفال الذين قضوا وقتا متساويا في العيش مع والديهم كليهما بعد الانفصال برفاه أفضل من أطفال رعاية الوالد الواحد» (السويد · مسح 164 ألف تلميذ سويدي — بطاقة 165) ◆ «ولم تجد أي دراسة سويدية أن صحة الأطفال في الحضانة المشتركة أسوأ منها في رعاية أحد الوالدين وحده من سن 3 سنوات فما فوق.» (السويد · فرانسون 2018 — بطاقة 166) ◆
+> «كان الأطفال في الحضانة المشتركة، البدنية أو القانونية، أحسن توافقا من الأطفال في الحضانة المنفردة، ولم يختلفوا عن أطفال الأسر المتماسكة» (الولايات المتحدة · تحليل جامع 2002 — بطاقة 156) ◆ «وأفاد الأطفال الذين قضوا وقتا متساويا في العيش مع والديهم كليهما بعد الانفصال برفاه أفضل من أطفال رعاية الوالد الواحد» (السويد · مسح 164 ألف تلميذ سويدي — بطاقة 158) ◆ «ولم تجد أي دراسة سويدية أن صحة الأطفال في الحضانة المشتركة أسوأ منها في رعاية أحد الوالدين وحده من سن 3 سنوات فما فوق.» (السويد · فرانسون 2018 — بطاقة 159) ◆
 
 **الاستدلال:** تحليل جامع للدراسات، ومسح وطني لأكثر من 164 ألف تلميذ، وحصيلة البحوث السويدية كلها: أطفال المناصفة أحسن حالا. فأكبر الدراسات وأوسعها في العالم تنتهي إلى النتيجة نفسها.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- تحليل جامع 2002 — بطاقة 163: <https://pubmed.ncbi.nlm.nih.gov/11915414/>
-- مسح 164 ألف تلميذ سويدي — بطاقة 165: <https://pubmed.ncbi.nlm.nih.gov/24053116/>
-- فرانسون 2018 — بطاقة 166: <https://doi.org/10.1080/10502556.2018.1454198>
+- تحليل جامع 2002 — بطاقة 156: <https://pubmed.ncbi.nlm.nih.gov/11915414/>
+- مسح 164 ألف تلميذ سويدي — بطاقة 158: <https://pubmed.ncbi.nlm.nih.gov/24053116/>
+- فرانسون 2018 — بطاقة 159: <https://doi.org/10.1080/10502556.2018.1454198>
 
-### بطاقة 448 — لا حد أدنى للأب دون المناصفة، والفقه جعل له رؤية ولده كل يوم
+### بطاقة 440 — لا حد أدنى للأب دون المناصفة، والفقه جعل له رؤية ولده كل يوم
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «تحسن أمان الشباب العاطفي الحالي مع آبائهم مع كل زيادة، من صفر إلى 50 بالمئة، في وقت الرعاية الذي قضوه مع آبائهم في الطفولة» (الولايات المتحدة · فابريشيوس 2020 — بطاقة 169) ◆ «ولاحظ أنه لا يوجد «ثبات» قبل المناصفة في وقت الرعاية يمكن أن يدل على حد أدنى من الرعاية يكفي لضمان علاقة جيدة بين الأب وولده» (الولايات المتحدة · فابريشيوس 2020 — بطاقة 169) ◆ «إلى مكان يمكنه أن يبصر ولده كل يوم» (رد المحتار — بطاقة 363) ◆
+> «تحسن أمان الشباب العاطفي الحالي مع آبائهم مع كل زيادة، من صفر إلى 50 بالمئة، في وقت الرعاية الذي قضوه مع آبائهم في الطفولة» (الولايات المتحدة · فابريشيوس 2020 — بطاقة 162) ◆ «ولاحظ أنه لا يوجد «ثبات» قبل المناصفة في وقت الرعاية يمكن أن يدل على حد أدنى من الرعاية يكفي لضمان علاقة جيدة بين الأب وولده» (الولايات المتحدة · فابريشيوس 2020 — بطاقة 162) ◆ «إلى مكان يمكنه أن يبصر ولده كل يوم» (رد المحتار — بطاقة 355) ◆
 
 **الاستدلال:** كل ساعة تؤخذ من الأب تنقص من أمان ولده، ولا يكفي شيء دون المناصفة. وفقهاء الحنفية جعلوا للأب أن يرى ولده كل يوم. فساعات الرؤية الأسبوعية لا أصل لها في العلم ولا في الفقه.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- فابريشيوس 2020 — بطاقة 169: <https://doi.org/10.1093/oxfordhb/9780190694395.013.22>
-- رد المحتار — بطاقة 363: <https://www.islamweb.net/ar/library/content/27/2964/باب-الحضانة>
+- فابريشيوس 2020 — بطاقة 162: <https://doi.org/10.1093/oxfordhb/9780190694395.013.22>
+- رد المحتار — بطاقة 355: <https://www.islamweb.net/ar/library/content/27/2964/باب-الحضانة>
 
-### بطاقة 449 — الطفل لأبويه معا: الإمام مالك قسم يوم الطفل بين أبويه قبل اتفاقية حقوق الطفل بألف عام
+### بطاقة 441 — الطفل لأبويه معا: الإمام مالك قسم يوم الطفل بين أبويه قبل اتفاقية حقوق الطفل بألف عام
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «يؤدبه [أي الأب ولده] بالنهار ويبعثه إلى الكتاب وينقلب إلى أمه بالليل في حضانتها» (المدونة عن الإمام مالك — بطاقة 368) ◆ «الولد متى كان عند أحد الأبوين لا يمنع الآخر عن النظر إليه وعن تعهده» (مصر · فتوى محمد بخيت 1920 — بطاقة 322) ◆ «حق الطفل المنفصل عن والديه أو عن أحدهما في الاحتفاظ بصورة منتظمة بعلاقات شخصية واتصالات مباشرة بكلا والديه» (الأمم المتحدة · اتفاقية حقوق الطفل — بطاقة 209) ◆
+> «يؤدبه [أي الأب ولده] بالنهار ويبعثه إلى الكتاب وينقلب إلى أمه بالليل في حضانتها» (المدونة عن الإمام مالك — بطاقة 360) ◆ «الولد متى كان عند أحد الأبوين لا يمنع الآخر عن النظر إليه وعن تعهده» (مصر · فتوى محمد بخيت 1920 — بطاقة 314) ◆ «حق الطفل المنفصل عن والديه أو عن أحدهما في الاحتفاظ بصورة منتظمة بعلاقات شخصية واتصالات مباشرة بكلا والديه» (الأمم المتحدة · اتفاقية حقوق الطفل — بطاقة 202) ◆
 
 **الاستدلال:** الفقه المالكي وفتوى مفتي مصر واتفاقية حقوق الطفل على كلمة واحدة: لا يحجب الطفل عن أحد أبويه. فمن قطع الطفل عن أبيه خالف الشريعة وخالف الاتفاقية التي وقعتها مصر.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- المدونة عن الإمام مالك — بطاقة 368: <https://www.islamweb.net/ar/library/content/30/2321/ما-جاء-في-حضانة-الأم>
-- فتوى محمد بخيت 1920 — بطاقة 322: <https://shamela.ws/book/432/820>
-- اتفاقية حقوق الطفل — بطاقة 209: <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+- المدونة عن الإمام مالك — بطاقة 360: <https://www.islamweb.net/ar/library/content/30/2321/ما-جاء-في-حضانة-الأم>
+- فتوى محمد بخيت 1920 — بطاقة 314: <https://shamela.ws/book/432/820>
+- اتفاقية حقوق الطفل — بطاقة 202: <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 
-### بطاقة 450 — لا تخيير مع تغييب: الطفل الذي حجب عن أبيه لا يسأل من يختار
+### بطاقة 442 — لا تخيير مع تغييب: الطفل الذي حجب عن أبيه لا يسأل من يختار
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «ولا يخير الصغير عندنا» (مصر · الفتاوى المهدية — بطاقة 300) ◆ «لماذا لا تكشف أكثر إجراءات استطلاع رغبات الأطفال كشفا موثوقا عن مصلحتهم الفضلى» (الولايات المتحدة · وارشاك 2003 — بطاقة 46) ◆ «لكن هذا لا يعني أن مجرد رغبة القاصر تكون هي العامل الحاسم.» (الهند · محكمة بومباي العليا 2007 — بطاقة 274) ◆
+> «ولا يخير الصغير عندنا» (مصر · الفتاوى المهدية — بطاقة 292) ◆ «لماذا لا تكشف أكثر إجراءات استطلاع رغبات الأطفال كشفا موثوقا عن مصلحتهم الفضلى» (الولايات المتحدة · وارشاك 2003 — بطاقة 46) ◆ «لكن هذا لا يعني أن مجرد رغبة القاصر تكون هي العامل الحاسم.» (الهند · محكمة بومباي العليا 2007 — بطاقة 266) ◆
 
 **الاستدلال:** شيخ الأزهر قال «ولا يخير الصغير عندنا» في قضية أم منعت الأب من رؤية ابنه، وعلم النفس يثبت أن سؤال الطفل لا يكشف مصلحته، والقضاء يرفض جعل رغبته حاسمة. فاختيار طفل غيب عنه أبوه اختيار مصنوع.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- الفتاوى المهدية — بطاقة 300: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA290>
+- الفتاوى المهدية — بطاقة 292: <https://books.google.com/books?id=yRVVb3vnlhQC&pg=PA290>
 - وارشاك 2003 — بطاقة 46: <https://doi.org/10.1111/j.1741-3729.2003.00373.x>
-- محكمة بومباي العليا 2007 — بطاقة 274: <https://indiankanoon.org/doc/225602/>
+- محكمة بومباي العليا 2007 — بطاقة 266: <https://indiankanoon.org/doc/225602/>
 
-### بطاقة 451 — «الأم ترفض» ليست مانعا: البحث العلمي والمحكمة الأوروبية وأعلى محكمة ألمانية
+### بطاقة 443 — «الأم ترفض» ليست مانعا: البحث العلمي والمحكمة الأوروبية وأعلى محكمة ألمانية
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «لا تؤيد البحوث الحديثة فكرة أن النزاع، بما فيه النزاع القضائي الشديد، ينبغي أن يستبعد الإقامة المشتركة» (الولايات المتحدة · نيلسن 2017 — بطاقة 168) ◆ «لم تشارك المحكمة في الافتراض القائل إن الحضانة المشتركة رغم إرادة الأم مخالفة ظاهرا لمصلحة الطفل» (أوروبا · المحكمة الأوروبية 2011 — بطاقة 282) ◆ «يقضى بنموذج الإقامة المتناوبة إذا كانت الرعاية المقسومة بين الوالدين كليهما، مقارنة بنماذج الرعاية الأخرى، هي الأوفق بمصلحة الطفل في الحالة المعينة» (ألمانيا · محكمة العدل الاتحادية الألمانية 2017 — بطاقة 269) ◆
+> «لا تؤيد البحوث الحديثة فكرة أن النزاع، بما فيه النزاع القضائي الشديد، ينبغي أن يستبعد الإقامة المشتركة» (الولايات المتحدة · نيلسن 2017 — بطاقة 161) ◆ «لم تشارك المحكمة في الافتراض القائل إن الحضانة المشتركة رغم إرادة الأم مخالفة ظاهرا لمصلحة الطفل» (أوروبا · المحكمة الأوروبية 2011 — بطاقة 274) ◆ «يقضى بنموذج الإقامة المتناوبة إذا كانت الرعاية المقسومة بين الوالدين كليهما، مقارنة بنماذج الرعاية الأخرى، هي الأوفق بمصلحة الطفل في الحالة المعينة» (ألمانيا · محكمة العدل الاتحادية الألمانية 2017 — بطاقة 261) ◆
 
 **الاستدلال:** لو كان رفض أحد الوالدين يمنع المناصفة لصار حق الطفل في أبيه بيد أمه. وقد أسقطت البحوث والمحكمة الأوروبية والمحكمة الاتحادية الألمانية هذه الحجة.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- نيلسن 2017 — بطاقة 168: <https://doi.org/10.1037/law0000109>
-- المحكمة الأوروبية 2011 — بطاقة 282: <https://hudoc.echr.coe.int/eng?i=001-103234>
-- محكمة العدل الاتحادية الألمانية 2017 — بطاقة 269: <https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2017/2017025.html>
+- نيلسن 2017 — بطاقة 161: <https://doi.org/10.1037/law0000109>
+- المحكمة الأوروبية 2011 — بطاقة 274: <https://hudoc.echr.coe.int/eng?i=001-103234>
+- محكمة العدل الاتحادية الألمانية 2017 — بطاقة 261: <https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2017/2017025.html>
 
-### بطاقة 452 — تفضيل الأم لمجرد أنها أم تمييز محرم في القضاء الدستوري والأوروبي
+### بطاقة 444 — تفضيل الأم لمجرد أنها أم تمييز محرم في القضاء الدستوري والأوروبي
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «نخلص إلى أن قرينة سن الحنان [تفضيل الأم في حضانة الصغار] تصنيف غير دستوري قائم على الجنس» (الولايات المتحدة · المحكمة العليا لألاباما 1981 — بطاقة 279) ◆ «نعتقد أن الوقت قد حان لنكف عن تأييد فكرة التفضيل القائم على الجنس في دعاوى الحضانة» (الولايات المتحدة · المحكمة العليا ليوتا 1986 — بطاقة 280) ◆ «ولم تكن هناك علاقة تناسب معقولة بين الاستبعاد العام للرقابة القضائية على إسناد الحضانة المنفردة ابتداء إلى الأم وبين الغاية المبتغاة» (أوروبا · المحكمة الأوروبية 2009 — بطاقة 268) ◆
+> «نخلص إلى أن قرينة سن الحنان [تفضيل الأم في حضانة الصغار] تصنيف غير دستوري قائم على الجنس» (الولايات المتحدة · المحكمة العليا لألاباما 1981 — بطاقة 271) ◆ «نعتقد أن الوقت قد حان لنكف عن تأييد فكرة التفضيل القائم على الجنس في دعاوى الحضانة» (الولايات المتحدة · المحكمة العليا ليوتا 1986 — بطاقة 272) ◆ «ولم تكن هناك علاقة تناسب معقولة بين الاستبعاد العام للرقابة القضائية على إسناد الحضانة المنفردة ابتداء إلى الأم وبين الغاية المبتغاة» (أوروبا · المحكمة الأوروبية 2009 — بطاقة 260) ◆
 
 **الاستدلال:** المحاكم التي يستشهد بها دعاة المساواة بين الجنسين حكمت بأن تقديم الأم في الحضانة لمجرد أنها أم تمييز ضد الأب. فلا يجتمع الدفاع عن المساواة مع تفضيل الأم بلا سبب.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- المحكمة العليا لألاباما 1981 — بطاقة 279: <https://law.justia.com/cases/alabama/supreme-court/1981/398-so-2d-686-1.html>
-- المحكمة العليا ليوتا 1986 — بطاقة 280: <https://law.justia.com/cases/utah/supreme-court/1986/20365-0.html>
-- المحكمة الأوروبية 2009 — بطاقة 268: <https://hudoc.echr.coe.int/eng?i=001-96020>
+- المحكمة العليا لألاباما 1981 — بطاقة 271: <https://law.justia.com/cases/alabama/supreme-court/1981/398-so-2d-686-1.html>
+- المحكمة العليا ليوتا 1986 — بطاقة 272: <https://law.justia.com/cases/utah/supreme-court/1986/20365-0.html>
+- المحكمة الأوروبية 2009 — بطاقة 260: <https://hudoc.echr.coe.int/eng?i=001-96020>
 
-### بطاقة 453 — الشريعة مطبقة اليوم: محاكم الهند وقانون ماليزيا ينقلان الولد إلى أبيه بعد السابعة
+### بطاقة 445 — الشريعة مطبقة اليوم: محاكم الهند وقانون ماليزيا ينقلان الولد إلى أبيه بعد السابعة
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «في الشريعة الإسلامية، بعد سن 7 سنين يكون الأب هو صاحب الحق في حضانة الولد» (الهند · محكمة أندرا براديش العليا 1982 — بطاقة 272) ◆ «والأصل أن يكون الأولاد عند الأب.» (الهند · محكمة تلنكانا العليا 2024 — بطاقة 273) ◆ «(1) ينتهي حق الحاضنة في حضانة الطفل ببلوغ الطفل سن سبع سنين إن كان ذكرا، وسن تسع سنين إن كانت أنثى … (2) وبعد انتهاء حق الحاضنة تنتقل الحضانة إلى الأب» (قانون الأسرة الإسلامي في ماليزيا — بطاقة 224) ◆
+> «في الشريعة الإسلامية، بعد سن 7 سنين يكون الأب هو صاحب الحق في حضانة الولد» (الهند · محكمة أندرا براديش العليا 1982 — بطاقة 264) ◆ «والأصل أن يكون الأولاد عند الأب.» (الهند · محكمة تلنكانا العليا 2024 — بطاقة 265) ◆ «(1) ينتهي حق الحاضنة في حضانة الطفل ببلوغ الطفل سن سبع سنين إن كان ذكرا، وسن تسع سنين إن كانت أنثى … (2) وبعد انتهاء حق الحاضنة تنتقل الحضانة إلى الأب» (قانون الأسرة الإسلامي في ماليزيا — بطاقة 217) ◆
 
 **الاستدلال:** محكمة عليا هندية قررت القاعدة سنة 2024، وقانون ماليزي نافذ ينص عليها. فالسبع والتسع ليستا تاريخا منسيا، بل قاعدة تطبق اليوم في محاكم دول كبرى.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- محكمة أندرا براديش العليا 1982 — بطاقة 272: <https://indiankanoon.org/doc/991616/>
-- محكمة تلنكانا العليا 2024 — بطاقة 273: <https://indiankanoon.org/doc/82098008/>
-- قانون الأسرة الإسلامي في ماليزيا — بطاقة 224: <https://www.ius.uzh.ch/dam/jcr:00000000-573e-dcae-0000-00004dd0afc8/Act303.pdf>
+- محكمة أندرا براديش العليا 1982 — بطاقة 264: <https://indiankanoon.org/doc/991616/>
+- محكمة تلنكانا العليا 2024 — بطاقة 265: <https://indiankanoon.org/doc/82098008/>
+- قانون الأسرة الإسلامي في ماليزيا — بطاقة 217: <https://www.ius.uzh.ch/dam/jcr:00000000-573e-dcae-0000-00004dd0afc8/Act303.pdf>
 
-### بطاقة 454 — الرعاية المشتركة بالمناصفة أصل في التشريع العربي والأوروبي معا
+### بطاقة 446 — الرعاية المشتركة بالمناصفة أصل في التشريع العربي والأوروبي معا
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «حضانة الأبناء حق مشترك ومتساو للأب والأم بعد وقوع الطلاق» (الإمارات · قانون الأحوال الشخصية في أبوظبي 2021 — بطاقة 225) ◆ «أن تدخل في قوانينها مبدأ الإقامة المشتركة بعد الانفصال، مع حصر الاستثناءات» (مجلس أوروبا 2015 — بطاقة 210) ◆ «يجب أن تعد أمرا طبيعيا بل مرغوبا فيه، لأنها تجعل حق الأبناء في الصلة بكلا الوالدين نافذا» (إسبانيا · المحكمة العليا الإسبانية 2013 — بطاقة 270) ◆
+> «حضانة الأبناء حق مشترك ومتساو للأب والأم بعد وقوع الطلاق» (الإمارات · قانون الأحوال الشخصية في أبوظبي 2021 — بطاقة 218) ◆ «أن تدخل في قوانينها مبدأ الإقامة المشتركة بعد الانفصال، مع حصر الاستثناءات» (مجلس أوروبا 2015 — بطاقة 203) ◆ «يجب أن تعد أمرا طبيعيا بل مرغوبا فيه، لأنها تجعل حق الأبناء في الصلة بكلا الوالدين نافذا» (إسبانيا · المحكمة العليا الإسبانية 2013 — بطاقة 262) ◆
 
 **الاستدلال:** قانون عربي نافذ في أبوظبي، وقرار مجلس أوروبا، وأعلى محكمة إسبانية: الأصل اشتراك الأبوين. فالرعاية المشتركة بالمناصفة ليست بدعة غربية ولا فكرة نظرية، بل قانون نافذ في بلد عربي مسلم.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- قانون الأحوال الشخصية في أبوظبي 2021 — بطاقة 225: <https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf>
-- مجلس أوروبا 2015 — بطاقة 210: <https://pace.coe.int/files/22220/html>
-- المحكمة العليا الإسبانية 2013 — بطاقة 270: <https://www.iberley.es/jurisprudencia/guarda-custodia-compartida-interes-menores-sentencia-civil-n-257-2013-ts-sala-civil-sec-1-rec-2525-2011-29-04-2013-11970411>
+- قانون الأحوال الشخصية في أبوظبي 2021 — بطاقة 218: <https://u.ae/-/media/Documents-2023/11Arabic2021-(1).pdf>
+- مجلس أوروبا 2015 — بطاقة 203: <https://pace.coe.int/files/22220/html>
+- المحكمة العليا الإسبانية 2013 — بطاقة 262: <https://www.iberley.es/jurisprudencia/guarda-custodia-compartida-interes-menores-sentencia-civil-n-257-2013-ts-sala-civil-sec-1-rec-2525-2011-29-04-2013-11970411>
 
-### بطاقة 455 — زوج الأم خطر على الطفل: فقه الحنفية قبل ثمانية قرون وعلم اليوم على حد واحد
+### بطاقة 447 — زوج الأم خطر على الطفل: فقه الحنفية قبل ثمانية قرون وعلم اليوم على حد واحد
 **المؤلف/الجهة:** حجة جامعة  
 **الجهة/المذهب:** حجة جامعة من أقسام الموسوعة  
 
-> «ولأن زوج الأم إذا كان أجنبيا [عن الصغير] يعطيه نزرا [أي قليلا] وينظر إليه شزرا [أي بعين البغض]» (الهداية للمرغيناني — بطاقة 352) ◆ «وفي كندا] كان المعدل المقابل عند أزواج الأمهات أكبر بأكثر من 120 ضعفا» (كندا · دالي وويلسون 2001 — بطاقة 129) ◆ «الأطفال الذين يقيمون في بيوت فيها بالغون لا قرابة لهم بهم أكثر عرضة للموت بالإيذاء 8 مرات من الأطفال في بيوت فيها الأبوان الحقيقيان» (الولايات المتحدة · مجلة طب الأطفال الأمريكية 2002 — بطاقة 128) ◆
+> «ولأن زوج الأم إذا كان أجنبيا [عن الصغير] يعطيه نزرا [أي قليلا] وينظر إليه شزرا [أي بعين البغض]» (الهداية للمرغيناني — بطاقة 344) ◆ «وفي كندا] كان المعدل المقابل عند أزواج الأمهات أكبر بأكثر من 120 ضعفا» (كندا · دالي وويلسون 2001 — بطاقة 126) ◆ «الأطفال الذين يقيمون في بيوت فيها بالغون لا قرابة لهم بهم أكثر عرضة للموت بالإيذاء 8 مرات من الأطفال في بيوت فيها الأبوان الحقيقيان» (الولايات المتحدة · مجلة طب الأطفال الأمريكية 2002 — بطاقة 122) ◆
 
 **الاستدلال:** الحنفية أسقطوا حضانة الأم إذا تزوجت أجنبيا عن الطفل، لأن زوج الأم يبغضه؛ وسجلات الوفيات في كندا وأعلى مجلة لطب الأطفال في أمريكا تثبت الخطر نفسه بالأرقام. فإبعاد الطفل عن أبيه وتركه في بيت زوج أمه تعريض له لأشد الخطر.  
 **عن المصدر:** بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه. — **درجة الدليل:** حجة جامعة متعددة المصادر  
-- الهداية للمرغيناني — بطاقة 352: <https://shamela.ws/book/11820/377>
-- دالي وويلسون 2001 — بطاقة 129: <https://cep.ucsb.edu/wp-content/uploads/2023/05/cinderella-effect-facts.pdf>
-- مجلة طب الأطفال الأمريكية 2002 — بطاقة 128: <https://doi.org/10.1542/peds.109.4.615>
+- الهداية للمرغيناني — بطاقة 344: <https://shamela.ws/book/11820/377>
+- دالي وويلسون 2001 — بطاقة 126: <https://cep.ucsb.edu/wp-content/uploads/2023/05/cinderella-effect-facts.pdf>
+- مجلة طب الأطفال الأمريكية 2002 — بطاقة 122: <https://doi.org/10.1542/peds.109.4.615>
 
 ## مدخلات غير معروضة في البطاقات (حجة الخصم والجواب عنها)
 
@@ -5651,79 +5549,79 @@
 ### A6-008 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الطفل يحتاج أمه حتى الخامسة عشرة
 
-**الجواب: الفقهاء قدموا الأم في الصغر لعلة معلومة هي حاجة الصغير إلى الحمل والخدمة، فإذا استغنى بنفسه زالت العلة وزال التقديم. والسابعة عندهم سن الاستغناء والتمييز، وعلم النفس يجعلها نقطة تحول في العقل. والبحوث الوطنية تثبت أن ابن الخامسة عشرة نفسه أحسن حالا حين يعيش مع والديه كليهما. الأدلة: بطاقة 404 (كشاف القناع — تقديم الأم لحاجة الصغير إلى الحمل والخدمة، والسبع أول سن الأمر بالصلاة.)؛ بطاقة 41 (بياجيه — السابعة إلى الثامنة نقطة تحول حاسمة في نمو العقل.)؛ بطاقة 165 (مسح 164 ألف تلميذ — أبناء المناصفة في الخامسة عشرة أحسن حالا من أبناء الانفراد.)**
+**الجواب: الفقهاء قدموا الأم في الصغر لعلة معلومة هي حاجة الصغير إلى الحمل والخدمة، فإذا استغنى بنفسه زالت العلة وزال التقديم. والسابعة عندهم سن الاستغناء والتمييز، وعلم النفس يجعلها نقطة تحول في العقل. والبحوث الوطنية تثبت أن ابن الخامسة عشرة نفسه أحسن حالا حين يعيش مع والديه كليهما. الأدلة: بطاقة 396 (كشاف القناع — تقديم الأم لحاجة الصغير إلى الحمل والخدمة، والسبع أول سن الأمر بالصلاة.)؛ بطاقة 41 (بياجيه — السابعة إلى الثامنة نقطة تحول حاسمة في نمو العقل.)؛ بطاقة 158 (مسح 164 ألف تلميذ — أبناء المناصفة في الخامسة عشرة أحسن حالا من أبناء الانفراد.)**
 
 ### A6-009 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الطفولة تمتد إلى 15 أو 18
 
-**الجواب: القرآن جعل بلوغ الحلم حدا يخرج به الطفل من حكم الأطفال. ومنظمة الصحة العالمية والأمم المتحدة تعدان ابن العاشرة مراهقا، وتعد الأمم المتحدة ابن الخامسة عشرة «شابا» في إحصاءاتها. فالثامنة عشرة حد قانوني للأهلية، لا حد للحاجة إلى الأم وحدها. الأدلة: بطاقة 327 (سورة النور — بلوغ الأطفال الحلم حد الخروج من الطفولة.)؛ بطاقة 1 (منظمة الصحة العالمية — المراهقة من سن 10 إلى 19.)؛ بطاقة 216 (الأمم المتحدة — ابن الخامسة عشرة «شاب» بقرار الجمعية العامة سنة 1981.)**
+**الجواب: القرآن جعل بلوغ الحلم حدا يخرج به الطفل من حكم الأطفال. ومنظمة الصحة العالمية والأمم المتحدة تعدان ابن العاشرة مراهقا، وتعد الأمم المتحدة ابن الخامسة عشرة «شابا» في إحصاءاتها. فالثامنة عشرة حد قانوني للأهلية، لا حد للحاجة إلى الأم وحدها. الأدلة: بطاقة 319 (سورة النور — بلوغ الأطفال الحلم حد الخروج من الطفولة.)؛ بطاقة 1 (منظمة الصحة العالمية — المراهقة من سن 10 إلى 19.)؛ بطاقة 209 (الأمم المتحدة — ابن الخامسة عشرة «شاب» بقرار الجمعية العامة سنة 1981.)**
 
 ### A6-010 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: السابعة والتاسعة اجتهاد قديم لا يناسب العصر
 
-**الجواب: العلم الحديث جاء مصدقا للحدين: السابعة سن تحول العقل عند بياجيه، والتاسعة في قلب سن البلوغ الطبيعي عند البنات في المراجع الطبية الرسمية، والبلوغ يتبكر جيلا بعد جيل. والحدان معمول بهما اليوم في قانون نافذ وفي أحكام قضائية صادرة سنة 2024. الأدلة: بطاقة 41 (بياجيه — السابعة نقطة تحول حاسمة.)؛ بطاقة 2 (المكتبة الوطنية للطب الأمريكية — البلوغ عند البنات بين 8 و13.)؛ بطاقة 224 (قانون الأسرة الإسلامي في ماليزيا — سبع للذكر وتسع للأنثى ثم الأب.)**
+**الجواب: العلم الحديث جاء مصدقا للحدين: السابعة سن تحول العقل عند بياجيه، والتاسعة في قلب سن البلوغ الطبيعي عند البنات في المراجع الطبية الرسمية، والبلوغ يتبكر جيلا بعد جيل. والحدان معمول بهما اليوم في قانون نافذ وفي أحكام قضائية صادرة سنة 2024. الأدلة: بطاقة 41 (بياجيه — السابعة نقطة تحول حاسمة.)؛ بطاقة 2 (المكتبة الوطنية للطب الأمريكية — البلوغ عند البنات بين 8 و13.)؛ بطاقة 217 (قانون الأسرة الإسلامي في ماليزيا — سبع للذكر وتسع للأنثى ثم الأب.)**
 
 ### A6-011 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الأم أقدر على الرعاية بطبعها
 
-**الجواب: ابن تيمية نفى أن تكون كل أم أصلح من الأب، وجعل المدار على المصلحة. والطب يثبت أن هرمون الارتباط بالرضيع عند الأب يساوي ما عند الأم. والقضاء الأمريكي ألغى تفضيل الأم في «سن الحنان» لأنه تمييز بسبب الجنس. الأدلة: بطاقة 425 (ابن تيمية — لا يقال كل أم أصلح من الأب.)؛ بطاقة 8 (غوردون وفيلدمان — هرمون الارتباط عند الأب يساوي ما عند الأم.)؛ بطاقة 279 (المحكمة العليا لألاباما 1981 — تفضيل الأم تمييز غير دستوري.)**
+**الجواب: ابن تيمية نفى أن تكون كل أم أصلح من الأب، وجعل المدار على المصلحة. والطب يثبت أن هرمون الارتباط بالرضيع عند الأب يساوي ما عند الأم. والقضاء الأمريكي ألغى تفضيل الأم في «سن الحنان» لأنه تمييز بسبب الجنس. الأدلة: بطاقة 417 (ابن تيمية — لا يقال كل أم أصلح من الأب.)؛ بطاقة 8 (غوردون وفيلدمان — هرمون الارتباط عند الأب يساوي ما عند الأم.)؛ بطاقة 271 (المحكمة العليا لألاباما 1981 — تفضيل الأم تمييز غير دستوري.)**
 
 ### A6-012 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الأب يكفيه الرؤية
 
-**الجواب: أمان الولد مع أبيه يزداد مع كل زيادة في وقته معه حتى المناصفة، ولا يوجد حد أدنى يكفي دونها. والمحكمة الأوروبية لم تعد لقاء ساعتين صلة حقيقية. والحنفية جعلوا الحد الأدنى أن يبصر الأب ولده كل يوم. الأدلة: بطاقة 169 (فابريشيوس 2020 — الأمان يزداد مع كل زيادة في الوقت حتى المناصفة.)؛ بطاقة 281 (المحكمة الأوروبية 2011 — مرور الوقت يدمر صلة الولد بوالده الذي لا يعيش معه.)؛ بطاقة 363 (ابن عابدين — أن يبصر الأب ولده كل يوم.)**
+**الجواب: أمان الولد مع أبيه يزداد مع كل زيادة في وقته معه حتى المناصفة، ولا يوجد حد أدنى يكفي دونها. والمحكمة الأوروبية لم تعد لقاء ساعتين صلة حقيقية. والحنفية جعلوا الحد الأدنى أن يبصر الأب ولده كل يوم. الأدلة: بطاقة 162 (فابريشيوس 2020 — الأمان يزداد مع كل زيادة في الوقت حتى المناصفة.)؛ بطاقة 273 (المحكمة الأوروبية 2011 — مرور الوقت يدمر صلة الولد بوالده الذي لا يعيش معه.)؛ بطاقة 355 (ابن عابدين — أن يبصر الأب ولده كل يوم.)**
 
 ### A6-013 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الرعاية المشتركة تضر الصغار وتشتتهم بين بيتين
 
-**الجواب: التحليل الجامع للدراسات يثبت أن أطفال الحضانة المشتركة أحسن توافقا من أطفال الحضانة المنفردة. وأكبر متابعة دنماركية وأكبر قاعدة بيانات سويدية تنتهيان إلى النتيجة نفسها، ولم تجد دراسة سويدية واحدة صحة أبناء المناصفة أسوأ من سن 3 فما فوق. الأدلة: بطاقة 163 (تحليل جامع 2002 — أطفال الحضانة المشتركة أحسن توافقا.)؛ بطاقة 164 (متابعة أكثر من 31 ألف طفل دنماركي — المناصفة أقرب إلى البيت الواحد.)؛ بطاقة 166 (فرانسون وزملاؤه 2018 — لا دراسة سويدية وجدت صحتهم أسوأ.)**
+**الجواب: التحليل الجامع للدراسات يثبت أن أطفال الحضانة المشتركة أحسن توافقا من أطفال الحضانة المنفردة. وأكبر متابعة دنماركية وأكبر قاعدة بيانات سويدية تنتهيان إلى النتيجة نفسها، ولم تجد دراسة سويدية واحدة صحة أبناء المناصفة أسوأ من سن 3 فما فوق. الأدلة: بطاقة 156 (تحليل جامع 2002 — أطفال الحضانة المشتركة أحسن توافقا.)؛ بطاقة 157 (متابعة أكثر من 31 ألف طفل دنماركي — المناصفة أقرب إلى البيت الواحد.)؛ بطاقة 159 (فرانسون وزملاؤه 2018 — لا دراسة سويدية وجدت صحتهم أسوأ.)**
 
 ### A6-014 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: النزاع بين الوالدين يمنع الرعاية المشتركة بالمناصفة
 
-**الجواب: البحوث الحديثة لا تجعل النزاع، ولو كان قضائيا شديدا، مانعا من الإقامة المشتركة. وأعلى محكمة ألمانية قضت بالمناصفة رغم رفض أحد الوالدين، والمحكمة الأوروبية رفضت القول بأن الحضانة المشتركة رغم إرادة الأم ضد مصلحة الطفل. الأدلة: بطاقة 168 (نيلسن 2017 — النزاع لا يبطل الرعاية المشتركة بالمناصفة.)؛ بطاقة 269 (محكمة العدل الاتحادية الألمانية 2017 — المناصفة تقضى رغم رفض أحد الوالدين.)؛ بطاقة 282 (المحكمة الأوروبية 2011 — الحضانة المشتركة رغم إرادة الأم ليست ضد مصلحة الطفل.)**
+**الجواب: البحوث الحديثة لا تجعل النزاع، ولو كان قضائيا شديدا، مانعا من الإقامة المشتركة. وأعلى محكمة ألمانية قضت بالمناصفة رغم رفض أحد الوالدين، والمحكمة الأوروبية رفضت القول بأن الحضانة المشتركة رغم إرادة الأم ضد مصلحة الطفل. الأدلة: بطاقة 161 (نيلسن 2017 — النزاع لا يبطل الرعاية المشتركة بالمناصفة.)؛ بطاقة 261 (محكمة العدل الاتحادية الألمانية 2017 — المناصفة تقضى رغم رفض أحد الوالدين.)؛ بطاقة 274 (المحكمة الأوروبية 2011 — الحضانة المشتركة رغم إرادة الأم ليست ضد مصلحة الطفل.)**
 
 ### A6-015 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الطفل يختار أمه
 
-**الجواب: الطفل الذي عاش سنين عند أحد والديه يختار من ألفه، وسؤاله يجعله طرفا في نزاع والديه ولا يكشف مصلحته. ولذلك قضت المحكمة الأوروبية بأن رفض طفل لأبيه لا يحسم الأمر، وسلمت محكمة بومباي ولدا جاوز السابعة إلى أبيه مع رغبته في أمه. وهذا معنى «لا تخيير مع تغييب». الأدلة: بطاقة 46 (وارشاك 2003 — سؤال الطفل عن رغبته لا يكشف مصلحته.)؛ بطاقة 271 (المحكمة الأوروبية (الدائرة الكبرى) 2000 — رفض ابن الخامسة لأبيه لا يحسم بلا خبير.)؛ بطاقة 274 (محكمة بومباي العليا 2007 — رغبة الصغير ليست العامل الحاسم.)**
+**الجواب: الطفل الذي عاش سنين عند أحد والديه يختار من ألفه، وسؤاله يجعله طرفا في نزاع والديه ولا يكشف مصلحته. ولذلك قضت المحكمة الأوروبية بأن رفض طفل لأبيه لا يحسم الأمر، وسلمت محكمة بومباي ولدا جاوز السابعة إلى أبيه مع رغبته في أمه. وهذا معنى «لا تخيير مع تغييب». الأدلة: بطاقة 46 (وارشاك 2003 — سؤال الطفل عن رغبته لا يكشف مصلحته.)؛ بطاقة 263 (المحكمة الأوروبية (الدائرة الكبرى) 2000 — رفض ابن الخامسة لأبيه لا يحسم بلا خبير.)؛ بطاقة 266 (محكمة بومباي العليا 2007 — رغبة الصغير ليست العامل الحاسم.)**
 
 ### A6-016 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: القانون الدولي يقدم الأم
 
-**الجواب: اتفاقية حقوق الطفل تجعل الصلة المنتظمة المباشرة بكلا الوالدين حقا للطفل. ومجلس أوروبا يدعو إلى جعل الإقامة المشتركة أصلا في القوانين. والمحكمة الأوروبية عدت إسناد الحضانة إلى الأم ابتداء بلا نظر قضائي تمييزا. الأدلة: بطاقة 209 (اتفاقية حقوق الطفل — الصلة بكلا الوالدين.)؛ بطاقة 210 (مجلس أوروبا 2015 — الإقامة المشتركة أصلا.)؛ بطاقة 268 (المحكمة الأوروبية 2009 — منح الأم الحضانة وحدها بلا رقابة قضائية تمييز.)**
+**الجواب: اتفاقية حقوق الطفل تجعل الصلة المنتظمة المباشرة بكلا الوالدين حقا للطفل. ومجلس أوروبا يدعو إلى جعل الإقامة المشتركة أصلا في القوانين. والمحكمة الأوروبية عدت إسناد الحضانة إلى الأم ابتداء بلا نظر قضائي تمييزا. الأدلة: بطاقة 202 (اتفاقية حقوق الطفل — الصلة بكلا الوالدين.)؛ بطاقة 203 (مجلس أوروبا 2015 — الإقامة المشتركة أصلا.)؛ بطاقة 260 (المحكمة الأوروبية 2009 — منح الأم الحضانة وحدها بلا رقابة قضائية تمييز.)**
 
 ### A6-017 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: المالكية يجعلون الحضانة إلى البلوغ
 
-**الجواب: الإمام مالك نفسه يجعل للأب تأديب ولده نهارا وبعثه إلى الكتاب، فالولد عند المالكية بين أبيه نهارا وأمه ليلا. وفي رواية عن مالك حكاها ابن قدامة أن الأم أحق به «حتى يثغر»، والإثغار في السابعة. ومالك يمنع الأم من الخروج بالولد بعيدا عن أبيه وأهل بيته. الأدلة: بطاقة 368 (المدونة — يؤدبه بالنهار ويبعثه إلى الكتاب.)؛ بطاقة 411 (المغني — ومالك يقول: الأم أحق به حتى يثغر.)؛ بطاقة 378 (مالك — لا يخرج بالولد إلى بلد بعيد عن أبيه وأهل بيته.)**
+**الجواب: الإمام مالك نفسه يجعل للأب تأديب ولده نهارا وبعثه إلى الكتاب، فالولد عند المالكية بين أبيه نهارا وأمه ليلا. وفي رواية عن مالك حكاها ابن قدامة أن الأم أحق به «حتى يثغر»، والإثغار في السابعة. ومالك يمنع الأم من الخروج بالولد بعيدا عن أبيه وأهل بيته. الأدلة: بطاقة 360 (المدونة — يؤدبه بالنهار ويبعثه إلى الكتاب.)؛ بطاقة 403 (المغني — ومالك يقول: الأم أحق به حتى يثغر.)؛ بطاقة 370 (مالك — لا يخرج بالولد إلى بلد بعيد عن أبيه وأهل بيته.)**
 
 ### A6-018 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: البنت تحتاج أمها أكثر حتى تتزوج
 
-**الجواب: الحنابلة نصوا على أن الجارية إذا بلغت سبعا تكون عند أبيها لأن حظها في الكون عنده، والحنفية أفتوا بالتسع لحاجتها إلى الصيانة. والعلم يثبت أن غياب الأب أشد خطرا على البنت: يرفع النشاط الجنسي المبكر والحمل في المراهقة، ويبكر حيضها. الأدلة: بطاقة 405 (الكافي — الجارية في السابعة عند أبيها بلا تخيير.)؛ بطاقة 154 (دراسة أمريكية نيوزيلندية 2003 — غياب الأب يعرض البنات للخطر.)؛ بطاقة 136 (تحليل جامع لـ33 دراسة — غياب الأب يبكر حيض البنات.)**
+**الجواب: الحنابلة نصوا على أن الجارية إذا بلغت سبعا تكون عند أبيها لأن حظها في الكون عنده، والحنفية أفتوا بالتسع لحاجتها إلى الصيانة. والعلم يثبت أن غياب الأب أشد خطرا على البنت: يرفع النشاط الجنسي المبكر والحمل في المراهقة، ويبكر حيضها. الأدلة: بطاقة 397 (الكافي — الجارية في السابعة عند أبيها بلا تخيير.)؛ بطاقة 147 (دراسة أمريكية نيوزيلندية 2003 — غياب الأب يعرض البنات للخطر.)؛ بطاقة 133 (تحليل جامع لـ33 دراسة — غياب الأب يبكر حيض البنات.)**
 
 ### A6-019 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الأب مشغول والأم متفرغة
 
-**الجواب: خروج النساء إلى العمل من أكبر تحولات القرن العشرين، فالدعوى لا تصدق على الواقع. والفقهاء ألزموا الأب بتعليم ولده وتأديبه بنفسه أو بغيره ولم يجعلوا شغله عذرا. وست وستون دراسة تثبت أن انخراط الأب يرفع تحصيل ولده الدراسي. الأدلة: بطاقة 65 (مجلة نمو الطفل 2000 — ازدياد مشاركة النساء في سوق العمل.)؛ بطاقة 394 (روضة الطالبين — ليس للأب إهماله، ويلزمه تأديبه وتعليمه.)؛ بطاقة 85 (تحليل جامع لـ66 دراسة — أثر الأب في التحصيل الدراسي.)**
+**الجواب: خروج النساء إلى العمل من أكبر تحولات القرن العشرين، فالدعوى لا تصدق على الواقع. والفقهاء ألزموا الأب بتعليم ولده وتأديبه بنفسه أو بغيره ولم يجعلوا شغله عذرا. وست وستون دراسة تثبت أن انخراط الأب يرفع تحصيل ولده الدراسي. الأدلة: بطاقة 64 (مجلة نمو الطفل 2000 — ازدياد مشاركة النساء في سوق العمل.)؛ بطاقة 386 (روضة الطالبين — ليس للأب إهماله، ويلزمه تأديبه وتعليمه.)؛ بطاقة 84 (تحليل جامع لـ66 دراسة — أثر الأب في التحصيل الدراسي.)**
 
 ### A6-020 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: غياب الأب لا يضر إذا كفلت الأم ماديا
 
-**الجواب: المسح الوطني الأمريكي الممتد يقطع بأن وجود الأب في البيت أهم عامل في وقاية الفتى من الجنوح، وأن الدخل أقل أثرا. والشكاوى النفسية عند أبناء الانفراد لا يفسرها الفقر ولا مرض الوالدين. وسجلات فنلندا تثبت ارتفاع الوفاة والانتحار عند الفتيان الناشئين بلا أحد الوالدين. الأدلة: بطاقة 126 (كومانور وفيليبس 2002 — وجود الأب أهم من الدخل في الوقاية من الجنوح.)؛ بطاقة 202 (فرانسون 2016 — الفرق لا يفسر بالدخل ولا بصحة الوالدين.)؛ بطاقة 125 (مواليد شمال فنلندا — الوفاة 1.8 ضعفا والانتحار 2.5 ضعفا.)**
+**الجواب: المسح الوطني الأمريكي الممتد يقطع بأن وجود الأب في البيت أهم عامل في وقاية الفتى من الجنوح، وأن الدخل أقل أثرا. والشكاوى النفسية عند أبناء الانفراد لا يفسرها الفقر ولا مرض الوالدين. وسجلات فنلندا تثبت ارتفاع الوفاة والانتحار عند الفتيان الناشئين بلا أحد الوالدين. الأدلة: بطاقة 123 (كومانور وفيليبس 2002 — وجود الأب أهم من الدخل في الوقاية من الجنوح.)؛ بطاقة 195 (فرانسون 2016 — الفرق لا يفسر بالدخل ولا بصحة الوالدين.)؛ بطاقة 122 (مواليد شمال فنلندا — الوفاة 1.8 ضعفا والانتحار 2.5 ضعفا.)**
 
 ### A6-021 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: الدول المتقدمة تعطي الأم الحضانة
 
-**الجواب: الإحصاءات الرسمية تقول العكس: في إسبانيا صارت الحضانة المشتركة 50.8% من الطلاقات التي فيها أبناء سنة 2025، وفي السويد صارت المناصفة أشيع ترتيب لأبناء المنفصلين، وفي النرويج قفزت الإقامة المشتركة إلى 43%. الأدلة: بطاقة 99 (الإحصاء الإسباني الرسمي 2025 — الحضانة المشتركة 50.8%.)؛ بطاقة 103 (هيئة الإحصاء السويدية 2023 — المناصفة أشيع ترتيب.)؛ بطاقة 104 (هيئة الإحصاء النرويجية 2022 — من 25% إلى 43% في ثماني سنوات.)**
+**الجواب: الإحصاءات الرسمية تقول العكس: في إسبانيا صارت الحضانة المشتركة 50.8% من الطلاقات التي فيها أبناء سنة 2025، وفي السويد صارت المناصفة أشيع ترتيب لأبناء المنفصلين، وفي النرويج قفزت الإقامة المشتركة إلى 43%. الأدلة: بطاقة 96 (الإحصاء الإسباني الرسمي 2025 — الحضانة المشتركة 50.8%.)؛ بطاقة 100 (هيئة الإحصاء السويدية 2023 — المناصفة أشيع ترتيب.)؛ بطاقة 101 (هيئة الإحصاء النرويجية 2022 — من 25% إلى 43% في ثماني سنوات.)**
 
 ### A6-022 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: مبيت الصغير عند أبيه يضره
 
-**الجواب: لا توجد نظرية ولا بحث يثبت أن رعاية الأب لصغاره ليلا أخطر من رعايتهم نهارا. وكبار علماء النمو يجعلون المبيت فرصة لتفاعلات مهمة. ومن بات عند أبيه صغيرا كانت علاقته بأبيه وبأمه معا أحسن حين كبر. الأدلة: بطاقة 199 (وارشاك 2018 — لا بحث يؤكد خطر المبيت عند الأب.)؛ بطاقة 67 (لامب وكيلي 2001 — المبيت يتيح تفاعلات مهمة.)؛ بطاقة 179 (فابريشيوس وسوه 2017 — المبيت المبكر يقوي الصلة بالأب والأم معا.)**
+**الجواب: لا توجد نظرية ولا بحث يثبت أن رعاية الأب لصغاره ليلا أخطر من رعايتهم نهارا. وكبار علماء النمو يجعلون المبيت فرصة لتفاعلات مهمة. ومن بات عند أبيه صغيرا كانت علاقته بأبيه وبأمه معا أحسن حين كبر. الأدلة: بطاقة 192 (وارشاك 2018 — لا بحث يؤكد خطر المبيت عند الأب.)؛ بطاقة 66 (لامب وكيلي 2001 — المبيت يتيح تفاعلات مهمة.)؛ بطاقة 172 (فابريشيوس وسوه 2017 — المبيت المبكر يقوي الصلة بالأب والأم معا.)**
 
 ### A6-023 — دعوى شائعة عند المخالفين
 > مضمونه: دعوى المخالف: انقطاع الأب عن ولده سنين لا يغير شيئا، فليختر الولد حين يكبر
 
-**الجواب: مرور الوقت على القطيعة ضرر لا يتدارك في قضاء المحكمة الأوروبية. وأثر تنفير الولد من أبيه يلازمه إلى رشده. وابن تيمية أسقط حق الأم في المطالبة بالنفقة إذا غيبت الولد عن أبيه بعد الحكم له. الأدلة: بطاقة 281 (المحكمة الأوروبية 2011 — مرور الوقت يدمر صلة الولد بوالده.)؛ بطاقة 153 (إيمي بيكر 2005 — آثار التنفير تمتد إلى الرشد.)؛ بطاقة 423 (ابن تيمية — ليس للأم أن تغيب الولد عن أبيه.)**
+**الجواب: مرور الوقت على القطيعة ضرر لا يتدارك في قضاء المحكمة الأوروبية. والدولة ملزمة باليقظة الاستثنائية لجمع الطفل بوالده، لأن مرور الوقت يحسم الأمر بالأمر الواقع. وابن تيمية أسقط حق الأم في المطالبة بالنفقة إذا غيبت الولد عن أبيه بعد الحكم له. الأدلة: بطاقة 273 (المحكمة الأوروبية 2011 — مرور الوقت يدمر صلة الولد بوالده.)؛ بطاقة 267 (المحكمة الأوروبية 2019 — الدولة ملزمة باليقظة الاستثنائية لحفظ صلة الطفل بوالده.)؛ بطاقة 415 (ابن تيمية — ليس للأم أن تغيب الولد عن أبيه.)**
