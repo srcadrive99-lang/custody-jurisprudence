@@ -437,12 +437,14 @@ def _top_rank():
     except Exception: return {}
 TOPRANK=_top_rank()
 LVT=[('القرآن',0),('قرآن',0),('حديث',1),('فتوى رسمية',2),('محكمة عليا',3),('قضاء دولي',3),('معاهدة',4),('تشريع',4),('نص قانوني',4),('تعريف رسمي',5),('إحصاء رسمي',5),('تحليل جامع',6),('مراجعة منهجية',6),('مراجعة منظمة',6),('سجلات',7),('متابعة وطنية',7),('قرار برلماني',8),('تقرير رسمي',8),('بيان طبي',8),('إرشاد رسمي',8)]
+# manual strength boost: placed right after the top-50 cards of their section, in this order
+BOOST={k:n for n,k in enumerate(['A4-115','A4-114','A4-116','A4-117','A5-212','A5-213','A1-116','A2-114','A4-118','A5-214'])}
 def strength_key(i, m, pos):
     m=m or {}
     lv=(m.get('evidence_level') or m.get('level') or '')
     tier=next((t for k,t in LVT if k in lv),9)
     st=m.get('strength','')
-    return (0 if i in TOPRANK else 1, TOPRANK.get(i,999), 0 if st in ('explicit_7','explicit_9') else 1, tier, pos)
+    return (0 if i in TOPRANK else (1 if i in BOOST else 2), TOPRANK.get(i,BOOST.get(i,999)), 0 if st in ('explicit_7','explicit_9') else 1, tier, pos)
 
 def main():
     hm,secs_m,tail_m=split_sections(open(BASE_M,encoding='utf8').read())
