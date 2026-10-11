@@ -8980,6 +8980,248 @@
   "v126": true
  },
  {
+  "id": "A2-115",
+  "sec": "fear",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — الشبكة الوطنية لصدمات الأطفال",
+  "title": "الجمعية الأمريكية لعلم النفس 2014 — ترويع الطفل وتهديده وعزله يضره كالاعتداء الجسدي والجنسي أو أشد",
+  "ot": "\"... [children who are psychologically abused] face similar and sometimes worse mental health problems as children who are physically or sexually abused ... [they] suffered from anxiety, depression, low self-esteem, symptoms of post-traumatic stress and suicidality ... [psychological maltreatment includes] care-giver inflicted bullying, terrorizing, coercive control, severe insults, debasement ... threats, overwhelming demands, shunning and/or isolation.\"",
+  "ltr": true,
+  "tt": "«... [الأطفال الذين يقع عليهم الإيذاء النفسي] يواجهون مشكلات نفسية مماثلة، وأحيانا أسوأ، من الأطفال الذين يقع عليهم الاعتداء الجسدي أو الجنسي ... [فقد] عانوا القلق والاكتئاب وتدني تقدير الذات وأعراض اضطراب ما بعد الصدمة والميل إلى الانتحار ... [والإيذاء النفسي يشمل] ما يوقعه القائم على رعاية الطفل من تنمر وترويع وسيطرة قسرية وإهانات شديدة وإذلال ... وتهديد ومطالب ساحقة ونبذ أو عزل.»",
+  "src": {
+   "author": "Spinazzola J, Hodgdon H, Liang L-J, Ford JD, Layne CM, Pynoos R, Briggs EC, Stolbach B",
+   "year": "2014",
+   "jur": "الولايات المتحدة — الشبكة الوطنية لصدمات الأطفال",
+   "title_latin": "Unseen Wounds: The Contribution of Psychological Maltreatment to Child and Adolescent Mental Health and Risk Outcomes",
+   "sw": "",
+   "where": "Psychological Trauma: Theory, Research, Practice, and Policy (American Psychological Association), 8 October 2014",
+   "latin": true
+  },
+  "about": "دراسة على 5616 طفلا ومراهقا من قاعدة بيانات الشبكة الوطنية الأمريكية لصدمات الأطفال، نشرتها الجمعية الأمريكية لعلم النفس في مجلتها المحكمة.",
+  "level": "دراسة محكمة على 5616 طفلا ومراهقا في مجلة الجمعية الأمريكية لعلم النفس",
+  "links": [
+   {
+    "url": "https://www.newswise.com/articles/childhood-psychological-abuse-as-harmful-as-sexual-or-physical-abuse",
+    "label": "بيان الجمعية الأمريكية لعلم النفس عن الدراسة",
+    "site": "Newswise",
+    "domain": "www.newswise.com"
+   }
+  ],
+  "arg": "ترويع الطفل وتهديده وعزله على يد من يرعاه ليس أمرا هينا: إنه يورث القلق والاكتئاب وأعراض الصدمة كالاعتداء الجسدي والجنسي أو أشد. فالطفل الذي يخوف من أبيه ويلقن أن أباه يريد قتله يقع عليه أخطر أنواع الأذى.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v127": true
+ },
+ {
+  "id": "A2-116",
+  "sec": "fear",
+  "icon": "ca",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "كندا والولايات المتحدة — جامعة ماكغيل وجامعة مينيسوتا",
+  "title": "مجلة الطب النفسي الأمريكية 2015 — الإيذاء العاطفي للطفل يضره كالإيذاء الجسدي: قلق واكتئاب وعدوان",
+  "ot": "\"Emotional abuse may be as harmful as physical abuse and neglect. ... different types of child abuse have equivalent, broad, and universal effects ... These consequences are wide-ranging and include everything from anxiety and depression to rule-breaking and aggression.\"",
+  "ltr": true,
+  "tt": "«الإيذاء العاطفي قد يكون في ضرره كالاعتداء الجسدي والإهمال ... فأنواع إيذاء الطفل المختلفة آثارها متكافئة وواسعة وعامة ... وهذه العواقب واسعة المدى، تشمل كل شيء من القلق والاكتئاب إلى مخالفة القواعد والعدوان.»",
+  "src": {
+   "author": "Vachon DD, Krueger RF, Rogosch FA, Cicchetti D",
+   "year": "2015",
+   "jur": "كندا والولايات المتحدة — جامعة ماكغيل وجامعة مينيسوتا",
+   "title_latin": "Assessment of the Harmful Psychiatric and Behavioral Effects of Different Forms of Child Maltreatment",
+   "sw": "",
+   "where": "JAMA Psychiatry 72(11), 2015; doi:10.1001/jamapsychiatry.2015.1792",
+   "latin": true
+  },
+  "about": "دراسة لجامعات ماكغيل الكندية وروتشستر ومينيسوتا الأمريكيتين، على نحو 2300 طفل بين الخامسة والثالثة عشرة، نشرت في مجلة الجمعية الطبية الأمريكية للطب النفسي.",
+  "level": "دراسة محكمة على نحو 2300 طفل في مجلة الجمعية الطبية الأمريكية للطب النفسي",
+  "links": [
+   {
+    "url": "https://www.mcgill.ca/newsroom/node/24532",
+    "label": "بيان جامعة ماكغيل عن الدراسة",
+    "site": "جامعة ماكغيل",
+    "domain": "www.mcgill.ca"
+   }
+  ],
+  "arg": "تسميم عقل الطفل بالكلام المخيف إيذاء عاطفي، وآثاره كآثار الضرب: قلق واكتئاب وعدوان وخروج على القواعد.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v127": true
+ },
+ {
+  "id": "A2-117",
+  "sec": "fear",
+  "icon": "au",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "أستراليا — جامعة كوينزلاند، بمشاركة منظمة الصحة العالمية",
+  "title": "مجلة بلوس للطب 2012 — الإيذاء العاطفي في الطفولة يضاعف الاكتئاب ومحاولات الانتحار ثلاث مرات",
+  "ot": "\"... emotional abuse [OR = 3.06; 95% CI 2.43–3.85] ... [for depressive disorders] ... emotional abuse [OR = 3.37; 95% CI 2.44–4.67] ... [for suicide attempts] ... This overview of the evidence suggests a causal relationship between non-sexual child maltreatment ... [and a range of mental disorders] ...\"",
+  "ltr": true,
+  "tt": "«... الإيذاء العاطفي [نسبة الأرجحية 3.06] ... [في اضطرابات الاكتئاب] ... الإيذاء العاطفي [نسبة الأرجحية 3.37] ... [في محاولات الانتحار] ... وهذه الخلاصة للأدلة تدل على علاقة سببية بين إيذاء الطفل غير الجنسي ... [وطائفة من الاضطرابات النفسية] ...»",
+  "src": {
+   "author": "Norman RE, Byambaa M, De R, Butchart A, Scott J, Vos T",
+   "year": "2012",
+   "jur": "أستراليا — جامعة كوينزلاند، بمشاركة منظمة الصحة العالمية",
+   "title_latin": "The Long-Term Health Consequences of Child Physical Abuse, Emotional Abuse, and Neglect: A Systematic Review and Meta-Analysis",
+   "sw": "",
+   "where": "PLOS Medicine 9(11): e1001349; doi:10.1371/journal.pmed.1001349",
+   "latin": true
+  },
+  "about": "تحليل جامع من جامعة كوينزلاند الأسترالية، شارك فيه ألكسندر بوتشارت من منظمة الصحة العالمية، ونشر في مجلة بلوس للطب المحكمة.",
+  "level": "تحليل جامع لعدة دراسات: أعلى درجات الدليل",
+  "links": [
+   {
+    "url": "https://ideas.repec.org/a/plo/pmed00/1001349.html",
+    "label": "ملخص البحث",
+    "site": "IDEAS / RePEc",
+    "domain": "ideas.repec.org"
+   },
+   {
+    "url": "https://doi.org/10.1371/journal.pmed.1001349",
+    "label": "البحث في المجلة",
+    "site": "PLOS Medicine",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "أعلى درجات الدليل: الطفل الذي يؤذى عاطفيا يضاعف خطر إصابته بالاكتئاب ثلاث مرات، وخطر محاولته الانتحار أكثر من ثلاث مرات، والعلاقة سببية.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v127": true
+ },
+ {
+  "id": "A2-118",
+  "sec": "fear",
+  "icon": "nl",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "هولندا والمملكة المتحدة — جامعة إيراسموس روتردام وجامعة ساسكس",
+  "title": "موريس وفيلد 2010 — الطفل يكتسب الخوف من الكلام المخيف الذي يسمعه، دون أن يقع له شيء",
+  "ot": "\"... childhood fears ... can also be elicited by means of threat information transmission ...\"",
+  "ltr": true,
+  "tt": "«... مخاوف الطفولة ... يمكن أن تنشأ أيضا بنقل معلومات مخيفة [إلى الطفل] ...»",
+  "src": {
+   "author": "Peter Muris & Andy P. Field",
+   "year": "2010",
+   "jur": "هولندا والمملكة المتحدة — جامعة إيراسموس روتردام وجامعة ساسكس",
+   "title_latin": "The role of verbal threat information in the development of childhood fear. \"Beware the Jabberwock!\"",
+   "sw": "",
+   "where": "Clinical Child and Family Psychology Review 13(2): 129–150; doi:10.1007/s10567-010-0064-1",
+   "latin": true
+  },
+  "about": "بيتر موريس أستاذ علم نفس الطفل في جامعة إيراسموس الهولندية، وآندي فيلد أستاذ علم النفس في جامعة ساسكس البريطانية، وهما من أبرز من درس نشأة مخاوف الأطفال.",
+  "level": "مراجعة علمية محكمة لثلاثين سنة من البحوث",
+  "links": [
+   {
+    "url": "https://repub.eur.nl/pub/18548",
+    "label": "سجل البحث",
+    "site": "مستودع جامعة إيراسموس",
+    "domain": "repub.eur.nl"
+   },
+   {
+    "url": "https://doi.org/10.1007/s10567-010-0064-1",
+    "label": "البحث في المجلة",
+    "site": "Springer",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "العلم يقرر أن الخوف يزرع في الطفل بالكلام وحده؛ فالطفل الذي يقال له إن أباه يسممه ويريد خطفه وقتله يتعلم الخوف من أبيه دون أن يقع عليه منه شيء.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v127": true
+ },
+ {
+  "id": "A2-119",
+  "sec": "fear",
+  "icon": "uk",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "المملكة المتحدة — جامعة ساسكس",
+  "title": "فيلد ولوسون وبانيرجي 2008 — الكلام المخيف يغير معتقدات الطفل ستة أشهر ويجعله يتجنب ما خوف منه",
+  "ot": "\"Verbal information has long been assumed to be an indirect pathway to fear. ... the changes persisted up to 6 months later ... Verbal threat information also induced behavioral avoidance ...\"",
+  "ltr": true,
+  "tt": "«طالما افترض أن الكلام طريق غير مباشر إلى الخوف ... [وقد] استمرت التغيرات [في معتقدات الأطفال] حتى ستة أشهر بعد ذلك ... كما أحدثت المعلومات المخيفة المنطوقة سلوك التجنب ...»",
+  "src": {
+   "author": "Andy Field, Joanne Lawson, Robin Banerjee",
+   "year": "2008",
+   "jur": "المملكة المتحدة — جامعة ساسكس",
+   "title_latin": "The verbal threat information pathway to fear in children: the longitudinal effects on fear cognitions and the immediate effects on avoidance behavior",
+   "sw": "",
+   "where": "Journal of Abnormal Psychology 117(1): 214–224",
+   "latin": true
+  },
+  "about": "دراسة تجريبية من جامعة ساسكس البريطانية، نشرت في مجلة علم النفس المرضي التي تصدرها الجمعية الأمريكية لعلم النفس.",
+  "level": "تجربة محكمة في مجلة الجمعية الأمريكية لعلم النفس",
+  "links": [
+   {
+    "url": "https://sussex.figshare.com/articles/journal_contribution/The_verbal_threat_information_pathway_to_fear_in_children_the_longitudinal_effects_on_fear_cognitions_and_the_immediate_effects_on_avoidance_behavior/23327288",
+    "label": "سجل البحث",
+    "site": "مستودع جامعة ساسكس",
+    "domain": "sussex.figshare.com"
+   }
+  ],
+  "arg": "كلمة مخيفة تقال للطفل تبقى في معتقده شهورا وتجعله يتجنب ما خوف منه؛ فكيف بطفل يلقن سنين أن أباه وأجداده يريدون أذاه؟ يتجنب طعامهم وهداياهم ولقاءهم، كما يقول العلم تماما.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v127": true
+ },
+ {
   "id": "A3-101",
   "sec": "hujaj",
   "icon": "",
@@ -9859,6 +10101,65 @@
    }
   ],
   "arg": "الحنفية أسقطوا حضانة الأم إذا تزوجت أجنبيا عن الطفل، لأن زوج الأم يبغضه؛ وسجلات الوفيات في كندا وأعلى مجلة لطب الأطفال في أمريكا تثبت الخطر نفسه بالأرقام. فإبعاد الطفل عن أبيه وتركه في بيت زوج أمه تعريض له لأشد الخطر.",
+  "chips": [
+   [
+    "str hot",
+    "دليل جامع"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "axis": 4,
+  "hujaj": true
+ },
+ {
+  "id": "A4-121",
+  "sec": "hujaj",
+  "icon": "",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "حجة جامعة من أقسام الموسوعة",
+  "title": "تلقين الطفل الخوف من أبيه: القرآن والأمم المتحدة وعلم النفس على حد واحد",
+  "ot": "<div class=\"hq\">﴿لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ﴾ <span class=\"hs\"><svg class=\"ico\" viewBox=\"0 0 30 20\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"القرآن الكريم\"><clipPath id=\"fc\"><rect width=\"30\" height=\"20\" rx=\"2\"/></clipPath><g clip-path=\"url(#fc)\"><rect width=\"30\" height=\"20\" fill=\"#FBF8F1\"/><path d=\"M4,4 Q10,2.5 15,4.5 V17 Q10,15 4,16.5 Z\" fill=\"#8C6A1E\"/><path d=\"M26,4 Q20,2.5 15,4.5 V17 Q20,15 26,16.5 Z\" fill=\"#B8923C\"/><path d=\"M15,4.5 V17\" stroke=\"#fff\" stroke-width=\".8\"/><path d=\"M6,7 Q10,6 13,7 M6,9.5 Q10,8.5 13,9.5 M6,12 Q10,11 13,12 M17,7 Q20,6 24,7 M17,9.5 Q20,8.5 24,9.5 M17,12 Q20,11 24,12\" stroke=\"rgba(255,255,255,.75)\" stroke-width=\".7\" fill=\"none\"/></g><rect x=\".3\" y=\".3\" width=\"29.4\" height=\"19.4\" rx=\"2\" fill=\"none\" stroke=\"rgba(0,0,0,.35)\" stroke-width=\".6\"/></svg>(سورة البقرة 233 — بطاقة {N:A4-117})</span><span class=\"hsep\"> ◆ </span></div><div class=\"hq\">«تخويفه وترويعه وتهديده» <span class=\"hs\"><svg class=\"ico\" viewBox=\"0 0 30 20\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"الأمم المتحدة\"><clipPath id=\"fc\"><rect width=\"30\" height=\"20\" rx=\"2\"/></clipPath><g clip-path=\"url(#fc)\"><rect width=\"30\" height=\"20\" fill=\"#5B92E5\"/><circle cx=\"15\" cy=\"10\" r=\"7.5\" fill=\"#5B92E5\" stroke=\"#fff\" stroke-width=\"1\"/><ellipse cx=\"15\" cy=\"10\" rx=\"3.2\" ry=\"7.5\" fill=\"none\" stroke=\"#fff\" stroke-width=\".8\"/><path d=\"M7.5,10 H22.5 M9,6 H21 M9,14 H21\" stroke=\"#fff\" stroke-width=\".8\" fill=\"none\"/></g><rect x=\".3\" y=\".3\" width=\"29.4\" height=\"19.4\" rx=\"2\" fill=\"none\" stroke=\"rgba(0,0,0,.35)\" stroke-width=\".6\"/></svg>(الأمم المتحدة · لجنة حقوق الطفل الأممية، التعليق العام 13 — بطاقة {N:A5-212})</span><span class=\"hsep\"> ◆ </span></div><div class=\"hq\">«يواجهون مشكلات نفسية مماثلة، وأحيانا أسوأ، من الأطفال الذين يقع عليهم الاعتداء الجسدي أو الجنسي» <span class=\"hs\"><svg class=\"ico\" viewBox=\"0 0 30 20\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"الولايات المتحدة\"><clipPath id=\"fc\"><rect width=\"30\" height=\"20\" rx=\"2\"/></clipPath><g clip-path=\"url(#fc)\"><rect y=\"0.00\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect y=\"1.54\" width=\"30\" height=\"1.54\" fill=\"#fff\"/><rect y=\"3.08\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect y=\"4.62\" width=\"30\" height=\"1.54\" fill=\"#fff\"/><rect y=\"6.15\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect y=\"7.69\" width=\"30\" height=\"1.54\" fill=\"#fff\"/><rect y=\"9.23\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect y=\"10.77\" width=\"30\" height=\"1.54\" fill=\"#fff\"/><rect y=\"12.31\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect y=\"13.85\" width=\"30\" height=\"1.54\" fill=\"#fff\"/><rect y=\"15.38\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect y=\"16.92\" width=\"30\" height=\"1.54\" fill=\"#fff\"/><rect y=\"18.46\" width=\"30\" height=\"1.54\" fill=\"#B22234\"/><rect width=\"12\" height=\"10.8\" fill=\"#3C3B6E\"/><circle cx=\"1\" cy=\"1.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"1.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"1.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"1.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"1.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"11\" cy=\"1.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"2.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"2.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"2.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"2.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"2.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"3.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"3.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"3.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"3.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"3.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"11\" cy=\"3.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"4.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"4.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"4.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"4.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"4.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"5.8\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"5.8\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"5.8\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"5.8\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"5.8\" r=\".45\" fill=\"#fff\"/><circle cx=\"11\" cy=\"5.8\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"7.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"7.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"7.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"7.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"7.0\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"8.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"8.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"8.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"8.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"8.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"11\" cy=\"8.2\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"9.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"9.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"9.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"9.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"9.4\" r=\".45\" fill=\"#fff\"/><circle cx=\"1\" cy=\"10.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"3\" cy=\"10.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"5\" cy=\"10.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"7\" cy=\"10.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"9\" cy=\"10.6\" r=\".45\" fill=\"#fff\"/><circle cx=\"11\" cy=\"10.6\" r=\".45\" fill=\"#fff\"/></g><rect x=\".3\" y=\".3\" width=\"29.4\" height=\"19.4\" rx=\"2\" fill=\"none\" stroke=\"rgba(0,0,0,.35)\" stroke-width=\".6\"/></svg>(الولايات المتحدة · الجمعية الأمريكية لعلم النفس 2014 — بطاقة {N:A2-115})</span><span class=\"hsep\"> ◆ </span></div>",
+  "ltr": false,
+  "tt": "",
+  "src": {
+   "author": "حجة جامعة",
+   "year": "",
+   "jur": "",
+   "title_latin": "",
+   "sw": "من البطاقات {N:A4-117}، {N:A5-212}، {N:A2-115}",
+   "where": "",
+   "latin": false
+  },
+  "about": "بطاقة جامعة تضم نصوصا منقولة بلفظها من بطاقات الموسوعة في أقسام مختلفة؛ وكل نص فيها له بطاقته الكاملة بمصدره وموضعه ورابطه.",
+  "level": "حجة جامعة متعددة المصادر",
+  "links": [
+   {
+    "url": "https://quran.com/2/233",
+    "label": "سورة البقرة 233 — بطاقة {N:A4-117}",
+    "site": "القرآن الكريم",
+    "domain": "quran.com"
+   },
+   {
+    "url": "https://hrlibrary.umn.edu/crc/gencom13.html",
+    "label": "لجنة حقوق الطفل الأممية، التعليق العام 13 — بطاقة {N:A5-212}",
+    "site": "مكتبة حقوق الإنسان، جامعة مينيسوتا",
+    "domain": "hrlibrary.umn.edu"
+   },
+   {
+    "url": "https://www.newswise.com/articles/childhood-psychological-abuse-as-harmful-as-sexual-or-physical-abuse",
+    "label": "الجمعية الأمريكية لعلم النفس 2014 — بطاقة {N:A2-115}",
+    "site": "Newswise",
+    "domain": "www.newswise.com"
+   }
+  ],
+  "arg": "القرآن يحرم أن يتخذ الولد وسيلة للإضرار بأبيه، والأمم المتحدة تعد تخويف الطفل وترويعه عنفا نفسيا، والجمعية الأمريكية لعلم النفس تثبت أن ضرره كضرر الاعتداء الجسدي والجنسي أو أشد. فمن لقن الطفل أن أباه يسممه ويريد قتله أضر بالأب وآذى الطفل في نفسه.",
   "chips": [
    [
     "str hot",
