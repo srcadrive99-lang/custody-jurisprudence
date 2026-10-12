@@ -11339,5 +11339,470 @@
   ],
   "fam": "west",
   "v131": true
+ },
+ {
+  "id": "A4-127",
+  "sec": "harm",
+  "icon": "nl",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "هولندا — جامعة أمستردام والمعهد الهولندي لدراسة الجريمة",
+  "title": "تحليل جامع هولندي 2009 لـ161 دراسة — ضعف دعم الأب أشد أثرا في جنوح الأبناء من ضعف دعم الأم، وخاصة عند الذكور",
+  "ot": "\"... 161 published and unpublished manuscripts ... fewer than 20% of the studies focused on parenting behavior of fathers ... the effect of poor support by fathers was larger than poor maternal support, particularly for sons.\"",
+  "ltr": true,
+  "tt": "«... 161 بحثا منشورا وغير منشور ... أقل من 20% من الدراسات اهتمت بسلوك الآباء التربوي ... وكان أثر ضعف دعم الأب أكبر من أثر ضعف دعم الأم، وخاصة عند الأبناء الذكور.»",
+  "src": {
+   "author": "Hoeve M, Dubas JS, Eichelsheim VI, van der Laan PH, Smeenk W, Gerris JRM",
+   "year": "2009",
+   "jur": "هولندا — جامعة أمستردام والمعهد الهولندي لدراسة الجريمة",
+   "title_latin": "The Relationship Between Parenting and Delinquency: A Meta-analysis",
+   "sw": "",
+   "where": "Journal of Abnormal Child Psychology 37(6): 749–775",
+   "latin": true
+  },
+  "about": "تحليل جامع من جامعة أمستردام والمعهد الهولندي لدراسة الجريمة وإنفاذ القانون، جمع 161 دراسة منشورة وغير منشورة عن صلة التربية بالجنوح، ونشر في مجلة «علم نفس الطفل غير السوي» المحكمة.",
+  "level": "تحليل جامع لـ161 دراسة في مجلة محكمة",
+  "links": [
+   {
+    "url": "https://dare.uva.nl/id/84b5b325-5585-4ce5-a8da-41cbcf0c349e",
+    "label": "البحث في مستودع جامعة أمستردام",
+    "site": "جامعة أمستردام",
+    "domain": "dare.uva.nl"
+   },
+   {
+    "url": "https://doi.org/10.1007/s10802-009-9310-8",
+    "label": "البحث في المجلة",
+    "site": "Springer",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "مئة وإحدى وستون دراسة تقول: حين يضعف دعم الأب يزداد جنوح الأبناء أكثر مما لو ضعف دعم الأم، ولا سيما الأولاد. فالقانون الذي يقصي الأب عن ولده يصنع بيئة الجنوح بيده، والسجون تشهد.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-CRIME-NEW-01",
+  "v132": true
+ },
+ {
+  "id": "A4-128",
+  "sec": "harm",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — جامعة روتشستر وجامعة ديوك",
+  "title": "مجلة علم نفس الطفل والمراهق السريري الأمريكية 2016 — قرب المراهق من أبيه، لا من أمه، ارتبط بقلة خطط الانتحار ومحاولاته",
+  "ot": "\"... increased perceived connectedness to father but not mother was associated with lower risk for measures of STB [suicidal thoughts and behavior] ... Study 2 showed that connectedness to fathers was associated with lower risk for suicide plans or attempts (severe STB).\"",
+  "ltr": true,
+  "tt": "«... ارتبط شعور الطفل بالقرب من أبيه، لا من أمه، بانخفاض خطر الأفكار والسلوكيات الانتحارية ... وأظهرت الدراسة الثانية أن القرب من الأب ارتبط بانخفاض خطر خطط الانتحار ومحاولاته.»",
+  "src": {
+   "author": "Conner KR, Wyman P, Goldston DB, Bossarte RM, Lu N, Kaukeinen K, Tu XM, Houston RJ, Lamis DA, Chan G, Bucholz KK, Hesselbrock VM",
+   "year": "2016",
+   "jur": "الولايات المتحدة — جامعة روتشستر وجامعة ديوك",
+   "title_latin": "Two Studies of Connectedness to Parents and Suicidal Thoughts and Behavior in Children and Adolescents",
+   "sw": "",
+   "where": "Journal of Clinical Child & Adolescent Psychology 45(2): 129–140",
+   "latin": true
+  },
+  "about": "دراستان على الأطفال والمراهقين من جامعة روتشستر وجامعة ديوك وجامعات أمريكية أخرى، نشرتا في مجلة «علم نفس الطفل والمراهق السريري» التابعة للجمعية الأمريكية لعلم النفس.",
+  "level": "دراستان محكمتان في مجلة الجمعية الأمريكية لعلم النفس",
+  "links": [
+   {
+    "url": "https://scholars.duke.edu/publication/1048748",
+    "label": "سجل البحث",
+    "site": "جامعة ديوك",
+    "domain": "scholars.duke.edu"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25310350/",
+    "label": "ملخص البحث",
+    "site": "PubMed",
+    "domain": "pubmed.ncbi.nlm.nih.gov"
+   }
+  ],
+  "arg": "الأب حبل نجاة: قرب المراهق من أبيه هو الذي ارتبط بقلة خطط الانتحار ومحاولاته، لا قربه من أمه. فمن قطع صلة الطفل بأبيه قطع حبل نجاته في أخطر مراحل عمره.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-PSY-CONNER-2014-2016",
+  "v132": true
+ },
+ {
+  "id": "A4-129",
+  "sec": "soc",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — وزارة الصحة والخدمات الإنسانية",
+  "title": "وزارة الصحة الأمريكية 2008 — إذا شارك الأب غير الحاضن رجع 48% من الأطفال إلى أسرهم من دور الرعاية، وإذا لم يشارك رجع 16% فقط",
+  "ot": "\"Reunification was the discharge outcome for 16 percent of children whose nonresident fathers were not involved ... [compared with] 48 percent of children whose nonresident fathers were highly involved.\"",
+  "ltr": true,
+  "tt": "«كانت العودة إلى الأسرة مصير 16% من الأطفال الذين لم يشارك آباؤهم غير الحاضنين ... [مقابل] 48% من الأطفال الذين شارك آباؤهم غير الحاضنين مشاركة كبيرة.»",
+  "src": {
+   "author": "Malm K, Zielewski E, Chen H",
+   "year": "2008",
+   "jur": "الولايات المتحدة — وزارة الصحة والخدمات الإنسانية",
+   "title_latin": "More About the Dads: Exploring Associations between Nonresident Father Involvement and Child Welfare Outcomes",
+   "sw": "",
+   "where": "ASPE Research Report, U.S. Department of Health and Human Services",
+   "latin": true
+  },
+  "about": "تقرير لمكتب تخطيط السياسات في وزارة الصحة والخدمات الإنسانية الأمريكية، أعده معهد إربان، على عينة وطنية من أطفال نظام حماية الطفل الذين يعيش آباؤهم خارج البيت.",
+  "level": "تقرير حكومي رسمي على عينة وطنية",
+  "links": [
+   {
+    "url": "https://aspe.hhs.gov/reports/more-about-dads-exploring-associations-between-nonresident-father-involvement-child-welfare",
+    "label": "التقرير الرسمي",
+    "site": "وزارة الصحة الأمريكية",
+    "domain": "aspe.hhs.gov"
+   }
+  ],
+  "arg": "حين يشارك الأب غير الحاضن تتضاعف فرصة الطفل ثلاث مرات في الخروج من دور الرعاية والعودة إلى أسرة. فالأب الذي يقصيه القانون هو نفسه الذي ينقذ الطفل من دور الإيواء.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-INST04",
+  "v132": true
+ },
+ {
+  "id": "A4-130",
+  "sec": "soc",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — وزارة الصحة والخدمات الإنسانية",
+  "title": "وزارة الصحة الأمريكية 2008 — بلاغات سوء المعاملة اللاحقة 12% عند مشاركة الأب غير الحاضن، و32% عند غيابه",
+  "ot": "\"... the likelihood of a subsequent maltreatment allegation was 12.2 percent among those with involved nonresident fathers ... compared with 32 percent among those with nonresident fathers who were not involved.\"",
+  "ltr": true,
+  "tt": "«... كان احتمال بلاغ لاحق بسوء المعاملة 12.2% عند الأطفال الذين شارك آباؤهم غير الحاضنين ... مقابل 32% عند الأطفال الذين لم يشارك آباؤهم غير الحاضنون.»",
+  "src": {
+   "author": "Malm K, Zielewski E, Chen H",
+   "year": "2008",
+   "jur": "الولايات المتحدة — وزارة الصحة والخدمات الإنسانية",
+   "title_latin": "More About the Dads: Exploring Associations between Nonresident Father Involvement and Child Welfare Outcomes",
+   "sw": "",
+   "where": "ASPE Research Report, U.S. Department of Health and Human Services",
+   "latin": true
+  },
+  "about": "التقرير نفسه لوزارة الصحة الأمريكية عن آباء أطفال نظام حماية الطفل، يقيس ما يحدث للطفل بعد إغلاق قضيته.",
+  "level": "تقرير حكومي رسمي على عينة وطنية",
+  "links": [
+   {
+    "url": "https://aspe.hhs.gov/reports/more-about-dads-exploring-associations-between-nonresident-father-involvement-child-welfare",
+    "label": "التقرير الرسمي",
+    "site": "وزارة الصحة الأمريكية",
+    "domain": "aspe.hhs.gov"
+   }
+  ],
+  "arg": "مشاركة الأب تحمي الطفل من سوء المعاملة بعد الفرقة، لا العكس؛ فغياب الأب يرفع خطر إيذاء الطفل إلى نحو ثلاثة أضعاف. والأب الحاضر عين تحرس الطفل في بيت أمه.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-INST06",
+  "v132": true
+ },
+ {
+  "id": "A2-126",
+  "sec": "fear",
+  "icon": "nl",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "هولندا — جامعة لايدن",
+  "title": "تحليل جامع من جامعة لايدن 2024 لـ18 دراسة — كلام الوالد المخوف يزرع الخوف في الطفل ولو مرة واحدة",
+  "ot": "\"Parents’ talk about new stimuli ... strongly affects how avoidant or fearful their child will react ... the effect turned out to be strong, even after one exposure to parental verbal threat information.\"",
+  "ltr": true,
+  "tt": "«كلام الوالدين عن الأشياء الجديدة ... يؤثر تأثيرا قويا في مقدار تجنب الطفل لها وخوفه منها ... وتبين أن الأثر قوي حتى بعد تعرض واحد لكلام الوالد المخوف.»",
+  "src": {
+   "author": "Nimphy CA, Mitrou V, Elzinga BM, Van der Does W, Aktar E",
+   "year": "2024",
+   "jur": "هولندا — جامعة لايدن",
+   "title_latin": "The Role of Parental Verbal Threat Information in Children’s Fear Acquisition: A Systematic Review and Meta-Analysis",
+   "sw": "",
+   "where": "Clinical Child and Family Psychology Review 27 (2024)",
+   "latin": true
+  },
+  "about": "مراجعة منهجية وتحليل جامع من قسم علم النفس السريري بجامعة لايدن الهولندية، جمع 18 دراسة تجريبية عن أثر كلام الوالدين المخوف في خوف الأطفال.",
+  "level": "تحليل جامع لـ18 دراسة في مجلة محكمة",
+  "links": [
+   {
+    "url": "https://www.universiteitleiden.nl/en/news/2024/06/scary-huh---the-power-of-parental-fear-talk",
+    "label": "عرض الدراسة",
+    "site": "جامعة لايدن",
+    "domain": "www.universiteitleiden.nl"
+   },
+   {
+    "url": "https://doi.org/10.1007/s10567-024-00485-4",
+    "label": "البحث في المجلة",
+    "site": "Springer",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "ثماني عشرة تجربة تقول: جملة مخوفة واحدة من الوالد تكفي لتزرع الخوف في الطفل. فما بال طفل يسمع كل يوم أن أباه يكرهه ويريد أذاه؟ هذا تلقين يصنع خوفا مرضيا لا يعالج بسهولة.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-PSY-NIMPHY-2024",
+  "v132": true
+ },
+ {
+  "id": "A2-127",
+  "sec": "fear",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — جامعة سنترال ميشيغان وجامعة فيكتوريا",
+  "title": "تجربة أمريكية 2001 في مجلة الجمعية الأمريكية لعلم النفس — 35% من الأطفال رووا أحداثا لم تقع بعد أن سمعوها من أمهاتهم",
+  "ot": "\"... 40 of the 114 children (35%) reported a total of 58 fictitious events ...\"",
+  "ltr": true,
+  "tt": "«... 40 طفلا من 114 (35%) رووا ما مجموعه 58 حدثا لم يقع أصلا ...»",
+  "src": {
+   "author": "Poole DA, Lindsay DS",
+   "year": "2001",
+   "jur": "الولايات المتحدة — جامعة سنترال ميشيغان وجامعة فيكتوريا",
+   "title_latin": "Children’s Eyewitness Reports After Exposure to Misinformation From Parents",
+   "sw": "",
+   "where": "Journal of Experimental Psychology: Applied 7(1): 27–50",
+   "latin": true
+  },
+  "about": "تجربة على 114 طفلا بين الثالثة والثامنة، قرأ لهم آباؤهم وأمهاتهم قصة فيها أحداث لم تقع، ثم سئلوا عما حدث؛ نشرت في مجلة «علم النفس التجريبي: التطبيقي» التابعة للجمعية الأمريكية لعلم النفس.",
+  "level": "تجربة محكمة في مجلة الجمعية الأمريكية لعلم النفس",
+  "links": [
+   {
+    "url": "https://www.apa.org/pubs/journals/releases/xap7127.pdf",
+    "label": "البحث في موقع الجمعية",
+    "site": "الجمعية الأمريكية لعلم النفس",
+    "domain": "www.apa.org"
+   },
+   {
+    "url": "https://doi.org/10.1037/1076-898X.7.1.27",
+    "label": "البحث في المجلة",
+    "site": "APA PsycNet",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "قصة واحدة يقرؤها الوالد تجعل ثلث الأطفال يروون أحداثا لم تقع كأنها ذكرياتهم. فحين يقال للطفل إن أباه ضربه أو سممه، فإن الطفل قد يرويه ويصدقه؛ وقوله في المحكمة «لا أريد أبي» صدى لما لقن لا خبر عما عاش.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-POOLE2001",
+  "v132": true
+ },
+ {
+  "id": "A5-223",
+  "sec": "enforce",
+  "icon": "eu",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "أوروبا — مجلس أوروبا، لجنة الوزراء",
+  "title": "مجلس أوروبا، التوصية 2018/5 — حتى الوالد السجين: يزوره طفله خلال أسبوع من حبسه، والشاشات لا تعوض اللقاء وجها لوجه",
+  "ot": "\"17. Children should normally be allowed to visit an imprisoned parent within a week following the parent’s detention ... 25. These means of communication should never be seen as an alternative which replaces face-to-face contact.\"",
+  "ltr": true,
+  "tt": "«17. ينبغي في الأصل أن يسمح للأطفال بزيارة والدهم المحبوس خلال أسبوع من احتجازه ... 25. لا ينبغي أبدا أن تعد وسائل الاتصال هذه [الهاتف والفيديو] بديلا يحل محل اللقاء وجها لوجه.»",
+  "src": {
+   "author": "Committee of Ministers of the Council of Europe",
+   "year": "2018",
+   "jur": "أوروبا — مجلس أوروبا، لجنة الوزراء",
+   "title_latin": "Recommendation CM/Rec(2018)5 concerning children with imprisoned parents, paras 17 and 25",
+   "sw": "",
+   "where": "Council of Europe, adopted 4 April 2018",
+   "latin": true
+  },
+  "about": "توصية لجنة وزراء مجلس أوروبا في شأن أطفال السجناء، اعتمدت في 4 أبريل 2018، وتلزم الدول الأعضاء بحفظ صلة الطفل بوالده المحبوس.",
+  "level": "توصية رسمية للجنة وزراء مجلس أوروبا لـ46 دولة",
+  "links": [
+   {
+    "url": "https://vlada.gov.cz/assets/ppov/rlp/vybory/pro-prava-ditete/prac_skup_deti/CM-Recommendation-_2018_5-concerning-children-with-imprisoned-parents_Eng-vcetne-explanatory-memorandum.pdf",
+    "label": "نص التوصية مع المذكرة التفسيرية",
+    "site": "الحكومة التشيكية",
+    "domain": "vlada.gov.cz"
+   },
+   {
+    "url": "https://rm.coe.int/cm-recommendation-2018-5-concerning-children-with-imprisoned-parents-e/16807b3438",
+    "label": "نص التوصية",
+    "site": "مجلس أوروبا",
+    "domain": "rm.coe.int"
+   }
+  ],
+  "arg": "أوروبا كلها تقول: الأب المحبوس بجريمة يرى طفله خلال أسبوع، والهاتف والشاشة لا يغنيان عن اللقاء وجها لوجه. فكيف يحرم أب بريء لم يرتكب شيئا من ولده سنين ويكتفى بمكالمة أو ساعات مراقبة؟",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-INST01",
+  "v132": true
+ },
+ {
+  "id": "A5-224",
+  "sec": "enforce",
+  "icon": "eu",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "أوروبا — مجلس أوروبا، لجنة الوزراء",
+  "title": "مجلس أوروبا، التوصية 2018/5 — تدابير خاصة لتمكين الوالد السجين من صلة منتظمة وذات معنى بطفله، وتطبيق قواعد الهاتف بمرونة",
+  "ot": "\"26. Rules for making and receiving telephone calls and other forms of communication with children shall be applied flexibly ... 27. Arrangements should be made to facilitate an imprisoned parent, who wishes to do so, to participate effectively [in the child’s life] ... 30. Special measures shall be taken to encourage and enable imprisoned parents to maintain regular and meaningful contact [with their children].\"",
+  "ltr": true,
+  "tt": "«26. تطبق قواعد إجراء المكالمات الهاتفية وتلقيها وسائر أشكال التواصل مع الأطفال بمرونة ... 27. تتخذ الترتيبات لتيسير مشاركة الوالد السجين الذي يرغب في ذلك مشاركة فعالة [في حياة طفله] ... 30. تتخذ تدابير خاصة لتشجيع الوالدين المسجونين وتمكينهم من الحفاظ على صلة منتظمة وذات معنى [بأطفالهم].»",
+  "src": {
+   "author": "Committee of Ministers of the Council of Europe",
+   "year": "2018",
+   "jur": "أوروبا — مجلس أوروبا، لجنة الوزراء",
+   "title_latin": "Recommendation CM/Rec(2018)5 concerning children with imprisoned parents, paras 26, 27 and 30",
+   "sw": "",
+   "where": "Council of Europe, adopted 4 April 2018",
+   "latin": true
+  },
+  "about": "التوصية نفسها للجنة وزراء مجلس أوروبا في شأن أطفال السجناء، في بنود الاتصال ومشاركة الوالد السجين في حياة طفله.",
+  "level": "توصية رسمية للجنة وزراء مجلس أوروبا لـ46 دولة",
+  "links": [
+   {
+    "url": "https://vlada.gov.cz/assets/ppov/rlp/vybory/pro-prava-ditete/prac_skup_deti/CM-Recommendation-_2018_5-concerning-children-with-imprisoned-parents_Eng-vcetne-explanatory-memorandum.pdf",
+    "label": "نص التوصية مع المذكرة التفسيرية",
+    "site": "الحكومة التشيكية",
+    "domain": "vlada.gov.cz"
+   },
+   {
+    "url": "https://rm.coe.int/cm-recommendation-2018-5-concerning-children-with-imprisoned-parents-e/16807b3438",
+    "label": "نص التوصية",
+    "site": "مجلس أوروبا",
+    "domain": "rm.coe.int"
+   }
+  ],
+  "arg": "الدولة الأوروبية تسخر تدابير خاصة ليبقى السجين أبا فعالا في حياة طفله: اتصال منتظم وذو معنى، وقواعد مرنة، ومشاركة في حياته. والقانون الذي يجعل الأب الحر غريبا عن ولده أقسى من السجن.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-INST02",
+  "v132": true
+ },
+ {
+  "id": "A5-225",
+  "sec": "enforce",
+  "icon": "un",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الأمم المتحدة — الجمعية العامة",
+  "title": "الأمم المتحدة، المبادئ التوجيهية للرعاية البديلة 2009، الفقرة 82 — حتى طفل الوالد المسجون تكفل له الدولة فرصة الصلة بوالديه",
+  "ot": "\"82. States should pay special attention to ensuring that children in alternative care because of parental imprisonment ... have the opportunity to maintain contact with their parents and receive any necessary counselling and support in that regard.\"",
+  "ltr": true,
+  "tt": "«82. ينبغي للدول أن تولي اهتماما خاصا لضمان أن تتاح للأطفال المودعين في الرعاية البديلة بسبب سجن والديهم ... فرصة الحفاظ على الاتصال بوالديهم، وأن يتلقوا ما يلزم من مشورة ودعم في هذا الشأن.»",
+  "src": {
+   "author": "UN General Assembly",
+   "year": "2009",
+   "jur": "الأمم المتحدة — الجمعية العامة",
+   "title_latin": "Guidelines for the Alternative Care of Children, A/RES/64/142, para 82",
+   "sw": "",
+   "where": "Resolution adopted by the General Assembly on 18 December 2009",
+   "latin": true
+  },
+  "about": "المبادئ التوجيهية للرعاية البديلة للأطفال، اعتمدتها الجمعية العامة للأمم المتحدة بالقرار 64/142 في 18 ديسمبر 2009، وهي المرجع الدولي في رعاية الأطفال خارج أسرهم.",
+  "level": "قرار للجمعية العامة للأمم المتحدة",
+  "links": [
+   {
+    "url": "https://digitallibrary.un.org/record/673583",
+    "label": "القرار في مكتبة الأمم المتحدة",
+    "site": "الأمم المتحدة",
+    "domain": "digitallibrary.un.org"
+   },
+   {
+    "url": "https://childrenofprisoners.eu/wp-content/uploads/2022/11/Children-with-Imprisoned-Parents-and-Alternative-Care.pdf",
+    "label": "الفقرة 82 في دليل أطفال السجناء",
+    "site": "Children of Prisoners Europe",
+    "domain": "childrenofprisoners.eu"
+   }
+  ],
+  "arg": "الأمم المتحدة تطلب من الدول عناية خاصة بصلة الطفل بوالده المسجون. فالصلة حق للطفل لا يسقطه سجن الوالد، فكيف يسقطه مجرد الطلاق؟",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "uid": "CP-20261012-INST05",
+  "v132": true
  }
 ]
