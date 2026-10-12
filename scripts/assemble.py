@@ -42,6 +42,8 @@ SECTIONS=[
       blurb='حق الطفل في والديه معا'),
  dict(key='law',  name='التشريعات المقارنة', acc='#8A6418', accd='#5F4510', g=('#FBF3E2','#EEDDB4'),
       blurb='من لندن إلى بوينس آيرس: الأصل مشاركة الوالدين'),
+ dict(key='enforce', name='حماية لقاء الطفل بوالديه وتنفيذه', acc='#0E6E55', accd='#094D3B', g=('#E2F4EE','#BDE5D7'),
+      blurb='ألمانيا وفرنسا: من يعطل لقاء الطفل بأبيه يحاسب'),
  dict(key='tamyiz', name='سن التمييز في قوانين العالم', acc='#1A237E', accd='#0D1452', g=('#E8EAF6','#C5CAE9'),
       blurb='قوانين الشرق والغرب تجعل السابعة حد التمييز والمسؤولية'),
  dict(key='court',name='القضاء', acc='#17697A', accd='#0F4A56', g=('#E3F4F7','#BFE1E8'),
@@ -68,7 +70,7 @@ SECTIONS=[
 
 SEC={d['key']:d for d in SECTIONS}
 ORDER=[d['key'] for d in SECTIONS]
-AR_ORD=['الأول','الثاني','الثالث','الرابع','الخامس','السادس','السابع','الثامن','التاسع','العاشر','الحادي عشر','الثاني عشر','الثالث عشر','الرابع عشر','الخامس عشر','السادس عشر','السابع عشر','الثامن عشر','التاسع عشر','العشرون','الحادي والعشرون']
+AR_ORD=['الأول','الثاني','الثالث','الرابع','الخامس','السادس','السابع','الثامن','التاسع','العاشر','الحادي عشر','الثاني عشر','الثالث عشر','الرابع عشر','الخامس عشر','السادس عشر','السابع عشر','الثامن عشر','التاسع عشر','العشرون','الحادي والعشرون','الثاني والعشرون']
 
 TOC_BLURB={
  'med':'من ابن سينا إلى منظمة الصحة العالمية وكبريات مجلات طب الأطفال: السابعة سن الاستعداد للتأديب والتعليم، والتاسعة عتبة البلوغ، وانخراط الأب في رعاية ولده من صحته.',
@@ -90,6 +92,7 @@ TOC_BLURB={
 'hujaj':'أدلة متضافرة: كل بطاقة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
  'body':'الطب الحيوي وطب الأسنان وعلم الأحياء التطوري: بين السادسة والثامنة تتبدل أسنان الطفل وتنضج غدته الكظرية ويستقل بطعامه وضبط نفسه، فالسابعة علامة في الجسد كما هي حد في الفقه.',
  'school':'اليونسكو والبيانات العالمية ووزارة التعليم الأمريكية: العالم كله يدخل الطفل المدرسة بين الخامسة والسابعة، ومشاركة الأب في التعليم ترفع تحصيل الولد.',
+ 'enforce':'قوانين ألمانيا وفرنسا: على الوالدين الامتناع عن كل ما يفسد علاقة الطفل بالآخر، وقضايا اللقاء تنظر أولا وبسرعة، ومن عطل اللقاء غرم أو سجن أو روجعت حضانته.',
  'tamyiz':'قوانين ألمانيا وباكستان ونيجيريا وبنغلاديش والهند وإنجلترا والقانون الكنسي: السابعة حد التمييز والأهلية والمسؤولية، وابن العاشرة يحاسب جنائيا.',
  'f6':'الموسوعات والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
@@ -113,6 +116,7 @@ OPEN_BLURB={
 'hujaj':'أدلة متضافرة: كل بطاقة تجمع نصوصا منقولة بلفظها من أقسام مختلفة، القرآن والسنة والفقه وفتاوى الأزهر والطب وعلم النفس والدراسات والقضاء والتشريع والمواثيق الدولية، فتلتقي كلها على الحكم نفسه، ولكل نص رقم بطاقته الكاملة.',
  'body':'الطب الحيوي وطب الأسنان وعلم الأحياء التطوري: بين السادسة والثامنة تتبدل أسنان الطفل وتنضج غدته الكظرية ويستقل بطعامه وضبط نفسه، فالسابعة علامة في الجسد كما هي حد في الفقه.',
  'school':'اليونسكو والبيانات العالمية ووزارة التعليم الأمريكية: العالم كله يدخل الطفل المدرسة بين الخامسة والسابعة، ومشاركة الأب في التعليم ترفع تحصيل الولد.',
+ 'enforce':'قوانين ألمانيا وفرنسا: على الوالدين الامتناع عن كل ما يفسد علاقة الطفل بالآخر، وقضايا اللقاء تنظر أولا وبسرعة، ومن عطل اللقاء غرم أو سجن أو روجعت حضانته.',
  'tamyiz':'قوانين ألمانيا وباكستان ونيجيريا وبنغلاديش والهند وإنجلترا والقانون الكنسي: السابعة حد التمييز والأهلية والمسؤولية، وابن العاشرة يحاسب جنائيا.',
  'f6':'الموسوعات الفقهية والفقه المقارن وعلماء التربية والطب واللغة في الإسلام: السابعة سن التعليم والتأديب، والتمييز هو مناط انتقال الولد إلى أبيه.',
 }
@@ -413,7 +417,7 @@ def stats_page(base_stats, cards_meta, counts, page, pages):
     s=re.sub(r'<span class="fid">.*?</span>',f'<span class="fid">الإحصاءات · صفحة {page} من {pages}</span>',s)
     return s
 
-EXTRA_CSS=('.sec-fear{--acc:#6A1B9A;--accd:#4A148C;--tint:#F3E5F5;--tint2:#FAF2FB}.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-body{--acc:#00796B;--accd:#004D40;--tint:#E0F2F1;--tint2:#F2FAF9}.sec-school{--acc:#D81B60;--accd:#9C1145;--tint:#FCE4EC;--tint2:#FEF4F7}.sec-tamyiz{--acc:#1A237E;--accd:#0D1452;--tint:#E8EAF6;--tint2:#F5F6FC}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}.sec-hujaj .hs .ico{display:inline-block;width:22px;height:15px;vertical-align:-3px;margin-left:5px;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
+EXTRA_CSS=('.sec-enforce{--acc:#0E6E55;--accd:#094D3B;--tint:#E2F4EE;--tint2:#F1FAF6}.sec-fear{--acc:#6A1B9A;--accd:#4A148C;--tint:#F3E5F5;--tint2:#FAF2FB}.sec-azhar{--acc:#7B2D26;--accd:#561F1A;--tint:#F8EDEB;--tint2:#FCF6F5}.sec-body{--acc:#00796B;--accd:#004D40;--tint:#E0F2F1;--tint2:#F2FAF9}.sec-school{--acc:#D81B60;--accd:#9C1145;--tint:#FCE4EC;--tint2:#FEF4F7}.sec-tamyiz{--acc:#1A237E;--accd:#0D1452;--tint:#E8EAF6;--tint2:#F5F6FC}.sec-hujaj{--acc:#8B1E5B;--accd:#601440;--tint:#FBEAF3;--tint2:#FDF5F9}.sec-hujaj .hq{margin:0 0 .55em;padding:0 0 .45em;border-bottom:1px dashed #E2C3D4}.sec-hujaj .hq:last-child{border-bottom:0;margin-bottom:0}.sec-hujaj .hs{display:block;font-family:CairoE,sans-serif;font-weight:700;font-size:.62em;color:var(--accd);margin-top:.15em}.sec-hujaj .hsep{display:none}.sec-hujaj .hs .ico{display:inline-block;width:22px;height:15px;vertical-align:-3px;margin-left:5px;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.srcl.has-ico{position:relative;padding-left:40px}.srcl .ico{position:absolute;left:9px;top:50%;transform:translateY(-50%);width:26px;height:17.3px;display:block;filter:drop-shadow(0 1px 1px rgba(0,0,0,.18))}'
            '.mn{font-family:\'AmiriE\',\'CairoE\',serif;font-weight:700;font-size:1.12em;line-height:1;color:#C40000}'
            '.chip .mn{font-size:1.05em;color:inherit}.st1 .mn{color:inherit}.fid .mn{font-size:1em;color:inherit}.argt .mn,.about .mn,.tt .mn{color:#9A0000}'
@@ -431,7 +435,7 @@ def fiqh_subkey(meta):
     return 'f6'
 
 
-MOVE={'A5-212':'fear','A2-114':'fear','A5-157':'tamyiz','A5-158':'tamyiz','A5-161':'tamyiz','A4-058':'school','A2-072':'body','A2-042':'body','A2-043':'body'}
+MOVE={'A5-215':'enforce','A5-216':'enforce','A5-217':'enforce','A5-212':'fear','A2-114':'fear','A5-157':'tamyiz','A5-158':'tamyiz','A5-161':'tamyiz','A4-058':'school','A2-072':'body','A2-042':'body','A2-043':'body'}
 def _top_rank():
     try:
         D=json.load(open('/home/claude/work/build/nuqul_7_9.json',encoding='utf8'))
@@ -442,7 +446,7 @@ def _top_rank():
 TOPRANK=_top_rank()
 LVT=[('القرآن',0),('قرآن',0),('حديث',1),('فتوى رسمية',2),('محكمة عليا',3),('قضاء دولي',3),('معاهدة',4),('تشريع',4),('نص قانوني',4),('تعريف رسمي',5),('إحصاء رسمي',5),('تحليل جامع',6),('مراجعة منهجية',6),('مراجعة منظمة',6),('سجلات',7),('متابعة وطنية',7),('قرار برلماني',8),('تقرير رسمي',8),('بيان طبي',8),('إرشاد رسمي',8)]
 # manual strength boost: placed right after the top-50 cards of their section, in this order
-BOOST={k:n for n,k in enumerate(dict.fromkeys(['A5-215','A5-217','A5-216','A2-115','A2-117','A2-116','A5-212','A2-119','A2-118','A4-115','A4-114','A4-116','A4-117','A5-212','A5-213','A1-116','A2-114','A4-118','A5-214']))}
+BOOST={k:n for n,k in enumerate(dict.fromkeys(['A5-215','A5-220','A5-217','A5-221','A5-218','A5-222','A5-219','A5-216','A2-115','A2-117','A2-116','A5-212','A2-119','A2-118','A4-115','A4-114','A4-116','A4-117','A5-212','A5-213','A1-116','A2-114','A4-118','A5-214']))}
 def strength_key(i, m, pos):
     m=m or {}
     lv=(m.get('evidence_level') or m.get('level') or '')

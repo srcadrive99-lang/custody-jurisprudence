@@ -813,6 +813,108 @@
    "card_number": 8,
    "old_card_number": 250,
    "review_reason": "قانون التنفير البرازيلي 2010، وقد طالبت هيئات أممية بإلغائه"
+  },
+  {
+   "id": "R-KIN1",
+   "axis": 5,
+   "category": "دراسة أضرار",
+   "supports": [
+    "shared_parenting",
+    "silat_al_rahim"
+   ],
+   "author": {
+    "name": "Drew LM, Silverstein M",
+    "date": "2007"
+   },
+   "work": {
+    "title": "Journal of Family Psychology 21(3): 372–379",
+    "volume": "",
+    "section": "",
+    "page": "",
+    "edition": ""
+   },
+   "original": {
+    "lang": "ar",
+    "text": "مضمونه: تابعت دراسة أمريكية 442 جدا وجدة خمس عشرة سنة، فزادت أعراض الاكتئاب مع التقدم في العمر أسرع عند من انقطعت صلتهم بأحفادهم أو قلت كثيرا، بعد مراعاة الصحة وعوامل أخرى.",
+    "verbatim": false
+   },
+   "translation_ar": "",
+   "urls": [
+    "https://doi.org/10.1037/0893-3200.21.3.372"
+   ],
+   "confidence": "verified",
+   "strength": "explicit",
+   "argument": "قطع الطفل عن أبيه يقطع الأجداد عن أحفادهم، وهذا يؤذيهم في أنفسهم؛ وهي قطيعة رحم يدفع ثمنها الكبار والصغار.",
+   "notes": "",
+   "title": "درو وسيلفرستين 2007 — الأجداد الذين فقدوا لقاء أحفادهم زادت أعراض اكتئابهم مع العمر",
+   "about": "جينيفر هارمن أستاذة علم النفس في جامعة ولاية كولورادو، ومعها إدوارد كروك من جامعة كولومبيا البريطانية؛ والنشرة النفسية تصدرها جمعية علم النفس الأمريكية، وهي أرفع مجلاتها.",
+   "translation_en": "Gist: Parental alienation is a long-term pattern of aggressive behaviour aimed at damaging the child’s relationship with the other parent or hurting that parent; it is a form of family violence with serious consequences for the child and family.",
+   "jurisdiction": "الولايات المتحدة — جامعة جنوب كاليفورنيا",
+   "source_standing": "جينيفر هارمن أستاذة علم النفس في جامعة ولاية كولورادو، ومعها إدوارد كروك من جامعة كولومبيا البريطانية؛ والنشرة النفسية أرفع مجلات جمعية علم النفس الأمريكية.",
+   "evidence_level": "مراجعة علمية في مجلة كبرى",
+   "section": "soc",
+   "card_number": 9,
+   "old_card_number": "—",
+   "review_reason": "لم يتح لي نصها الحرفي، والمنقول هنا بالمعنى من حزمة البحث؛ وأسباب فقد الاتصال فيها متعددة لا تخص الطلاق وحده",
+   "links": [
+    {
+     "url": "https://doi.org/10.1037/0893-3200.21.3.372",
+     "label": "المصدر",
+     "site": "",
+     "domain": "doi.org"
+    }
+   ]
+  },
+  {
+   "id": "R-LAW5",
+   "axis": 5,
+   "category": "دراسة أضرار",
+   "supports": [
+    "shared_parenting",
+    "silat_al_rahim"
+   ],
+   "author": {
+    "name": "Committee of Ministers of the Council of Europe",
+    "date": "1998"
+   },
+   "work": {
+    "title": "Recommendation No. R (98) 1 on family mediation, VIII(b)",
+    "volume": "",
+    "section": "",
+    "page": "",
+    "edition": ""
+   },
+   "original": {
+    "lang": "ar",
+    "text": "مضمونه: توصي لجنة وزراء مجلس أوروبا ألا تستعمل الوساطة في نزاعات نقل الطفل أو احتجازه بغير حق عبر الحدود إذا كانت ستؤخر عودته السريعة، وأن توفر وسائل لتنفيذ الاتفاقات التي تعتمدها المحكمة.",
+    "verbatim": false
+   },
+   "translation_ar": "",
+   "urls": [
+    "https://rm.coe.int/rec-98-1e-on-family-mediation/1680a3b3ef"
+   ],
+   "confidence": "verified",
+   "strength": "explicit",
+   "argument": "محاولة الصلح لا تكون ستارا لإطالة إبعاد الطفل بغير حق.",
+   "notes": "",
+   "title": "مجلس أوروبا، التوصية 98/1 — الوساطة لا تؤخر عودة الطفل المنقول بغير حق",
+   "about": "جينيفر هارمن أستاذة علم النفس في جامعة ولاية كولورادو، ومعها إدوارد كروك من جامعة كولومبيا البريطانية؛ والنشرة النفسية تصدرها جمعية علم النفس الأمريكية، وهي أرفع مجلاتها.",
+   "translation_en": "Gist: Parental alienation is a long-term pattern of aggressive behaviour aimed at damaging the child’s relationship with the other parent or hurting that parent; it is a form of family violence with serious consequences for the child and family.",
+   "jurisdiction": "أوروبا — مجلس أوروبا",
+   "source_standing": "جينيفر هارمن أستاذة علم النفس في جامعة ولاية كولورادو، ومعها إدوارد كروك من جامعة كولومبيا البريطانية؛ والنشرة النفسية أرفع مجلات جمعية علم النفس الأمريكية.",
+   "evidence_level": "مراجعة علمية في مجلة كبرى",
+   "section": "soc",
+   "card_number": 10,
+   "old_card_number": "—",
+   "review_reason": "نصها خاص بالنقل الدولي غير المشروع للطفل، وهي توصية إرشادية؛ صلتها بقضيتنا غير مباشرة، والمنقول بالمعنى",
+   "links": [
+    {
+     "url": "https://rm.coe.int/rec-98-1e-on-family-mediation/1680a3b3ef",
+     "label": "المصدر",
+     "site": "",
+     "domain": "rm.coe.int"
+    }
+   ]
   }
  ]
 }

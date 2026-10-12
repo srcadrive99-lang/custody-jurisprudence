@@ -1,0 +1,98 @@
+# -*- coding: utf-8 -*-
+# v1.29.0: vetted additions from the 2026-10-12 research handoff (CP-20261012-*), verbatim re-sourced
+import json,copy
+P='/home/claude/work/new_cards.json'
+N=json.load(open(P,encoding='utf8')); N=[x for x in N if not x.get('v129')]
+tw=[x for x in N if x['id']=='A4-071'][0]
+def mk(cid,uid,sec,icon,sup,title,author,year,tl,where,jur,level,about,ot,tt,arg,links,ltr=True):
+    e=copy.deepcopy(tw)
+    e.update(id=cid,uid=uid,sec=sec,icon=icon,supports=sup,strength='explicit',jurisdiction=jur,title=title,ot=ot,ltr=ltr,tt=tt,about=about,level=level,arg=arg,chips=[['str','دلالة صريحة'],['sup','صلة الرحم' if 'silat_al_rahim' in sup else 'الرعاية المشتركة']],v129=True,fam='west')
+    e['src']=dict(author=author,year=str(year),jur=jur,title_latin=tl,sw='',where=where,latin=bool(tl))
+    e['links']=[dict(url=u,label=l,site=s,domain=u.split('/')[2]) for u,l,s in links]
+    return e
+SR=['silat_al_rahim'];SP=['shared_parenting']
+C=[
+mk('A2-120','CP-20261012-MED1','med','se',SP,'تجربة سويدية 2007 — الرضيع على صدر أبيه يكف عن البكاء ويهدأ',
+ 'Erlandsson K, Dsilna A, Fagerberg I, Christensson K','2007','Skin-to-Skin Care with the Father after Cesarean Birth and Its Effect on Newborn Crying and Prefeeding Behavior','Birth 34(2): 105–114',
+ 'السويد — معهد كارولينسكا، ستوكهولم','تجربة عشوائية محكمة',
+ 'تجربة عشوائية في مستشفى معهد كارولينسكا الجامعي بستوكهولم، على 29 مولودا بعد ولادة قيصرية، نشرت في مجلة «الولادة» المحكمة.',
+ '"The infants in the skin-to-skin group stopped crying and were more calm compared to infants in the crib group."',
+ '«الرضع في مجموعة ملامسة جلد الأب كفوا عن البكاء وكانوا أهدأ من الرضع في مجموعة السرير.»',
+ 'من الساعات الأولى للحياة، صدر الأب يهدئ مولوده. فالأب ليس غريبا عن رعاية الصغير حتى يحرم منه سنين.',
+ [('https://www.sciencedaily.com/releases/2007/06/070611113914.htm','عرض الدراسة','ScienceDaily'),('https://doi.org/10.1111/j.1523-536X.2007.00162.x','البحث في المجلة','Birth')]),
+mk('A2-121','CP-20261012-MED2','med','us',SP,'دراسة أمريكية 2018 — هرمون الضغط عند الرضيع ينخفض وهو على صدر أبيه أو أمه',
+ 'Vittner D, McGrath J, Robinson J, Lawhon G, Cusson R, Eisenfeld L, Walsh S, Young E, Cong X','2018','Increase in Oxytocin From Skin-to-Skin Contact Enhances Development of Parent–Infant Relationship','Biological Research for Nursing 20(1): 54–62',
+ 'الولايات المتحدة — جامعة كونيتيكت','دراسة محكمة بترتيب عشوائي',
+ 'دراسة على 28 رضيعا مولودين قبل موعدهم في ثلاث وحدات لحديثي الولادة بولاية كونيتيكت، نشرت في مجلة البحوث الحيوية في التمريض.',
+ '"Salivary OT levels increased significantly during SSC for mothers (p < .001), fathers (p < .002), and infants (p < .002). Infant SC levels decreased significantly (p < .001) during SSC as compared to before and after SSC. ... SSC activated OT release and decreased infant SC levels."',
+ '«ارتفع هرمون الأوكسيتوسين في اللعاب ارتفاعا واضحا أثناء ملامسة الجلد عند الأمهات والآباء والرضع ... وانخفض هرمون الكورتيزول [هرمون الضغط] عند الرضع انخفاضا واضحا أثناء الملامسة مقارنة بما قبلها وما بعدها ... فالملامسة أطلقت الأوكسيتوسين وخفضت كورتيزول الرضيع.»',
+ 'جسد الأب يهدئ جسد رضيعه كما يهدئه جسد الأم، وأثر ذلك يقاس في الهرمونات. فقرب الأب حاجة في جسد الطفل نفسه.',
+ [('https://digitalcommons.fairfield.edu/nursing-facultypubs/218','ملخص البحث','جامعة فيرفيلد'),('https://doi.org/10.1177/1099800417735633','البحث في المجلة','SAGE')]),
+mk('A2-122','CP-20261012-MED3','med','cl',SP,'تجربة في تشيلي 2021 — المولود على صدر أبيه مستقر الجسد، والباحثون يوصون بدعم ذلك',
+ 'Ayala A, Christensson K, Christensson E, Cavada G, Erlandsson K, Velandia M','2021','Newborn infants who received skin-to-skin contact with fathers after Caesarean sections showed stable physiological patterns','Acta Paediatrica 110(5): 1461–1467',
+ 'تشيلي والسويد — جامعة تشيلي ومعهد كارولينسكا','تجربة عشوائية محكمة',
+ 'تجربة عشوائية على 95 مولودا في مستشفى عام بتشيلي، نشرت في مجلة «أكتا بيدياتريكا» السويدية لطب الأطفال.',
+ '"Heart rates were higher and showed more stability over time in the skin-to-skin than cot or fathers\' arms groups. ... This approach should be supported during mother-infant separation."',
+ '«كانت ضربات القلب أعلى وأكثر ثباتا مع الوقت في مجموعة ملامسة جلد الأب منها في مجموعة السرير أو مجموعة ذراعي الأب ... وينبغي دعم هذا النهج حين ينفصل الرضيع عن أمه.»',
+ 'الأب قادر على رعاية مولوده رعاية جسدية مباشرة منذ ساعته الأولى، والأطباء يوصون بدعمها. فلا يقال إن الصغير لا يصلح له إلا أمه.',
+ [('https://eurekalert.org/news-releases/671240','عرض الدراسة','EurekAlert'),('https://doi.org/10.1111/apa.15685','البحث في المجلة','Acta Paediatrica')]),
+mk('A2-123','CP-20261012-EDU1','school','us',SP,'كابريرا وزملاؤها 2020 — أنشطة الأب التعليمية في السنة الثانية ترفع القراءة والحساب في الرابعة والخامسة',
+ 'Cabrera NJ, Moon UJ, Fagan J, West J, Aldoney D','2020','Cognitive Stimulation at Home and in Child Care and Children\'s Preacademic Skills in Two-Parent Families','Child Development 91(5): 1709–1717',
+ 'الولايات المتحدة — جامعة ماريلاند','دراسة متابعة محكمة على عينة وطنية',
+ 'دراسة من جامعة ماريلاند على بيانات الدراسة الوطنية الأمريكية لمتابعة المواليد، نشرت في مجلة «نمو الطفل» المحكمة.',
+ '"Results from path analysis showed direct positive effects of fathers\' early cognitive stimulation on early reading and math skills at 48 and 60 months."',
+ '«أظهرت النتائج آثارا إيجابية مباشرة لتحفيز الآباء المعرفي المبكر في مهارات القراءة والحساب المبكرة عند 48 و60 شهرا.»',
+ 'الأب معلم ولده من السنة الثانية، وأثره يظهر في القراءة والحساب. وهذا سبب ما قاله الفقهاء من أن الولد يحتاج إلى أبيه للتعليم والتأديب.',
+ [('https://repositorio.udd.cl/items/c50d1e2c-7418-4c93-8a34-f01e7cbd87b7/full','ملخص البحث','مستودع جامعة ديل ديسارويو'),('https://doi.org/10.1111/cdev.13380','البحث في المجلة','Child Development')]),
+mk('A4-122','CP-20261012-KIN2','soc','be',SR,'يابنز وفان بافيل 2020 — أجداد الأب نافعون للحفيد بعد طلاق والديه',
+ 'Jappens M, Van Bavel J','2020','Grandparent-grandchild relationships and grandchildren\'s well-being after parental divorce in Flanders, Belgium. Does lineage matter?','Journal of Family Research 32(1): 1–24',
+ 'بلجيكا — جامعة لوفان وجامعة بروكسل الحرة','دراسة محكمة على عينة وطنية',
+ 'دراسة على بيانات الطلاق في إقليم فلاندرز البلجيكي، نشرت في مجلة بحوث الأسرة المحكمة.',
+ '"... the strength of relationships with maternal as well as paternal grandparents is positively associated with the well-being of grandchildren with divorced parents. ... grandparents on the father\'s side of the family may play a beneficial role for their grandchildren ..."',
+ '«... قوة العلاقة بالأجداد من جهة الأم ومن جهة الأب كليهما مرتبطة إيجابيا بحسن حال الأحفاد الذين طلق آباؤهم ... فأجداد الطفل من جهة أبيه قد يكون لهم دور نافع لأحفادهم ...»',
+ 'قطع الطفل عن أبيه يقطعه عن جده وجدته وعمه وعمته؛ والعلم يقول إن أجداد الأب نافعون للحفيد بعد الطلاق. وهذه صلة الرحم التي أمر الله بها.',
+ [('https://doaj.org/article/fbd1fafe65624001b10764bd2fbad278','ملخص البحث','DOAJ'),('https://doi.org/10.20377/jfr-158','البحث في المجلة','Journal of Family Research')]),
+mk('A5-218','CP-20261012-LAW1','enforce','de',SR,'قانون إجراءات الأسرة الألماني، المادة 155 — قضايا لقاء الطفل تنظر أولا وبسرعة، والجلسة خلال شهر',
+ 'Gesetz über das Verfahren in Familiensachen (FamFG)','2008','§ 155 FamFG — Vorrang- und Beschleunigungsgebot','§ 155 Abs. 1, Abs. 2 Sätze 1–2',
+ 'ألمانيا — قانون إجراءات الأسرة','تشريع اتحادي نافذ',
+ 'قانون إجراءات الأسرة الألماني صدر سنة 2008، وهو نافذ في كل محاكم الأسرة في ألمانيا.',
+ '"Kindschaftssachen, die den Aufenthalt des Kindes, das Umgangsrecht oder die Herausgabe des Kindes betreffen, sowie Verfahren wegen Gefährdung des Kindeswohls sind vorrangig und beschleunigt durchzuführen. Das Gericht erörtert in Verfahren nach Absatz 1 die Sache mit den Beteiligten in einem Termin. Der Termin soll spätestens einen Monat nach Beginn des Verfahrens stattfinden."',
+ '«قضايا الأطفال الخاصة بإقامة الطفل أو حق اللقاء أو تسليم الطفل، وقضايا تعريض مصلحة الطفل للخطر، تنظر قبل غيرها وبسرعة. وتناقش المحكمة القضية مع أطرافها في جلسة، والأصل أن تعقد الجلسة بعد شهر على الأكثر من بدء الإجراءات.»',
+ 'في ألمانيا قضية لقاء الطفل بأبيه تنظر قبل غيرها، وجلستها الأولى خلال شهر، لأن الانتظار نفسه حرمان للطفل.',
+ [('https://gesetze.legal/bund/famfg/155','نص المادة','gesetze.legal')]),
+mk('A5-219','CP-20261012-LAW6','enforce','de',SR,'قانون إجراءات الأسرة الألماني، المادة 155ب — لمن تأخرت قضية ولده أن يعترض، وتفصل المحكمة خلال شهر',
+ 'Gesetz über das Verfahren in Familiensachen (FamFG)','2016','§ 155b FamFG — Beschleunigungsrüge','§ 155b Abs. 2 Sätze 1–2',
+ 'ألمانيا — قانون إجراءات الأسرة','تشريع اتحادي نافذ',
+ 'المادة 155ب أضيفت إلى قانون إجراءات الأسرة الألماني لحماية الأطفال من بطء القضايا.',
+ '"Das Gericht entscheidet über die Beschleunigungsrüge spätestens innerhalb eines Monats nach deren Eingang durch Beschluss. Hält das Gericht die Beschleunigungsrüge für begründet, hat es unverzüglich geeignete Maßnahmen zur vorrangigen und beschleunigten Durchführung des Verfahrens zu ergreifen ..."',
+ '«تفصل المحكمة بقرار في الاعتراض على بطء الإجراءات خلال شهر على الأكثر من وصوله إليها. فإن رأت الاعتراض في محله، وجب عليها أن تتخذ دون تأخير التدابير المناسبة لنظر القضية قبل غيرها وبسرعة ...»',
+ 'القانون الألماني يعطي الأب حق الاعتراض على بطء قضية ولده، ويلزم المحكمة بالفصل فيه خلال شهر؛ فوقت الطفل محفوظ بالقانون.',
+ [('https://gesetze.legal/bund/famfg/155b','نص المادة','gesetze.legal')]),
+mk('A5-220','CP-20261012-LAW2','enforce','de',SR,'قانون إجراءات الأسرة الألماني، المادة 89 — تعطيل حكم اللقاء جزاؤه غرامة تصل إلى 25 ألف يورو',
+ 'Gesetz über das Verfahren in Familiensachen (FamFG)','2008','§ 89 FamFG — Ordnungsmittel','§ 89 Abs. 1 Satz 1, Abs. 3 Satz 1',
+ 'ألمانيا — قانون إجراءات الأسرة','تشريع اتحادي نافذ',
+ 'المادة 89 من قانون إجراءات الأسرة الألماني في باب تنفيذ أحكام تسليم الأطفال وتنظيم اللقاء.',
+ '"Bei der Zuwiderhandlung gegen einen Vollstreckungstitel zur Herausgabe von Personen und zur Regelung des Umgangs ... Das einzelne Ordnungsgeld darf den Betrag von 25 000 Euro nicht übersteigen."',
+ '«عند مخالفة سند واجب التنفيذ في تسليم الأشخاص وتنظيم اللقاء [يجوز للمحكمة أن تفرض على المخالف غرامة] ... ولا تزيد الغرامة الواحدة على 25 ألف يورو.»',
+ 'في ألمانيا حكم لقاء الطفل بأبيه حكم ينفذ، ومن عطله غرم حتى 25 ألف يورو في المرة الواحدة؛ فالصلة حق لا وعد.',
+ [('https://gesetze.legal/bund/famfg/89','نص المادة','gesetze.legal')]),
+mk('A5-221','CP-20261012-LAW3','enforce','de',SR,'قانون إجراءات الأسرة الألماني، المادة 165 — إذا عطل أحد الوالدين اللقاء تتدخل المحكمة، وقد تغير الحضانة',
+ 'Gesetz über das Verfahren in Familiensachen (FamFG)','2008','§ 165 FamFG — Vermittlungsverfahren','§ 165 Abs. 1 Satz 1, Abs. 5 Satz 2',
+ 'ألمانيا — قانون إجراءات الأسرة','تشريع اتحادي نافذ',
+ 'المادة 165 من قانون إجراءات الأسرة الألماني تنظم ما تفعله المحكمة إذا عطل أحد الوالدين لقاء الطفل بالآخر.',
+ '"Macht ein Elternteil geltend, dass der andere Elternteil die Durchführung einer gerichtlichen Entscheidung oder eines gerichtlich gebilligten Vergleichs über den Umgang mit dem gemeinschaftlichen Kind vereitelt oder erschwert, vermittelt das Gericht auf Antrag eines Elternteils zwischen den Eltern. ... In diesem Fall prüft das Gericht, ob Ordnungsmittel ergriffen, Änderungen der Umgangsregelung vorgenommen oder Maßnahmen in Bezug auf die Sorge ergriffen werden sollen."',
+ '«إذا ادعى أحد الوالدين أن الآخر يعطل تنفيذ حكم قضائي أو صلح أقرته المحكمة في لقاء ولدهما أو يعسره، توسطت المحكمة بين الوالدين بطلب أحدهما ... [فإذا لم يتفقا] تنظر المحكمة في فرض الجزاءات، أو تعديل نظام اللقاء، أو اتخاذ تدابير في الحضانة نفسها.»',
+ 'في ألمانيا من يعطل لقاء الطفل بأبيه قد يعاقب، بل قد تراجع حضانته نفسها؛ فالتعطيل يرتد على من عطل، لا على الطفل وأبيه.',
+ [('https://gesetze.legal/bund/famfg/165','نص المادة','gesetze.legal')]),
+mk('A5-222','CP-20261012-LAW4','enforce','fr',SR,'القانون المدني الفرنسي، المادة 373-2-6 — للقاضي أن يضمن دوام صلة الطفل بكل من والديه وفعاليتها',
+ 'Code civil (France)','2024','Article 373-2-6 du Code civil','art. 373-2-6, alinéa 2',
+ 'فرنسا — القانون المدني','تشريع نافذ',
+ 'المادة 373-2-6 من القانون المدني الفرنسي تحدد سلطة قاضي شؤون الأسرة في حماية مصلحة الطفل بعد الفرقة.',
+ '"Le juge peut prendre les mesures permettant de garantir la continuité et l\'effectivité du maintien des liens de l\'enfant avec chacun de ses parents."',
+ '«للقاضي أن يتخذ التدابير التي تضمن دوام صلة الطفل بكل واحد من والديه وفعاليتها.»',
+ 'فرنسا لا تكتفي بكتابة حق الطفل في أبيه، بل تجعل للقاضي أن يضمن دوام الصلة وفعاليتها؛ صلة حقيقية لا ساعات شكلية.',
+ [('https://kohenavocats.com/astreinte-droit-de-visite-non-representation-enfant-373-2-6-227-5/','نص المادة وشرحها','مكتب كوهين للمحاماة، باريس')]),
+]
+N+=C
+json.dump(N,open(P,'w',encoding='utf8'),ensure_ascii=False,indent=1)
+print('added',len(C))
