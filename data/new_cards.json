@@ -11091,5 +11091,253 @@
   "fam": "west",
   "axis": 4,
   "hujaj": true
+ },
+ {
+  "id": "A4-124",
+  "sec": "military",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — مؤسسة راند",
+  "title": "مجلة طب الأطفال الأمريكية 2010 — أطفال الجنود الغائبين في الحرب أكثر اضطرابا، وكلما طال غياب الأب زادت مشكلاتهم",
+  "ot": "\"... children in this study had more emotional difficulties compared with national samples. Length of parental deployment and poorer nondeployed caregiver mental health were significantly associated with a greater number of challenges for children both during deployment and deployment reintegration.\"",
+  "ltr": true,
+  "tt": "«... كان أطفال هذه الدراسة أكثر صعوبات انفعالية من العينات الوطنية. وارتبط طول غياب الوالد في الخدمة وسوء الصحة النفسية للوالد الباقي ارتباطا واضحا بكثرة المشكلات عند الأطفال، أثناء الغياب وبعد العودة.»",
+  "src": {
+   "author": "Chandra A, Lara-Cinisomo S, Jaycox LH, Tanielian T, Burns RM, Ruder T, Han B",
+   "year": "2010",
+   "jur": "الولايات المتحدة — مؤسسة راند",
+   "title_latin": "Children on the Homefront: The Experience of Children From Military Families",
+   "sw": "",
+   "where": "Pediatrics 125(1): 16–25",
+   "latin": true
+  },
+  "about": "دراسة لمؤسسة راند الأمريكية على 1507 أطفال من أسر الجنود، نشرت في مجلة «طب الأطفال»، المجلة الرسمية للأكاديمية الأمريكية لطب الأطفال.",
+  "level": "دراسة محكمة في مجلة الأكاديمية الأمريكية لطب الأطفال",
+  "links": [
+   {
+    "url": "https://www.centreforevidence.org/article/20200322-children-on-the-homefront-the-experience-of-children-from-military-families",
+    "label": "ملخص الدراسة",
+    "site": "مركز الأدلة لأسر العسكريين",
+    "domain": "www.centreforevidence.org"
+   },
+   {
+    "url": "https://doi.org/10.1542/peds.2009-1180",
+    "label": "البحث في المجلة",
+    "site": "Pediatrics",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "هنا الأب بطل غائب في خدمة وطنه لا متهم؛ ومع ذلك يتأذى الطفل من غيابه، ويزداد أذاه بطول الغياب. فالضرر من الغياب نفسه، لا من صفة الأب. فكيف بغياب يفرضه القانون سنين؟",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v131": true
+ },
+ {
+  "id": "A4-125",
+  "sec": "military",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — الجامعة العسكرية للعلوم الصحية",
+  "title": "مجلة طب الأطفال الأمريكية 2010 — أكثر من 640 ألف طفل: غياب الوالد الجندي يزيد زياراتهم للطب النفسي 11%",
+  "ot": "\"The sample comprised 642,397 children aged three to eight years and 442,722 military parents ... [children with a deployed parent] increased their outpatient mental and behavioral health visits by 11% ...\"",
+  "ltr": true,
+  "tt": "«شملت العينة 642397 طفلا بين الثالثة والثامنة و442722 والدا عسكريا ... [وزاد الأطفال الذين غاب والدهم في الخدمة] زياراتهم للعيادات النفسية والسلوكية بنسبة 11% ...»",
+  "src": {
+   "author": "Gorman GH, Eide M, Hisle-Gorman E",
+   "year": "2010",
+   "jur": "الولايات المتحدة — الجامعة العسكرية للعلوم الصحية",
+   "title_latin": "Wartime Military Deployment and Increased Pediatric Mental and Behavioral Health Complaints",
+   "sw": "",
+   "where": "Pediatrics 126(6): 1058–1066",
+   "latin": true
+  },
+  "about": "دراسة على السجلات الطبية لنحو 642 ألف طفل بين الثالثة والثامنة من أبناء العسكريين الأمريكيين، نشرت في مجلة الأكاديمية الأمريكية لطب الأطفال.",
+  "level": "دراسة محكمة على سجلات طبية وطنية",
+  "links": [
+   {
+    "url": "https://reachfamilies.umn.edu/node/5077",
+    "label": "ملخص الدراسة",
+    "site": "جامعة مينيسوتا",
+    "domain": "reachfamilies.umn.edu"
+   },
+   {
+    "url": "https://doi.org/10.1542/peds.2009-2856",
+    "label": "البحث في المجلة",
+    "site": "Pediatrics",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "في أكبر سجل طبي لأطفال الجنود: غياب الوالد وحده يرفع حاجة الطفل إلى الطبيب النفسي، وهو غياب شريف مؤقت. فما بال غياب تفرضه المحاكم سنين؟",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v131": true
+ },
+ {
+  "id": "A4-126",
+  "sec": "military",
+  "icon": "us",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الولايات المتحدة — جامعة نورث كارولينا",
+  "title": "مجلة الجمعية الطبية الأمريكية لطب الأطفال 2011 — 300 ألف طفل: كلما طال غياب الوالد في الجيش زادت تشخيصات القلق والاكتئاب والاضطراب السلوكي",
+  "ot": "\"... the risk of a mental health diagnosis was higher for those youth who had a parent deployed for a longer period of time ... the largest effects among all children were observed for acute stress reaction and adjustment disorders, pediatric behavioral disorders, and depression.\"",
+  "ltr": true,
+  "tt": "«... كان خطر التشخيص النفسي أعلى عند الأطفال الذين غاب والدهم في الخدمة مدة أطول ... وأكبر الآثار عند الأطفال جميعا كانت في اضطراب الكرب الحاد واضطرابات التكيف، والاضطرابات السلوكية، والاكتئاب.»",
+  "src": {
+   "author": "Mansfield AJ, Kaufman JS, Engel CC, Gaynes BN",
+   "year": "2011",
+   "jur": "الولايات المتحدة — جامعة نورث كارولينا",
+   "title_latin": "Deployment and Mental Health Diagnoses Among Children of US Army Personnel",
+   "sw": "",
+   "where": "Archives of Pediatrics & Adolescent Medicine 165(11): 999–1005",
+   "latin": true
+  },
+  "about": "دراسة على السجلات الطبية لأكثر من 300 ألف طفل من أبناء جنود الجيش الأمريكي بين الخامسة والسابعة عشرة، نشرت في مجلة الجمعية الطبية الأمريكية لطب الأطفال والمراهقين.",
+  "level": "دراسة محكمة على سجلات طبية وطنية",
+  "links": [
+   {
+    "url": "https://www.sciencedaily.com/releases/2011/07/110704174610.htm",
+    "label": "عرض الدراسة",
+    "site": "ScienceDaily",
+    "domain": "www.sciencedaily.com"
+   },
+   {
+    "url": "https://doi.org/10.1001/archpediatrics.2011.123",
+    "label": "البحث في المجلة",
+    "site": "JAMA Network",
+    "domain": "doi.org"
+   }
+  ],
+  "arg": "الغياب يقاس بالشهور ويقاس أثره في الأطفال: كرب وقلق واكتئاب واضطراب سلوك، على قدر طول الغياب. والقانون الذي يغيب الأب عن ولده خمس عشرة سنة إلا ساعات يصنع هذا الأثر مضاعفا.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v131": true
+ },
+ {
+  "id": "A2-124",
+  "sec": "fear",
+  "icon": "cn",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "الصين — جامعة سنترال ساوث",
+  "title": "تحليل جامع 2021 — الإيذاء العاطفي في الطفولة يرتبط بشدة الوسواس القهري",
+  "ot": "\"... childhood emotional abuse (CEA) and childhood sexual abuse (CSA) was related with the severity of OCS ... Our meta-analysis indicates that OCD patients who suffered more CM may exhibit more severe OCS and depressive symptoms.\"",
+  "ltr": true,
+  "tt": "«... ارتبط الإيذاء العاطفي في الطفولة والاعتداء الجنسي في الطفولة بشدة أعراض الوسواس القهري ... ويدل تحليلنا الجامع على أن مرضى الوسواس القهري الذين تعرضوا لإيذاء أكثر في طفولتهم قد تظهر عليهم أعراض وسواسية واكتئابية أشد.»",
+  "src": {
+   "author": "Ou W, Li Z, Zheng Q, Chen W, Liu J, Liu B, Zhang Y",
+   "year": "2021",
+   "jur": "الصين — جامعة سنترال ساوث",
+   "title_latin": "Association Between Childhood Maltreatment and Symptoms of Obsessive-Compulsive Disorder: A Meta-Analysis",
+   "sw": "",
+   "where": "Frontiers in Psychiatry 11: 612586",
+   "latin": true
+  },
+  "about": "تحليل جامع لعشر دراسات شملت 1611 مريضا بالوسواس القهري، نشر في مجلة «الحدود في الطب النفسي» المحكمة.",
+  "level": "تحليل جامع لعشر دراسات على 1611 مريضا",
+  "links": [
+   {
+    "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.612586/full",
+    "label": "البحث في المجلة",
+    "site": "Frontiers in Psychiatry",
+    "domain": "www.frontiersin.org"
+   }
+  ],
+  "arg": "الطفل الذي يلقن الخوف والخرافة عن أبيه يؤذى عاطفيا، والإيذاء العاطفي في الطفولة يرتبط بشدة الوسواس القهري في الكبر؛ فهذا التلقين يصنع هشاشة نفسية تلازم الطفل.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v131": true
+ },
+ {
+  "id": "A2-125",
+  "sec": "fear",
+  "icon": "uk",
+  "supports": [
+   "silat_al_rahim"
+  ],
+  "strength": "explicit",
+  "jurisdiction": "المملكة المتحدة — جامعة ساسكس",
+  "title": "فيلد وأرجيريس ونولز 2001 — الطفل يغير معتقده ويخاف بكلام البالغ وحده",
+  "ot": "\"Fear-related beliefs about the monsters changed significantly as a result of verbal information but not video information. ... verbal information significantly changed fear-beliefs, but only when the information came from an adult.\"",
+  "ltr": true,
+  "tt": "«تغيرت معتقدات الأطفال المتصلة بالخوف تغيرا واضحا بالمعلومات المنطوقة لا بالمعلومات المصورة ... وغيرت المعلومات المنطوقة معتقدات الخوف تغيرا واضحا، ولكن فقط حين جاءت من بالغ.»",
+  "src": {
+   "author": "Field AP, Argyris NG, Knowles KA",
+   "year": "2001",
+   "jur": "المملكة المتحدة — جامعة ساسكس",
+   "title_latin": "Who's afraid of the big bad wolf: a prospective paradigm to test Rachman's indirect pathways in children",
+   "sw": "",
+   "where": "Behaviour Research and Therapy 39(11): 1259–1276",
+   "latin": true
+  },
+  "about": "تجربة من جامعة ساسكس البريطانية على أطفال بين السابعة والتاسعة، نشرت في مجلة «بحوث السلوك والعلاج» المحكمة.",
+  "level": "تجربة محكمة على أطفال بين السابعة والتاسعة",
+  "links": [
+   {
+    "url": "https://sro.sussex.ac.uk/id/eprint/712/",
+    "label": "سجل البحث",
+    "site": "مستودع جامعة ساسكس",
+    "domain": "sro.sussex.ac.uk"
+   }
+  ],
+  "arg": "كلمة من بالغ يثق به الطفل تكفي لتزرع الخوف فيه، ولا يفعل ذلك كلام الأقران ولا الصور. فالحاضنة حين تقول للطفل إن أباه يسممه تزرع فيه خوفا يبقى، والعلم يقول إن كلامها هو الطريق الأقوى إلى خوفه.",
+  "chips": [
+   [
+    "str",
+    "دلالة صريحة"
+   ],
+   [
+    "sup",
+    "صلة الرحم"
+   ]
+  ],
+  "fam": "west",
+  "v131": true
  }
 ]

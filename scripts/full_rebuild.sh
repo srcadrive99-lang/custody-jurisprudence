@@ -11,6 +11,7 @@ python3 add_v127_tools.py
 python3 add_v128_tools.py
 python3 add_v129_tools.py
 python3 add_v130_tools.py
+python3 add_v131_tools.py
 python3 gen_schedule.py
 python3 simple.py ALL A /tmp/claude-0/sp/simA /tmp/claude-0/sp/simA/A.pdf || { echo FAIL_A; exit 1; }
 python3 simple.py ALL B /tmp/claude-0/sp/simB /tmp/claude-0/sp/simB/B.pdf || { echo FAIL_B; exit 1; }
